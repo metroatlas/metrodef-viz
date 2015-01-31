@@ -1,0 +1,87 @@
+"source","target","cluster"
+"Calaveras County","Amador County",2
+"Calaveras County","Amador County",2
+"El Dorado County","Douglas County",8
+"El Dorado County","Douglas County",8
+"Glenn County","Butte County",9
+"Glenn County","Butte County",9
+"Madera County","Fresno County",16
+"Fresno County","Madera County",16
+"Mono County","Inyo County",22
+"Inyo County","Mono County",22
+"San Benito County","Monterey County",26
+"San Benito County","Monterey County",26
+"San Bernardino County","Riverside County",27
+"San Bernardino County","Orange County",27
+"Riverside County","San Bernardino County",27
+"San Bernardino County","Orange County",27
+"Santa Barbara County","San Luis Obispo County",29
+"San Luis Obispo County","Santa Barbara County",29
+"Sierra County","Nevada County",30
+"Sierra County","Nevada County",30
+"Nevada County","Placer County",30
+"Nevada County","Placer County",30
+"Stanislaus County","San Joaquin County",32
+"Stanislaus County","Alameda County",32
+"San Joaquin County","Stanislaus County",32
+"San Joaquin County","Alameda County",32
+"San Joaquin County","Santa Clara County",32
+"Solano County","Contra Costa County",32
+"Solano County","Alameda County",32
+"Solano County","Marin County",32
+"Solano County","San Francisco County",32
+"Solano County","Contra Costa County",32
+"Contra Costa County","Alameda County",32
+"Contra Costa County","San Mateo County",32
+"Contra Costa County","San Francisco County",32
+"Contra Costa County","Santa Clara County",32
+"Stanislaus County","Alameda County",32
+"San Joaquin County","Alameda County",32
+"Solano County","Alameda County",32
+"Alameda County","Contra Costa County",32
+"Marin County","Alameda County",32
+"Alameda County","San Mateo County",32
+"Alameda County","San Francisco County",32
+"Alameda County","Santa Clara County",32
+"Sonoma County","Marin County",32
+"Sonoma County","San Francisco County",32
+"Solano County","Marin County",32
+"Marin County","Alameda County",32
+"Marin County","Sonoma County",32
+"Marin County","San Francisco County",32
+"Contra Costa County","San Mateo County",32
+"San Mateo County","Alameda County",32
+"San Mateo County","San Francisco County",32
+"San Mateo County","Santa Clara County",32
+"Solano County","San Francisco County",32
+"Contra Costa County","San Francisco County",32
+"San Francisco County","Alameda County",32
+"Sonoma County","San Francisco County",32
+"Marin County","San Francisco County",32
+"San Francisco County","San Mateo County",32
+"San Francisco County","Santa Clara County",32
+"Santa Cruz County","Santa Clara County",32
+"San Joaquin County","Santa Clara County",32
+"Contra Costa County","Santa Clara County",32
+"Santa Clara County","Alameda County",32
+"Santa Clara County","San Mateo County",32
+"San Francisco County","Santa Clara County",32
+"Santa Cruz County","Santa Clara County",32
+"Tehama County","Shasta County",33
+"Tehama County","Shasta County",33
+"Trinity County","Humboldt County",34
+"Trinity County","Humboldt County",34
+"Tulare County","Kern County",35
+"Tulare County","Kern County",35
+"Ventura County","Los Angeles County",37
+"Ventura County","Los Angeles County",37
+"Yuba County","Sutter County",39
+"Yuba County","Sacramento County",39
+"Sutter County","Yuba County",39
+"Sutter County","Yolo County",39
+"Sutter County","Sacramento County",39
+"Sutter County","Yolo County",39
+"Yolo County","Sacramento County",39
+"Yuba County","Sacramento County",39
+"Sutter County","Sacramento County",39
+"Sacramento County","Yolo County",39
