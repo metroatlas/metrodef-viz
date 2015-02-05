@@ -1,87 +1,117 @@
-"source","target","cluster"
-"Calaveras County","Amador County",2
-"Calaveras County","Amador County",2
-"El Dorado County","Douglas County",8
-"El Dorado County","Douglas County",8
-"Glenn County","Butte County",9
-"Glenn County","Butte County",9
-"Madera County","Fresno County",16
-"Fresno County","Madera County",16
-"Mono County","Inyo County",22
-"Inyo County","Mono County",22
-"San Benito County","Monterey County",26
-"San Benito County","Monterey County",26
-"San Bernardino County","Riverside County",27
-"San Bernardino County","Orange County",27
-"Riverside County","San Bernardino County",27
-"San Bernardino County","Orange County",27
-"Santa Barbara County","San Luis Obispo County",29
-"San Luis Obispo County","Santa Barbara County",29
-"Sierra County","Nevada County",30
-"Sierra County","Nevada County",30
-"Nevada County","Placer County",30
-"Nevada County","Placer County",30
-"Stanislaus County","San Joaquin County",32
-"Stanislaus County","Alameda County",32
-"San Joaquin County","Stanislaus County",32
-"San Joaquin County","Alameda County",32
-"San Joaquin County","Santa Clara County",32
-"Solano County","Contra Costa County",32
-"Solano County","Alameda County",32
-"Solano County","Marin County",32
-"Solano County","San Francisco County",32
-"Solano County","Contra Costa County",32
-"Contra Costa County","Alameda County",32
-"Contra Costa County","San Mateo County",32
-"Contra Costa County","San Francisco County",32
-"Contra Costa County","Santa Clara County",32
-"Stanislaus County","Alameda County",32
-"San Joaquin County","Alameda County",32
-"Solano County","Alameda County",32
-"Alameda County","Contra Costa County",32
-"Marin County","Alameda County",32
-"Alameda County","San Mateo County",32
-"Alameda County","San Francisco County",32
-"Alameda County","Santa Clara County",32
-"Sonoma County","Marin County",32
-"Sonoma County","San Francisco County",32
-"Solano County","Marin County",32
-"Marin County","Alameda County",32
-"Marin County","Sonoma County",32
-"Marin County","San Francisco County",32
-"Contra Costa County","San Mateo County",32
-"San Mateo County","Alameda County",32
-"San Mateo County","San Francisco County",32
-"San Mateo County","Santa Clara County",32
-"Solano County","San Francisco County",32
-"Contra Costa County","San Francisco County",32
-"San Francisco County","Alameda County",32
-"Sonoma County","San Francisco County",32
-"Marin County","San Francisco County",32
-"San Francisco County","San Mateo County",32
-"San Francisco County","Santa Clara County",32
-"Santa Cruz County","Santa Clara County",32
-"San Joaquin County","Santa Clara County",32
-"Contra Costa County","Santa Clara County",32
-"Santa Clara County","Alameda County",32
-"Santa Clara County","San Mateo County",32
-"San Francisco County","Santa Clara County",32
-"Santa Cruz County","Santa Clara County",32
-"Tehama County","Shasta County",33
-"Tehama County","Shasta County",33
-"Trinity County","Humboldt County",34
-"Trinity County","Humboldt County",34
-"Tulare County","Kern County",35
-"Tulare County","Kern County",35
-"Ventura County","Los Angeles County",37
-"Ventura County","Los Angeles County",37
-"Yuba County","Sutter County",39
-"Yuba County","Sacramento County",39
-"Sutter County","Yuba County",39
-"Sutter County","Yolo County",39
-"Sutter County","Sacramento County",39
-"Sutter County","Yolo County",39
-"Yolo County","Sacramento County",39
-"Yuba County","Sacramento County",39
-"Sutter County","Sacramento County",39
-"Sacramento County","Yolo County",39
+"source","target","cluster","pct","srcpop","tarpop"
+"Cattaraugus County, New York","Allegany County, New York",2,0.00573975621599412,80317,48946
+"Franklin County, New York","Essex County, New York",9,0.026434620825985,51599,39370
+"Essex County, New York","Clinton County, New York",9,0.0294640589281179,39370,82128
+"Essex County, New York","Chittenden County, Vermont",9,0.00350520701041402,39370,156545
+"Clinton County, New York","Chittenden County, Vermont",9,0.00284921098772648,82128,156545
+"Litchfield County, Connecticut","Berkshire County, Massachusetts",11,0.00143739436730955,189927,131219
+"Franklin County, Massachusetts","Berkshire County, Massachusetts",11,0.00231183097012834,71372,131219
+"Montgomery County, New York","Fulton County, New York",18,0.0487863159361994,50219,55531
+"Fulton County, New York","Herkimer County, New York",18,0.00554645153157696,55531,64519
+"Lewis County, New York","Herkimer County, New York",18,0.00358105364196847,27087,64519
+"Herkimer County, New York","Fulton County, New York",18,0.00606023031975077,64519,55531
+"Norfolk County, Massachusetts","Essex County, Massachusetts",21,0.00292166654244615,670850,743159
+"Otsego County, New York","Oneida County, New York",22,0.0072921184085835,62259,234878
+"Otsego County, New York","Chenango County, New York",22,0.0132029104225895,62259,50477
+"Delaware County, New York","Otsego County, New York",22,0.048728636932055,47980,62259
+"Delaware County, New York","Chenango County, New York",22,0.00856606919549812,47980,50477
+"Chenango County, New York","Broome County, New York",22,0.0422964914713632,50477,200600
+"Broome County, New York","Chenango County, New York",22,0.00422233300099701,200600,50477
+"Richmond County, New York","Essex County, New Jersey",27,0.00366522304951678,468730,783969
+"St. Lawrence County, New York","Jefferson County, New York",30,0.0144089902093904,111944,116229
+"Tolland County, Connecticut","New London County, Connecticut",31,0.0109371213758506,152691,274055
+"Tompkins County, New York","Tioga County, New York",32,0.00156551534008113,101564,51125
+"Tioga County, New York","Tompkins County, New York",32,0.0494865525672372,51125,101564
+"Tioga County, New York","Steuben County, New York",32,0.00207334963325183,51125,98990
+"Washington County, New York","Bennington County, Vermont",34,0.0150911161731207,63216,37125
+"Washington County, New York","Rensselaer County, New York",34,0.00972854973424449,63216,159429
+"Washington County, New York","Schenectady County, New York",34,0.00226208554796254,63216,154727
+"Warren County, New York","Albany County, New York",34,0.0135449799869116,65707,304204
+"Warren County, New York","Schenectady County, New York",34,0.00150668878506095,65707,154727
+"Schoharie County, New York","Albany County, New York",34,0.0615591315765367,32749,304204
+"Schoharie County, New York","Saratoga County, New York",34,0.00198479342880699,32749,219607
+"Schoharie County, New York","Greene County, New York",34,0.00512992763137806,32749,49221
+"Rensselaer County, New York","Washington County, New York",34,0.00152418945110363,159429,63216
+"Rensselaer County, New York","Albany County, New York",34,0.193333709676408,159429,304204
+"Rensselaer County, New York","Saratoga County, New York",34,0.0202221678615559,159429,219607
+"Albany County, New York","Schoharie County, New York",34,0.00104863841369607,304204,32749
+"Saratoga County, New York","Washington County, New York",34,0.00833306770731352,219607,63216
+"Saratoga County, New York","Schenectady County, New York",34,0.0430086472653422,219607,154727
+"Greene County, New York","Ulster County, New York",34,0.0229170476016334,49221,182493
+"Greene County, New York","Dutchess County, New York",34,0.00457121960138965,49221,297488
+"Ulster County, New York","Dutchess County, New York",34,0.0506265993764144,182493,297488
+"Dutchess County, New York","Orange County, New York",34,0.0133719679449255,297488,372813
+"Sullivan County, New York","Ulster County, New York",34,0.00845938592079642,77547,182493
+"Sullivan County, New York","Orange County, New York",34,0.0637548841347828,77547,372813
+"Orange County, New York","Rockland County, New York",34,0.0245163124676446,372813,311687
+"Wayne County, New York","Cayuga County, New York",36,0.00262338437913236,93772,80026
+"Onondaga County, New York","Cayuga County, New York",36,0.00441303053791438,467026,80026
+"Cayuga County, New York","Wayne County, New York",36,0.00737260390373129,80026,93772
+"Cayuga County, New York","Cortland County, New York",36,0.00633544098168095,80026,49336
+"Cayuga County, New York","Oswego County, New York",36,0.00524829430435109,80026,122109
+"Cortland County, New York","Cayuga County, New York",36,0.00245257013134425,49336,80026
+"Oswego County, New York","Cayuga County, New York",36,0.0024322531508734,122109,80026
+"Westchester County, New York","Fairfield County, Connecticut",37,0.0175458559728926,949113,916829
+"Westchester County, New York","Queens County, New York",37,0.00511740962351164,949113,2230722
+"Westchester County, New York","Hudson County, New Jersey",37,0.00106415147616775,949113,634266
+"Westchester County, New York","Bergen County, New Jersey",37,0.00248653216213454,949113,905116
+"Westchester County, New York","Nassau County, New York",37,0.00200924442084346,949113,1339532
+"Putnam County, New York","Fairfield County, Connecticut",37,0.0221241600641861,99710,916829
+"Putnam County, New York","Queens County, New York",37,0.00218634038712266,99710,2230722
+"Fairfield County, Connecticut","Westchester County, New York",37,0.0221437149130318,916829,949113
+"Fairfield County, Connecticut","Putnam County, New York",37,0.0018269491911796,916829,99710
+"Fairfield County, Connecticut","New York County, New York",37,0.028476411631831,916829,1585873
+"Fairfield County, Connecticut","Bronx County, New York",37,0.00167533967621007,916829,1385108
+"Queens County, New York","New York County, New York",37,0.164309133993389,2230722,1585873
+"Queens County, New York","Kings County, New York",37,0.037103233840882,2230722,2504700
+"Queens County, New York","Bronx County, New York",37,0.00896750020845269,2230722,1385108
+"Queens County, New York","Hudson County, New Jersey",37,0.00230015214804893,2230722,634266
+"Queens County, New York","Suffolk County, New York",37,0.00580170904308112,2230722,1493350
+"New York County, New York","Westchester County, New York",37,0.0054279251869475,1585873,949113
+"New York County, New York","Fairfield County, Connecticut",37,0.00260928838563996,1585873,916829
+"New York County, New York","Hudson County, New Jersey",37,0.00386537887964547,1585873,634266
+"New York County, New York","Bergen County, New Jersey",37,0.00383132823372363,1585873,905116
+"Kings County, New York","Westchester County, New York",37,0.00110232762406675,2504700,949113
+"Kings County, New York","Bronx County, New York",37,0.00501577035173873,2504700,1385108
+"Kings County, New York","Hudson County, New Jersey",37,0.00263225136742923,2504700,634266
+"Kings County, New York","Nassau County, New York",37,0.00409510120972572,2504700,1339532
+"Bronx County, New York","Westchester County, New York",37,0.0261329802441398,1385108,949113
+"Bronx County, New York","New York County, New York",37,0.136107798092279,1385108,1585873
+"Suffolk County, New York","Nassau County, New York",37,0.0569337395787993,1493350,1339532
+"Nassau County, New York","Hudson County, New Jersey",37,0.00131613130556045,1339532,634266
+"Worcester County, Massachusetts","Suffolk County, Massachusetts",38,0.0109448101062924,798552,722023
+"Worcester County, Massachusetts","Windham County, Connecticut",38,0.00134743886434446,798552,118428
+"Worcester County, Massachusetts","Providence County, Rhode Island",38,0.00393587393181659,798552,626667
+"Worcester County, Massachusetts","Hampden County, Massachusetts",38,0.00329346116470812,798552,463490
+"Suffolk County, Massachusetts","Middlesex County, Massachusetts",38,0.0866565192521568,722023,1503085
+"Suffolk County, Massachusetts","Plymouth County, Massachusetts",38,0.00344448861047363,722023,494919
+"Suffolk County, Massachusetts","Bristol County, Massachusetts",38,0.00104567306027647,722023,548285
+"Middlesex County, Massachusetts","Hillsborough County, New Hampshire",38,0.004969778821557,1503085,400721
+"Middlesex County, Massachusetts","Plymouth County, Massachusetts",38,0.00130531540132461,1503085,494919
+"Plymouth County, Massachusetts","Middlesex County, Massachusetts",38,0.0200840945690103,494919,1503085
+"Plymouth County, Massachusetts","Bristol County, Massachusetts",38,0.0296149470923525,494919,548285
+"Plymouth County, Massachusetts","Providence County, Rhode Island",38,0.00153358428348881,494919,626667
+"Bristol County, Massachusetts","Suffolk County, Massachusetts",38,0.0211240504482158,548285,722023
+"Bristol County, Massachusetts","Bristol County, Rhode Island",38,0.00268108739068185,548285,49875
+"Bristol County, Massachusetts","Providence County, Rhode Island",38,0.0302470430524271,548285,626667
+"Windham County, Connecticut","New Haven County, Connecticut",38,0.00175634140574864,118428,862477
+"Windham County, Connecticut","Hartford County, Connecticut",38,0.0273415070760293,118428,894014
+"Windham County, Connecticut","Providence County, Rhode Island",38,0.00873948728341271,118428,626667
+"New Haven County, Connecticut","Hartford County, Connecticut",38,0.0287045335701706,862477,894014
+"Hartford County, Connecticut","New Haven County, Connecticut",38,0.0205757404246466,894014,862477
+"Hartford County, Connecticut","Hampden County, Massachusetts",38,0.00625381705431906,894014,463490
+"Hampshire County, Massachusetts","Worcester County, Massachusetts",38,0.00689524291497976,158080,798552
+"Hampshire County, Massachusetts","Hampden County, Massachusetts",38,0.122488613360324,158080,463490
+"Wyoming County, New York","Livingston County, New York",39,0.0206143992408967,42155,65393
+"Livingston County, New York","Monroe County, New York",39,0.151805239092869,65393,744344
+"Livingston County, New York","Genesee County, New York",39,0.00789075283287202,65393,60079
+"Seneca County, New York","Ontario County, New York",39,0.0770190916569743,35251,107931
+"Ontario County, New York","Monroe County, New York",39,0.109208661089029,107931,744344
+"Orleans County, New York","Monroe County, New York",39,0.135997947904764,42883,744344
+"Orleans County, New York","Erie County, New York",39,0.0111466082130448,42883,919040
+"Orleans County, New York","Niagara County, New York",39,0.0121260173028939,42883,216469
+"Monroe County, New York","Livingston County, New York",39,0.00164440097589287,744344,65393
+"Monroe County, New York","Erie County, New York",39,0.00110432810635943,744344,919040
+"Genesee County, New York","Orleans County, New York",39,0.00893823132875048,60079,42883
+"Genesee County, New York","Monroe County, New York",39,0.0820752675643736,60079,744344
+"Yates County, New York","Schuyler County, New York",40,0.00800852138235758,25348,18343
