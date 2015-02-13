@@ -34,11 +34,7 @@ var svg = d3.select("body").append("svg")
 var force = d3.layout.force()
 	.size([width,height]);
 
-force.linkDistance(function(link) {
-	return .05*width
-})
-
-force.linkStrength(1)
+force.linkStrength(.01)
 
 function dragstart(d) { 
 	d3.selectAll("circle").classed("others",true);  
@@ -65,6 +61,8 @@ d3.csv("sample_links.csv", function(links){
     	.attr("refX", 15)
     	.attr("refY", -1.5)
     	.attr("orient", "auto")
+    	.attr("markerWidth", function(d){return 6})
+    	.attr("markerHeight", function(d){return 6})
   		.append("svg:path")
     	.attr("d", "M0,-5L10,0L0,5");
 
@@ -74,9 +72,12 @@ d3.csv("sample_links.csv", function(links){
 		.enter().append("svg:path")
 		.attr("class","link")
 		.attr("marker-end","url(#end)")
-		.attr("markerWidth", function(d){return 100*d.pct + "px"})
-    	.attr("markerHeight", function(d){return 100*d.pct + "px"})
-		.attr("stroke-width",function(d) {return Math.log(500*d.pct) + "px"});
+		.attr("stroke-width",function(d) {
+			if(d.pct > 0){
+				return 1.5
+			} else {
+				return 0
+			}});
 
 	// Create the node circles.
 	var node = svg.append("g").selectAll(".node")
@@ -102,6 +103,13 @@ d3.csv("sample_links.csv", function(links){
 		.gravity(0.1)
 		.charge(function(node){
 			return -350
+		})
+		.linkDistance(function(d){
+			if(d.pct >0){
+				return 10/Math.log(500*(d.pct))
+			} else {
+				return 50
+			}
 		})
 		.start();
 
