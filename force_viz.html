@@ -54,12 +54,30 @@ text {
 }
 
 </style>
+<script src="d3/d3.js"></script>
 <body>
-	<script src="d3/d3.js"></script>
+
+<body>
+  <a href="https://gist.github.com/emeeks/4588962"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
+<div id="viz">
+  <form>
+    Gravity <input id="gravitySlider" type="range" onchange="updateForce(); changeGravity()" min ="0" max="1" step =".01"  value=".1" />
+    <input type="text" id="gravityInput" value=".1" />
+</form>
+  <form>
+    Attraction (Links) <input id="attractionSlider" type="range" onchange="updateForce(); highlightEdges()" min ="-200" max="200" step ="1"  value="50"/>
+    <input type="text" id="attractionInput" value="50" /><input type="checkbox" id="edgeCheckbox" onclick="updateForce(); highlightEdges()" /> Weight
+</form>
+  <form>
+    Charge (Nodes) <input id="repulsionSlider" type="range" onchange="updateForce(); highlightNodes()" min ="-300" max="0" step ="1"  value="-60" /> 
+  <input type="text" id="repulsionInput" value="-60" />
+  <input type="checkbox" id="nodeCheckbox" onclick="updateForce(); highlightNodes()" /> Size
+</form>
+
 <script>
 
-var width = 1500,
-	height = 1000,
+var width = 1000,
+	height = 800,
 	margin = 100;
 
 var color = d3.scale.category20();
@@ -176,6 +194,7 @@ d3.csv("sample_links.csv", function(links){
 		.attr("y",".31em")
 		.text(function(d) {return d.name;});
 
+	
 	// Start the force layout
 	force
 		.nodes(d3.values(nodes))
@@ -194,6 +213,15 @@ d3.csv("sample_links.csv", function(links){
 		})
 		.start();
 
+	//setTimeout(function() {
+	  //nodes.splice(0, links.length); // remove b
+	  //links.splice(0,links.length); // remove b-c
+	  //console.log(links.length);
+	  //console.log(nodes.length);
+	  //svg.selectAll("g").remove();
+	//}, 1000);
+	
+
 	function tick() {
 		path.attr("d", linkArc)
 		node.attr("transform", transform)
@@ -208,7 +236,7 @@ d3.csv("sample_links.csv", function(links){
 	}
 	function linkArc(d) {
 		if(d.target == d.source){
-			return 0
+			
 		}
   		var dx = d.target.x - d.source.x,
       	dy = d.target.y - d.source.y,
@@ -216,6 +244,7 @@ d3.csv("sample_links.csv", function(links){
   		return "M" + d.source.x + "," + d.source.y + "A" + dr + "," + dr + " 0 0,1 " + (d.target.x+0.01*Math.sqrt(d.target.pop)) + "," + d.target.y;
 	}
 });
+
 
 function brushed() {
   var value = brush.extent()[0];
@@ -228,5 +257,44 @@ function brushed() {
   handle.attr("cx", x(value));
   d3.select("body").style("background-color", d3.hsl(value, .8, .8));
 };
+
+function updateForce() {
+  force.stop();
+  
+  var newGravity = document.getElementById('gravitySlider').value;
+  var newCharge = document.getElementById('repulsionSlider').value;
+  var newLStrength = document.getElementById('attractionSlider').value;
+  
+  document.getElementById('gravityInput').value = newGravity;
+  document.getElementById('repulsionInput').value = newCharge;
+  document.getElementById('attractionInput').value = newLStrength;
+  
+  force
+  .charge(newCharge)
+  .linkDistance(newLStrength)
+  .gravity(newGravity)
+  ;
+  
+  
+  if (document.getElementById('edgeCheckbox').checked == true) {
+  var minWeight = d3.min(links, function(d) {return parseFloat(d["cost"])});
+  var maxWeight = d3.max(links, function(d) {return parseFloat(d["cost"])});
+  
+  //notice this is the reverse of the max/min ramp in the styling, because we're not determining link strength but the inverse: Link Distance
+  var edgeRamp = d3.scale.linear().domain([minWeight,maxWeight]).range([.5,3]).clamp(true);
+
+    force.linkDistance(function(d) {return (edgeRamp(parseFloat(d["cost"])) * 30)})
+  }
+
+    if (document.getElementById('nodeCheckbox').checked == true) {
+      var minSize = d3.min(nodes, function(d) {return parseFloat(d["weight"])});
+      var maxSize = d3.max(nodes, function(d) {return parseFloat(d["weight"])});
+      var sizingRamp = d3.scale.linear().domain([minSize,maxSize]).range([1,10]).clamp(true);
+      
+    force.charge(function(d) {return (sizingRamp(parseFloat(d["weight"])) * -20)})
+  }
+
+  force.start();
+}
 
 </script>
