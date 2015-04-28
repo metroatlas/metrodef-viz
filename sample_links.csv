@@ -1,62 +1,4 @@
 "source","target","cluster","pct","srcpop","tarpop"
-"Mono County, California","Mono County, California",8,0.467187720039431,14202,14202
-"San Diego County, California","San Diego County, California",17,0.441119847976602,3095313,3095313
-"Humboldt County, California","Humboldt County, California",14,0.418353476003357,134623,134623
-"Los Angeles County, California","Los Angeles County, California",17,0.412885333507153,9818605,9818605
-"Santa Barbara County, California","Santa Barbara County, California",10,0.411177296264405,423895,423895
-"San Francisco County, California","San Francisco County, California",12,0.407194173129583,805235,805235
-"Santa Clara County, California","Santa Clara County, California",12,0.397089314239337,1781642,1781642
-"Inyo County, California","Inyo County, California",8,0.391944354577807,18546,18546
-"Mendocino County, California","Mendocino County, California",12,0.391867123552783,87841,87841
-"Orange County, California","Orange County, California",17,0.390539666045674,3010232,3010232
-"Sonoma County, California","Sonoma County, California",12,0.384836673707009,483878,483878
-"San Luis Obispo County, California","San Luis Obispo County, California",10,0.38275533402315,269637,269637
-"Monterey County, California","Monterey County, California",12,0.376097740792229,415057,415057
-"Shasta County, California","Shasta County, California",13,0.356014738493311,177223,177223
-"Ventura County, California","Ventura County, California",17,0.35354504577818,823318,823318
-"Sacramento County, California","Sacramento County, California",19,0.351251913605133,1418788,1418788
-"Butte County, California","Butte County, California",13,0.348781818181818,220000,220000
-"Santa Cruz County, California","Santa Cruz County, California",12,0.346982643626468,262382,262382
-"Fresno County, California","Fresno County, California",15,0.345443602557902,930450,930450
-"Napa County, California","Napa County, California",12,0.345293221183435,136484,136484
-"Plumas County, California","Plumas County, California",18,0.33433298345579,20007,20007
-"Kern County, California","Kern County, California",15,0.332791428615666,839631,839631
-"Siskiyou County, California","Siskiyou County, California",11,0.329933184855234,44900,44900
-"Nevada County, California","Nevada County, California",18,0.315094568871249,98764,98764
-"Tulare County, California","Tulare County, California",15,0.313800519699036,442179,442179
-"Alameda County, California","Alameda County, California",12,0.307014436481929,1510271,1510271
-"Marin County, California","Marin County, California",12,0.306126168242812,252409,252409
-"Stanislaus County, California","Stanislaus County, California",16,0.300381181565663,514453,514453
-"Trinity County, California","Trinity County, California",14,0.297838386769186,13786,13786
-"Tuolumne County, California","Tuolumne County, California",16,0.297082994671724,55365,55365
-"Imperial County, California","Imperial County, California",4,0.286280711404474,174528,174528
-"Kings County, California","Kings County, California",15,0.285523787112209,152982,152982
-"San Mateo County, California","San Mateo County, California",12,0.281615586866745,718451,718451
-"San Joaquin County, California","San Joaquin County, California",16,0.278840401222228,685306,685306
-"Colusa County, California","Colusa County, California",19,0.278631121901116,21419,21419
-"San Bernardino County, California","San Bernardino County, California",17,0.277791480977393,2035210,2035210
-"Del Norte County, California","Del Norte County, California",2,0.273610625655365,28610,28610
-"Glenn County, California","Glenn County, California",13,0.270962235971837,28122,28122
-"Placer County, California","Placer County, California",19,0.266815332690453,348432,348432
-"Riverside County, California","Riverside County, California",17,0.265530285558226,2189641,2189641
-"Contra Costa County, California","Contra Costa County, California",12,0.264150997354687,1049025,1049025
-"Yolo County, California","Yolo County, California",19,0.263775273962031,200849,200849
-"Merced County, California","Merced County, California",16,0.261371499611014,255793,255793
-"Modoc County, California","Modoc County, California",11,0.261098492669833,9686,9686
-"Solano County, California","Solano County, California",12,0.259384435240381,413344,413344
-"Lake County, California","Lake County, California",12,0.259305652207531,64665,64665
-"Lassen County, California","Lassen County, California",11,0.247714572288293,34895,34895
-"Mariposa County, California","Mariposa County, California",16,0.242178510766533,18251,18251
-"El Dorado County, California","El Dorado County, California",19,0.241795446762916,181058,181058
-"Tehama County, California","Tehama County, California",13,0.241621102059468,63463,63463
-"Amador County, California","Amador County, California",16,0.241579375705547,38091,38091
-"Sierra County, California","Sierra County, California",18,0.239814814814815,3240,3240
-"San Benito County, California","San Benito County, California",12,0.206010602688668,55269,55269
-"Sutter County, California","Sutter County, California",19,0.202909106262601,94737,94737
-"Calaveras County, California","Calaveras County, California",16,0.199482206327614,45578,45578
-"Madera County, California","Madera County, California",15,0.195598714082126,150865,150865
-"Yuba County, California","Yuba County, California",19,0.171090014552006,72155,72155
-"Alpine County, California","Alpine County, California",3,0.170212765957447,1175,1175
 "El Dorado County, California","Sacramento County, California",19,0.124181201603906,181058,1418788
 "Placer County, California","Sacramento County, California",19,0.120961909353906,348432,1418788
 "San Benito County, California","Santa Clara County, California",12,0.120302520400224,55269,1781642
@@ -337,19 +279,11 @@
 "Napa County, California","Mendocino County, California",12,7.32686615280913e-06,136484,87841
 "Solano County, California","Santa Cruz County, California",12,2.41929240535728e-06,413344,262382
 "Solano County, California","Monterey County, California",12,2.41929240535728e-06,413344,415057
-"Clark County, Nevada","Clark County, Nevada",1,0,1951269,1951269
 "Curry County, Oregon","Del Norte County, California",2,0,22364,28610
-"Curry County, Oregon","Curry County, Oregon",2,0,22364,22364
-"Douglas County, Nevada","Douglas County, Nevada",3,0,46997,46997
 "Douglas County, Nevada","Alpine County, California",3,0,46997,1175
 "Douglas County, Nevada","Carson City, Nevada",3,0,46997,55274
 "Carson City, Nevada","Douglas County, Nevada",3,0,55274,46997
 "Carson City, Nevada","Alpine County, California",3,0,55274,1175
-"Carson City, Nevada","Carson City, Nevada",3,0,55274,55274
-"Jackson County, Oregon","Jackson County, Oregon",5,0,203206,203206
-"Klamath County, Oregon","Klamath County, Oregon",6,0,66380,66380
-"Maricopa County, Arizona","Maricopa County, Arizona",7,0,3817117,3817117
-"Pierce County, Washington","Pierce County, Washington",9,0,795225,795225
 "Siskiyou County, California","Lassen County, California",11,0,44900,34895
 "Lassen County, California","Siskiyou County, California",11,0,34895,44900
 "Sonoma County, California","San Benito County, California",12,0,483878,55269
@@ -417,7 +351,6 @@
 "Mariposa County, California","San Joaquin County, California",16,0,18251,685306
 "Mariposa County, California","Calaveras County, California",16,0,18251,45578
 "Mariposa County, California","Amador County, California",16,0,18251,38091
-"Washoe County, Nevada","Washoe County, Nevada",18,0,421407,421407
 "Washoe County, Nevada","Sierra County, California",18,0,421407,3240
 "Washoe County, Nevada","Nevada County, California",18,0,421407,98764
 "Washoe County, Nevada","Plumas County, California",18,0,421407,20007
@@ -426,4 +359,3 @@
 "El Dorado County, California","Colusa County, California",19,0,181058,21419
 "Colusa County, California","Placer County, California",19,0,21419,348432
 "Colusa County, California","El Dorado County, California",19,0,21419,181058
-"Yuma County, Arizona","Yuma County, Arizona",20,0,195751,195751
