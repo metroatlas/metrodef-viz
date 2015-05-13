@@ -60,22 +60,22 @@ text {
 <body>
 <div id="viz">
   <form>
-    Gravity <input id="gravitySlider" type="range" onchange="updateForce(); changeGravity()" min ="0" max="1" step =".01"  value=".1" />
-    <input type="text" id="gravityInput" value=".1" />
+    Gravity <input id="gravitySlider" type="range" onchange="updateForce(); changeGravity()" min ="0" max="1" step =".01"  value="0.1" />
+    <input type="text" id="gravityInput" value="0.1" />
 </form>
   <form>
-    Attraction (Links) <input id="attractionSlider" type="range" onchange="updateForce(); highlightEdges()" min ="-200" max="200" step ="1"  value="50"/>
-    <input type="text" id="attractionInput" value="50" /><input type="checkbox" id="edgeCheckbox" onclick="updateForce(); highlightEdges()" /> Weight
+    Attraction (Links) <input id="attractionSlider" type="range" onchange="updateForce(); highlightEdges()" min ="0" max="0.1" step ="0.005"  value="0.05"/>
+    <input type="text" id="attractionInput" value="0.05" /><input type="checkbox" id="edgeCheckbox" onclick="updateForce(); highlightEdges()" /> Weight
 </form>
   <form>
-    Charge (Nodes) <input id="repulsionSlider" type="range" onchange="updateForce(); highlightNodes()" min ="-300" max="0" step ="1"  value="-60" /> 
-  <input type="text" id="repulsionInput" value="-60" />
+    Charge (Nodes) <input id="repulsionSlider" type="range" onchange="updateForce(); highlightNodes()" min ="-300" max="0" step ="1"  value="-200" /> 
+  <input type="text" id="repulsionInput" value="-200" />
   <input type="checkbox" id="nodeCheckbox" onclick="updateForce(); highlightNodes()" /> Size
 </form>
   <form>
-    Remove/Add Links <input id="linkSlider" type="range" onchange="update()"
-    min = "0" max="100" step="1" value="-60" />
-  <input type="text" id="numLinks" value="50" />
+    Remove/Add Links <input id="linkSlider" type="range" onchange="updateLinks(); updateForce()"
+    min = "0" max="300" step="1" value="0" />
+  <input type="text" id="linksInput" value="0" />
 
 <script>
 
@@ -99,9 +99,14 @@ var force = d3.layout.force()
 
 force.linkStrength(0.01);
 
-d3.csv("sample_links.csv", function(links){
-	var nodesByName = {};
+var links;
+var path;
+var nodes;
+var link;
 
+d3.csv("sample_links.csv", function(data){
+	var nodesByName = {};
+  links = data;
 	// Create nodes for each unique source and target.
 	links.forEach(function(link) {
 		link.source = nodeByName(link.source, link.cluster, link.srcpop);
@@ -109,7 +114,7 @@ d3.csv("sample_links.csv", function(links){
 	});
 
 	// Extract the array of nodes from the map by name.
-	var nodes = d3.values(nodesByName);
+	nodes = d3.values(nodesByName);
 
 	svg.append("svg:defs").selectAll("marker")
     	.data(["end"])      // Different link/path types can be defined here
@@ -126,21 +131,21 @@ d3.csv("sample_links.csv", function(links){
     	.attr("d", "M0,-5L10,0L0,5");
 
   // Create the link lines.
-	var path = svg.selectAll("link")
+	path = svg.selectAll("path")
 		.data(links)
 		
-  path.enter().append("svg:path")
-		.attr("class","link")
-    .attr("id",function(d){return d.source.name+d.target.name})
-		.attr("marker-end","url(#end)")
-		.attr("stroke-width",function(d) {
-			if(d.pct > 0){
-				return 1.5
-			} else {
-				return 0
-			}});
+  // path.enter().append("svg:path")
+		// .attr("class","link")
+  //   .attr("id",function(d){return d.source.name+d.target.name})
+		// .attr("marker-end","url(#end)")
+		// .attr("stroke-width",function(d) {
+		// 	if(d.pct > 0){
+		// 		return 1.5
+		// 	} else {
+		// 		return 0
+		// 	}});
 
-  path.exit().remove();
+  // path.exit().remove();
 
 	// Create the node circles.
 	var node = svg.selectAll("node")
@@ -171,10 +176,6 @@ d3.csv("sample_links.csv", function(links){
 		.nodes(d3.values(nodes))
 		.links(links)
 		.on("tick",tick)
-		.gravity(0.1)
-		.charge(function(node){
-			return -350
-		})
 		.linkDistance(function(d){
 			if(d.pct >0){
 				return 10/Math.log(500*(d.pct))
@@ -184,21 +185,16 @@ d3.csv("sample_links.csv", function(links){
 		})
 		.start();
 
-    var len = links.length
-    for(var i = 0; i < len; i++){
-      setTimeout(function(){
-        links.splice(0,1)
-        console.log(links.length)
-        update();
-      }, i*1000);
-    }
+  updateLinks();
+  updateForce();
 
-  function update() {
+  var update = function() {
       // Create the link lines.
-    var link = svg.selectAll("link")
+    var svg = d3.select("svg");
+    var link = svg.selectAll("path")
       .data(links);
     
-    link.enter().append("svg:path")
+    link.enter().append("path")
       .attr("class","link")
       .attr("id",function(d){return d.source.name+d.target.name})
       .attr("marker-end","url(#end)")
@@ -239,6 +235,68 @@ d3.csv("sample_links.csv", function(links){
 	}
 });
 
+
+function updateLinks() {
+    var last_index = document.getElementById("linkSlider").value;
+    document.getElementById("linksInput").value = last_index;
+    console.log(links.length);
+    console.log(last_index);
+    update(last_index);
+}
+
+var update = function(last) {
+      // Create the link lines.
+    svg = d3.select("svg");
+    link = svg.selectAll("path")
+      .data(links.slice(0,last));
+    
+    link.enter().append("path")
+      .attr("class","link")
+      .attr("id",function(d){return d.source.name+d.target.name})
+      .attr("marker-end","url(#end)")
+      .attr("stroke-width",function(d) {
+        if(d.pct > 0){
+          return 1.5
+        } else {
+          return 0
+        }});
+
+    link.exit().remove();
+
+    force.links(links.slice(0,last))
+      .on("tick",tick)
+      .linkDistance(function(d){
+      if(d.pct >0){
+        return 10/Math.log(500*(d.pct))
+      } else {
+        return 50
+      }
+    })
+      .start();
+  }
+
+function tick() {
+    link.attr("d", linkArc)
+    svg.selectAll(".node").attr("transform", transform)
+    svg.selectAll("text").attr("transform", transform)
+}
+
+function nodeByName(name, cluster, pop){
+    return nodesByName[name] || (nodesByName[name] = {name: name, cluster: cluster, pop:pop});
+}
+function transform(d) {
+      return "translate(" + d.x + "," + d.y + ")";
+}
+function linkArc(d) {
+    if(d.target == d.source){
+      
+    }
+      var dx = d.target.x - d.source.x,
+        dy = d.target.y - d.source.y,
+        dr = Math.sqrt(dx * dx + dy * dy);
+      return "M" + d.source.x + "," + d.source.y + "A" + dr + "," + dr + " 0 0,1 " + (d.target.x+0.01*Math.sqrt(d.target.pop)) + "," + d.target.y;
+}
+
 function updateForce() {
   force.stop();
   
@@ -252,10 +310,9 @@ function updateForce() {
 
   force
   .charge(newCharge)
-  .linkDistance(newLStrength)
+  .linkStrength(newLStrength)
   .gravity(newGravity)
   ;
-  
   
   if (document.getElementById('edgeCheckbox').checked == true) {
   var minWeight = d3.min(links, function(d) {return parseFloat(d["cost"])});
