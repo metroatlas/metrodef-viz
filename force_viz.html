@@ -53,6 +53,10 @@ text {
   cursor: crosshair;
 }
 
+.clickable {
+  cursor: pointer;
+}
+
 </style>
 <script src="d3/d3.js"></script>
 <body>
@@ -65,18 +69,66 @@ text {
 </form>
   <form>
     Attraction (Links) <input id="attractionSlider" type="range" onchange="updateForce(); highlightEdges()" min ="0" max="0.1" step ="0.005"  value="0.05"/>
-    <input type="text" id="attractionInput" value="0.05" /><input type="checkbox" id="edgeCheckbox" onclick="updateForce(); highlightEdges()" /> Weight
+    <input type="text" id="attractionInput" value="0.05" />
 </form>
   <form>
     Charge (Nodes) <input id="repulsionSlider" type="range" onchange="updateForce(); highlightNodes()" min ="-300" max="0" step ="1"  value="-200" /> 
   <input type="text" id="repulsionInput" value="-200" />
-  <input type="checkbox" id="nodeCheckbox" onclick="updateForce(); highlightNodes()" /> Size
 </form>
   <form>
     Remove/Add Links <input id="linkSlider" type="range" onchange="updateLinks(); updateForce()"
     min = "0" max="300" step="1" value="0" />
   <input type="text" id="linksInput" value="0" />
-
+  <span id="linkIncrementD" class="clickable"> < </span> <span id="linkIncrementU" class="clickable"> > </span>
+<select id="stateSelect">
+  <option value="Alabama">Alabama</option>
+  <option value="Arizona">Arizona</option>
+  <option value="Arkansas">Arkansas</option>
+  <option value="California">California</option>
+  <option value="Colorado">Colorado</option>
+  <option value="Connecticut">Connecticut</option>
+  <option value="Delaware">Delaware</option>
+  <option value="Florida">Florida</option>
+  <option value="Georgia">Georgia</option>
+  <option value="Idaho">Idaho</option>
+  <option value="Illinois">Illinois</option>
+  <option value="Indiana">Indiana</option>
+  <option value="Iowa">Iowa</option>
+  <option value="Kansas">Kansas</option>
+  <option value="Kentucky">Kentucky</option>
+  <option value="Louisiana">Louisiana</option>
+  <option value="Maine">Maine</option>
+  <option value="Maryland">Maryland</option>
+  <option value="Massachusetts">Massachusetts</option>
+  <option value="Michigan">Michigan</option>
+  <option value="Minnesota">Minnesota</option>
+  <option value="Mississippi">Mississippi</option>
+  <option value="Missouri">Missouri</option>
+  <option value="Montana">Montana</option>
+  <option value="Nebraska">Nevada</option>
+  <option value="New Hampshire">New Hampshire</option>
+  <option value="New Jersey">New Jersey</option>
+  <option value="New Mexico">New Mexico</option>
+  <option value="New York">New York</option>
+  <option value="North Carolina">North Carolina</option>
+  <option value="North Dakota">North Dakota</option>
+  <option value="Ohio">Ohio</option>
+  <option value="Oklahoma">oklahoma</option>
+  <option value="Oregon">Oregon</option>
+  <option value="Pennsylvania">Pennsylvania</option>
+  <option value="Rhode Island">Rhode Island</option>
+  <option value="South Carolina">South Carolina</option>
+  <option value="South Dakota">South Dakota</option>
+  <option value="Tennessee">Tennessee</option>
+  <option value="Texas">Texas</option>
+  <option value="Utah">Utah</option>
+  <option value="Vermont">Vermont</option>
+  <option value="Virginia">Virginia</option>
+  <option value="Washington">Washington</option>
+  <option value="West Virginia">West Virginia</option>
+  <option value="Wisconsin">Wisconsin</option>
+  <option value="Wyoming">Wyoming</option>
+</select>
 <script>
 
 var width = 1000,
@@ -104,136 +156,147 @@ var path;
 var nodes;
 var link;
 
-d3.csv("sample_links.csv", function(data){
-	var nodesByName = {};
-  links = data;
-	// Create nodes for each unique source and target.
-	links.forEach(function(link) {
-		link.source = nodeByName(link.source, link.cluster, link.srcpop);
-		link.target = nodeByName(link.target, link.cluster, link.tarpop);
-	});
+function dispData(stateName) {
 
-	// Extract the array of nodes from the map by name.
-	nodes = d3.values(nodesByName);
+  d3.select("svg")
+    .remove();
 
-	svg.append("svg:defs").selectAll("marker")
-    	.data(["end"])      // Different link/path types can be defined here
-  		.enter().append("svg:marker")    // This section adds in the arrows
-    	.attr("id", String)
-    	.attr("viewBox", "0 -5 10 10")
-    	.attr("refX", 15)
-    	.attr("refY", -1.5)
-    	.attr("orient", "auto")
-    	.attr("markerWidth", function(d){return 6})
-    	.attr("markerHeight", function(d){return 6})
-    	.attr("opacity", 0.3)
-  		.append("svg:path")
-    	.attr("d", "M0,-5L10,0L0,5");
+  var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height);
 
-  // Create the link lines.
-	path = svg.selectAll("path")
-		.data(links)
-		
-  // path.enter().append("svg:path")
-		// .attr("class","link")
-  //   .attr("id",function(d){return d.source.name+d.target.name})
-		// .attr("marker-end","url(#end)")
-		// .attr("stroke-width",function(d) {
-		// 	if(d.pct > 0){
-		// 		return 1.5
-		// 	} else {
-		// 		return 0
-		// 	}});
+  d3.csv("networkData/"+stateName+"_average_linkage.csv", function(data){
+    var nodesByName = {};
+    links = data;
+    // Create nodes for each unique source and target.
+    links.forEach(function(link) {
+      link.source = nodeByName(link.source, link.cluster, link.srcpop);
+      link.target = nodeByName(link.target, link.cluster, link.tarpop);
+    });
 
-  // path.exit().remove();
+    // Extract the array of nodes from the map by name.
+    nodes = d3.values(nodesByName);
 
-	// Create the node circles.
-	var node = svg.selectAll("node")
-		.data(nodes)
-		
-  node.enter().append("circle")
-		.attr("class","node")
-		.attr("r", function(d){return 0.01*Math.sqrt(d.pop)})
-    .attr("id", function(d){return d.name})
-		.style("fill", function(d){return color(d.cluster)})
-		.call(force.drag);
+    svg.append("svg:defs").selectAll("marker")
+        .data(["end"])      // Different link/path types can be defined here
+        .enter().append("svg:marker")    // This section adds in the arrows
+        .attr("id", String)
+        .attr("viewBox", "0 -5 10 10")
+        .attr("refX", 15)
+        .attr("refY", -1.5)
+        .attr("orient", "auto")
+        .attr("markerWidth", function(d){return 6})
+        .attr("markerHeight", function(d){return 6})
+        .attr("opacity", 0.3)
+        .append("svg:path")
+        .attr("d", "M0,-5L10,0L0,5");
 
-  node.exit().remove();
+    // Create the link lines.
+    path = svg.selectAll("path")
+      .data(links)
+      
+    // path.enter().append("svg:path")
+      // .attr("class","link")
+    //   .attr("id",function(d){return d.source.name+d.target.name})
+      // .attr("marker-end","url(#end)")
+      // .attr("stroke-width",function(d) {
+      //  if(d.pct > 0){
+      //    return 1.5
+      //  } else {
+      //    return 0
+      //  }});
 
-	var text = svg.selectAll("text")
-		.data(nodes)
-		
-  text.enter().append("text")
-		.attr("x", 8)
-		.attr("y",".31em")
-    .attr("id",function(d){return "text"+d.name})
-		.text(function(d) {return d.name;});
+    // path.exit().remove();
 
-  text.exit().remove();
+    // Create the node circles.
+    var node = svg.selectAll("node")
+      .data(nodes)
+      
+    node.enter().append("circle")
+      .attr("class","node")
+      .attr("r", function(d){return 0.01*Math.sqrt(d.pop)})
+      .attr("id", function(d){return d.name})
+      .style("fill", function(d){return color(d.cluster)})
+      .style("stroke-width", 0)
+      .call(force.drag);
 
-	// Start the force layout
-	force
-		.nodes(d3.values(nodes))
-		.links(links)
-		.on("tick",tick)
-		.linkDistance(function(d){
-			if(d.pct >0){
-				return 10/Math.log(500*(d.pct))
-			} else {
-				return 50
-			}
-		})
-		.start();
+    node.exit().remove();
 
-  updateLinks();
-  updateForce();
+    var text = svg.selectAll("text")
+      .data(nodes)
+      
+    text.enter().append("text")
+      .attr("x", 8)
+      .attr("y",".31em")
+      .attr("id",function(d){return "text"+d.name})
+      .text(function(d) {return d.name;});
 
-  var update = function() {
-      // Create the link lines.
-    var svg = d3.select("svg");
-    var link = svg.selectAll("path")
-      .data(links);
-    
-    link.enter().append("path")
-      .attr("class","link")
-      .attr("id",function(d){return d.source.name+d.target.name})
-      .attr("marker-end","url(#end)")
-      .attr("stroke-width",function(d) {
-        if(d.pct > 0){
-          return 1.5
-        } else {
-          return 0
-        }});
+    text.exit().remove();
 
-    link.exit().remove();
-
-    force.links(links)
+    // Start the force layout
+    force
+      .nodes(d3.values(nodes))
+      .links(links)
       .on("tick",tick)
+      .linkDistance(function(d){
+        if(d.pct >0){
+          return 10/Math.log(500*(d.pct))
+        } else {
+          return 50
+        }
+      })
       .start();
-  }
 
-	function tick() {
-		path.attr("d", linkArc)
-		svg.selectAll(".node").attr("transform", transform)
-		svg.selectAll("text").attr("transform", transform)
-	}
+    updateLinks();
+    updateForce();
 
-	function nodeByName(name, cluster, pop){
-		return nodesByName[name] || (nodesByName[name] = {name: name, cluster: cluster, pop:pop});
-	}
-  function transform(d) {
-      return "translate(" + d.x + "," + d.y + ")";
-  }
-	function linkArc(d) {
-		if(d.target == d.source){
-			
-		}
-  		var dx = d.target.x - d.source.x,
-      	dy = d.target.y - d.source.y,
-      	dr = Math.sqrt(dx * dx + dy * dy);
-  		return "M" + d.source.x + "," + d.source.y + "A" + dr + "," + dr + " 0 0,1 " + (d.target.x+0.01*Math.sqrt(d.target.pop)) + "," + d.target.y;
-	}
-});
+    var update = function() {
+        // Create the link lines.
+      var svg = d3.select("svg");
+      var link = svg.selectAll("path")
+        .data(links);
+      
+      link.enter().append("path")
+        .attr("class","link")
+        .attr("id",function(d){return d.source.name+d.target.name})
+        .attr("marker-end","url(#end)")
+        .attr("stroke-width",function(d) {
+          if(d.pct > 0){
+            return 1.5
+          } else {
+            return 0
+          }});
+
+      link.exit().remove();
+
+      force.links(links)
+        .on("tick",tick)
+        .start();
+    }
+
+    function tick() {
+      path.attr("d", linkArc)
+      svg.selectAll(".node").attr("transform", transform)
+      svg.selectAll("text").attr("transform", transform)
+    }
+
+    function nodeByName(name, cluster, pop){
+      return nodesByName[name] || (nodesByName[name] = {name: name, cluster: cluster, pop:pop});
+    }
+    function transform(d) {
+        return "translate(" + d.x + "," + d.y + ")";
+    }
+    function linkArc(d) {
+      if(d.target == d.source){
+        
+      }
+        var dx = d.target.x - d.source.x,
+          dy = d.target.y - d.source.y,
+          dr = Math.sqrt(dx * dx + dy * dy);
+        return "M" + d.source.x + "," + d.source.y + "A" + dr + "," + dr + " 0 0,1 " + (d.target.x+0.01*Math.sqrt(d.target.pop)) + "," + d.target.y;
+    }
+  });
+}
 
 
 function updateLinks() {
@@ -313,24 +376,6 @@ function updateForce() {
   .linkStrength(newLStrength)
   .gravity(newGravity)
   ;
-  
-  if (document.getElementById('edgeCheckbox').checked == true) {
-  var minWeight = d3.min(links, function(d) {return parseFloat(d["cost"])});
-  var maxWeight = d3.max(links, function(d) {return parseFloat(d["cost"])});
-  
-  //notice this is the reverse of the max/min ramp in the styling, because we're not determining link strength but the inverse: Link Distance
-  var edgeRamp = d3.scale.linear().domain([minWeight,maxWeight]).range([.5,3]).clamp(true);
-
-    force.linkDistance(function(d) {return (edgeRamp(parseFloat(d["cost"])) * 30)})
-  }
-
-    if (document.getElementById('nodeCheckbox').checked == true) {
-      var minSize = d3.min(nodes, function(d) {return parseFloat(d["weight"])});
-      var maxSize = d3.max(nodes, function(d) {return parseFloat(d["weight"])});
-      var sizingRamp = d3.scale.linear().domain([minSize,maxSize]).range([1,10]).clamp(true);
-      
-    force.charge(function(d) {return (sizingRamp(parseFloat(d["weight"])) * -20)})
-  }
 
   force.start();
 }
@@ -366,5 +411,29 @@ function highlightEdges() {
 function changeGravity() {
     d3.select("#definitionbox").html("Canvas gravity draws all nodes toward the center of the canvas, preventing them from flying out of view.");
 }
+
+dispData(d3.select("#stateSelect").node().value);
+
+d3.select("#stateSelect")
+  .on("change", function(){
+    dispData(d3.select("#stateSelect").node().value);
+  })
+
+d3.select("#linkIncrementD")
+  .on("click", function(){
+    var val = d3.select("#linkSlider").node().value;
+    d3.select("#linkSlider").node().value = parseInt(val) - 1;
+    console.log(d3.select("#linkSlider").node().value);
+    updateLinks();
+  })
+
+d3.select("#linkIncrementU")
+  .on("click", function(){
+    var val = d3.select("#linkSlider").node().value;
+    d3.select("#linkSlider").node().value = parseInt(val) + 1;
+    console.log(d3.select("#linkSlider").node().value);
+    updateLinks();
+  })
+
 
 </script>

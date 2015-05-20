@@ -1,0 +1,1981 @@
+"","source","target","cluster","pct","srcpop","tarpop"
+"91","Sussex County, New Jersey","Morris County, New Jersey",1,0.129775901919405,149265,492276
+"405","Hudson County, New Jersey","New York County, New York",1,0.116719168298474,634266,1585873
+"271","Passaic County, New Jersey","Bergen County, New Jersey",1,0.0994441629125385,501226,905116
+"539","Hunterdon County, New Jersey","Somerset County, New Jersey",1,0.0871607881635229,128349,323444
+"903","Gloucester County, New Jersey","Camden County, New Jersey",1,0.081453268953269,288288,513657
+"47","Warren County, New Jersey","Morris County, New Jersey",1,0.079067456666544,108692,492276
+"451","Somerset County, New Jersey","Middlesex County, New Jersey",1,0.0727575716352754,323444,809858
+"631","Ocean County, New Jersey","Monmouth County, New Jersey",1,0.0720575405807131,576567,630380
+"316","Bergen County, New Jersey","New York County, New York",1,0.0713753817190283,905116,1585873
+"856","Salem County, New Jersey","Gloucester County, New Jersey",1,0.0670369081306842,66083,288288
+"1036","Camden County, New Jersey","Burlington County, New Jersey",1,0.0668481107042248,513657,448734
+"181","Union County, New Jersey","Essex County, New Jersey",1,0.0609208964042803,536499,783969
+"1035","Camden County, New Jersey","Philadelphia County, Pennsylvania",1,0.0606494216958009,513657,1526006
+"1126","Cape May County, New Jersey","Atlantic County, New Jersey",1,0.0581195702462345,97265,274549
+"1080","Burlington County, New Jersey","Camden County, New Jersey",1,0.0569580196731248,448734,513657
+"902","Gloucester County, New Jersey","Philadelphia County, Pennsylvania",1,0.0524336774336774,288288,1526006
+"1070","Burlington County, New Jersey","Mercer County, New Jersey",1,0.0481309640009449,448734,366513
+"137","Morris County, New Jersey","Essex County, New Jersey",1,0.0479649627444767,492276,783969
+"187","Union County, New Jersey","Middlesex County, New Jersey",1,0.0443188151329266,536499,809858
+"404","Hudson County, New Jersey","Bergen County, New Jersey",1,0.0442401137693018,634266,905116
+"56","Warren County, New Jersey","Hunterdon County, New Jersey",1,0.0439958782615096,108692,128349
+"857","Salem County, New Jersey","Cumberland County, New Jersey",1,0.0431124494953316,66083,156898
+"228","Essex County, New Jersey","New York County, New York",1,0.0420896744641689,783969,1585873
+"584","Mercer County, New Jersey","Middlesex County, New Jersey",1,0.0409917247137209,366513,809858
+"672","Monmouth County, New Jersey","Middlesex County, New Jersey",1,0.0398648434277737,630380,809858
+"270","Passaic County, New Jersey","Essex County, New Jersey",1,0.0369434147470403,501226,783969
+"669","Monmouth County, New Jersey","New York County, New York",1,0.0361686601732288,630380,1585873
+"445","Somerset County, New Jersey","Union County, New Jersey",1,0.0357558031684001,323444,536499
+"493","Middlesex County, New Jersey","New York County, New York",1,0.0348110409479193,809858,1585873
+"1079","Burlington County, New Jersey","Philadelphia County, Pennsylvania",1,0.0344948232137525,448734,1526006
+"863","Salem County, New Jersey","New Castle County, Delaware",1,0.0343961381898522,66083,538479
+"184","Union County, New Jersey","New York County, New York",1,0.0341268110471781,536499,1585873
+"444","Somerset County, New Jersey","Morris County, New Jersey",1,0.0341017301294815,323444,492276
+"1033","Camden County, New Jersey","Gloucester County, New Jersey",1,0.0339584586601565,513657,288288
+"402","Hudson County, New Jersey","Essex County, New Jersey",1,0.0338233485635364,634266,783969
+"268","Passaic County, New Jersey","Morris County, New Jersey",1,0.0332684258198896,501226,492276
+"54","Warren County, New Jersey","Somerset County, New Jersey",1,0.0328451035954808,108692,323444
+"495","Middlesex County, New Jersey","Somerset County, New Jersey",1,0.031368462125459,809858,323444
+"224","Essex County, New Jersey","Morris County, New Jersey",1,0.0304922771181003,783969,492276
+"489","Middlesex County, New Jersey","Union County, New Jersey",1,0.0301991213274426,809858,536499
+"225","Essex County, New Jersey","Union County, New Jersey",1,0.0293838149212533,783969,536499
+"317","Bergen County, New Jersey","Hudson County, New Jersey",1,0.0285433027368868,905116,634266
+"540","Hunterdon County, New Jersey","Middlesex County, New Jersey",1,0.0282822616459809,128349,809858
+"904","Gloucester County, New Jersey","Burlington County, New Jersey",1,0.0277153402153402,288288,448734
+"541","Hunterdon County, New Jersey","Mercer County, New Jersey",1,0.0273473108477666,128349,366513
+"315","Bergen County, New Jersey","Passaic County, New Jersey",1,0.0263270122282669,905116,501226
+"950","Cumberland County, New Jersey","Atlantic County, New Jersey",1,0.0262782189702864,156898,274549
+"94","Sussex County, New Jersey","Passaic County, New Jersey",1,0.0249288178742505,149265,501226
+"95","Sussex County, New Jersey","Bergen County, New Jersey",1,0.0246541386125348,149265,905116
+"139","Morris County, New Jersey","Bergen County, New Jersey",1,0.0243745378608748,492276,905116
+"140","Morris County, New Jersey","New York County, New York",1,0.0239581048029967,492276,1585873
+"449","Somerset County, New Jersey","New York County, New York",1,0.0236980744734792,323444,1585873
+"93","Sussex County, New Jersey","Essex County, New Jersey",1,0.0233544367400261,149265,783969
+"138","Morris County, New Jersey","Passaic County, New Jersey",1,0.0228997554217553,492276,501226
+"227","Essex County, New Jersey","Bergen County, New Jersey",1,0.0225850767058391,783969,905116
+"532","Hunterdon County, New Jersey","Morris County, New Jersey",1,0.0224466104137936,128349,492276
+"229","Essex County, New Jersey","Hudson County, New Jersey",1,0.0213643651726025,783969,634266
+"446","Somerset County, New Jersey","Essex County, New Jersey",1,0.0211195755679499,323444,783969
+"142","Morris County, New Jersey","Somerset County, New Jersey",1,0.0201553600013001,492276,323444
+"314","Bergen County, New Jersey","Essex County, New Jersey",1,0.0195521899955365,905116,783969
+"453","Somerset County, New Jersey","Mercer County, New Jersey",1,0.0195242453098527,323444,366513
+"186","Union County, New Jersey","Somerset County, New Jersey",1,0.0193495234846663,536499,323444
+"499","Middlesex County, New Jersey","Monmouth County, New Jersey",1,0.0191601490631691,809858,630380
+"180","Union County, New Jersey","Morris County, New Jersey",1,0.0187101933088412,536499,492276
+"497","Middlesex County, New Jersey","Mercer County, New Jersey",1,0.0184896611504733,809858,366513
+"272","Passaic County, New Jersey","New York County, New York",1,0.0183649690957772,501226,1585873
+"136","Morris County, New Jersey","Union County, New Jersey",1,0.018241799315831,492276,536499
+"490","Middlesex County, New Jersey","Essex County, New Jersey",1,0.0180871214459819,809858,783969
+"945","Cumberland County, New Jersey","Gloucester County, New Jersey",1,0.0174189600887201,156898,288288
+"533","Hunterdon County, New Jersey","Union County, New Jersey",1,0.0173589198201778,128349,536499
+"675","Monmouth County, New Jersey","Ocean County, New Jersey",1,0.0170341698657952,630380,576567
+"226","Essex County, New Jersey","Passaic County, New Jersey",1,0.0168820450808642,783969,501226
+"628","Ocean County, New Jersey","Middlesex County, New Jersey",1,0.0163849127681605,576567,809858
+"581","Mercer County, New Jersey","New York County, New York",1,0.0159639630790722,366513,1585873
+"49","Warren County, New Jersey","Essex County, New Jersey",1,0.0148584992455746,108692,783969
+"859","Salem County, New Jersey","Camden County, New Jersey",1,0.0146028479336592,66083,513657
+"185","Union County, New Jersey","Hudson County, New Jersey",1,0.0145200643430836,536499,634266
+"1170","Atlantic County, New Jersey","Cape May County, New Jersey",1,0.0137352530877912,274549,97265
+"273","Passaic County, New Jersey","Hudson County, New Jersey",1,0.0133313116238982,501226,634266
+"494","Middlesex County, New Jersey","Hudson County, New Jersey",1,0.0132603493451938,809858,634266
+"944","Cumberland County, New Jersey","Salem County, New Jersey",1,0.0131231755662915,156898,66083
+"74","Warren County, New Jersey","Northampton County, Pennsylvania",1,0.0126320244360211,108692,297735
+"46","Warren County, New Jersey","Sussex County, New Jersey",1,0.0125676222721083,108692,149265
+"901","Gloucester County, New Jersey","Cumberland County, New Jersey",1,0.0122655122655123,288288,156898
+"452","Somerset County, New Jersey","Hunterdon County, New Jersey",1,0.0120608204202273,323444,128349
+"312","Bergen County, New Jersey","Morris County, New Jersey",1,0.0119785751218628,905116,492276
+"583","Mercer County, New Jersey","Somerset County, New Jersey",1,0.0116012256045488,366513,323444
+"596","Mercer County, New Jersey","Burlington County, New Jersey",1,0.0114429774660108,366513,448734
+"674","Monmouth County, New Jersey","Mercer County, New Jersey",1,0.0114121640915004,630380,366513
+"666","Monmouth County, New Jersey","Essex County, New Jersey",1,0.011407405057267,630380,783969
+"589","Mercer County, New Jersey","Bucks County, Pennsylvania",1,0.0113010998245628,366513,625249
+"906","Gloucester County, New Jersey","Atlantic County, New Jersey",1,0.0112110112110112,288288,274549
+"949","Cumberland County, New Jersey","Cape May County, New Jersey",1,0.0111601167637573,156898,97265
+"537","Hunterdon County, New Jersey","New York County, New York",1,0.0110869582154906,128349,1585873
+"858","Salem County, New Jersey","Philadelphia County, Pennsylvania",1,0.0109407865865654,66083,1526006
+"1166","Atlantic County, New Jersey","Cumberland County, New Jersey",1,0.0108796608255721,274549,156898
+"630","Ocean County, New Jersey","Mercer County, New Jersey",1,0.0106839274533575,576567,366513
+"665","Monmouth County, New Jersey","Union County, New Jersey",1,0.0106300961324915,630380,536499
+"401","Hudson County, New Jersey","Union County, New Jersey",1,0.0104940198591758,634266,536499
+"534","Hunterdon County, New Jersey","Essex County, New Jersey",1,0.0100585123374549,128349,783969
+"908","Gloucester County, New Jersey","Delaware County, Pennsylvania",1,0.0100420412920413,288288,558979
+"231","Essex County, New Jersey","Middlesex County, New Jersey",1,0.00994554631624465,783969,809858
+"670","Monmouth County, New Jersey","Hudson County, New Jersey",1,0.00984802817348266,630380,634266
+"96","Sussex County, New Jersey","New York County, New York",1,0.00981475898569658,149265,1585873
+"1068","Burlington County, New Jersey","Middlesex County, New Jersey",1,0.00929058194832573,448734,809858
+"141","Morris County, New Jersey","Hudson County, New Jersey",1,0.00928950426183685,492276,634266
+"407","Hudson County, New Jersey","Middlesex County, New Jersey",1,0.00921379988837491,634266,809858
+"48","Warren County, New Jersey","Union County, New Jersey",1,0.00920950943951717,108692,536499
+"1038","Camden County, New Jersey","Atlantic County, New Jersey",1,0.00918511769527136,513657,274549
+"403","Hudson County, New Jersey","Passaic County, New Jersey",1,0.00896784629792548,634266,501226
+"55","Warren County, New Jersey","Middlesex County, New Jersey",1,0.00882309645604092,108692,809858
+"530","Hunterdon County, New Jersey","Warren County, New Jersey",1,0.00856259106031212,128349,108692
+"450","Somerset County, New Jersey","Hudson County, New Jersey",1,0.00845586871297659,323444,634266
+"545","Hunterdon County, New Jersey","Bucks County, Pennsylvania",1,0.00844572221053534,128349,625249
+"92","Sussex County, New Jersey","Union County, New Jersey",1,0.00831407228754229,149265,536499
+"1168","Atlantic County, New Jersey","Camden County, New Jersey",1,0.00800221454093805,274549,513657
+"900","Gloucester County, New Jersey","Salem County, New Jersey",1,0.00777347652347652,288288,66083
+"400","Hudson County, New Jersey","Morris County, New Jersey",1,0.00776803423169459,634266,492276
+"1074","Burlington County, New Jersey","Bucks County, Pennsylvania",1,0.00767269696523999,448734,625249
+"183","Union County, New Jersey","Bergen County, New Jersey",1,0.00762536370058472,536499,905116
+"909","Gloucester County, New Jersey","Montgomery County, Pennsylvania",1,0.00741966366966367,288288,799874
+"90","Sussex County, New Jersey","Warren County, New Jersey",1,0.00736274411281948,149265,108692
+"907","Gloucester County, New Jersey","New Castle County, Delaware",1,0.00731213231213231,288288,538479
+"143","Morris County, New Jersey","Middlesex County, New Jersey",1,0.00722155863783731,492276,809858
+"587","Mercer County, New Jersey","Monmouth County, New Jersey",1,0.00692744868531266,366513,630380
+"642","Ocean County, New Jersey","Atlantic County, New Jersey",1,0.00683528540481852,576567,274549
+"51","Warren County, New Jersey","Bergen County, New Jersey",1,0.0067530269017039,108692,905116
+"1123","Cape May County, New Jersey","Philadelphia County, Pennsylvania",1,0.00668277386521359,97265,1526006
+"1026","Camden County, New Jersey","Mercer County, New Jersey",1,0.00657637294926381,513657,366513
+"488","Middlesex County, New Jersey","Morris County, New Jersey",1,0.00656287892445342,809858,492276
+"622","Ocean County, New Jersey","Essex County, New Jersey",1,0.0065577807956404,576567,783969
+"1122","Cape May County, New Jersey","Cumberland County, New Jersey",1,0.00651827481622372,97265,156898
+"341","Bergen County, New Jersey","Rockland County, New York",1,0.00648204208079406,905116,311687
+"340","Bergen County, New Jersey","Bronx County, New York",1,0.00645994546555359,905116,1385108
+"97","Sussex County, New Jersey","Hudson County, New Jersey",1,0.00641811543228486,149265,634266
+"947","Cumberland County, New Jersey","Camden County, New Jersey",1,0.00636082040561384,156898,513657
+"625","Ocean County, New Jersey","New York County, New York",1,0.00627680737884756,576567,1585873
+"621","Ocean County, New Jersey","Union County, New Jersey",1,0.00621090003416775,576567,536499
+"640","Ocean County, New Jersey","Burlington County, New Jersey",1,0.00607388213338606,576567,448734
+"1085","Burlington County, New Jersey","Montgomery County, Pennsylvania",1,0.0060637259490032,448734,799874
+"492","Middlesex County, New Jersey","Bergen County, New Jersey",1,0.00603686078300146,809858,905116
+"671","Monmouth County, New Jersey","Somerset County, New Jersey",1,0.0060170056156604,630380,323444
+"1077","Burlington County, New Jersey","Gloucester County, New Jersey",1,0.00595007287167899,448734,288288
+"98","Sussex County, New Jersey","Somerset County, New Jersey",1,0.00590895387398251,149265,323444
+"448","Somerset County, New Jersey","Bergen County, New Jersey",1,0.0057073249155959,323444,905116
+"864","Salem County, New Jersey","Delaware County, Pennsylvania",1,0.00562928438478883,66083,558979
+"1167","Atlantic County, New Jersey","Philadelphia County, Pennsylvania",1,0.00560919908650186,274549,1526006
+"313","Bergen County, New Jersey","Union County, New Jersey",1,0.00558381467126866,905116,536499
+"269","Passaic County, New Jersey","Union County, New Jersey",1,0.00546859101483163,501226,536499
+"1169","Atlantic County, New Jersey","Burlington County, New Jersey",1,0.00537608951407581,274549,448734
+"1041","Camden County, New Jersey","Montgomery County, Pennsylvania",1,0.00534597990487816,513657,799874
+"230","Essex County, New Jersey","Somerset County, New Jersey",1,0.00521831858147452,783969,323444
+"691","Monmouth County, New Jersey","Richmond County, New York",1,0.00496050001586345,630380,468730
+"676","Monmouth County, New Jersey","Kings County, New York",1,0.00491925505250801,630380,2504700
+"1165","Atlantic County, New Jersey","Gloucester County, New Jersey",1,0.00478603090887237,274549,288288
+"135","Morris County, New Jersey","Sussex County, New Jersey",1,0.00470264648286734,492276,149265
+"123","Sussex County, New Jersey","Orange County, New York",1,0.00467624694335578,149265,372813
+"412","Hudson County, New Jersey","Kings County, New York",1,0.00467469484411903,634266,2504700
+"668","Monmouth County, New Jersey","Bergen County, New Jersey",1,0.00460991782734224,630380,905116
+"1071","Burlington County, New Jersey","Ocean County, New Jersey",1,0.00457732197693957,448734,576567
+"862","Salem County, New Jersey","Atlantic County, New Jersey",1,0.00453974547160389,66083,274549
+"50","Warren County, New Jersey","Passaic County, New Jersey",1,0.00443454900084643,108692,501226
+"52","Warren County, New Jersey","New York County, New York",1,0.00437014683693372,108692,1585873
+"860","Salem County, New Jersey","Burlington County, New Jersey",1,0.00432789068292904,66083,448734
+"319","Bergen County, New Jersey","Middlesex County, New Jersey",1,0.00430883997189311,905116,809858
+"326","Bergen County, New Jersey","Queens County, New York",1,0.00411770425006298,905116,2230722
+"275","Passaic County, New Jersey","Middlesex County, New Jersey",1,0.00408997139015135,501226,809858
+"536","Hunterdon County, New Jersey","Bergen County, New Jersey",1,0.00408261848553553,128349,905116
+"664","Monmouth County, New Jersey","Morris County, New Jersey",1,0.00407214695897713,630380,492276
+"309","Bergen County, New Jersey","Westchester County, New York",1,0.0039707617587138,905116,949113
+"182","Union County, New Jersey","Passaic County, New Jersey",1,0.00396272872829213,536499,501226
+"1082","Burlington County, New Jersey","Atlantic County, New Jersey",1,0.00394220183895136,448734,274549
+"191","Union County, New Jersey","Monmouth County, New Jersey",1,0.00389003520975808,536499,630380
+"455","Somerset County, New Jersey","Monmouth County, New Jersey",1,0.00388320698482581,323444,630380
+"538","Hunterdon County, New Jersey","Hudson County, New Jersey",1,0.00386446329928554,128349,634266
+"57","Warren County, New Jersey","Mercer County, New Jersey",1,0.0038273285982409,108692,366513
+"1040","Camden County, New Jersey","Delaware County, Pennsylvania",1,0.00381577589714537,513657,558979
+"134","Morris County, New Jersey","Warren County, New Jersey",1,0.00375602304398346,492276,108692
+"53","Warren County, New Jersey","Hudson County, New Jersey",1,0.00373532550693703,108692,634266
+"626","Ocean County, New Jersey","Hudson County, New Jersey",1,0.0036422479954628,576567,634266
+"894","Gloucester County, New Jersey","Mercer County, New Jersey",1,0.00364219114219114,288288,366513
+"1072","Burlington County, New Jersey","Monmouth County, New Jersey",1,0.00361238506553994,448734,630380
+"1124","Cape May County, New Jersey","Camden County, New Jersey",1,0.00360869788721534,97265,513657
+"624","Ocean County, New Jersey","Bergen County, New Jersey",1,0.0034722764223412,576567,905116
+"80","Warren County, New Jersey","Lehigh County, Pennsylvania",1,0.00346851654215582,108692,349497
+"594","Mercer County, New Jersey","Philadelphia County, Pennsylvania",1,0.00345417488602041,366513,1526006
+"578","Mercer County, New Jersey","Essex County, New Jersey",1,0.00344598963747534,366513,783969
+"500","Middlesex County, New Jersey","Kings County, New York",1,0.00344134403809063,809858,2504700
+"1065","Burlington County, New Jersey","New York County, New York",1,0.00339844986116497,448734,1585873
+"582","Mercer County, New Jersey","Hudson County, New Jersey",1,0.00333685299020771,366513,634266
+"1159","Atlantic County, New Jersey","Ocean County, New Jersey",1,0.00327446102517219,274549,576567
+"515","Middlesex County, New Jersey","Richmond County, New York",1,0.00326970901071546,809858,468730
+"1030","Camden County, New Jersey","Bucks County, Pennsylvania",1,0.00319863255051523,513657,625249
+"946","Cumberland County, New Jersey","Philadelphia County, Pennsylvania",1,0.00315491593264414,156898,1526006
+"948","Cumberland County, New Jersey","Burlington County, New Jersey",1,0.00313579523002205,156898,448734
+"585","Mercer County, New Jersey","Hunterdon County, New Jersey",1,0.00308856711767386,366513,128349
+"414","Hudson County, New Jersey","Queens County, New York",1,0.00304604062018144,634266,2230722
+"99","Sussex County, New Jersey","Middlesex County, New Jersey",1,0.00304157036143771,149265,809858
+"1034","Camden County, New Jersey","Cumberland County, New Jersey",1,0.00289103428941881,513657,156898
+"188","Union County, New Jersey","Hunterdon County, New Jersey",1,0.00286859807753603,536499,128349
+"898","Gloucester County, New Jersey","Bucks County, Pennsylvania",1,0.0028547841047841,288288,625249
+"406","Hudson County, New Jersey","Somerset County, New Jersey",1,0.00279535715299259,634266,323444
+"577","Mercer County, New Jersey","Union County, New Jersey",1,0.00273387301405407,366513,536499
+"236","Essex County, New Jersey","Kings County, New York",1,0.00267612622437877,783969,2504700
+"324","Bergen County, New Jersey","Kings County, New York",1,0.00259414262923205,905116,2504700
+"297","Passaic County, New Jersey","Rockland County, New York",1,0.00258366485377854,501226,311687
+"914","Gloucester County, New Jersey","Chester County, Pennsylvania",1,0.00257034632034632,288288,498886
+"558","Hunterdon County, New Jersey","Northampton County, Pennsylvania",1,0.00245424584531239,128349,297735
+"586","Mercer County, New Jersey","Ocean County, New Jersey",1,0.00230824008971032,366513,576567
+"274","Passaic County, New Jersey","Somerset County, New Jersey",1,0.00229038397848476,501226,323444
+"1084","Burlington County, New Jersey","Delaware County, Pennsylvania",1,0.00213266656861303,448734,558979
+"601","Mercer County, New Jersey","Montgomery County, Pennsylvania",1,0.00213089303790043,366513,799874
+"1067","Burlington County, New Jersey","Somerset County, New Jersey",1,0.00211706712662736,448734,323444
+"1128","Cape May County, New Jersey","Delaware County, Pennsylvania",1,0.00207680049349715,97265,558979
+"428","Hudson County, New Jersey","Bronx County, New York",1,0.00207641588860194,634266,1385108
+"496","Middlesex County, New Jersey","Hunterdon County, New Jersey",1,0.00204109856295795,809858,128349
+"189","Union County, New Jersey","Mercer County, New Jersey",1,0.00204101032807144,536499,366513
+"447","Somerset County, New Jersey","Passaic County, New Jersey",1,0.00203126352629822,323444,501226
+"145","Morris County, New Jersey","Mercer County, New Jersey",1,0.00202325524705653,492276,366513
+"1125","Cape May County, New Jersey","Burlington County, New Jersey",1,0.00198426977844034,97265,448734
+"318","Bergen County, New Jersey","Somerset County, New Jersey",1,0.00197985672554678,905116,323444
+"491","Middlesex County, New Jersey","Passaic County, New Jersey",1,0.00196577671641201,809858,501226
+"144","Morris County, New Jersey","Hunterdon County, New Jersey",1,0.00195215692010173,492276,128349
+"192","Union County, New Jersey","Kings County, New York",1,0.00192171840022069,536499,2504700
+"627","Ocean County, New Jersey","Somerset County, New Jersey",1,0.00186101528530075,576567,323444
+"684","Monmouth County, New Jersey","Burlington County, New Jersey",1,0.00184967797201688,630380,448734
+"238","Essex County, New Jersey","Queens County, New York",1,0.00184701180786485,783969,2230722
+"543","Hunterdon County, New Jersey","Monmouth County, New Jersey",1,0.00181536279986599,128349,630380
+"1129","Cape May County, New Jersey","Montgomery County, Pennsylvania",1,0.00178892715776487,97265,799874
+"620","Ocean County, New Jersey","Morris County, New Jersey",1,0.00177602949873996,576567,492276
+"576","Mercer County, New Jersey","Morris County, New Jersey",1,0.0017598284371905,366513,492276
+"207","Union County, New Jersey","Richmond County, New York",1,0.00172786901746322,536499,468730
+"498","Middlesex County, New Jersey","Ocean County, New Jersey",1,0.00169412415509879,809858,576567
+"1039","Camden County, New Jersey","New Castle County, Delaware",1,0.00169373726046759,513657,538479
+"1062","Burlington County, New Jersey","Essex County, New Jersey",1,0.00162011347479799,448734,783969
+"639","Ocean County, New Jersey","Camden County, New Jersey",1,0.00159738590658154,576567,513657
+"502","Middlesex County, New Jersey","Queens County, New York",1,0.00157928920872548,809858,2230722
+"235","Essex County, New Jersey","Monmouth County, New Jersey",1,0.0015676640275317,783969,630380
+"850","Salem County, New Jersey","Mercer County, New Jersey",1,0.00154351346034532,66083,366513
+"595","Mercer County, New Jersey","Camden County, New Jersey",1,0.00150608573229326,366513,513657
+"951","Cumberland County, New Jersey","New Castle County, Delaware",1,0.00150416193960407,156898,538479
+"1121","Cape May County, New Jersey","Gloucester County, New Jersey",1,0.00149077263147072,97265,288288
+"623","Ocean County, New Jersey","Passaic County, New Jersey",1,0.00148985287052502,576567,501226
+"267","Passaic County, New Jersey","Sussex County, New Jersey",1,0.00134470278876196,501226,149265
+"1024","Camden County, New Jersey","Middlesex County, New Jersey",1,0.00133162791512624,513657,809858
+"667","Monmouth County, New Jersey","Passaic County, New Jersey",1,0.00131666613788509,630380,501226
+"1114","Cape May County, New Jersey","Mercer County, New Jersey",1,0.00130571120135712,97265,366513
+"83","Warren County, New Jersey","Monroe County, Pennsylvania",1,0.00127884296912376,108692,169842
+"678","Monmouth County, New Jersey","Queens County, New York",1,0.00127700751927409,630380,2230722
+"550","Hunterdon County, New Jersey","Philadelphia County, Pennsylvania",1,0.00126997483424101,128349,1526006
+"456","Somerset County, New Jersey","Kings County, New York",1,0.00122432322133043,323444,2504700
+"128","Sussex County, New Jersey","Pike County, Pennsylvania",1,0.00120590895387398,149265,57369
+"252","Essex County, New Jersey","Bronx County, New York",1,0.0011862713959353,783969,1385108
+"279","Passaic County, New Jersey","Monmouth County, New Jersey",1,0.00116115285320394,501226,630380
+"280","Passaic County, New Jersey","Kings County, New York",1,0.00115716263721355,501226,2504700
+"1021","Camden County, New Jersey","New York County, New York",1,0.00115446689133021,513657,1585873
+"409","Hudson County, New Jersey","Mercer County, New Jersey",1,0.00113832366861853,634266,366513
+"1134","Cape May County, New Jersey","Chester County, Pennsylvania",1,0.00112064977124351,97265,498886
+"471","Somerset County, New Jersey","Richmond County, New York",1,0.00111920456091317,323444,468730
+"580","Mercer County, New Jersey","Bergen County, New Jersey",1,0.00111592221831149,366513,905116
+"508","Middlesex County, New Jersey","Burlington County, New Jersey",1,0.00110266244205774,809858,448734
+"1032","Camden County, New Jersey","Salem County, New Jersey",1,0.00109800898264795,513657,66083
+"905","Gloucester County, New Jersey","Cape May County, New Jersey",1,0.00109265734265734,288288,97265
+"411","Hudson County, New Jersey","Monmouth County, New Jersey",1,0.00109102490122441,634266,630380
+"147","Morris County, New Jersey","Monmouth County, New Jersey",1,0.00107866318894279,492276,630380
+"282","Passaic County, New Jersey","Queens County, New York",1,0.00107336810141533,501226,2230722
+"865","Salem County, New Jersey","Montgomery County, Pennsylvania",1,0.00105927394337424,66083,799874
+"1046","Camden County, New Jersey","Chester County, Pennsylvania",1,0.00105517884502693,513657,498886
+"632","Ocean County, New Jersey","Kings County, New York",1,0.00103197026538113,576567,2504700
+"1160","Atlantic County, New Jersey","Monmouth County, New Jersey",1,0.00102713905350229,274549,630380
+"647","Ocean County, New Jersey","Richmond County, New York",1,0.00101462622730749,576567,468730
+"194","Union County, New Jersey","Queens County, New York",1,0.00100838957761338,536499,2230722
+"397","Hudson County, New Jersey","Westchester County, New York",1,0.00099485074085636,634266,949113
+"232","Essex County, New Jersey","Hunterdon County, New Jersey",1,0.000982181693408796,783969,128349
+"588","Mercer County, New Jersey","Kings County, New York",1,0.000976772993045267,366513,2504700
+"1083","Burlington County, New Jersey","New Castle County, Delaware",1,0.000964936911399626,448734,538479
+"323","Bergen County, New Jersey","Monmouth County, New Jersey",1,0.000957888270674698,905116,630380
+"1118","Cape May County, New Jersey","Bucks County, Pennsylvania",1,0.000956150722253637,97265,625249
+"1090","Burlington County, New Jersey","Chester County, Pennsylvania",1,0.000956022944550669,448734,498886
+"564","Hunterdon County, New Jersey","Lehigh County, Pennsylvania",1,0.000927159541562459,128349,349497
+"1173","Atlantic County, New Jersey","Montgomery County, Pennsylvania",1,0.000925153615565892,274549,799874
+"165","Morris County, New Jersey","Rockland County, New York",1,0.000922246869642233,492276,311687
+"535","Hunterdon County, New Jersey","Passaic County, New Jersey",1,0.000895994514955317,128349,501226
+"233","Essex County, New Jersey","Mercer County, New Jersey",1,0.000859727871892894,783969,366513
+"1061","Burlington County, New Jersey","Union County, New Jersey",1,0.000857969309212139,448734,536499
+"299","Passaic County, New Jersey","Orange County, New York",1,0.000825974710011053,501226,372813
+"427","Hudson County, New Jersey","Richmond County, New York",1,0.000788312789902029,634266,468730
+"148","Morris County, New Jersey","Kings County, New York",1,0.000788175738813186,492276,2504700
+"870","Salem County, New Jersey","Chester County, Pennsylvania",1,0.000771756730172662,66083,498886
+"457","Somerset County, New Jersey","Bucks County, Pennsylvania",1,0.000745105798839985,323444,625249
+"892","Gloucester County, New Jersey","Middlesex County, New Jersey",1,0.000738844488844489,288288,809858
+"346","Bergen County, New Jersey","Fairfield County, Connecticut",1,0.000738026949031947,905116,916829
+"1027","Camden County, New Jersey","Ocean County, New Jersey",1,0.000737846461743926,513657,576567
+"223","Essex County, New Jersey","Sussex County, New Jersey",1,0.000737274050376992,783969,149265
+"208","Union County, New Jersey","Bronx County, New York",1,0.000736254867203853,536499,1385108
+"557","Hunterdon County, New Jersey","Montgomery County, Pennsylvania",1,0.000724586868616039,128349,799874
+"100","Sussex County, New Jersey","Hunterdon County, New Jersey",1,0.00072354537232439,149265,128349
+"121","Sussex County, New Jersey","Rockland County, New York",1,0.00072354537232439,149265,311687
+"104","Sussex County, New Jersey","Kings County, New York",1,0.000723545372324389,149265,2504700
+"265","Passaic County, New Jersey","Westchester County, New York",1,0.000712253554284893,501226,949113
+"433","Hudson County, New Jersey","Nassau County, New York",1,0.000704751634172414,634266,1339532
+"542","Hunterdon County, New Jersey","Ocean County, New Jersey",1,0.000701213098660683,128349,576567
+"633","Ocean County, New Jersey","Bucks County, Pennsylvania",1,0.000697230330560022,576567,625249
+"638","Ocean County, New Jersey","Philadelphia County, Pennsylvania",1,0.000692027119137932,576567,1526006
+"469","Somerset County, New Jersey","Montgomery County, Pennsylvania",1,0.000683271292712185,323444,799874
+"150","Morris County, New Jersey","Queens County, New York",1,0.000682543938766058,492276,2230722
+"296","Passaic County, New Jersey","Bronx County, New York",1,0.000682326934356957,501226,1385108
+"321","Bergen County, New Jersey","Mercer County, New Jersey",1,0.000670632272548491,905116,366513
+"1078","Burlington County, New Jersey","Cumberland County, New Jersey",1,0.000664090530247318,448734,156898
+"410","Hudson County, New Jersey","Ocean County, New Jersey",1,0.0006606061179379,634266,576567
+"938","Cumberland County, New Jersey","Mercer County, New Jersey",1,0.000650103889150913,156898,366513
+"345","Bergen County, New Jersey","Nassau County, New York",1,0.000640801841973846,905116,1339532
+"133","Morris County, New Jersey","Westchester County, New York",1,0.000635822181052905,492276,949113
+"1066","Burlington County, New Jersey","Hudson County, New Jersey",1,0.000612835220865814,448734,634266
+"1158","Atlantic County, New Jersey","Mercer County, New Jersey",1,0.000608270290549228,274549,366513
+"673","Monmouth County, New Jersey","Hunterdon County, New Jersey",1,0.000599638313398268,630380,128349
+"106","Sussex County, New Jersey","Queens County, New York",1,0.000582855994372425,149265,2230722
+"1162","Atlantic County, New Jersey","Bucks County, Pennsylvania",1,0.000571846919857657,274549,625249
+"454","Somerset County, New Jersey","Ocean County, New Jersey",1,0.000568877456375756,323444,576567
+"458","Somerset County, New Jersey","Queens County, New York",1,0.000553418829843806,323444,2230722
+"103","Sussex County, New Jersey","Monmouth County, New Jersey",1,0.000549358523431481,149265,630380
+"442","Somerset County, New Jersey","Warren County, New Jersey",1,0.000541051928618246,323444,108692
+"1081","Burlington County, New Jersey","Cape May County, New Jersey",1,0.000534838010937437,448734,97265
+"895","Gloucester County, New Jersey","Ocean County, New Jersey",1,0.000534188034188034,288288,576567
+"146","Morris County, New Jersey","Ocean County, New Jersey",1,0.000530190381005777,492276,576567
+"429","Hudson County, New Jersey","Rockland County, New York",1,0.000523439692494947,634266,311687
+"506","Middlesex County, New Jersey","Philadelphia County, Pennsylvania",1,0.000518609435234325,809858,1526006
+"59","Warren County, New Jersey","Monmouth County, New Jersey",1,0.00051521731130166,108692,630380
+"221","Essex County, New Jersey","Westchester County, New York",1,0.000512775377597839,783969,949113
+"1064","Burlington County, New Jersey","Bergen County, New Jersey",1,0.000505867618678326,448734,905116
+"485","Middlesex County, New Jersey","Westchester County, New York",1,0.000501322454059848,809858,949113
+"251","Essex County, New Jersey","Richmond County, New York",1,0.000488539725422817,783969,468730
+"1164","Atlantic County, New Jersey","Salem County, New Jersey",1,0.000488073167267045,274549,66083
+"579","Mercer County, New Jersey","Passaic County, New Jersey",1,0.000485658080340943,366513,501226
+"278","Passaic County, New Jersey","Ocean County, New Jersey",1,0.000484811242832575,501226,576567
+"516","Middlesex County, New Jersey","Bronx County, New York",1,0.00048403547288537,809858,1385108
+"1018","Camden County, New Jersey","Essex County, New Jersey",1,0.00048086563601781,513657,783969
+"1156","Atlantic County, New Jersey","Middlesex County, New Jersey",1,0.000477146156059574,274549,809858
+"89","Sussex County, New Jersey","Westchester County, New York",1,0.000475664087361404,149265,949113
+"190","Union County, New Jersey","Ocean County, New Jersey",1,0.000467848029539664,536499,576567
+"277","Passaic County, New Jersey","Mercer County, New Jersey",1,0.000460869946890225,501226,366513
+"952","Cumberland County, New Jersey","Delaware County, Pennsylvania",1,0.000452523295389361,156898,558979
+"501","Middlesex County, New Jersey","Bucks County, Pennsylvania",1,0.000443287588688387,809858,625249
+"101","Sussex County, New Jersey","Mercer County, New Jersey",1,0.00044216661642046,149265,366513
+"61","Warren County, New Jersey","Bucks County, Pennsylvania",1,0.000432414529128179,108692,625249
+"697","Monmouth County, New Jersey","Nassau County, New York",1,0.000429899425743202,630380,1339532
+"1115","Cape May County, New Jersey","Ocean County, New Jersey",1,0.00042152881303655,97265,576567
+"552","Hunterdon County, New Jersey","Burlington County, New Jersey",1,0.00042072785919641,128349,448734
+"234","Essex County, New Jersey","Ocean County, New Jersey",1,0.000414557208256959,783969,576567
+"120","Sussex County, New Jersey","Bronx County, New York",1,0.000408669145479516,149265,1385108
+"253","Essex County, New Jersey","Rockland County, New York",1,0.000408179405053006,783969,311687
+"1171","Atlantic County, New Jersey","New Castle County, Delaware",1,0.000393372403468962,274549,538479
+"164","Morris County, New Jersey","Bronx County, New York",1,0.000392056488636456,492276,1385108
+"531","Hunterdon County, New Jersey","Sussex County, New Jersey",1,0.000389562832589268,128349,149265
+"1037","Camden County, New Jersey","Cape May County, New Jersey",1,0.000381577589714537,513657,97265
+"311","Bergen County, New Jersey","Sussex County, New Jersey",1,0.000380061782136212,905116,149265
+"645","Ocean County, New Jersey","Montgomery County, Pennsylvania",1,0.000367693607161006,576567,799874
+"507","Middlesex County, New Jersey","Camden County, New Jersey",1,0.000365496173403239,809858,513657
+"1060","Burlington County, New Jersey","Morris County, New Jersey",1,0.000365472640807249,448734,492276
+"683","Monmouth County, New Jersey","Camden County, New Jersey",1,0.000364859291221168,630380,513657
+"886","Gloucester County, New Jersey","Essex County, New Jersey",1,0.000360750360750361,288288,783969
+"686","Monmouth County, New Jersey","Atlantic County, New Jersey",1,0.000358513912243409,630380,274549
+"178","Union County, New Jersey","Warren County, New Jersey",1,0.000354147910806917,536499,108692
+"209","Union County, New Jersey","Rockland County, New York",1,0.000354147910806917,536499,311687
+"1020","Camden County, New Jersey","Bergen County, New Jersey",1,0.000344587925405475,513657,905116
+"1073","Burlington County, New Jersey","Kings County, New York",1,0.000343187723684856,448734,2504700
+"486","Middlesex County, New Jersey","Warren County, New Jersey",1,0.000337096132902311,809858,108692
+"464","Somerset County, New Jersey","Burlington County, New Jersey",1,0.000336998058396508,323444,448734
+"322","Bergen County, New Jersey","Ocean County, New Jersey",1,0.000336973382417281,905116,576567
+"661","Monmouth County, New Jersey","Westchester County, New York",1,0.000334718741076811,630380,949113
+"861","Salem County, New Jersey","Cape May County, New Jersey",1,0.000332914667917618,66083,97265
+"62","Warren County, New Jersey","Queens County, New York",1,0.000331211128693924,108692,2230722
+"1172","Atlantic County, New Jersey","Delaware County, Pennsylvania",1,0.000320525662085821,274549,558979
+"889","Gloucester County, New Jersey","New York County, New York",1,0.000319125319125319,288288,1585873
+"641","Ocean County, New Jersey","Cape May County, New Jersey",1,0.000317395896747473,576567,97265
+"343","Bergen County, New Jersey","Orange County, New York",1,0.000315981597938828,905116,372813
+"1028","Camden County, New Jersey","Monmouth County, New Jersey",1,0.000311491909971051,513657,630380
+"590","Mercer County, New Jersey","Queens County, New York",1,0.000305582612349357,366513,2230722
+"953","Cumberland County, New Jersey","Montgomery County, Pennsylvania",1,0.000299557674412676,156898,799874
+"634","Ocean County, New Jersey","Queens County, New York",1,0.000296583051059114,576567,2230722
+"408","Hudson County, New Jersey","Hunterdon County, New Jersey",1,0.000291675732263751,634266,128349
+"222","Essex County, New Jersey","Warren County, New Jersey",1,0.000285725583537104,783969,108692
+"73","Warren County, New Jersey","Montgomery County, Pennsylvania",1,0.000276009273911603,108692,799874
+"339","Bergen County, New Jersey","Richmond County, New York",1,0.000267369044409777,905116,468730
+"276","Passaic County, New Jersey","Hunterdon County, New Jersey",1,0.000267344471356235,501226,128349
+"1069","Burlington County, New Jersey","Hunterdon County, New Jersey",1,0.000265190513756479,448734,128349
+"692","Monmouth County, New Jersey","Bronx County, New York",1,0.000263333227577017,630380,1385108
+"677","Monmouth County, New Jersey","Bucks County, Pennsylvania",1,0.000261746882832577,630380,625249
+"213","Union County, New Jersey","Nassau County, New York",1,0.00025908715580085,536499,1339532
+"1075","Burlington County, New Jersey","Queens County, New York",1,0.000258505038619761,448734,2230722
+"682","Monmouth County, New Jersey","Philadelphia County, Pennsylvania",1,0.000255401503854818,630380,1526006
+"1153","Atlantic County, New Jersey","New York County, New York",1,0.000254963594840994,274549,1585873
+"618","Ocean County, New Jersey","Warren County, New Jersey",1,0.000251488552067669,576567,108692
+"1017","Camden County, New Jersey","Union County, New Jersey",1,0.00025114035241416,513657,536499
+"1076","Burlington County, New Jersey","Salem County, New Jersey",1,0.000247362580058565,448734,66083
+"284","Passaic County, New Jersey","Gloucester County, New Jersey",1,0.000245398283409081,501226,288288
+"888","Gloucester County, New Jersey","Bergen County, New Jersey",1,0.000242812742812743,288288,905116
+"434","Hudson County, New Jersey","Fairfield County, Connecticut",1,0.000241223713710021,634266,916829
+"125","Sussex County, New Jersey","Nassau County, New York",1,0.000241181790774796,149265,1339532
+"462","Somerset County, New Jersey","Philadelphia County, Pennsylvania",1,0.000241154573898418,323444,1526006
+"629","Ocean County, New Jersey","Hunterdon County, New Jersey",1,0.00024108212922349,576567,128349
+"257","Essex County, New Jersey","Nassau County, New York",1,0.000241080961109432,783969,1339532
+"521","Middlesex County, New Jersey","Nassau County, New York",1,0.000239548167703474,809858,1339532
+"171","Morris County, New Jersey","Monroe County, Pennsylvania",1,0.000237671550106038,492276,169842
+"258","Essex County, New Jersey","Fairfield County, Connecticut",1,0.00023725427918706,783969,916829
+"170","Morris County, New Jersey","Fairfield County, Connecticut",1,0.00022954602702549,492276,916829
+"1109","Cape May County, New Jersey","New York County, New York",1,0.000226186192361075,97265,1585873
+"689","Monmouth County, New Jersey","Montgomery County, Pennsylvania",1,0.000222088264221581,630380,799874
+"320","Bergen County, New Jersey","Hunterdon County, New Jersey",1,0.000219861321642751,905116,128349
+"487","Middlesex County, New Jersey","Sussex County, New Jersey",1,0.000219791617789785,809858,149265
+"896","Gloucester County, New Jersey","Monmouth County, New Jersey",1,0.000215062715062715,288288,630380
+"163","Morris County, New Jersey","Richmond County, New York",1,0.000211263600094256,492276,468730
+"592","Mercer County, New Jersey","Gloucester County, New Jersey",1,0.000210088045990183,366513,288288
+"513","Middlesex County, New Jersey","Montgomery County, Pennsylvania",1,0.000201269852245702,809858,799874
+"617","Ocean County, New Jersey","Westchester County, New York",1,0.000201190841654136,576567,949113
+"884","Gloucester County, New Jersey","Morris County, New Jersey",1,0.000201187701187701,288288,492276
+"472","Somerset County, New Jersey","Bronx County, New York",1,0.000197870419608959,323444,1385108
+"1019","Camden County, New Jersey","Passaic County, New Jersey",1,0.000194682443731907,513657,501226
+"598","Mercer County, New Jersey","Atlantic County, New Jersey",1,0.000188260716536658,366513,274549
+"891","Gloucester County, New Jersey","Somerset County, New Jersey",1,0.000187312687312687,288288,323444
+"167","Morris County, New Jersey","Orange County, New York",1,0.000186887030852611,492276,372813
+"600","Mercer County, New Jersey","Delaware County, Pennsylvania",1,0.000185532300354967,366513,558979
+"1063","Burlington County, New Jersey","Passaic County, New Jersey",1,0.000184964812115864,448734,501226
+"443","Somerset County, New Jersey","Sussex County, New Jersey",1,0.000179320067770619,323444,149265
+"599","Mercer County, New Jersey","New Castle County, Delaware",1,0.000174618635628204,366513,538479
+"476","Somerset County, New Jersey","Lehigh County, Pennsylvania",1,0.000173136617157839,323444,349497
+"1016","Camden County, New Jersey","Morris County, New Jersey",1,0.00016742690160944,513657,492276
+"958","Cumberland County, New Jersey","Chester County, Pennsylvania",1,0.000165712756058076,156898,498886
+"567","Hunterdon County, New Jersey","Monroe County, Pennsylvania",1,0.000163616389687493,128349,169842
+"606","Mercer County, New Jersey","Chester County, Pennsylvania",1,0.000160976554719751,366513,498886
+"1116","Cape May County, New Jersey","Monmouth County, New Jersey",1,0.000154217858428006,97265,630380
+"473","Somerset County, New Jersey","Rockland County, New York",1,0.000151494540013109,323444,311687
+"848","Salem County, New Jersey","Middlesex County, New Jersey",1,0.000151324849053463,66083,809858
+"1054","Camden County, New Jersey","District of Columbia, District of Columbia",1,0.000149905481673568,513657,601723
+"1150","Atlantic County, New Jersey","Essex County, New Jersey",1,0.000149335819835439,274549,783969
+"694","Monmouth County, New Jersey","Chester County, Pennsylvania",1,0.000149116405977347,630380,498886
+"349","Bergen County, New Jersey","Suffolk County, New York",1,0.000143627999063104,905116,1493350
+"200","Union County, New Jersey","Burlington County, New Jersey",1,0.000137931291577431,536499,448734
+"852","Salem County, New Jersey","Monmouth County, New Jersey",1,0.000136192364148117,66083,630380
+"177","Union County, New Jersey","Westchester County, New York",1,0.000136067355204763,536499,949113
+"461","Somerset County, New Jersey","Cumberland County, New Jersey",1,0.000136035913481159,323444,156898
+"1152","Atlantic County, New Jersey","Bergen County, New Jersey",1,0.000134766471558811,274549,905116
+"517","Middlesex County, New Jersey","Rockland County, New York",1,0.000133356711917398,809858,311687
+"529","Hunterdon County, New Jersey","Westchester County, New York",1,0.000132451363080351,128349,949113
+"636","Ocean County, New Jersey","Gloucester County, New Jersey",1,0.000131814689359606,576567,288288
+"1055","Camden County, New Jersey","Montgomery County, Maryland",1,0.000128490412863058,513657,971777
+"468","Somerset County, New Jersey","Delaware County, Pennsylvania",1,0.000126760737561989,323444,558979
+"437","Hudson County, New Jersey","Suffolk County, New York",1,0.000126130046384325,634266,1493350
+"574","Mercer County, New Jersey","Warren County, New Jersey",1,0.000122778728176081,366513,108692
+"198","Union County, New Jersey","Philadelphia County, Pennsylvania",1,0.000121155864223419,536499,1526006
+"693","Monmouth County, New Jersey","Rockland County, New York",1,0.000120562200577429,630380,311687
+"417","Hudson County, New Jersey","Cumberland County, New Jersey",1,0.0001166702929055,634266,156898
+"173","Morris County, New Jersey","Suffolk County, New York",1,0.000115788703897813,492276,1493350
+"302","Passaic County, New Jersey","Fairfield County, Connecticut",1,0.000115716263721355,501226,916829
+"244","Essex County, New Jersey","Burlington County, New Jersey",1,0.000112249336389577,783969,448734
+"331","Bergen County, New Jersey","Camden County, New Jersey",1,0.000110483076202387,905116,513657
+"1178","Atlantic County, New Jersey","Chester County, Pennsylvania",1,0.000109270112074712,274549,498886
+"1022","Camden County, New Jersey","Hudson County, New Jersey",1,0.000109022168489868,513657,634266
+"470","Somerset County, New Jersey","Northampton County, Pennsylvania",1,0.000108210385723649,323444,297735
+"525","Middlesex County, New Jersey","Suffolk County, New York",1,0.000107426240155682,809858,1493350
+"477","Somerset County, New Jersey","Nassau County, New York",1,0.000102026935110869,323444,1339532
+"132","Sussex County, New Jersey","Ulster County, New York",1,0.000100492412822832,149265,182493
+"1023","Camden County, New Jersey","Somerset County, New Jersey",1,9.92880463032724e-05,513657,323444
+"939","Cumberland County, New Jersey","Ocean County, New Jersey",1,9.56035131104285e-05,156898,576567
+"310","Bergen County, New Jersey","Warren County, New Jersey",1,9.50154455340531e-05,905116,108692
+"1104","Cape May County, New Jersey","Morris County, New Jersey",1,9.25307150568037e-05,97265,492276
+"1108","Cape May County, New Jersey","Bergen County, New Jersey",1,9.25307150568036e-05,97265,905116
+"425","Hudson County, New Jersey","Montgomery County, Pennsylvania",1,9.14442836286353e-05,634266,799874
+"463","Somerset County, New Jersey","Camden County, New Jersey",1,8.96600338853094e-05,323444,513657
+"933","Cumberland County, New Jersey","New York County, New York",1,8.92299455697332e-05,156898,1585873
+"663","Monmouth County, New Jersey","Sussex County, New Jersey",1,8.88353056886323e-05,630380,149265
+"1154","Atlantic County, New Jersey","Hudson County, New Jersey",1,8.74160896597693e-05,274549,634266
+"890","Gloucester County, New Jersey","Hudson County, New Jersey",1,8.67188367188367e-05,288288,634266
+"214","Union County, New Jersey","Fairfield County, Connecticut",1,8.38771367700592e-05,536499,916829
+"350","Bergen County, New Jersey","District of Columbia, District of Columbia",1,8.28623071517905e-05,905116,601723
+"1120","Cape May County, New Jersey","Salem County, New Jersey",1,8.22495244949365e-05,97265,66083
+"399","Hudson County, New Jersey","Sussex County, New Jersey",1,8.1984530149811e-05,634266,149265
+"637","Ocean County, New Jersey","Cumberland County, New Jersey",1,8.15169789460722e-05,576567,156898
+"702","Monmouth County, New Jersey","District of Columbia, District of Columbia",1,8.0903581966433e-05,630380,601723
+"242","Essex County, New Jersey","Philadelphia County, Pennsylvania",1,8.03603203698105e-05,783969,1526006
+"522","Middlesex County, New Jersey","Fairfield County, Connecticut",1,7.65566309155432e-05,809858,916829
+"179","Union County, New Jersey","Sussex County, New Jersey",1,7.64213912793873e-05,536499,149265
+"662","Monmouth County, New Jersey","Warren County, New Jersey",1,7.61445477331133e-05,630380,108692
+"846","Salem County, New Jersey","Hudson County, New Jersey",1,7.56624245267315e-05,66083,634266
+"261","Essex County, New Jersey","Suffolk County, New York",1,7.27069565250667e-05,783969,1493350
+"1106","Cape May County, New Jersey","Essex County, New Jersey",1,7.19683339330694e-05,97265,783969
+"687","Monmouth County, New Jersey","New Castle County, Delaware",1,7.13855134997938e-05,630380,538479
+"648","Ocean County, New Jersey","Bronx County, New York",1,7.11105561018927e-05,576567,1385108
+"1163","Atlantic County, New Jersey","Queens County, New York",1,6.9204404313984e-05,274549,2230722
+"169","Morris County, New Jersey","Nassau County, New York",1,6.90669461846606e-05,492276,1339532
+"217","Union County, New Jersey","Suffolk County, New York",1,6.52377730433794e-05,536499,1493350
+"1088","Burlington County, New Jersey","Bronx County, New York",1,6.46262596549403e-05,448734,1385108
+"544","Hunterdon County, New Jersey","Kings County, New York",1,6.23300532142829e-05,128349,2504700
+"680","Monmouth County, New Jersey","Gloucester County, New Jersey",1,6.18674450331546e-05,630380,288288
+"511","Middlesex County, New Jersey","New Castle County, Delaware",1,6.05044341106713e-05,809858,538479
+"698","Monmouth County, New Jersey","Fairfield County, Connecticut",1,6.02811002887147e-05,630380,916829
+"332","Bergen County, New Jersey","Burlington County, New Jersey",1,5.85560303872653e-05,905116,448734
+"307","Passaic County, New Jersey","Montgomery County, Maryland",1,5.78581318606776e-05,501226,971777
+"650","Ocean County, New Jersey","Chester County, Pennsylvania",1,5.55009218356236e-05,576567,498886
+"653","Ocean County, New Jersey","Nassau County, New York",1,5.37665180282604e-05,576567,1339532
+"420","Hudson County, New Jersey","Burlington County, New Jersey",1,5.20286441335339e-05,634266,448734
+"1105","Cape May County, New Jersey","Union County, New Jersey",1,5.14059528093353e-05,97265,536499
+"155","Morris County, New Jersey","Camden County, New Jersey",1,5.07845192534269e-05,492276,513657
+"593","Mercer County, New Jersey","Cumberland County, New Jersey",1,4.91114912704324e-05,366513,156898
+"149","Morris County, New Jersey","Bucks County, Pennsylvania",1,4.87531384832899e-05,492276,625249
+"504","Middlesex County, New Jersey","Gloucester County, New Jersey",1,4.81565904146159e-05,809858,288288
+"266","Passaic County, New Jersey","Warren County, New Jersey",1,4.78825918846987e-05,501226,108692
+"287","Passaic County, New Jersey","Camden County, New Jersey",1,4.78825918846987e-05,501226,513657
+"161","Morris County, New Jersey","Montgomery County, Pennsylvania",1,4.67217577131528e-05,492276,799874
+"67","Warren County, New Jersey","Camden County, New Jersey",1,4.60015456519339e-05,108692,513657
+"286","Passaic County, New Jersey","Philadelphia County, Pennsylvania",1,4.58874838895029e-05,501226,1526006
+"168","Morris County, New Jersey","Lehigh County, Pennsylvania",1,4.46903769430157e-05,492276,349497
+"609","Mercer County, New Jersey","Nassau County, New York",1,4.3654658907051e-05,366513,1339532
+"460","Somerset County, New Jersey","Gloucester County, New Jersey",1,4.32841542894597e-05,323444,288288
+"153","Morris County, New Jersey","Cumberland County, New Jersey",1,4.26589961728786e-05,492276,156898
+"154","Morris County, New Jersey","Philadelphia County, Pennsylvania",1,4.26589961728786e-05,492276,1526006
+"603","Mercer County, New Jersey","Richmond County, New York",1,4.09262427253603e-05,366513,468730
+"1025","Camden County, New Jersey","Hunterdon County, New Jersey",1,4.08833131837004e-05,513657,128349
+"330","Bergen County, New Jersey","Philadelphia County, Pennsylvania",1,4.08787381948833e-05,905116,1526006
+"334","Bergen County, New Jersey","Atlantic County, New Jersey",1,4.08787381948833e-05,905116,274549
+"644","Ocean County, New Jersey","Delaware County, Pennsylvania",1,3.98912875693545e-05,576567,558979
+"546","Hunterdon County, New Jersey","Queens County, New York",1,3.89562832589268e-05,128349,2230722
+"565","Hunterdon County, New Jersey","Nassau County, New York",1,3.89562832589268e-05,128349,1339532
+"893","Gloucester County, New Jersey","Hunterdon County, New Jersey",1,3.81562881562882e-05,288288,128349
+"68","Warren County, New Jersey","Burlington County, New Jersey",1,3.68012365215471e-05,108692,448734
+"218","Union County, New Jersey","District of Columbia, District of Columbia",1,3.54147910806917e-05,536499,601723
+"441","Somerset County, New Jersey","Westchester County, New York",1,3.40089783702898e-05,323444,949113
+"431","Hudson County, New Jersey","Orange County, New York",1,3.31091371758852e-05,634266,372813
+"613","Mercer County, New Jersey","Suffolk County, New York",1,3.27409941802883e-05,366513,1493350
+"932","Cumberland County, New Jersey","Bergen County, New Jersey",1,3.18678377034761e-05,156898,905116
+"602","Mercer County, New Jersey","Northampton County, Pennsylvania",1,3.00125779985976e-05,366513,297735
+"910","Gloucester County, New Jersey","Northampton County, Pennsylvania",1,2.77500277500278e-05,288288,297735
+"78","Warren County, New Jersey","Chester County, Pennsylvania",1,2.76009273911604e-05,108692,498886
+"81","Warren County, New Jersey","Nassau County, New York",1,2.76009273911603e-05,108692,1339532
+"575","Mercer County, New Jersey","Sussex County, New Jersey",1,2.72841618169069e-05,366513,149265
+"118","Sussex County, New Jersey","Northampton County, Pennsylvania",1,2.67979767527552e-05,149265,297735
+"126","Sussex County, New Jersey","Fairfield County, Connecticut",1,2.67979767527552e-05,149265,916829
+"1092","Burlington County, New Jersey","Lehigh County, Pennsylvania",1,2.67419005468718e-05,448734,349497
+"520","Middlesex County, New Jersey","Lehigh County, Pennsylvania",1,2.59304717617163e-05,809858,349497
+"174","Morris County, New Jersey","District of Columbia, District of Columbia",1,2.43765692416449e-05,492276,601723
+"199","Union County, New Jersey","Camden County, New Jersey",1,2.23672364720158e-05,536499,513657
+"510","Middlesex County, New Jersey","Atlantic County, New Jersey",1,2.22261186528996e-05,809858,274549
+"1149","Atlantic County, New Jersey","Union County, New Jersey",1,2.18540224149424e-05,274549,536499
+"505","Middlesex County, New Jersey","Cumberland County, New Jersey",1,2.09913342832941e-05,809858,156898
+"1101","Cape May County, New Jersey","Westchester County, New York",1,2.05623811237341e-05,97265,949113
+"156","Morris County, New Jersey","Burlington County, New Jersey",1,2.03138077013708e-05,492276,448734
+"162","Morris County, New Jersey","Northampton County, Pennsylvania",1,2.03138077013708e-05,492276,297735
+"288","Passaic County, New Jersey","Burlington County, New Jersey",1,1.99510799519578e-05,501226,448734
+"1031","Camden County, New Jersey","Queens County, New York",1,1.94682443731907e-05,513657,2230722
+"419","Hudson County, New Jersey","Camden County, New Jersey",1,1.89195069576487e-05,634266,513657
+"86","Warren County, New Jersey","District of Columbia, District of Columbia",1,1.84006182607736e-05,108692,601723
+"66","Warren County, New Jersey","Philadelphia County, Pennsylvania",1,1.84006182607735e-05,108692,1526006
+"1148","Atlantic County, New Jersey","Morris County, New Jersey",1,1.82116853457853e-05,274549,492276
+"193","Union County, New Jersey","Bucks County, Pennsylvania",1,1.67754273540118e-05,536499,625249
+"301","Passaic County, New Jersey","Nassau County, New York",1,1.59608639615662e-05,501226,1339532
+"1029","Camden County, New Jersey","Kings County, New York",1,1.55745954985525e-05,513657,2504700
+"619","Ocean County, New Jersey","Sussex County, New Jersey",1,1.38752304589059e-05,576567,149265
+"108","Sussex County, New Jersey","Gloucester County, New Jersey",1,1.33989883763776e-05,149265,288288
+"474","Somerset County, New Jersey","Chester County, Pennsylvania",1,1.23669012255599e-05,323444,498886
+"152","Morris County, New Jersey","Gloucester County, New Jersey",1,1.21882846208225e-05,492276,288288
+"333","Bergen County, New Jersey","Cape May County, New Jersey",1,1.21531383822626e-05,905116,97265
+"295","Passaic County, New Jersey","Richmond County, New York",1,1.19706479711747e-05,501226,468730
+"211","Union County, New Jersey","Orange County, New York",1,1.11836182360079e-05,536499,372813
+"336","Bergen County, New Jersey","Delaware County, Pennsylvania",1,1.10483076202387e-05,905116,558979
+"424","Hudson County, New Jersey","Delaware County, Pennsylvania",1,1.10363790586284e-05,634266,558979
+"438","Hudson County, New Jersey","District of Columbia, District of Columbia",1,1.10363790586284e-05,634266,601723
+"1127","Cape May County, New Jersey","New Castle County, Delaware",1,1.02811905618671e-05,97265,538479
+"260","Essex County, New Jersey","Pike County, Pennsylvania",1,1.02044851263252e-05,783969,57369
+"159","Morris County, New Jersey","New Castle County, Delaware",1,1.01569038506854e-05,492276,538479
+"512","Middlesex County, New Jersey","Delaware County, Pennsylvania",1,9.87827495684428e-06,809858,558979
+"478","Somerset County, New Jersey","Fairfield County, Connecticut",1,9.27517591916993e-06,323444,916829
+"76","Warren County, New Jersey","Bronx County, New York",1,9.20030913038677e-06,108692,1385108
+"160","Morris County, New Jersey","Delaware County, Pennsylvania",1,8.12552308054831e-06,492276,558979
+"243","Essex County, New Jersey","Camden County, New Jersey",1,7.65336384474386e-06,783969,513657
+"1186","Atlantic County, New Jersey","District of Columbia, District of Columbia",1,7.28467413831411e-06,274549,601723
+"922","Gloucester County, New Jersey","District of Columbia, District of Columbia",1,6.93750693750694e-06,288288,601723
+"657","Ocean County, New Jersey","Suffolk County, New York",1,5.20321142208972e-06,576567,1493350
+"1089","Burlington County, New Jersey","Rockland County, New York",1,4.45698342447864e-06,448734,311687
+"175","Morris County, New Jersey","Montgomery County, Maryland",1,4.06276154027416e-06,492276,971777
+"303","Passaic County, New Jersey","Monroe County, Pennsylvania",1,3.99021599039155e-06,501226,169842
+"249","Essex County, New Jersey","Montgomery County, Pennsylvania",1,3.82668192237193e-06,783969,799874
+"203","Union County, New Jersey","New Castle County, Delaware",1,3.72787274533596e-06,536499,538479
+"526","Middlesex County, New Jersey","District of Columbia, District of Columbia",1,3.7043531088166e-06,809858,601723
+"643","Ocean County, New Jersey","New Castle County, Delaware",1,3.46880761472647e-06,576567,538479
+"688","Monmouth County, New Jersey","Delaware County, Pennsylvania",1,3.17268948887972e-06,630380,558979
+"481","Somerset County, New Jersey","Suffolk County, New York",1,3.09172530638998e-06,323444,1493350
+"256","Essex County, New Jersey","Lehigh County, Pennsylvania",1,2.55112128158128e-06,783969,349497
+"514","Middlesex County, New Jersey","Northampton County, Pennsylvania",1,2.46956873921107e-06,809858,297735
+"212","Union County, New Jersey","Lehigh County, Pennsylvania",1,1.86393637266798e-06,536499,349497
+"654","Ocean County, New Jersey","Fairfield County, Connecticut",1,1.73440380736323e-06,576567,916829
+"418","Hudson County, New Jersey","Philadelphia County, Pennsylvania",1,1.57662557980405e-06,634266,1526006
+"347","Bergen County, New Jersey","Monroe County, Pennsylvania",1,1.10483076202388e-06,905116,169842
+"337","Bergen County, New Jersey","Montgomery County, Pennsylvania",1,1.10483076202387e-06,905116,799874
+"1","Westchester County, New York","Warren County, New Jersey",1,0,949113,108692
+"2","Westchester County, New York","Sussex County, New Jersey",1,0,949113,149265
+"3","Westchester County, New York","Morris County, New Jersey",1,0,949113,492276
+"4","Westchester County, New York","Union County, New Jersey",1,0,949113,536499
+"5","Westchester County, New York","Essex County, New Jersey",1,0,949113,783969
+"6","Westchester County, New York","Passaic County, New Jersey",1,0,949113,501226
+"7","Westchester County, New York","Bergen County, New Jersey",1,0,949113,905116
+"8","Westchester County, New York","New York County, New York",1,0,949113,1585873
+"9","Westchester County, New York","Hudson County, New Jersey",1,0,949113,634266
+"10","Westchester County, New York","Somerset County, New Jersey",1,0,949113,323444
+"11","Westchester County, New York","Middlesex County, New Jersey",1,0,949113,809858
+"12","Westchester County, New York","Hunterdon County, New Jersey",1,0,949113,128349
+"13","Westchester County, New York","Mercer County, New Jersey",1,0,949113,366513
+"14","Westchester County, New York","Ocean County, New Jersey",1,0,949113,576567
+"15","Westchester County, New York","Monmouth County, New Jersey",1,0,949113,630380
+"16","Westchester County, New York","Kings County, New York",1,0,949113,2504700
+"17","Westchester County, New York","Bucks County, Pennsylvania",1,0,949113,625249
+"18","Westchester County, New York","Queens County, New York",1,0,949113,2230722
+"19","Westchester County, New York","Salem County, New Jersey",1,0,949113,66083
+"20","Westchester County, New York","Gloucester County, New Jersey",1,0,949113,288288
+"21","Westchester County, New York","Cumberland County, New Jersey",1,0,949113,156898
+"22","Westchester County, New York","Philadelphia County, Pennsylvania",1,0,949113,1526006
+"23","Westchester County, New York","Camden County, New Jersey",1,0,949113,513657
+"24","Westchester County, New York","Burlington County, New Jersey",1,0,949113,448734
+"25","Westchester County, New York","Cape May County, New Jersey",1,0,949113,97265
+"26","Westchester County, New York","Atlantic County, New Jersey",1,0,949113,274549
+"27","Westchester County, New York","New Castle County, Delaware",1,0,949113,538479
+"28","Westchester County, New York","Delaware County, Pennsylvania",1,0,949113,558979
+"29","Westchester County, New York","Montgomery County, Pennsylvania",1,0,949113,799874
+"30","Westchester County, New York","Northampton County, Pennsylvania",1,0,949113,297735
+"31","Westchester County, New York","Richmond County, New York",1,0,949113,468730
+"32","Westchester County, New York","Bronx County, New York",1,0,949113,1385108
+"33","Westchester County, New York","Rockland County, New York",1,0,949113,311687
+"34","Westchester County, New York","Chester County, Pennsylvania",1,0,949113,498886
+"35","Westchester County, New York","Orange County, New York",1,0,949113,372813
+"36","Westchester County, New York","Lehigh County, Pennsylvania",1,0,949113,349497
+"37","Westchester County, New York","Nassau County, New York",1,0,949113,1339532
+"38","Westchester County, New York","Fairfield County, Connecticut",1,0,949113,916829
+"39","Westchester County, New York","Monroe County, Pennsylvania",1,0,949113,169842
+"40","Westchester County, New York","Pike County, Pennsylvania",1,0,949113,57369
+"41","Westchester County, New York","Suffolk County, New York",1,0,949113,1493350
+"42","Westchester County, New York","District of Columbia, District of Columbia",1,0,949113,601723
+"43","Westchester County, New York","Montgomery County, Maryland",1,0,949113,971777
+"44","Westchester County, New York","Ulster County, New York",1,0,949113,182493
+"45","Warren County, New Jersey","Westchester County, New York",1,0,108692,949113
+"58","Warren County, New Jersey","Ocean County, New Jersey",1,0,108692,576567
+"60","Warren County, New Jersey","Kings County, New York",1,0,108692,2504700
+"63","Warren County, New Jersey","Salem County, New Jersey",1,0,108692,66083
+"64","Warren County, New Jersey","Gloucester County, New Jersey",1,0,108692,288288
+"65","Warren County, New Jersey","Cumberland County, New Jersey",1,0,108692,156898
+"69","Warren County, New Jersey","Cape May County, New Jersey",1,0,108692,97265
+"70","Warren County, New Jersey","Atlantic County, New Jersey",1,0,108692,274549
+"71","Warren County, New Jersey","New Castle County, Delaware",1,0,108692,538479
+"72","Warren County, New Jersey","Delaware County, Pennsylvania",1,0,108692,558979
+"75","Warren County, New Jersey","Richmond County, New York",1,0,108692,468730
+"77","Warren County, New Jersey","Rockland County, New York",1,0,108692,311687
+"79","Warren County, New Jersey","Orange County, New York",1,0,108692,372813
+"82","Warren County, New Jersey","Fairfield County, Connecticut",1,0,108692,916829
+"84","Warren County, New Jersey","Pike County, Pennsylvania",1,0,108692,57369
+"85","Warren County, New Jersey","Suffolk County, New York",1,0,108692,1493350
+"87","Warren County, New Jersey","Montgomery County, Maryland",1,0,108692,971777
+"88","Warren County, New Jersey","Ulster County, New York",1,0,108692,182493
+"102","Sussex County, New Jersey","Ocean County, New Jersey",1,0,149265,576567
+"105","Sussex County, New Jersey","Bucks County, Pennsylvania",1,0,149265,625249
+"107","Sussex County, New Jersey","Salem County, New Jersey",1,0,149265,66083
+"109","Sussex County, New Jersey","Cumberland County, New Jersey",1,0,149265,156898
+"110","Sussex County, New Jersey","Philadelphia County, Pennsylvania",1,0,149265,1526006
+"111","Sussex County, New Jersey","Camden County, New Jersey",1,0,149265,513657
+"112","Sussex County, New Jersey","Burlington County, New Jersey",1,0,149265,448734
+"113","Sussex County, New Jersey","Cape May County, New Jersey",1,0,149265,97265
+"114","Sussex County, New Jersey","Atlantic County, New Jersey",1,0,149265,274549
+"115","Sussex County, New Jersey","New Castle County, Delaware",1,0,149265,538479
+"116","Sussex County, New Jersey","Delaware County, Pennsylvania",1,0,149265,558979
+"117","Sussex County, New Jersey","Montgomery County, Pennsylvania",1,0,149265,799874
+"119","Sussex County, New Jersey","Richmond County, New York",1,0,149265,468730
+"122","Sussex County, New Jersey","Chester County, Pennsylvania",1,0,149265,498886
+"124","Sussex County, New Jersey","Lehigh County, Pennsylvania",1,0,149265,349497
+"127","Sussex County, New Jersey","Monroe County, Pennsylvania",1,0,149265,169842
+"129","Sussex County, New Jersey","Suffolk County, New York",1,0,149265,1493350
+"130","Sussex County, New Jersey","District of Columbia, District of Columbia",1,0,149265,601723
+"131","Sussex County, New Jersey","Montgomery County, Maryland",1,0,149265,971777
+"151","Morris County, New Jersey","Salem County, New Jersey",1,0,492276,66083
+"157","Morris County, New Jersey","Cape May County, New Jersey",1,0,492276,97265
+"158","Morris County, New Jersey","Atlantic County, New Jersey",1,0,492276,274549
+"166","Morris County, New Jersey","Chester County, Pennsylvania",1,0,492276,498886
+"172","Morris County, New Jersey","Pike County, Pennsylvania",1,0,492276,57369
+"176","Morris County, New Jersey","Ulster County, New York",1,0,492276,182493
+"195","Union County, New Jersey","Salem County, New Jersey",1,0,536499,66083
+"196","Union County, New Jersey","Gloucester County, New Jersey",1,0,536499,288288
+"197","Union County, New Jersey","Cumberland County, New Jersey",1,0,536499,156898
+"201","Union County, New Jersey","Cape May County, New Jersey",1,0,536499,97265
+"202","Union County, New Jersey","Atlantic County, New Jersey",1,0,536499,274549
+"204","Union County, New Jersey","Delaware County, Pennsylvania",1,0,536499,558979
+"205","Union County, New Jersey","Montgomery County, Pennsylvania",1,0,536499,799874
+"206","Union County, New Jersey","Northampton County, Pennsylvania",1,0,536499,297735
+"210","Union County, New Jersey","Chester County, Pennsylvania",1,0,536499,498886
+"215","Union County, New Jersey","Monroe County, Pennsylvania",1,0,536499,169842
+"216","Union County, New Jersey","Pike County, Pennsylvania",1,0,536499,57369
+"219","Union County, New Jersey","Montgomery County, Maryland",1,0,536499,971777
+"220","Union County, New Jersey","Ulster County, New York",1,0,536499,182493
+"237","Essex County, New Jersey","Bucks County, Pennsylvania",1,0,783969,625249
+"239","Essex County, New Jersey","Salem County, New Jersey",1,0,783969,66083
+"240","Essex County, New Jersey","Gloucester County, New Jersey",1,0,783969,288288
+"241","Essex County, New Jersey","Cumberland County, New Jersey",1,0,783969,156898
+"245","Essex County, New Jersey","Cape May County, New Jersey",1,0,783969,97265
+"246","Essex County, New Jersey","Atlantic County, New Jersey",1,0,783969,274549
+"247","Essex County, New Jersey","New Castle County, Delaware",1,0,783969,538479
+"248","Essex County, New Jersey","Delaware County, Pennsylvania",1,0,783969,558979
+"250","Essex County, New Jersey","Northampton County, Pennsylvania",1,0,783969,297735
+"254","Essex County, New Jersey","Chester County, Pennsylvania",1,0,783969,498886
+"255","Essex County, New Jersey","Orange County, New York",1,0,783969,372813
+"259","Essex County, New Jersey","Monroe County, Pennsylvania",1,0,783969,169842
+"262","Essex County, New Jersey","District of Columbia, District of Columbia",1,0,783969,601723
+"263","Essex County, New Jersey","Montgomery County, Maryland",1,0,783969,971777
+"264","Essex County, New Jersey","Ulster County, New York",1,0,783969,182493
+"281","Passaic County, New Jersey","Bucks County, Pennsylvania",1,0,501226,625249
+"283","Passaic County, New Jersey","Salem County, New Jersey",1,0,501226,66083
+"285","Passaic County, New Jersey","Cumberland County, New Jersey",1,0,501226,156898
+"289","Passaic County, New Jersey","Cape May County, New Jersey",1,0,501226,97265
+"290","Passaic County, New Jersey","Atlantic County, New Jersey",1,0,501226,274549
+"291","Passaic County, New Jersey","New Castle County, Delaware",1,0,501226,538479
+"292","Passaic County, New Jersey","Delaware County, Pennsylvania",1,0,501226,558979
+"293","Passaic County, New Jersey","Montgomery County, Pennsylvania",1,0,501226,799874
+"294","Passaic County, New Jersey","Northampton County, Pennsylvania",1,0,501226,297735
+"298","Passaic County, New Jersey","Chester County, Pennsylvania",1,0,501226,498886
+"300","Passaic County, New Jersey","Lehigh County, Pennsylvania",1,0,501226,349497
+"304","Passaic County, New Jersey","Pike County, Pennsylvania",1,0,501226,57369
+"305","Passaic County, New Jersey","Suffolk County, New York",1,0,501226,1493350
+"306","Passaic County, New Jersey","District of Columbia, District of Columbia",1,0,501226,601723
+"308","Passaic County, New Jersey","Ulster County, New York",1,0,501226,182493
+"325","Bergen County, New Jersey","Bucks County, Pennsylvania",1,0,905116,625249
+"327","Bergen County, New Jersey","Salem County, New Jersey",1,0,905116,66083
+"328","Bergen County, New Jersey","Gloucester County, New Jersey",1,0,905116,288288
+"329","Bergen County, New Jersey","Cumberland County, New Jersey",1,0,905116,156898
+"335","Bergen County, New Jersey","New Castle County, Delaware",1,0,905116,538479
+"338","Bergen County, New Jersey","Northampton County, Pennsylvania",1,0,905116,297735
+"342","Bergen County, New Jersey","Chester County, Pennsylvania",1,0,905116,498886
+"344","Bergen County, New Jersey","Lehigh County, Pennsylvania",1,0,905116,349497
+"348","Bergen County, New Jersey","Pike County, Pennsylvania",1,0,905116,57369
+"351","Bergen County, New Jersey","Montgomery County, Maryland",1,0,905116,971777
+"352","Bergen County, New Jersey","Ulster County, New York",1,0,905116,182493
+"353","New York County, New York","Westchester County, New York",1,0,1585873,949113
+"354","New York County, New York","Warren County, New Jersey",1,0,1585873,108692
+"355","New York County, New York","Sussex County, New Jersey",1,0,1585873,149265
+"356","New York County, New York","Morris County, New Jersey",1,0,1585873,492276
+"357","New York County, New York","Union County, New Jersey",1,0,1585873,536499
+"358","New York County, New York","Essex County, New Jersey",1,0,1585873,783969
+"359","New York County, New York","Passaic County, New Jersey",1,0,1585873,501226
+"360","New York County, New York","Bergen County, New Jersey",1,0,1585873,905116
+"361","New York County, New York","Hudson County, New Jersey",1,0,1585873,634266
+"362","New York County, New York","Somerset County, New Jersey",1,0,1585873,323444
+"363","New York County, New York","Middlesex County, New Jersey",1,0,1585873,809858
+"364","New York County, New York","Hunterdon County, New Jersey",1,0,1585873,128349
+"365","New York County, New York","Mercer County, New Jersey",1,0,1585873,366513
+"366","New York County, New York","Ocean County, New Jersey",1,0,1585873,576567
+"367","New York County, New York","Monmouth County, New Jersey",1,0,1585873,630380
+"368","New York County, New York","Kings County, New York",1,0,1585873,2504700
+"369","New York County, New York","Bucks County, Pennsylvania",1,0,1585873,625249
+"370","New York County, New York","Queens County, New York",1,0,1585873,2230722
+"371","New York County, New York","Salem County, New Jersey",1,0,1585873,66083
+"372","New York County, New York","Gloucester County, New Jersey",1,0,1585873,288288
+"373","New York County, New York","Cumberland County, New Jersey",1,0,1585873,156898
+"374","New York County, New York","Philadelphia County, Pennsylvania",1,0,1585873,1526006
+"375","New York County, New York","Camden County, New Jersey",1,0,1585873,513657
+"376","New York County, New York","Burlington County, New Jersey",1,0,1585873,448734
+"377","New York County, New York","Cape May County, New Jersey",1,0,1585873,97265
+"378","New York County, New York","Atlantic County, New Jersey",1,0,1585873,274549
+"379","New York County, New York","New Castle County, Delaware",1,0,1585873,538479
+"380","New York County, New York","Delaware County, Pennsylvania",1,0,1585873,558979
+"381","New York County, New York","Montgomery County, Pennsylvania",1,0,1585873,799874
+"382","New York County, New York","Northampton County, Pennsylvania",1,0,1585873,297735
+"383","New York County, New York","Richmond County, New York",1,0,1585873,468730
+"384","New York County, New York","Bronx County, New York",1,0,1585873,1385108
+"385","New York County, New York","Rockland County, New York",1,0,1585873,311687
+"386","New York County, New York","Chester County, Pennsylvania",1,0,1585873,498886
+"387","New York County, New York","Orange County, New York",1,0,1585873,372813
+"388","New York County, New York","Lehigh County, Pennsylvania",1,0,1585873,349497
+"389","New York County, New York","Nassau County, New York",1,0,1585873,1339532
+"390","New York County, New York","Fairfield County, Connecticut",1,0,1585873,916829
+"391","New York County, New York","Monroe County, Pennsylvania",1,0,1585873,169842
+"392","New York County, New York","Pike County, Pennsylvania",1,0,1585873,57369
+"393","New York County, New York","Suffolk County, New York",1,0,1585873,1493350
+"394","New York County, New York","District of Columbia, District of Columbia",1,0,1585873,601723
+"395","New York County, New York","Montgomery County, Maryland",1,0,1585873,971777
+"396","New York County, New York","Ulster County, New York",1,0,1585873,182493
+"398","Hudson County, New Jersey","Warren County, New Jersey",1,0,634266,108692
+"413","Hudson County, New Jersey","Bucks County, Pennsylvania",1,0,634266,625249
+"415","Hudson County, New Jersey","Salem County, New Jersey",1,0,634266,66083
+"416","Hudson County, New Jersey","Gloucester County, New Jersey",1,0,634266,288288
+"421","Hudson County, New Jersey","Cape May County, New Jersey",1,0,634266,97265
+"422","Hudson County, New Jersey","Atlantic County, New Jersey",1,0,634266,274549
+"423","Hudson County, New Jersey","New Castle County, Delaware",1,0,634266,538479
+"426","Hudson County, New Jersey","Northampton County, Pennsylvania",1,0,634266,297735
+"430","Hudson County, New Jersey","Chester County, Pennsylvania",1,0,634266,498886
+"432","Hudson County, New Jersey","Lehigh County, Pennsylvania",1,0,634266,349497
+"435","Hudson County, New Jersey","Monroe County, Pennsylvania",1,0,634266,169842
+"436","Hudson County, New Jersey","Pike County, Pennsylvania",1,0,634266,57369
+"439","Hudson County, New Jersey","Montgomery County, Maryland",1,0,634266,971777
+"440","Hudson County, New Jersey","Ulster County, New York",1,0,634266,182493
+"459","Somerset County, New Jersey","Salem County, New Jersey",1,0,323444,66083
+"465","Somerset County, New Jersey","Cape May County, New Jersey",1,0,323444,97265
+"466","Somerset County, New Jersey","Atlantic County, New Jersey",1,0,323444,274549
+"467","Somerset County, New Jersey","New Castle County, Delaware",1,0,323444,538479
+"475","Somerset County, New Jersey","Orange County, New York",1,0,323444,372813
+"479","Somerset County, New Jersey","Monroe County, Pennsylvania",1,0,323444,169842
+"480","Somerset County, New Jersey","Pike County, Pennsylvania",1,0,323444,57369
+"482","Somerset County, New Jersey","District of Columbia, District of Columbia",1,0,323444,601723
+"483","Somerset County, New Jersey","Montgomery County, Maryland",1,0,323444,971777
+"484","Somerset County, New Jersey","Ulster County, New York",1,0,323444,182493
+"503","Middlesex County, New Jersey","Salem County, New Jersey",1,0,809858,66083
+"509","Middlesex County, New Jersey","Cape May County, New Jersey",1,0,809858,97265
+"518","Middlesex County, New Jersey","Chester County, Pennsylvania",1,0,809858,498886
+"519","Middlesex County, New Jersey","Orange County, New York",1,0,809858,372813
+"523","Middlesex County, New Jersey","Monroe County, Pennsylvania",1,0,809858,169842
+"524","Middlesex County, New Jersey","Pike County, Pennsylvania",1,0,809858,57369
+"527","Middlesex County, New Jersey","Montgomery County, Maryland",1,0,809858,971777
+"528","Middlesex County, New Jersey","Ulster County, New York",1,0,809858,182493
+"547","Hunterdon County, New Jersey","Salem County, New Jersey",1,0,128349,66083
+"548","Hunterdon County, New Jersey","Gloucester County, New Jersey",1,0,128349,288288
+"549","Hunterdon County, New Jersey","Cumberland County, New Jersey",1,0,128349,156898
+"551","Hunterdon County, New Jersey","Camden County, New Jersey",1,0,128349,513657
+"553","Hunterdon County, New Jersey","Cape May County, New Jersey",1,0,128349,97265
+"554","Hunterdon County, New Jersey","Atlantic County, New Jersey",1,0,128349,274549
+"555","Hunterdon County, New Jersey","New Castle County, Delaware",1,0,128349,538479
+"556","Hunterdon County, New Jersey","Delaware County, Pennsylvania",1,0,128349,558979
+"559","Hunterdon County, New Jersey","Richmond County, New York",1,0,128349,468730
+"560","Hunterdon County, New Jersey","Bronx County, New York",1,0,128349,1385108
+"561","Hunterdon County, New Jersey","Rockland County, New York",1,0,128349,311687
+"562","Hunterdon County, New Jersey","Chester County, Pennsylvania",1,0,128349,498886
+"563","Hunterdon County, New Jersey","Orange County, New York",1,0,128349,372813
+"566","Hunterdon County, New Jersey","Fairfield County, Connecticut",1,0,128349,916829
+"568","Hunterdon County, New Jersey","Pike County, Pennsylvania",1,0,128349,57369
+"569","Hunterdon County, New Jersey","Suffolk County, New York",1,0,128349,1493350
+"570","Hunterdon County, New Jersey","District of Columbia, District of Columbia",1,0,128349,601723
+"571","Hunterdon County, New Jersey","Montgomery County, Maryland",1,0,128349,971777
+"572","Hunterdon County, New Jersey","Ulster County, New York",1,0,128349,182493
+"573","Mercer County, New Jersey","Westchester County, New York",1,0,366513,949113
+"591","Mercer County, New Jersey","Salem County, New Jersey",1,0,366513,66083
+"597","Mercer County, New Jersey","Cape May County, New Jersey",1,0,366513,97265
+"604","Mercer County, New Jersey","Bronx County, New York",1,0,366513,1385108
+"605","Mercer County, New Jersey","Rockland County, New York",1,0,366513,311687
+"607","Mercer County, New Jersey","Orange County, New York",1,0,366513,372813
+"608","Mercer County, New Jersey","Lehigh County, Pennsylvania",1,0,366513,349497
+"610","Mercer County, New Jersey","Fairfield County, Connecticut",1,0,366513,916829
+"611","Mercer County, New Jersey","Monroe County, Pennsylvania",1,0,366513,169842
+"612","Mercer County, New Jersey","Pike County, Pennsylvania",1,0,366513,57369
+"614","Mercer County, New Jersey","District of Columbia, District of Columbia",1,0,366513,601723
+"615","Mercer County, New Jersey","Montgomery County, Maryland",1,0,366513,971777
+"616","Mercer County, New Jersey","Ulster County, New York",1,0,366513,182493
+"635","Ocean County, New Jersey","Salem County, New Jersey",1,0,576567,66083
+"646","Ocean County, New Jersey","Northampton County, Pennsylvania",1,0,576567,297735
+"649","Ocean County, New Jersey","Rockland County, New York",1,0,576567,311687
+"651","Ocean County, New Jersey","Orange County, New York",1,0,576567,372813
+"652","Ocean County, New Jersey","Lehigh County, Pennsylvania",1,0,576567,349497
+"655","Ocean County, New Jersey","Monroe County, Pennsylvania",1,0,576567,169842
+"656","Ocean County, New Jersey","Pike County, Pennsylvania",1,0,576567,57369
+"658","Ocean County, New Jersey","District of Columbia, District of Columbia",1,0,576567,601723
+"659","Ocean County, New Jersey","Montgomery County, Maryland",1,0,576567,971777
+"660","Ocean County, New Jersey","Ulster County, New York",1,0,576567,182493
+"679","Monmouth County, New Jersey","Salem County, New Jersey",1,0,630380,66083
+"681","Monmouth County, New Jersey","Cumberland County, New Jersey",1,0,630380,156898
+"685","Monmouth County, New Jersey","Cape May County, New Jersey",1,0,630380,97265
+"690","Monmouth County, New Jersey","Northampton County, Pennsylvania",1,0,630380,297735
+"695","Monmouth County, New Jersey","Orange County, New York",1,0,630380,372813
+"696","Monmouth County, New Jersey","Lehigh County, Pennsylvania",1,0,630380,349497
+"699","Monmouth County, New Jersey","Monroe County, Pennsylvania",1,0,630380,169842
+"700","Monmouth County, New Jersey","Pike County, Pennsylvania",1,0,630380,57369
+"701","Monmouth County, New Jersey","Suffolk County, New York",1,0,630380,1493350
+"703","Monmouth County, New Jersey","Montgomery County, Maryland",1,0,630380,971777
+"704","Monmouth County, New Jersey","Ulster County, New York",1,0,630380,182493
+"705","Kings County, New York","Westchester County, New York",1,0,2504700,949113
+"706","Kings County, New York","Warren County, New Jersey",1,0,2504700,108692
+"707","Kings County, New York","Sussex County, New Jersey",1,0,2504700,149265
+"708","Kings County, New York","Morris County, New Jersey",1,0,2504700,492276
+"709","Kings County, New York","Union County, New Jersey",1,0,2504700,536499
+"710","Kings County, New York","Essex County, New Jersey",1,0,2504700,783969
+"711","Kings County, New York","Passaic County, New Jersey",1,0,2504700,501226
+"712","Kings County, New York","Bergen County, New Jersey",1,0,2504700,905116
+"713","Kings County, New York","New York County, New York",1,0,2504700,1585873
+"714","Kings County, New York","Hudson County, New Jersey",1,0,2504700,634266
+"715","Kings County, New York","Somerset County, New Jersey",1,0,2504700,323444
+"716","Kings County, New York","Middlesex County, New Jersey",1,0,2504700,809858
+"717","Kings County, New York","Hunterdon County, New Jersey",1,0,2504700,128349
+"718","Kings County, New York","Mercer County, New Jersey",1,0,2504700,366513
+"719","Kings County, New York","Ocean County, New Jersey",1,0,2504700,576567
+"720","Kings County, New York","Monmouth County, New Jersey",1,0,2504700,630380
+"721","Kings County, New York","Bucks County, Pennsylvania",1,0,2504700,625249
+"722","Kings County, New York","Queens County, New York",1,0,2504700,2230722
+"723","Kings County, New York","Salem County, New Jersey",1,0,2504700,66083
+"724","Kings County, New York","Gloucester County, New Jersey",1,0,2504700,288288
+"725","Kings County, New York","Cumberland County, New Jersey",1,0,2504700,156898
+"726","Kings County, New York","Philadelphia County, Pennsylvania",1,0,2504700,1526006
+"727","Kings County, New York","Camden County, New Jersey",1,0,2504700,513657
+"728","Kings County, New York","Burlington County, New Jersey",1,0,2504700,448734
+"729","Kings County, New York","Cape May County, New Jersey",1,0,2504700,97265
+"730","Kings County, New York","Atlantic County, New Jersey",1,0,2504700,274549
+"731","Kings County, New York","New Castle County, Delaware",1,0,2504700,538479
+"732","Kings County, New York","Delaware County, Pennsylvania",1,0,2504700,558979
+"733","Kings County, New York","Montgomery County, Pennsylvania",1,0,2504700,799874
+"734","Kings County, New York","Northampton County, Pennsylvania",1,0,2504700,297735
+"735","Kings County, New York","Richmond County, New York",1,0,2504700,468730
+"736","Kings County, New York","Bronx County, New York",1,0,2504700,1385108
+"737","Kings County, New York","Rockland County, New York",1,0,2504700,311687
+"738","Kings County, New York","Chester County, Pennsylvania",1,0,2504700,498886
+"739","Kings County, New York","Orange County, New York",1,0,2504700,372813
+"740","Kings County, New York","Lehigh County, Pennsylvania",1,0,2504700,349497
+"741","Kings County, New York","Nassau County, New York",1,0,2504700,1339532
+"742","Kings County, New York","Fairfield County, Connecticut",1,0,2504700,916829
+"743","Kings County, New York","Monroe County, Pennsylvania",1,0,2504700,169842
+"744","Kings County, New York","Pike County, Pennsylvania",1,0,2504700,57369
+"745","Kings County, New York","Suffolk County, New York",1,0,2504700,1493350
+"746","Kings County, New York","District of Columbia, District of Columbia",1,0,2504700,601723
+"747","Kings County, New York","Montgomery County, Maryland",1,0,2504700,971777
+"748","Kings County, New York","Ulster County, New York",1,0,2504700,182493
+"749","Bucks County, Pennsylvania","Westchester County, New York",1,0,625249,949113
+"750","Bucks County, Pennsylvania","Warren County, New Jersey",1,0,625249,108692
+"751","Bucks County, Pennsylvania","Sussex County, New Jersey",1,0,625249,149265
+"752","Bucks County, Pennsylvania","Morris County, New Jersey",1,0,625249,492276
+"753","Bucks County, Pennsylvania","Union County, New Jersey",1,0,625249,536499
+"754","Bucks County, Pennsylvania","Essex County, New Jersey",1,0,625249,783969
+"755","Bucks County, Pennsylvania","Passaic County, New Jersey",1,0,625249,501226
+"756","Bucks County, Pennsylvania","Bergen County, New Jersey",1,0,625249,905116
+"757","Bucks County, Pennsylvania","New York County, New York",1,0,625249,1585873
+"758","Bucks County, Pennsylvania","Hudson County, New Jersey",1,0,625249,634266
+"759","Bucks County, Pennsylvania","Somerset County, New Jersey",1,0,625249,323444
+"760","Bucks County, Pennsylvania","Middlesex County, New Jersey",1,0,625249,809858
+"761","Bucks County, Pennsylvania","Hunterdon County, New Jersey",1,0,625249,128349
+"762","Bucks County, Pennsylvania","Mercer County, New Jersey",1,0,625249,366513
+"763","Bucks County, Pennsylvania","Ocean County, New Jersey",1,0,625249,576567
+"764","Bucks County, Pennsylvania","Monmouth County, New Jersey",1,0,625249,630380
+"765","Bucks County, Pennsylvania","Kings County, New York",1,0,625249,2504700
+"766","Bucks County, Pennsylvania","Queens County, New York",1,0,625249,2230722
+"767","Bucks County, Pennsylvania","Salem County, New Jersey",1,0,625249,66083
+"768","Bucks County, Pennsylvania","Gloucester County, New Jersey",1,0,625249,288288
+"769","Bucks County, Pennsylvania","Cumberland County, New Jersey",1,0,625249,156898
+"770","Bucks County, Pennsylvania","Philadelphia County, Pennsylvania",1,0,625249,1526006
+"771","Bucks County, Pennsylvania","Camden County, New Jersey",1,0,625249,513657
+"772","Bucks County, Pennsylvania","Burlington County, New Jersey",1,0,625249,448734
+"773","Bucks County, Pennsylvania","Cape May County, New Jersey",1,0,625249,97265
+"774","Bucks County, Pennsylvania","Atlantic County, New Jersey",1,0,625249,274549
+"775","Bucks County, Pennsylvania","New Castle County, Delaware",1,0,625249,538479
+"776","Bucks County, Pennsylvania","Delaware County, Pennsylvania",1,0,625249,558979
+"777","Bucks County, Pennsylvania","Montgomery County, Pennsylvania",1,0,625249,799874
+"778","Bucks County, Pennsylvania","Northampton County, Pennsylvania",1,0,625249,297735
+"779","Bucks County, Pennsylvania","Richmond County, New York",1,0,625249,468730
+"780","Bucks County, Pennsylvania","Bronx County, New York",1,0,625249,1385108
+"781","Bucks County, Pennsylvania","Rockland County, New York",1,0,625249,311687
+"782","Bucks County, Pennsylvania","Chester County, Pennsylvania",1,0,625249,498886
+"783","Bucks County, Pennsylvania","Orange County, New York",1,0,625249,372813
+"784","Bucks County, Pennsylvania","Lehigh County, Pennsylvania",1,0,625249,349497
+"785","Bucks County, Pennsylvania","Nassau County, New York",1,0,625249,1339532
+"786","Bucks County, Pennsylvania","Fairfield County, Connecticut",1,0,625249,916829
+"787","Bucks County, Pennsylvania","Monroe County, Pennsylvania",1,0,625249,169842
+"788","Bucks County, Pennsylvania","Pike County, Pennsylvania",1,0,625249,57369
+"789","Bucks County, Pennsylvania","Suffolk County, New York",1,0,625249,1493350
+"790","Bucks County, Pennsylvania","District of Columbia, District of Columbia",1,0,625249,601723
+"791","Bucks County, Pennsylvania","Montgomery County, Maryland",1,0,625249,971777
+"792","Bucks County, Pennsylvania","Ulster County, New York",1,0,625249,182493
+"793","Queens County, New York","Westchester County, New York",1,0,2230722,949113
+"794","Queens County, New York","Warren County, New Jersey",1,0,2230722,108692
+"795","Queens County, New York","Sussex County, New Jersey",1,0,2230722,149265
+"796","Queens County, New York","Morris County, New Jersey",1,0,2230722,492276
+"797","Queens County, New York","Union County, New Jersey",1,0,2230722,536499
+"798","Queens County, New York","Essex County, New Jersey",1,0,2230722,783969
+"799","Queens County, New York","Passaic County, New Jersey",1,0,2230722,501226
+"800","Queens County, New York","Bergen County, New Jersey",1,0,2230722,905116
+"801","Queens County, New York","New York County, New York",1,0,2230722,1585873
+"802","Queens County, New York","Hudson County, New Jersey",1,0,2230722,634266
+"803","Queens County, New York","Somerset County, New Jersey",1,0,2230722,323444
+"804","Queens County, New York","Middlesex County, New Jersey",1,0,2230722,809858
+"805","Queens County, New York","Hunterdon County, New Jersey",1,0,2230722,128349
+"806","Queens County, New York","Mercer County, New Jersey",1,0,2230722,366513
+"807","Queens County, New York","Ocean County, New Jersey",1,0,2230722,576567
+"808","Queens County, New York","Monmouth County, New Jersey",1,0,2230722,630380
+"809","Queens County, New York","Kings County, New York",1,0,2230722,2504700
+"810","Queens County, New York","Bucks County, Pennsylvania",1,0,2230722,625249
+"811","Queens County, New York","Salem County, New Jersey",1,0,2230722,66083
+"812","Queens County, New York","Gloucester County, New Jersey",1,0,2230722,288288
+"813","Queens County, New York","Cumberland County, New Jersey",1,0,2230722,156898
+"814","Queens County, New York","Philadelphia County, Pennsylvania",1,0,2230722,1526006
+"815","Queens County, New York","Camden County, New Jersey",1,0,2230722,513657
+"816","Queens County, New York","Burlington County, New Jersey",1,0,2230722,448734
+"817","Queens County, New York","Cape May County, New Jersey",1,0,2230722,97265
+"818","Queens County, New York","Atlantic County, New Jersey",1,0,2230722,274549
+"819","Queens County, New York","New Castle County, Delaware",1,0,2230722,538479
+"820","Queens County, New York","Delaware County, Pennsylvania",1,0,2230722,558979
+"821","Queens County, New York","Montgomery County, Pennsylvania",1,0,2230722,799874
+"822","Queens County, New York","Northampton County, Pennsylvania",1,0,2230722,297735
+"823","Queens County, New York","Richmond County, New York",1,0,2230722,468730
+"824","Queens County, New York","Bronx County, New York",1,0,2230722,1385108
+"825","Queens County, New York","Rockland County, New York",1,0,2230722,311687
+"826","Queens County, New York","Chester County, Pennsylvania",1,0,2230722,498886
+"827","Queens County, New York","Orange County, New York",1,0,2230722,372813
+"828","Queens County, New York","Lehigh County, Pennsylvania",1,0,2230722,349497
+"829","Queens County, New York","Nassau County, New York",1,0,2230722,1339532
+"830","Queens County, New York","Fairfield County, Connecticut",1,0,2230722,916829
+"831","Queens County, New York","Monroe County, Pennsylvania",1,0,2230722,169842
+"832","Queens County, New York","Pike County, Pennsylvania",1,0,2230722,57369
+"833","Queens County, New York","Suffolk County, New York",1,0,2230722,1493350
+"834","Queens County, New York","District of Columbia, District of Columbia",1,0,2230722,601723
+"835","Queens County, New York","Montgomery County, Maryland",1,0,2230722,971777
+"836","Queens County, New York","Ulster County, New York",1,0,2230722,182493
+"837","Salem County, New Jersey","Westchester County, New York",1,0,66083,949113
+"838","Salem County, New Jersey","Warren County, New Jersey",1,0,66083,108692
+"839","Salem County, New Jersey","Sussex County, New Jersey",1,0,66083,149265
+"840","Salem County, New Jersey","Morris County, New Jersey",1,0,66083,492276
+"841","Salem County, New Jersey","Union County, New Jersey",1,0,66083,536499
+"842","Salem County, New Jersey","Essex County, New Jersey",1,0,66083,783969
+"843","Salem County, New Jersey","Passaic County, New Jersey",1,0,66083,501226
+"844","Salem County, New Jersey","Bergen County, New Jersey",1,0,66083,905116
+"845","Salem County, New Jersey","New York County, New York",1,0,66083,1585873
+"847","Salem County, New Jersey","Somerset County, New Jersey",1,0,66083,323444
+"849","Salem County, New Jersey","Hunterdon County, New Jersey",1,0,66083,128349
+"851","Salem County, New Jersey","Ocean County, New Jersey",1,0,66083,576567
+"853","Salem County, New Jersey","Kings County, New York",1,0,66083,2504700
+"854","Salem County, New Jersey","Bucks County, Pennsylvania",1,0,66083,625249
+"855","Salem County, New Jersey","Queens County, New York",1,0,66083,2230722
+"866","Salem County, New Jersey","Northampton County, Pennsylvania",1,0,66083,297735
+"867","Salem County, New Jersey","Richmond County, New York",1,0,66083,468730
+"868","Salem County, New Jersey","Bronx County, New York",1,0,66083,1385108
+"869","Salem County, New Jersey","Rockland County, New York",1,0,66083,311687
+"871","Salem County, New Jersey","Orange County, New York",1,0,66083,372813
+"872","Salem County, New Jersey","Lehigh County, Pennsylvania",1,0,66083,349497
+"873","Salem County, New Jersey","Nassau County, New York",1,0,66083,1339532
+"874","Salem County, New Jersey","Fairfield County, Connecticut",1,0,66083,916829
+"875","Salem County, New Jersey","Monroe County, Pennsylvania",1,0,66083,169842
+"876","Salem County, New Jersey","Pike County, Pennsylvania",1,0,66083,57369
+"877","Salem County, New Jersey","Suffolk County, New York",1,0,66083,1493350
+"878","Salem County, New Jersey","District of Columbia, District of Columbia",1,0,66083,601723
+"879","Salem County, New Jersey","Montgomery County, Maryland",1,0,66083,971777
+"880","Salem County, New Jersey","Ulster County, New York",1,0,66083,182493
+"881","Gloucester County, New Jersey","Westchester County, New York",1,0,288288,949113
+"882","Gloucester County, New Jersey","Warren County, New Jersey",1,0,288288,108692
+"883","Gloucester County, New Jersey","Sussex County, New Jersey",1,0,288288,149265
+"885","Gloucester County, New Jersey","Union County, New Jersey",1,0,288288,536499
+"887","Gloucester County, New Jersey","Passaic County, New Jersey",1,0,288288,501226
+"897","Gloucester County, New Jersey","Kings County, New York",1,0,288288,2504700
+"899","Gloucester County, New Jersey","Queens County, New York",1,0,288288,2230722
+"911","Gloucester County, New Jersey","Richmond County, New York",1,0,288288,468730
+"912","Gloucester County, New Jersey","Bronx County, New York",1,0,288288,1385108
+"913","Gloucester County, New Jersey","Rockland County, New York",1,0,288288,311687
+"915","Gloucester County, New Jersey","Orange County, New York",1,0,288288,372813
+"916","Gloucester County, New Jersey","Lehigh County, Pennsylvania",1,0,288288,349497
+"917","Gloucester County, New Jersey","Nassau County, New York",1,0,288288,1339532
+"918","Gloucester County, New Jersey","Fairfield County, Connecticut",1,0,288288,916829
+"919","Gloucester County, New Jersey","Monroe County, Pennsylvania",1,0,288288,169842
+"920","Gloucester County, New Jersey","Pike County, Pennsylvania",1,0,288288,57369
+"921","Gloucester County, New Jersey","Suffolk County, New York",1,0,288288,1493350
+"923","Gloucester County, New Jersey","Montgomery County, Maryland",1,0,288288,971777
+"924","Gloucester County, New Jersey","Ulster County, New York",1,0,288288,182493
+"925","Cumberland County, New Jersey","Westchester County, New York",1,0,156898,949113
+"926","Cumberland County, New Jersey","Warren County, New Jersey",1,0,156898,108692
+"927","Cumberland County, New Jersey","Sussex County, New Jersey",1,0,156898,149265
+"928","Cumberland County, New Jersey","Morris County, New Jersey",1,0,156898,492276
+"929","Cumberland County, New Jersey","Union County, New Jersey",1,0,156898,536499
+"930","Cumberland County, New Jersey","Essex County, New Jersey",1,0,156898,783969
+"931","Cumberland County, New Jersey","Passaic County, New Jersey",1,0,156898,501226
+"934","Cumberland County, New Jersey","Hudson County, New Jersey",1,0,156898,634266
+"935","Cumberland County, New Jersey","Somerset County, New Jersey",1,0,156898,323444
+"936","Cumberland County, New Jersey","Middlesex County, New Jersey",1,0,156898,809858
+"937","Cumberland County, New Jersey","Hunterdon County, New Jersey",1,0,156898,128349
+"940","Cumberland County, New Jersey","Monmouth County, New Jersey",1,0,156898,630380
+"941","Cumberland County, New Jersey","Kings County, New York",1,0,156898,2504700
+"942","Cumberland County, New Jersey","Bucks County, Pennsylvania",1,0,156898,625249
+"943","Cumberland County, New Jersey","Queens County, New York",1,0,156898,2230722
+"954","Cumberland County, New Jersey","Northampton County, Pennsylvania",1,0,156898,297735
+"955","Cumberland County, New Jersey","Richmond County, New York",1,0,156898,468730
+"956","Cumberland County, New Jersey","Bronx County, New York",1,0,156898,1385108
+"957","Cumberland County, New Jersey","Rockland County, New York",1,0,156898,311687
+"959","Cumberland County, New Jersey","Orange County, New York",1,0,156898,372813
+"960","Cumberland County, New Jersey","Lehigh County, Pennsylvania",1,0,156898,349497
+"961","Cumberland County, New Jersey","Nassau County, New York",1,0,156898,1339532
+"962","Cumberland County, New Jersey","Fairfield County, Connecticut",1,0,156898,916829
+"963","Cumberland County, New Jersey","Monroe County, Pennsylvania",1,0,156898,169842
+"964","Cumberland County, New Jersey","Pike County, Pennsylvania",1,0,156898,57369
+"965","Cumberland County, New Jersey","Suffolk County, New York",1,0,156898,1493350
+"966","Cumberland County, New Jersey","District of Columbia, District of Columbia",1,0,156898,601723
+"967","Cumberland County, New Jersey","Montgomery County, Maryland",1,0,156898,971777
+"968","Cumberland County, New Jersey","Ulster County, New York",1,0,156898,182493
+"969","Philadelphia County, Pennsylvania","Westchester County, New York",1,0,1526006,949113
+"970","Philadelphia County, Pennsylvania","Warren County, New Jersey",1,0,1526006,108692
+"971","Philadelphia County, Pennsylvania","Sussex County, New Jersey",1,0,1526006,149265
+"972","Philadelphia County, Pennsylvania","Morris County, New Jersey",1,0,1526006,492276
+"973","Philadelphia County, Pennsylvania","Union County, New Jersey",1,0,1526006,536499
+"974","Philadelphia County, Pennsylvania","Essex County, New Jersey",1,0,1526006,783969
+"975","Philadelphia County, Pennsylvania","Passaic County, New Jersey",1,0,1526006,501226
+"976","Philadelphia County, Pennsylvania","Bergen County, New Jersey",1,0,1526006,905116
+"977","Philadelphia County, Pennsylvania","New York County, New York",1,0,1526006,1585873
+"978","Philadelphia County, Pennsylvania","Hudson County, New Jersey",1,0,1526006,634266
+"979","Philadelphia County, Pennsylvania","Somerset County, New Jersey",1,0,1526006,323444
+"980","Philadelphia County, Pennsylvania","Middlesex County, New Jersey",1,0,1526006,809858
+"981","Philadelphia County, Pennsylvania","Hunterdon County, New Jersey",1,0,1526006,128349
+"982","Philadelphia County, Pennsylvania","Mercer County, New Jersey",1,0,1526006,366513
+"983","Philadelphia County, Pennsylvania","Ocean County, New Jersey",1,0,1526006,576567
+"984","Philadelphia County, Pennsylvania","Monmouth County, New Jersey",1,0,1526006,630380
+"985","Philadelphia County, Pennsylvania","Kings County, New York",1,0,1526006,2504700
+"986","Philadelphia County, Pennsylvania","Bucks County, Pennsylvania",1,0,1526006,625249
+"987","Philadelphia County, Pennsylvania","Queens County, New York",1,0,1526006,2230722
+"988","Philadelphia County, Pennsylvania","Salem County, New Jersey",1,0,1526006,66083
+"989","Philadelphia County, Pennsylvania","Gloucester County, New Jersey",1,0,1526006,288288
+"990","Philadelphia County, Pennsylvania","Cumberland County, New Jersey",1,0,1526006,156898
+"991","Philadelphia County, Pennsylvania","Camden County, New Jersey",1,0,1526006,513657
+"992","Philadelphia County, Pennsylvania","Burlington County, New Jersey",1,0,1526006,448734
+"993","Philadelphia County, Pennsylvania","Cape May County, New Jersey",1,0,1526006,97265
+"994","Philadelphia County, Pennsylvania","Atlantic County, New Jersey",1,0,1526006,274549
+"995","Philadelphia County, Pennsylvania","New Castle County, Delaware",1,0,1526006,538479
+"996","Philadelphia County, Pennsylvania","Delaware County, Pennsylvania",1,0,1526006,558979
+"997","Philadelphia County, Pennsylvania","Montgomery County, Pennsylvania",1,0,1526006,799874
+"998","Philadelphia County, Pennsylvania","Northampton County, Pennsylvania",1,0,1526006,297735
+"999","Philadelphia County, Pennsylvania","Richmond County, New York",1,0,1526006,468730
+"1000","Philadelphia County, Pennsylvania","Bronx County, New York",1,0,1526006,1385108
+"1001","Philadelphia County, Pennsylvania","Rockland County, New York",1,0,1526006,311687
+"1002","Philadelphia County, Pennsylvania","Chester County, Pennsylvania",1,0,1526006,498886
+"1003","Philadelphia County, Pennsylvania","Orange County, New York",1,0,1526006,372813
+"1004","Philadelphia County, Pennsylvania","Lehigh County, Pennsylvania",1,0,1526006,349497
+"1005","Philadelphia County, Pennsylvania","Nassau County, New York",1,0,1526006,1339532
+"1006","Philadelphia County, Pennsylvania","Fairfield County, Connecticut",1,0,1526006,916829
+"1007","Philadelphia County, Pennsylvania","Monroe County, Pennsylvania",1,0,1526006,169842
+"1008","Philadelphia County, Pennsylvania","Pike County, Pennsylvania",1,0,1526006,57369
+"1009","Philadelphia County, Pennsylvania","Suffolk County, New York",1,0,1526006,1493350
+"1010","Philadelphia County, Pennsylvania","District of Columbia, District of Columbia",1,0,1526006,601723
+"1011","Philadelphia County, Pennsylvania","Montgomery County, Maryland",1,0,1526006,971777
+"1012","Philadelphia County, Pennsylvania","Ulster County, New York",1,0,1526006,182493
+"1013","Camden County, New Jersey","Westchester County, New York",1,0,513657,949113
+"1014","Camden County, New Jersey","Warren County, New Jersey",1,0,513657,108692
+"1015","Camden County, New Jersey","Sussex County, New Jersey",1,0,513657,149265
+"1042","Camden County, New Jersey","Northampton County, Pennsylvania",1,0,513657,297735
+"1043","Camden County, New Jersey","Richmond County, New York",1,0,513657,468730
+"1044","Camden County, New Jersey","Bronx County, New York",1,0,513657,1385108
+"1045","Camden County, New Jersey","Rockland County, New York",1,0,513657,311687
+"1047","Camden County, New Jersey","Orange County, New York",1,0,513657,372813
+"1048","Camden County, New Jersey","Lehigh County, Pennsylvania",1,0,513657,349497
+"1049","Camden County, New Jersey","Nassau County, New York",1,0,513657,1339532
+"1050","Camden County, New Jersey","Fairfield County, Connecticut",1,0,513657,916829
+"1051","Camden County, New Jersey","Monroe County, Pennsylvania",1,0,513657,169842
+"1052","Camden County, New Jersey","Pike County, Pennsylvania",1,0,513657,57369
+"1053","Camden County, New Jersey","Suffolk County, New York",1,0,513657,1493350
+"1056","Camden County, New Jersey","Ulster County, New York",1,0,513657,182493
+"1057","Burlington County, New Jersey","Westchester County, New York",1,0,448734,949113
+"1058","Burlington County, New Jersey","Warren County, New Jersey",1,0,448734,108692
+"1059","Burlington County, New Jersey","Sussex County, New Jersey",1,0,448734,149265
+"1086","Burlington County, New Jersey","Northampton County, Pennsylvania",1,0,448734,297735
+"1087","Burlington County, New Jersey","Richmond County, New York",1,0,448734,468730
+"1091","Burlington County, New Jersey","Orange County, New York",1,0,448734,372813
+"1093","Burlington County, New Jersey","Nassau County, New York",1,0,448734,1339532
+"1094","Burlington County, New Jersey","Fairfield County, Connecticut",1,0,448734,916829
+"1095","Burlington County, New Jersey","Monroe County, Pennsylvania",1,0,448734,169842
+"1096","Burlington County, New Jersey","Pike County, Pennsylvania",1,0,448734,57369
+"1097","Burlington County, New Jersey","Suffolk County, New York",1,0,448734,1493350
+"1098","Burlington County, New Jersey","District of Columbia, District of Columbia",1,0,448734,601723
+"1099","Burlington County, New Jersey","Montgomery County, Maryland",1,0,448734,971777
+"1100","Burlington County, New Jersey","Ulster County, New York",1,0,448734,182493
+"1102","Cape May County, New Jersey","Warren County, New Jersey",1,0,97265,108692
+"1103","Cape May County, New Jersey","Sussex County, New Jersey",1,0,97265,149265
+"1107","Cape May County, New Jersey","Passaic County, New Jersey",1,0,97265,501226
+"1110","Cape May County, New Jersey","Hudson County, New Jersey",1,0,97265,634266
+"1111","Cape May County, New Jersey","Somerset County, New Jersey",1,0,97265,323444
+"1112","Cape May County, New Jersey","Middlesex County, New Jersey",1,0,97265,809858
+"1113","Cape May County, New Jersey","Hunterdon County, New Jersey",1,0,97265,128349
+"1117","Cape May County, New Jersey","Kings County, New York",1,0,97265,2504700
+"1119","Cape May County, New Jersey","Queens County, New York",1,0,97265,2230722
+"1130","Cape May County, New Jersey","Northampton County, Pennsylvania",1,0,97265,297735
+"1131","Cape May County, New Jersey","Richmond County, New York",1,0,97265,468730
+"1132","Cape May County, New Jersey","Bronx County, New York",1,0,97265,1385108
+"1133","Cape May County, New Jersey","Rockland County, New York",1,0,97265,311687
+"1135","Cape May County, New Jersey","Orange County, New York",1,0,97265,372813
+"1136","Cape May County, New Jersey","Lehigh County, Pennsylvania",1,0,97265,349497
+"1137","Cape May County, New Jersey","Nassau County, New York",1,0,97265,1339532
+"1138","Cape May County, New Jersey","Fairfield County, Connecticut",1,0,97265,916829
+"1139","Cape May County, New Jersey","Monroe County, Pennsylvania",1,0,97265,169842
+"1140","Cape May County, New Jersey","Pike County, Pennsylvania",1,0,97265,57369
+"1141","Cape May County, New Jersey","Suffolk County, New York",1,0,97265,1493350
+"1142","Cape May County, New Jersey","District of Columbia, District of Columbia",1,0,97265,601723
+"1143","Cape May County, New Jersey","Montgomery County, Maryland",1,0,97265,971777
+"1144","Cape May County, New Jersey","Ulster County, New York",1,0,97265,182493
+"1145","Atlantic County, New Jersey","Westchester County, New York",1,0,274549,949113
+"1146","Atlantic County, New Jersey","Warren County, New Jersey",1,0,274549,108692
+"1147","Atlantic County, New Jersey","Sussex County, New Jersey",1,0,274549,149265
+"1151","Atlantic County, New Jersey","Passaic County, New Jersey",1,0,274549,501226
+"1155","Atlantic County, New Jersey","Somerset County, New Jersey",1,0,274549,323444
+"1157","Atlantic County, New Jersey","Hunterdon County, New Jersey",1,0,274549,128349
+"1161","Atlantic County, New Jersey","Kings County, New York",1,0,274549,2504700
+"1174","Atlantic County, New Jersey","Northampton County, Pennsylvania",1,0,274549,297735
+"1175","Atlantic County, New Jersey","Richmond County, New York",1,0,274549,468730
+"1176","Atlantic County, New Jersey","Bronx County, New York",1,0,274549,1385108
+"1177","Atlantic County, New Jersey","Rockland County, New York",1,0,274549,311687
+"1179","Atlantic County, New Jersey","Orange County, New York",1,0,274549,372813
+"1180","Atlantic County, New Jersey","Lehigh County, Pennsylvania",1,0,274549,349497
+"1181","Atlantic County, New Jersey","Nassau County, New York",1,0,274549,1339532
+"1182","Atlantic County, New Jersey","Fairfield County, Connecticut",1,0,274549,916829
+"1183","Atlantic County, New Jersey","Monroe County, Pennsylvania",1,0,274549,169842
+"1184","Atlantic County, New Jersey","Pike County, Pennsylvania",1,0,274549,57369
+"1185","Atlantic County, New Jersey","Suffolk County, New York",1,0,274549,1493350
+"1187","Atlantic County, New Jersey","Montgomery County, Maryland",1,0,274549,971777
+"1188","Atlantic County, New Jersey","Ulster County, New York",1,0,274549,182493
+"1189","New Castle County, Delaware","Westchester County, New York",1,0,538479,949113
+"1190","New Castle County, Delaware","Warren County, New Jersey",1,0,538479,108692
+"1191","New Castle County, Delaware","Sussex County, New Jersey",1,0,538479,149265
+"1192","New Castle County, Delaware","Morris County, New Jersey",1,0,538479,492276
+"1193","New Castle County, Delaware","Union County, New Jersey",1,0,538479,536499
+"1194","New Castle County, Delaware","Essex County, New Jersey",1,0,538479,783969
+"1195","New Castle County, Delaware","Passaic County, New Jersey",1,0,538479,501226
+"1196","New Castle County, Delaware","Bergen County, New Jersey",1,0,538479,905116
+"1197","New Castle County, Delaware","New York County, New York",1,0,538479,1585873
+"1198","New Castle County, Delaware","Hudson County, New Jersey",1,0,538479,634266
+"1199","New Castle County, Delaware","Somerset County, New Jersey",1,0,538479,323444
+"1200","New Castle County, Delaware","Middlesex County, New Jersey",1,0,538479,809858
+"1201","New Castle County, Delaware","Hunterdon County, New Jersey",1,0,538479,128349
+"1202","New Castle County, Delaware","Mercer County, New Jersey",1,0,538479,366513
+"1203","New Castle County, Delaware","Ocean County, New Jersey",1,0,538479,576567
+"1204","New Castle County, Delaware","Monmouth County, New Jersey",1,0,538479,630380
+"1205","New Castle County, Delaware","Kings County, New York",1,0,538479,2504700
+"1206","New Castle County, Delaware","Bucks County, Pennsylvania",1,0,538479,625249
+"1207","New Castle County, Delaware","Queens County, New York",1,0,538479,2230722
+"1208","New Castle County, Delaware","Salem County, New Jersey",1,0,538479,66083
+"1209","New Castle County, Delaware","Gloucester County, New Jersey",1,0,538479,288288
+"1210","New Castle County, Delaware","Cumberland County, New Jersey",1,0,538479,156898
+"1211","New Castle County, Delaware","Philadelphia County, Pennsylvania",1,0,538479,1526006
+"1212","New Castle County, Delaware","Camden County, New Jersey",1,0,538479,513657
+"1213","New Castle County, Delaware","Burlington County, New Jersey",1,0,538479,448734
+"1214","New Castle County, Delaware","Cape May County, New Jersey",1,0,538479,97265
+"1215","New Castle County, Delaware","Atlantic County, New Jersey",1,0,538479,274549
+"1216","New Castle County, Delaware","Delaware County, Pennsylvania",1,0,538479,558979
+"1217","New Castle County, Delaware","Montgomery County, Pennsylvania",1,0,538479,799874
+"1218","New Castle County, Delaware","Northampton County, Pennsylvania",1,0,538479,297735
+"1219","New Castle County, Delaware","Richmond County, New York",1,0,538479,468730
+"1220","New Castle County, Delaware","Bronx County, New York",1,0,538479,1385108
+"1221","New Castle County, Delaware","Rockland County, New York",1,0,538479,311687
+"1222","New Castle County, Delaware","Chester County, Pennsylvania",1,0,538479,498886
+"1223","New Castle County, Delaware","Orange County, New York",1,0,538479,372813
+"1224","New Castle County, Delaware","Lehigh County, Pennsylvania",1,0,538479,349497
+"1225","New Castle County, Delaware","Nassau County, New York",1,0,538479,1339532
+"1226","New Castle County, Delaware","Fairfield County, Connecticut",1,0,538479,916829
+"1227","New Castle County, Delaware","Monroe County, Pennsylvania",1,0,538479,169842
+"1228","New Castle County, Delaware","Pike County, Pennsylvania",1,0,538479,57369
+"1229","New Castle County, Delaware","Suffolk County, New York",1,0,538479,1493350
+"1230","New Castle County, Delaware","District of Columbia, District of Columbia",1,0,538479,601723
+"1231","New Castle County, Delaware","Montgomery County, Maryland",1,0,538479,971777
+"1232","New Castle County, Delaware","Ulster County, New York",1,0,538479,182493
+"1233","Delaware County, Pennsylvania","Westchester County, New York",1,0,558979,949113
+"1234","Delaware County, Pennsylvania","Warren County, New Jersey",1,0,558979,108692
+"1235","Delaware County, Pennsylvania","Sussex County, New Jersey",1,0,558979,149265
+"1236","Delaware County, Pennsylvania","Morris County, New Jersey",1,0,558979,492276
+"1237","Delaware County, Pennsylvania","Union County, New Jersey",1,0,558979,536499
+"1238","Delaware County, Pennsylvania","Essex County, New Jersey",1,0,558979,783969
+"1239","Delaware County, Pennsylvania","Passaic County, New Jersey",1,0,558979,501226
+"1240","Delaware County, Pennsylvania","Bergen County, New Jersey",1,0,558979,905116
+"1241","Delaware County, Pennsylvania","New York County, New York",1,0,558979,1585873
+"1242","Delaware County, Pennsylvania","Hudson County, New Jersey",1,0,558979,634266
+"1243","Delaware County, Pennsylvania","Somerset County, New Jersey",1,0,558979,323444
+"1244","Delaware County, Pennsylvania","Middlesex County, New Jersey",1,0,558979,809858
+"1245","Delaware County, Pennsylvania","Hunterdon County, New Jersey",1,0,558979,128349
+"1246","Delaware County, Pennsylvania","Mercer County, New Jersey",1,0,558979,366513
+"1247","Delaware County, Pennsylvania","Ocean County, New Jersey",1,0,558979,576567
+"1248","Delaware County, Pennsylvania","Monmouth County, New Jersey",1,0,558979,630380
+"1249","Delaware County, Pennsylvania","Kings County, New York",1,0,558979,2504700
+"1250","Delaware County, Pennsylvania","Bucks County, Pennsylvania",1,0,558979,625249
+"1251","Delaware County, Pennsylvania","Queens County, New York",1,0,558979,2230722
+"1252","Delaware County, Pennsylvania","Salem County, New Jersey",1,0,558979,66083
+"1253","Delaware County, Pennsylvania","Gloucester County, New Jersey",1,0,558979,288288
+"1254","Delaware County, Pennsylvania","Cumberland County, New Jersey",1,0,558979,156898
+"1255","Delaware County, Pennsylvania","Philadelphia County, Pennsylvania",1,0,558979,1526006
+"1256","Delaware County, Pennsylvania","Camden County, New Jersey",1,0,558979,513657
+"1257","Delaware County, Pennsylvania","Burlington County, New Jersey",1,0,558979,448734
+"1258","Delaware County, Pennsylvania","Cape May County, New Jersey",1,0,558979,97265
+"1259","Delaware County, Pennsylvania","Atlantic County, New Jersey",1,0,558979,274549
+"1260","Delaware County, Pennsylvania","New Castle County, Delaware",1,0,558979,538479
+"1261","Delaware County, Pennsylvania","Montgomery County, Pennsylvania",1,0,558979,799874
+"1262","Delaware County, Pennsylvania","Northampton County, Pennsylvania",1,0,558979,297735
+"1263","Delaware County, Pennsylvania","Richmond County, New York",1,0,558979,468730
+"1264","Delaware County, Pennsylvania","Bronx County, New York",1,0,558979,1385108
+"1265","Delaware County, Pennsylvania","Rockland County, New York",1,0,558979,311687
+"1266","Delaware County, Pennsylvania","Chester County, Pennsylvania",1,0,558979,498886
+"1267","Delaware County, Pennsylvania","Orange County, New York",1,0,558979,372813
+"1268","Delaware County, Pennsylvania","Lehigh County, Pennsylvania",1,0,558979,349497
+"1269","Delaware County, Pennsylvania","Nassau County, New York",1,0,558979,1339532
+"1270","Delaware County, Pennsylvania","Fairfield County, Connecticut",1,0,558979,916829
+"1271","Delaware County, Pennsylvania","Monroe County, Pennsylvania",1,0,558979,169842
+"1272","Delaware County, Pennsylvania","Pike County, Pennsylvania",1,0,558979,57369
+"1273","Delaware County, Pennsylvania","Suffolk County, New York",1,0,558979,1493350
+"1274","Delaware County, Pennsylvania","District of Columbia, District of Columbia",1,0,558979,601723
+"1275","Delaware County, Pennsylvania","Montgomery County, Maryland",1,0,558979,971777
+"1276","Delaware County, Pennsylvania","Ulster County, New York",1,0,558979,182493
+"1277","Montgomery County, Pennsylvania","Westchester County, New York",1,0,799874,949113
+"1278","Montgomery County, Pennsylvania","Warren County, New Jersey",1,0,799874,108692
+"1279","Montgomery County, Pennsylvania","Sussex County, New Jersey",1,0,799874,149265
+"1280","Montgomery County, Pennsylvania","Morris County, New Jersey",1,0,799874,492276
+"1281","Montgomery County, Pennsylvania","Union County, New Jersey",1,0,799874,536499
+"1282","Montgomery County, Pennsylvania","Essex County, New Jersey",1,0,799874,783969
+"1283","Montgomery County, Pennsylvania","Passaic County, New Jersey",1,0,799874,501226
+"1284","Montgomery County, Pennsylvania","Bergen County, New Jersey",1,0,799874,905116
+"1285","Montgomery County, Pennsylvania","New York County, New York",1,0,799874,1585873
+"1286","Montgomery County, Pennsylvania","Hudson County, New Jersey",1,0,799874,634266
+"1287","Montgomery County, Pennsylvania","Somerset County, New Jersey",1,0,799874,323444
+"1288","Montgomery County, Pennsylvania","Middlesex County, New Jersey",1,0,799874,809858
+"1289","Montgomery County, Pennsylvania","Hunterdon County, New Jersey",1,0,799874,128349
+"1290","Montgomery County, Pennsylvania","Mercer County, New Jersey",1,0,799874,366513
+"1291","Montgomery County, Pennsylvania","Ocean County, New Jersey",1,0,799874,576567
+"1292","Montgomery County, Pennsylvania","Monmouth County, New Jersey",1,0,799874,630380
+"1293","Montgomery County, Pennsylvania","Kings County, New York",1,0,799874,2504700
+"1294","Montgomery County, Pennsylvania","Bucks County, Pennsylvania",1,0,799874,625249
+"1295","Montgomery County, Pennsylvania","Queens County, New York",1,0,799874,2230722
+"1296","Montgomery County, Pennsylvania","Salem County, New Jersey",1,0,799874,66083
+"1297","Montgomery County, Pennsylvania","Gloucester County, New Jersey",1,0,799874,288288
+"1298","Montgomery County, Pennsylvania","Cumberland County, New Jersey",1,0,799874,156898
+"1299","Montgomery County, Pennsylvania","Philadelphia County, Pennsylvania",1,0,799874,1526006
+"1300","Montgomery County, Pennsylvania","Camden County, New Jersey",1,0,799874,513657
+"1301","Montgomery County, Pennsylvania","Burlington County, New Jersey",1,0,799874,448734
+"1302","Montgomery County, Pennsylvania","Cape May County, New Jersey",1,0,799874,97265
+"1303","Montgomery County, Pennsylvania","Atlantic County, New Jersey",1,0,799874,274549
+"1304","Montgomery County, Pennsylvania","New Castle County, Delaware",1,0,799874,538479
+"1305","Montgomery County, Pennsylvania","Delaware County, Pennsylvania",1,0,799874,558979
+"1306","Montgomery County, Pennsylvania","Northampton County, Pennsylvania",1,0,799874,297735
+"1307","Montgomery County, Pennsylvania","Richmond County, New York",1,0,799874,468730
+"1308","Montgomery County, Pennsylvania","Bronx County, New York",1,0,799874,1385108
+"1309","Montgomery County, Pennsylvania","Rockland County, New York",1,0,799874,311687
+"1310","Montgomery County, Pennsylvania","Chester County, Pennsylvania",1,0,799874,498886
+"1311","Montgomery County, Pennsylvania","Orange County, New York",1,0,799874,372813
+"1312","Montgomery County, Pennsylvania","Lehigh County, Pennsylvania",1,0,799874,349497
+"1313","Montgomery County, Pennsylvania","Nassau County, New York",1,0,799874,1339532
+"1314","Montgomery County, Pennsylvania","Fairfield County, Connecticut",1,0,799874,916829
+"1315","Montgomery County, Pennsylvania","Monroe County, Pennsylvania",1,0,799874,169842
+"1316","Montgomery County, Pennsylvania","Pike County, Pennsylvania",1,0,799874,57369
+"1317","Montgomery County, Pennsylvania","Suffolk County, New York",1,0,799874,1493350
+"1318","Montgomery County, Pennsylvania","District of Columbia, District of Columbia",1,0,799874,601723
+"1319","Montgomery County, Pennsylvania","Montgomery County, Maryland",1,0,799874,971777
+"1320","Montgomery County, Pennsylvania","Ulster County, New York",1,0,799874,182493
+"1321","Northampton County, Pennsylvania","Westchester County, New York",1,0,297735,949113
+"1322","Northampton County, Pennsylvania","Warren County, New Jersey",1,0,297735,108692
+"1323","Northampton County, Pennsylvania","Sussex County, New Jersey",1,0,297735,149265
+"1324","Northampton County, Pennsylvania","Morris County, New Jersey",1,0,297735,492276
+"1325","Northampton County, Pennsylvania","Union County, New Jersey",1,0,297735,536499
+"1326","Northampton County, Pennsylvania","Essex County, New Jersey",1,0,297735,783969
+"1327","Northampton County, Pennsylvania","Passaic County, New Jersey",1,0,297735,501226
+"1328","Northampton County, Pennsylvania","Bergen County, New Jersey",1,0,297735,905116
+"1329","Northampton County, Pennsylvania","New York County, New York",1,0,297735,1585873
+"1330","Northampton County, Pennsylvania","Hudson County, New Jersey",1,0,297735,634266
+"1331","Northampton County, Pennsylvania","Somerset County, New Jersey",1,0,297735,323444
+"1332","Northampton County, Pennsylvania","Middlesex County, New Jersey",1,0,297735,809858
+"1333","Northampton County, Pennsylvania","Hunterdon County, New Jersey",1,0,297735,128349
+"1334","Northampton County, Pennsylvania","Mercer County, New Jersey",1,0,297735,366513
+"1335","Northampton County, Pennsylvania","Ocean County, New Jersey",1,0,297735,576567
+"1336","Northampton County, Pennsylvania","Monmouth County, New Jersey",1,0,297735,630380
+"1337","Northampton County, Pennsylvania","Kings County, New York",1,0,297735,2504700
+"1338","Northampton County, Pennsylvania","Bucks County, Pennsylvania",1,0,297735,625249
+"1339","Northampton County, Pennsylvania","Queens County, New York",1,0,297735,2230722
+"1340","Northampton County, Pennsylvania","Salem County, New Jersey",1,0,297735,66083
+"1341","Northampton County, Pennsylvania","Gloucester County, New Jersey",1,0,297735,288288
+"1342","Northampton County, Pennsylvania","Cumberland County, New Jersey",1,0,297735,156898
+"1343","Northampton County, Pennsylvania","Philadelphia County, Pennsylvania",1,0,297735,1526006
+"1344","Northampton County, Pennsylvania","Camden County, New Jersey",1,0,297735,513657
+"1345","Northampton County, Pennsylvania","Burlington County, New Jersey",1,0,297735,448734
+"1346","Northampton County, Pennsylvania","Cape May County, New Jersey",1,0,297735,97265
+"1347","Northampton County, Pennsylvania","Atlantic County, New Jersey",1,0,297735,274549
+"1348","Northampton County, Pennsylvania","New Castle County, Delaware",1,0,297735,538479
+"1349","Northampton County, Pennsylvania","Delaware County, Pennsylvania",1,0,297735,558979
+"1350","Northampton County, Pennsylvania","Montgomery County, Pennsylvania",1,0,297735,799874
+"1351","Northampton County, Pennsylvania","Richmond County, New York",1,0,297735,468730
+"1352","Northampton County, Pennsylvania","Bronx County, New York",1,0,297735,1385108
+"1353","Northampton County, Pennsylvania","Rockland County, New York",1,0,297735,311687
+"1354","Northampton County, Pennsylvania","Chester County, Pennsylvania",1,0,297735,498886
+"1355","Northampton County, Pennsylvania","Orange County, New York",1,0,297735,372813
+"1356","Northampton County, Pennsylvania","Lehigh County, Pennsylvania",1,0,297735,349497
+"1357","Northampton County, Pennsylvania","Nassau County, New York",1,0,297735,1339532
+"1358","Northampton County, Pennsylvania","Fairfield County, Connecticut",1,0,297735,916829
+"1359","Northampton County, Pennsylvania","Monroe County, Pennsylvania",1,0,297735,169842
+"1360","Northampton County, Pennsylvania","Pike County, Pennsylvania",1,0,297735,57369
+"1361","Northampton County, Pennsylvania","Suffolk County, New York",1,0,297735,1493350
+"1362","Northampton County, Pennsylvania","District of Columbia, District of Columbia",1,0,297735,601723
+"1363","Northampton County, Pennsylvania","Montgomery County, Maryland",1,0,297735,971777
+"1364","Northampton County, Pennsylvania","Ulster County, New York",1,0,297735,182493
+"1365","Richmond County, New York","Westchester County, New York",1,0,468730,949113
+"1366","Richmond County, New York","Warren County, New Jersey",1,0,468730,108692
+"1367","Richmond County, New York","Sussex County, New Jersey",1,0,468730,149265
+"1368","Richmond County, New York","Morris County, New Jersey",1,0,468730,492276
+"1369","Richmond County, New York","Union County, New Jersey",1,0,468730,536499
+"1370","Richmond County, New York","Essex County, New Jersey",1,0,468730,783969
+"1371","Richmond County, New York","Passaic County, New Jersey",1,0,468730,501226
+"1372","Richmond County, New York","Bergen County, New Jersey",1,0,468730,905116
+"1373","Richmond County, New York","New York County, New York",1,0,468730,1585873
+"1374","Richmond County, New York","Hudson County, New Jersey",1,0,468730,634266
+"1375","Richmond County, New York","Somerset County, New Jersey",1,0,468730,323444
+"1376","Richmond County, New York","Middlesex County, New Jersey",1,0,468730,809858
+"1377","Richmond County, New York","Hunterdon County, New Jersey",1,0,468730,128349
+"1378","Richmond County, New York","Mercer County, New Jersey",1,0,468730,366513
+"1379","Richmond County, New York","Ocean County, New Jersey",1,0,468730,576567
+"1380","Richmond County, New York","Monmouth County, New Jersey",1,0,468730,630380
+"1381","Richmond County, New York","Kings County, New York",1,0,468730,2504700
+"1382","Richmond County, New York","Bucks County, Pennsylvania",1,0,468730,625249
+"1383","Richmond County, New York","Queens County, New York",1,0,468730,2230722
+"1384","Richmond County, New York","Salem County, New Jersey",1,0,468730,66083
+"1385","Richmond County, New York","Gloucester County, New Jersey",1,0,468730,288288
+"1386","Richmond County, New York","Cumberland County, New Jersey",1,0,468730,156898
+"1387","Richmond County, New York","Philadelphia County, Pennsylvania",1,0,468730,1526006
+"1388","Richmond County, New York","Camden County, New Jersey",1,0,468730,513657
+"1389","Richmond County, New York","Burlington County, New Jersey",1,0,468730,448734
+"1390","Richmond County, New York","Cape May County, New Jersey",1,0,468730,97265
+"1391","Richmond County, New York","Atlantic County, New Jersey",1,0,468730,274549
+"1392","Richmond County, New York","New Castle County, Delaware",1,0,468730,538479
+"1393","Richmond County, New York","Delaware County, Pennsylvania",1,0,468730,558979
+"1394","Richmond County, New York","Montgomery County, Pennsylvania",1,0,468730,799874
+"1395","Richmond County, New York","Northampton County, Pennsylvania",1,0,468730,297735
+"1396","Richmond County, New York","Bronx County, New York",1,0,468730,1385108
+"1397","Richmond County, New York","Rockland County, New York",1,0,468730,311687
+"1398","Richmond County, New York","Chester County, Pennsylvania",1,0,468730,498886
+"1399","Richmond County, New York","Orange County, New York",1,0,468730,372813
+"1400","Richmond County, New York","Lehigh County, Pennsylvania",1,0,468730,349497
+"1401","Richmond County, New York","Nassau County, New York",1,0,468730,1339532
+"1402","Richmond County, New York","Fairfield County, Connecticut",1,0,468730,916829
+"1403","Richmond County, New York","Monroe County, Pennsylvania",1,0,468730,169842
+"1404","Richmond County, New York","Pike County, Pennsylvania",1,0,468730,57369
+"1405","Richmond County, New York","Suffolk County, New York",1,0,468730,1493350
+"1406","Richmond County, New York","District of Columbia, District of Columbia",1,0,468730,601723
+"1407","Richmond County, New York","Montgomery County, Maryland",1,0,468730,971777
+"1408","Richmond County, New York","Ulster County, New York",1,0,468730,182493
+"1409","Bronx County, New York","Westchester County, New York",1,0,1385108,949113
+"1410","Bronx County, New York","Warren County, New Jersey",1,0,1385108,108692
+"1411","Bronx County, New York","Sussex County, New Jersey",1,0,1385108,149265
+"1412","Bronx County, New York","Morris County, New Jersey",1,0,1385108,492276
+"1413","Bronx County, New York","Union County, New Jersey",1,0,1385108,536499
+"1414","Bronx County, New York","Essex County, New Jersey",1,0,1385108,783969
+"1415","Bronx County, New York","Passaic County, New Jersey",1,0,1385108,501226
+"1416","Bronx County, New York","Bergen County, New Jersey",1,0,1385108,905116
+"1417","Bronx County, New York","New York County, New York",1,0,1385108,1585873
+"1418","Bronx County, New York","Hudson County, New Jersey",1,0,1385108,634266
+"1419","Bronx County, New York","Somerset County, New Jersey",1,0,1385108,323444
+"1420","Bronx County, New York","Middlesex County, New Jersey",1,0,1385108,809858
+"1421","Bronx County, New York","Hunterdon County, New Jersey",1,0,1385108,128349
+"1422","Bronx County, New York","Mercer County, New Jersey",1,0,1385108,366513
+"1423","Bronx County, New York","Ocean County, New Jersey",1,0,1385108,576567
+"1424","Bronx County, New York","Monmouth County, New Jersey",1,0,1385108,630380
+"1425","Bronx County, New York","Kings County, New York",1,0,1385108,2504700
+"1426","Bronx County, New York","Bucks County, Pennsylvania",1,0,1385108,625249
+"1427","Bronx County, New York","Queens County, New York",1,0,1385108,2230722
+"1428","Bronx County, New York","Salem County, New Jersey",1,0,1385108,66083
+"1429","Bronx County, New York","Gloucester County, New Jersey",1,0,1385108,288288
+"1430","Bronx County, New York","Cumberland County, New Jersey",1,0,1385108,156898
+"1431","Bronx County, New York","Philadelphia County, Pennsylvania",1,0,1385108,1526006
+"1432","Bronx County, New York","Camden County, New Jersey",1,0,1385108,513657
+"1433","Bronx County, New York","Burlington County, New Jersey",1,0,1385108,448734
+"1434","Bronx County, New York","Cape May County, New Jersey",1,0,1385108,97265
+"1435","Bronx County, New York","Atlantic County, New Jersey",1,0,1385108,274549
+"1436","Bronx County, New York","New Castle County, Delaware",1,0,1385108,538479
+"1437","Bronx County, New York","Delaware County, Pennsylvania",1,0,1385108,558979
+"1438","Bronx County, New York","Montgomery County, Pennsylvania",1,0,1385108,799874
+"1439","Bronx County, New York","Northampton County, Pennsylvania",1,0,1385108,297735
+"1440","Bronx County, New York","Richmond County, New York",1,0,1385108,468730
+"1441","Bronx County, New York","Rockland County, New York",1,0,1385108,311687
+"1442","Bronx County, New York","Chester County, Pennsylvania",1,0,1385108,498886
+"1443","Bronx County, New York","Orange County, New York",1,0,1385108,372813
+"1444","Bronx County, New York","Lehigh County, Pennsylvania",1,0,1385108,349497
+"1445","Bronx County, New York","Nassau County, New York",1,0,1385108,1339532
+"1446","Bronx County, New York","Fairfield County, Connecticut",1,0,1385108,916829
+"1447","Bronx County, New York","Monroe County, Pennsylvania",1,0,1385108,169842
+"1448","Bronx County, New York","Pike County, Pennsylvania",1,0,1385108,57369
+"1449","Bronx County, New York","Suffolk County, New York",1,0,1385108,1493350
+"1450","Bronx County, New York","District of Columbia, District of Columbia",1,0,1385108,601723
+"1451","Bronx County, New York","Montgomery County, Maryland",1,0,1385108,971777
+"1452","Bronx County, New York","Ulster County, New York",1,0,1385108,182493
+"1453","Rockland County, New York","Westchester County, New York",1,0,311687,949113
+"1454","Rockland County, New York","Warren County, New Jersey",1,0,311687,108692
+"1455","Rockland County, New York","Sussex County, New Jersey",1,0,311687,149265
+"1456","Rockland County, New York","Morris County, New Jersey",1,0,311687,492276
+"1457","Rockland County, New York","Union County, New Jersey",1,0,311687,536499
+"1458","Rockland County, New York","Essex County, New Jersey",1,0,311687,783969
+"1459","Rockland County, New York","Passaic County, New Jersey",1,0,311687,501226
+"1460","Rockland County, New York","Bergen County, New Jersey",1,0,311687,905116
+"1461","Rockland County, New York","New York County, New York",1,0,311687,1585873
+"1462","Rockland County, New York","Hudson County, New Jersey",1,0,311687,634266
+"1463","Rockland County, New York","Somerset County, New Jersey",1,0,311687,323444
+"1464","Rockland County, New York","Middlesex County, New Jersey",1,0,311687,809858
+"1465","Rockland County, New York","Hunterdon County, New Jersey",1,0,311687,128349
+"1466","Rockland County, New York","Mercer County, New Jersey",1,0,311687,366513
+"1467","Rockland County, New York","Ocean County, New Jersey",1,0,311687,576567
+"1468","Rockland County, New York","Monmouth County, New Jersey",1,0,311687,630380
+"1469","Rockland County, New York","Kings County, New York",1,0,311687,2504700
+"1470","Rockland County, New York","Bucks County, Pennsylvania",1,0,311687,625249
+"1471","Rockland County, New York","Queens County, New York",1,0,311687,2230722
+"1472","Rockland County, New York","Salem County, New Jersey",1,0,311687,66083
+"1473","Rockland County, New York","Gloucester County, New Jersey",1,0,311687,288288
+"1474","Rockland County, New York","Cumberland County, New Jersey",1,0,311687,156898
+"1475","Rockland County, New York","Philadelphia County, Pennsylvania",1,0,311687,1526006
+"1476","Rockland County, New York","Camden County, New Jersey",1,0,311687,513657
+"1477","Rockland County, New York","Burlington County, New Jersey",1,0,311687,448734
+"1478","Rockland County, New York","Cape May County, New Jersey",1,0,311687,97265
+"1479","Rockland County, New York","Atlantic County, New Jersey",1,0,311687,274549
+"1480","Rockland County, New York","New Castle County, Delaware",1,0,311687,538479
+"1481","Rockland County, New York","Delaware County, Pennsylvania",1,0,311687,558979
+"1482","Rockland County, New York","Montgomery County, Pennsylvania",1,0,311687,799874
+"1483","Rockland County, New York","Northampton County, Pennsylvania",1,0,311687,297735
+"1484","Rockland County, New York","Richmond County, New York",1,0,311687,468730
+"1485","Rockland County, New York","Bronx County, New York",1,0,311687,1385108
+"1486","Rockland County, New York","Chester County, Pennsylvania",1,0,311687,498886
+"1487","Rockland County, New York","Orange County, New York",1,0,311687,372813
+"1488","Rockland County, New York","Lehigh County, Pennsylvania",1,0,311687,349497
+"1489","Rockland County, New York","Nassau County, New York",1,0,311687,1339532
+"1490","Rockland County, New York","Fairfield County, Connecticut",1,0,311687,916829
+"1491","Rockland County, New York","Monroe County, Pennsylvania",1,0,311687,169842
+"1492","Rockland County, New York","Pike County, Pennsylvania",1,0,311687,57369
+"1493","Rockland County, New York","Suffolk County, New York",1,0,311687,1493350
+"1494","Rockland County, New York","District of Columbia, District of Columbia",1,0,311687,601723
+"1495","Rockland County, New York","Montgomery County, Maryland",1,0,311687,971777
+"1496","Rockland County, New York","Ulster County, New York",1,0,311687,182493
+"1497","Chester County, Pennsylvania","Westchester County, New York",1,0,498886,949113
+"1498","Chester County, Pennsylvania","Warren County, New Jersey",1,0,498886,108692
+"1499","Chester County, Pennsylvania","Sussex County, New Jersey",1,0,498886,149265
+"1500","Chester County, Pennsylvania","Morris County, New Jersey",1,0,498886,492276
+"1501","Chester County, Pennsylvania","Union County, New Jersey",1,0,498886,536499
+"1502","Chester County, Pennsylvania","Essex County, New Jersey",1,0,498886,783969
+"1503","Chester County, Pennsylvania","Passaic County, New Jersey",1,0,498886,501226
+"1504","Chester County, Pennsylvania","Bergen County, New Jersey",1,0,498886,905116
+"1505","Chester County, Pennsylvania","New York County, New York",1,0,498886,1585873
+"1506","Chester County, Pennsylvania","Hudson County, New Jersey",1,0,498886,634266
+"1507","Chester County, Pennsylvania","Somerset County, New Jersey",1,0,498886,323444
+"1508","Chester County, Pennsylvania","Middlesex County, New Jersey",1,0,498886,809858
+"1509","Chester County, Pennsylvania","Hunterdon County, New Jersey",1,0,498886,128349
+"1510","Chester County, Pennsylvania","Mercer County, New Jersey",1,0,498886,366513
+"1511","Chester County, Pennsylvania","Ocean County, New Jersey",1,0,498886,576567
+"1512","Chester County, Pennsylvania","Monmouth County, New Jersey",1,0,498886,630380
+"1513","Chester County, Pennsylvania","Kings County, New York",1,0,498886,2504700
+"1514","Chester County, Pennsylvania","Bucks County, Pennsylvania",1,0,498886,625249
+"1515","Chester County, Pennsylvania","Queens County, New York",1,0,498886,2230722
+"1516","Chester County, Pennsylvania","Salem County, New Jersey",1,0,498886,66083
+"1517","Chester County, Pennsylvania","Gloucester County, New Jersey",1,0,498886,288288
+"1518","Chester County, Pennsylvania","Cumberland County, New Jersey",1,0,498886,156898
+"1519","Chester County, Pennsylvania","Philadelphia County, Pennsylvania",1,0,498886,1526006
+"1520","Chester County, Pennsylvania","Camden County, New Jersey",1,0,498886,513657
+"1521","Chester County, Pennsylvania","Burlington County, New Jersey",1,0,498886,448734
+"1522","Chester County, Pennsylvania","Cape May County, New Jersey",1,0,498886,97265
+"1523","Chester County, Pennsylvania","Atlantic County, New Jersey",1,0,498886,274549
+"1524","Chester County, Pennsylvania","New Castle County, Delaware",1,0,498886,538479
+"1525","Chester County, Pennsylvania","Delaware County, Pennsylvania",1,0,498886,558979
+"1526","Chester County, Pennsylvania","Montgomery County, Pennsylvania",1,0,498886,799874
+"1527","Chester County, Pennsylvania","Northampton County, Pennsylvania",1,0,498886,297735
+"1528","Chester County, Pennsylvania","Richmond County, New York",1,0,498886,468730
+"1529","Chester County, Pennsylvania","Bronx County, New York",1,0,498886,1385108
+"1530","Chester County, Pennsylvania","Rockland County, New York",1,0,498886,311687
+"1531","Chester County, Pennsylvania","Orange County, New York",1,0,498886,372813
+"1532","Chester County, Pennsylvania","Lehigh County, Pennsylvania",1,0,498886,349497
+"1533","Chester County, Pennsylvania","Nassau County, New York",1,0,498886,1339532
+"1534","Chester County, Pennsylvania","Fairfield County, Connecticut",1,0,498886,916829
+"1535","Chester County, Pennsylvania","Monroe County, Pennsylvania",1,0,498886,169842
+"1536","Chester County, Pennsylvania","Pike County, Pennsylvania",1,0,498886,57369
+"1537","Chester County, Pennsylvania","Suffolk County, New York",1,0,498886,1493350
+"1538","Chester County, Pennsylvania","District of Columbia, District of Columbia",1,0,498886,601723
+"1539","Chester County, Pennsylvania","Montgomery County, Maryland",1,0,498886,971777
+"1540","Chester County, Pennsylvania","Ulster County, New York",1,0,498886,182493
+"1541","Orange County, New York","Westchester County, New York",1,0,372813,949113
+"1542","Orange County, New York","Warren County, New Jersey",1,0,372813,108692
+"1543","Orange County, New York","Sussex County, New Jersey",1,0,372813,149265
+"1544","Orange County, New York","Morris County, New Jersey",1,0,372813,492276
+"1545","Orange County, New York","Union County, New Jersey",1,0,372813,536499
+"1546","Orange County, New York","Essex County, New Jersey",1,0,372813,783969
+"1547","Orange County, New York","Passaic County, New Jersey",1,0,372813,501226
+"1548","Orange County, New York","Bergen County, New Jersey",1,0,372813,905116
+"1549","Orange County, New York","New York County, New York",1,0,372813,1585873
+"1550","Orange County, New York","Hudson County, New Jersey",1,0,372813,634266
+"1551","Orange County, New York","Somerset County, New Jersey",1,0,372813,323444
+"1552","Orange County, New York","Middlesex County, New Jersey",1,0,372813,809858
+"1553","Orange County, New York","Hunterdon County, New Jersey",1,0,372813,128349
+"1554","Orange County, New York","Mercer County, New Jersey",1,0,372813,366513
+"1555","Orange County, New York","Ocean County, New Jersey",1,0,372813,576567
+"1556","Orange County, New York","Monmouth County, New Jersey",1,0,372813,630380
+"1557","Orange County, New York","Kings County, New York",1,0,372813,2504700
+"1558","Orange County, New York","Bucks County, Pennsylvania",1,0,372813,625249
+"1559","Orange County, New York","Queens County, New York",1,0,372813,2230722
+"1560","Orange County, New York","Salem County, New Jersey",1,0,372813,66083
+"1561","Orange County, New York","Gloucester County, New Jersey",1,0,372813,288288
+"1562","Orange County, New York","Cumberland County, New Jersey",1,0,372813,156898
+"1563","Orange County, New York","Philadelphia County, Pennsylvania",1,0,372813,1526006
+"1564","Orange County, New York","Camden County, New Jersey",1,0,372813,513657
+"1565","Orange County, New York","Burlington County, New Jersey",1,0,372813,448734
+"1566","Orange County, New York","Cape May County, New Jersey",1,0,372813,97265
+"1567","Orange County, New York","Atlantic County, New Jersey",1,0,372813,274549
+"1568","Orange County, New York","New Castle County, Delaware",1,0,372813,538479
+"1569","Orange County, New York","Delaware County, Pennsylvania",1,0,372813,558979
+"1570","Orange County, New York","Montgomery County, Pennsylvania",1,0,372813,799874
+"1571","Orange County, New York","Northampton County, Pennsylvania",1,0,372813,297735
+"1572","Orange County, New York","Richmond County, New York",1,0,372813,468730
+"1573","Orange County, New York","Bronx County, New York",1,0,372813,1385108
+"1574","Orange County, New York","Rockland County, New York",1,0,372813,311687
+"1575","Orange County, New York","Chester County, Pennsylvania",1,0,372813,498886
+"1576","Orange County, New York","Lehigh County, Pennsylvania",1,0,372813,349497
+"1577","Orange County, New York","Nassau County, New York",1,0,372813,1339532
+"1578","Orange County, New York","Fairfield County, Connecticut",1,0,372813,916829
+"1579","Orange County, New York","Monroe County, Pennsylvania",1,0,372813,169842
+"1580","Orange County, New York","Pike County, Pennsylvania",1,0,372813,57369
+"1581","Orange County, New York","Suffolk County, New York",1,0,372813,1493350
+"1582","Orange County, New York","District of Columbia, District of Columbia",1,0,372813,601723
+"1583","Orange County, New York","Montgomery County, Maryland",1,0,372813,971777
+"1584","Orange County, New York","Ulster County, New York",1,0,372813,182493
+"1585","Lehigh County, Pennsylvania","Westchester County, New York",1,0,349497,949113
+"1586","Lehigh County, Pennsylvania","Warren County, New Jersey",1,0,349497,108692
+"1587","Lehigh County, Pennsylvania","Sussex County, New Jersey",1,0,349497,149265
+"1588","Lehigh County, Pennsylvania","Morris County, New Jersey",1,0,349497,492276
+"1589","Lehigh County, Pennsylvania","Union County, New Jersey",1,0,349497,536499
+"1590","Lehigh County, Pennsylvania","Essex County, New Jersey",1,0,349497,783969
+"1591","Lehigh County, Pennsylvania","Passaic County, New Jersey",1,0,349497,501226
+"1592","Lehigh County, Pennsylvania","Bergen County, New Jersey",1,0,349497,905116
+"1593","Lehigh County, Pennsylvania","New York County, New York",1,0,349497,1585873
+"1594","Lehigh County, Pennsylvania","Hudson County, New Jersey",1,0,349497,634266
+"1595","Lehigh County, Pennsylvania","Somerset County, New Jersey",1,0,349497,323444
+"1596","Lehigh County, Pennsylvania","Middlesex County, New Jersey",1,0,349497,809858
+"1597","Lehigh County, Pennsylvania","Hunterdon County, New Jersey",1,0,349497,128349
+"1598","Lehigh County, Pennsylvania","Mercer County, New Jersey",1,0,349497,366513
+"1599","Lehigh County, Pennsylvania","Ocean County, New Jersey",1,0,349497,576567
+"1600","Lehigh County, Pennsylvania","Monmouth County, New Jersey",1,0,349497,630380
+"1601","Lehigh County, Pennsylvania","Kings County, New York",1,0,349497,2504700
+"1602","Lehigh County, Pennsylvania","Bucks County, Pennsylvania",1,0,349497,625249
+"1603","Lehigh County, Pennsylvania","Queens County, New York",1,0,349497,2230722
+"1604","Lehigh County, Pennsylvania","Salem County, New Jersey",1,0,349497,66083
+"1605","Lehigh County, Pennsylvania","Gloucester County, New Jersey",1,0,349497,288288
+"1606","Lehigh County, Pennsylvania","Cumberland County, New Jersey",1,0,349497,156898
+"1607","Lehigh County, Pennsylvania","Philadelphia County, Pennsylvania",1,0,349497,1526006
+"1608","Lehigh County, Pennsylvania","Camden County, New Jersey",1,0,349497,513657
+"1609","Lehigh County, Pennsylvania","Burlington County, New Jersey",1,0,349497,448734
+"1610","Lehigh County, Pennsylvania","Cape May County, New Jersey",1,0,349497,97265
+"1611","Lehigh County, Pennsylvania","Atlantic County, New Jersey",1,0,349497,274549
+"1612","Lehigh County, Pennsylvania","New Castle County, Delaware",1,0,349497,538479
+"1613","Lehigh County, Pennsylvania","Delaware County, Pennsylvania",1,0,349497,558979
+"1614","Lehigh County, Pennsylvania","Montgomery County, Pennsylvania",1,0,349497,799874
+"1615","Lehigh County, Pennsylvania","Northampton County, Pennsylvania",1,0,349497,297735
+"1616","Lehigh County, Pennsylvania","Richmond County, New York",1,0,349497,468730
+"1617","Lehigh County, Pennsylvania","Bronx County, New York",1,0,349497,1385108
+"1618","Lehigh County, Pennsylvania","Rockland County, New York",1,0,349497,311687
+"1619","Lehigh County, Pennsylvania","Chester County, Pennsylvania",1,0,349497,498886
+"1620","Lehigh County, Pennsylvania","Orange County, New York",1,0,349497,372813
+"1621","Lehigh County, Pennsylvania","Nassau County, New York",1,0,349497,1339532
+"1622","Lehigh County, Pennsylvania","Fairfield County, Connecticut",1,0,349497,916829
+"1623","Lehigh County, Pennsylvania","Monroe County, Pennsylvania",1,0,349497,169842
+"1624","Lehigh County, Pennsylvania","Pike County, Pennsylvania",1,0,349497,57369
+"1625","Lehigh County, Pennsylvania","Suffolk County, New York",1,0,349497,1493350
+"1626","Lehigh County, Pennsylvania","District of Columbia, District of Columbia",1,0,349497,601723
+"1627","Lehigh County, Pennsylvania","Montgomery County, Maryland",1,0,349497,971777
+"1628","Lehigh County, Pennsylvania","Ulster County, New York",1,0,349497,182493
+"1629","Nassau County, New York","Westchester County, New York",1,0,1339532,949113
+"1630","Nassau County, New York","Warren County, New Jersey",1,0,1339532,108692
+"1631","Nassau County, New York","Sussex County, New Jersey",1,0,1339532,149265
+"1632","Nassau County, New York","Morris County, New Jersey",1,0,1339532,492276
+"1633","Nassau County, New York","Union County, New Jersey",1,0,1339532,536499
+"1634","Nassau County, New York","Essex County, New Jersey",1,0,1339532,783969
+"1635","Nassau County, New York","Passaic County, New Jersey",1,0,1339532,501226
+"1636","Nassau County, New York","Bergen County, New Jersey",1,0,1339532,905116
+"1637","Nassau County, New York","New York County, New York",1,0,1339532,1585873
+"1638","Nassau County, New York","Hudson County, New Jersey",1,0,1339532,634266
+"1639","Nassau County, New York","Somerset County, New Jersey",1,0,1339532,323444
+"1640","Nassau County, New York","Middlesex County, New Jersey",1,0,1339532,809858
+"1641","Nassau County, New York","Hunterdon County, New Jersey",1,0,1339532,128349
+"1642","Nassau County, New York","Mercer County, New Jersey",1,0,1339532,366513
+"1643","Nassau County, New York","Ocean County, New Jersey",1,0,1339532,576567
+"1644","Nassau County, New York","Monmouth County, New Jersey",1,0,1339532,630380
+"1645","Nassau County, New York","Kings County, New York",1,0,1339532,2504700
+"1646","Nassau County, New York","Bucks County, Pennsylvania",1,0,1339532,625249
+"1647","Nassau County, New York","Queens County, New York",1,0,1339532,2230722
+"1648","Nassau County, New York","Salem County, New Jersey",1,0,1339532,66083
+"1649","Nassau County, New York","Gloucester County, New Jersey",1,0,1339532,288288
+"1650","Nassau County, New York","Cumberland County, New Jersey",1,0,1339532,156898
+"1651","Nassau County, New York","Philadelphia County, Pennsylvania",1,0,1339532,1526006
+"1652","Nassau County, New York","Camden County, New Jersey",1,0,1339532,513657
+"1653","Nassau County, New York","Burlington County, New Jersey",1,0,1339532,448734
+"1654","Nassau County, New York","Cape May County, New Jersey",1,0,1339532,97265
+"1655","Nassau County, New York","Atlantic County, New Jersey",1,0,1339532,274549
+"1656","Nassau County, New York","New Castle County, Delaware",1,0,1339532,538479
+"1657","Nassau County, New York","Delaware County, Pennsylvania",1,0,1339532,558979
+"1658","Nassau County, New York","Montgomery County, Pennsylvania",1,0,1339532,799874
+"1659","Nassau County, New York","Northampton County, Pennsylvania",1,0,1339532,297735
+"1660","Nassau County, New York","Richmond County, New York",1,0,1339532,468730
+"1661","Nassau County, New York","Bronx County, New York",1,0,1339532,1385108
+"1662","Nassau County, New York","Rockland County, New York",1,0,1339532,311687
+"1663","Nassau County, New York","Chester County, Pennsylvania",1,0,1339532,498886
+"1664","Nassau County, New York","Orange County, New York",1,0,1339532,372813
+"1665","Nassau County, New York","Lehigh County, Pennsylvania",1,0,1339532,349497
+"1666","Nassau County, New York","Fairfield County, Connecticut",1,0,1339532,916829
+"1667","Nassau County, New York","Monroe County, Pennsylvania",1,0,1339532,169842
+"1668","Nassau County, New York","Pike County, Pennsylvania",1,0,1339532,57369
+"1669","Nassau County, New York","Suffolk County, New York",1,0,1339532,1493350
+"1670","Nassau County, New York","District of Columbia, District of Columbia",1,0,1339532,601723
+"1671","Nassau County, New York","Montgomery County, Maryland",1,0,1339532,971777
+"1672","Nassau County, New York","Ulster County, New York",1,0,1339532,182493
+"1673","Fairfield County, Connecticut","Westchester County, New York",1,0,916829,949113
+"1674","Fairfield County, Connecticut","Warren County, New Jersey",1,0,916829,108692
+"1675","Fairfield County, Connecticut","Sussex County, New Jersey",1,0,916829,149265
+"1676","Fairfield County, Connecticut","Morris County, New Jersey",1,0,916829,492276
+"1677","Fairfield County, Connecticut","Union County, New Jersey",1,0,916829,536499
+"1678","Fairfield County, Connecticut","Essex County, New Jersey",1,0,916829,783969
+"1679","Fairfield County, Connecticut","Passaic County, New Jersey",1,0,916829,501226
+"1680","Fairfield County, Connecticut","Bergen County, New Jersey",1,0,916829,905116
+"1681","Fairfield County, Connecticut","New York County, New York",1,0,916829,1585873
+"1682","Fairfield County, Connecticut","Hudson County, New Jersey",1,0,916829,634266
+"1683","Fairfield County, Connecticut","Somerset County, New Jersey",1,0,916829,323444
+"1684","Fairfield County, Connecticut","Middlesex County, New Jersey",1,0,916829,809858
+"1685","Fairfield County, Connecticut","Hunterdon County, New Jersey",1,0,916829,128349
+"1686","Fairfield County, Connecticut","Mercer County, New Jersey",1,0,916829,366513
+"1687","Fairfield County, Connecticut","Ocean County, New Jersey",1,0,916829,576567
+"1688","Fairfield County, Connecticut","Monmouth County, New Jersey",1,0,916829,630380
+"1689","Fairfield County, Connecticut","Kings County, New York",1,0,916829,2504700
+"1690","Fairfield County, Connecticut","Bucks County, Pennsylvania",1,0,916829,625249
+"1691","Fairfield County, Connecticut","Queens County, New York",1,0,916829,2230722
+"1692","Fairfield County, Connecticut","Salem County, New Jersey",1,0,916829,66083
+"1693","Fairfield County, Connecticut","Gloucester County, New Jersey",1,0,916829,288288
+"1694","Fairfield County, Connecticut","Cumberland County, New Jersey",1,0,916829,156898
+"1695","Fairfield County, Connecticut","Philadelphia County, Pennsylvania",1,0,916829,1526006
+"1696","Fairfield County, Connecticut","Camden County, New Jersey",1,0,916829,513657
+"1697","Fairfield County, Connecticut","Burlington County, New Jersey",1,0,916829,448734
+"1698","Fairfield County, Connecticut","Cape May County, New Jersey",1,0,916829,97265
+"1699","Fairfield County, Connecticut","Atlantic County, New Jersey",1,0,916829,274549
+"1700","Fairfield County, Connecticut","New Castle County, Delaware",1,0,916829,538479
+"1701","Fairfield County, Connecticut","Delaware County, Pennsylvania",1,0,916829,558979
+"1702","Fairfield County, Connecticut","Montgomery County, Pennsylvania",1,0,916829,799874
+"1703","Fairfield County, Connecticut","Northampton County, Pennsylvania",1,0,916829,297735
+"1704","Fairfield County, Connecticut","Richmond County, New York",1,0,916829,468730
+"1705","Fairfield County, Connecticut","Bronx County, New York",1,0,916829,1385108
+"1706","Fairfield County, Connecticut","Rockland County, New York",1,0,916829,311687
+"1707","Fairfield County, Connecticut","Chester County, Pennsylvania",1,0,916829,498886
+"1708","Fairfield County, Connecticut","Orange County, New York",1,0,916829,372813
+"1709","Fairfield County, Connecticut","Lehigh County, Pennsylvania",1,0,916829,349497
+"1710","Fairfield County, Connecticut","Nassau County, New York",1,0,916829,1339532
+"1711","Fairfield County, Connecticut","Monroe County, Pennsylvania",1,0,916829,169842
+"1712","Fairfield County, Connecticut","Pike County, Pennsylvania",1,0,916829,57369
+"1713","Fairfield County, Connecticut","Suffolk County, New York",1,0,916829,1493350
+"1714","Fairfield County, Connecticut","District of Columbia, District of Columbia",1,0,916829,601723
+"1715","Fairfield County, Connecticut","Montgomery County, Maryland",1,0,916829,971777
+"1716","Fairfield County, Connecticut","Ulster County, New York",1,0,916829,182493
+"1717","Monroe County, Pennsylvania","Westchester County, New York",1,0,169842,949113
+"1718","Monroe County, Pennsylvania","Warren County, New Jersey",1,0,169842,108692
+"1719","Monroe County, Pennsylvania","Sussex County, New Jersey",1,0,169842,149265
+"1720","Monroe County, Pennsylvania","Morris County, New Jersey",1,0,169842,492276
+"1721","Monroe County, Pennsylvania","Union County, New Jersey",1,0,169842,536499
+"1722","Monroe County, Pennsylvania","Essex County, New Jersey",1,0,169842,783969
+"1723","Monroe County, Pennsylvania","Passaic County, New Jersey",1,0,169842,501226
+"1724","Monroe County, Pennsylvania","Bergen County, New Jersey",1,0,169842,905116
+"1725","Monroe County, Pennsylvania","New York County, New York",1,0,169842,1585873
+"1726","Monroe County, Pennsylvania","Hudson County, New Jersey",1,0,169842,634266
+"1727","Monroe County, Pennsylvania","Somerset County, New Jersey",1,0,169842,323444
+"1728","Monroe County, Pennsylvania","Middlesex County, New Jersey",1,0,169842,809858
+"1729","Monroe County, Pennsylvania","Hunterdon County, New Jersey",1,0,169842,128349
+"1730","Monroe County, Pennsylvania","Mercer County, New Jersey",1,0,169842,366513
+"1731","Monroe County, Pennsylvania","Ocean County, New Jersey",1,0,169842,576567
+"1732","Monroe County, Pennsylvania","Monmouth County, New Jersey",1,0,169842,630380
+"1733","Monroe County, Pennsylvania","Kings County, New York",1,0,169842,2504700
+"1734","Monroe County, Pennsylvania","Bucks County, Pennsylvania",1,0,169842,625249
+"1735","Monroe County, Pennsylvania","Queens County, New York",1,0,169842,2230722
+"1736","Monroe County, Pennsylvania","Salem County, New Jersey",1,0,169842,66083
+"1737","Monroe County, Pennsylvania","Gloucester County, New Jersey",1,0,169842,288288
+"1738","Monroe County, Pennsylvania","Cumberland County, New Jersey",1,0,169842,156898
+"1739","Monroe County, Pennsylvania","Philadelphia County, Pennsylvania",1,0,169842,1526006
+"1740","Monroe County, Pennsylvania","Camden County, New Jersey",1,0,169842,513657
+"1741","Monroe County, Pennsylvania","Burlington County, New Jersey",1,0,169842,448734
+"1742","Monroe County, Pennsylvania","Cape May County, New Jersey",1,0,169842,97265
+"1743","Monroe County, Pennsylvania","Atlantic County, New Jersey",1,0,169842,274549
+"1744","Monroe County, Pennsylvania","New Castle County, Delaware",1,0,169842,538479
+"1745","Monroe County, Pennsylvania","Delaware County, Pennsylvania",1,0,169842,558979
+"1746","Monroe County, Pennsylvania","Montgomery County, Pennsylvania",1,0,169842,799874
+"1747","Monroe County, Pennsylvania","Northampton County, Pennsylvania",1,0,169842,297735
+"1748","Monroe County, Pennsylvania","Richmond County, New York",1,0,169842,468730
+"1749","Monroe County, Pennsylvania","Bronx County, New York",1,0,169842,1385108
+"1750","Monroe County, Pennsylvania","Rockland County, New York",1,0,169842,311687
+"1751","Monroe County, Pennsylvania","Chester County, Pennsylvania",1,0,169842,498886
+"1752","Monroe County, Pennsylvania","Orange County, New York",1,0,169842,372813
+"1753","Monroe County, Pennsylvania","Lehigh County, Pennsylvania",1,0,169842,349497
+"1754","Monroe County, Pennsylvania","Nassau County, New York",1,0,169842,1339532
+"1755","Monroe County, Pennsylvania","Fairfield County, Connecticut",1,0,169842,916829
+"1756","Monroe County, Pennsylvania","Pike County, Pennsylvania",1,0,169842,57369
+"1757","Monroe County, Pennsylvania","Suffolk County, New York",1,0,169842,1493350
+"1758","Monroe County, Pennsylvania","District of Columbia, District of Columbia",1,0,169842,601723
+"1759","Monroe County, Pennsylvania","Montgomery County, Maryland",1,0,169842,971777
+"1760","Monroe County, Pennsylvania","Ulster County, New York",1,0,169842,182493
+"1761","Pike County, Pennsylvania","Westchester County, New York",1,0,57369,949113
+"1762","Pike County, Pennsylvania","Warren County, New Jersey",1,0,57369,108692
+"1763","Pike County, Pennsylvania","Sussex County, New Jersey",1,0,57369,149265
+"1764","Pike County, Pennsylvania","Morris County, New Jersey",1,0,57369,492276
+"1765","Pike County, Pennsylvania","Union County, New Jersey",1,0,57369,536499
+"1766","Pike County, Pennsylvania","Essex County, New Jersey",1,0,57369,783969
+"1767","Pike County, Pennsylvania","Passaic County, New Jersey",1,0,57369,501226
+"1768","Pike County, Pennsylvania","Bergen County, New Jersey",1,0,57369,905116
+"1769","Pike County, Pennsylvania","New York County, New York",1,0,57369,1585873
+"1770","Pike County, Pennsylvania","Hudson County, New Jersey",1,0,57369,634266
+"1771","Pike County, Pennsylvania","Somerset County, New Jersey",1,0,57369,323444
+"1772","Pike County, Pennsylvania","Middlesex County, New Jersey",1,0,57369,809858
+"1773","Pike County, Pennsylvania","Hunterdon County, New Jersey",1,0,57369,128349
+"1774","Pike County, Pennsylvania","Mercer County, New Jersey",1,0,57369,366513
+"1775","Pike County, Pennsylvania","Ocean County, New Jersey",1,0,57369,576567
+"1776","Pike County, Pennsylvania","Monmouth County, New Jersey",1,0,57369,630380
+"1777","Pike County, Pennsylvania","Kings County, New York",1,0,57369,2504700
+"1778","Pike County, Pennsylvania","Bucks County, Pennsylvania",1,0,57369,625249
+"1779","Pike County, Pennsylvania","Queens County, New York",1,0,57369,2230722
+"1780","Pike County, Pennsylvania","Salem County, New Jersey",1,0,57369,66083
+"1781","Pike County, Pennsylvania","Gloucester County, New Jersey",1,0,57369,288288
+"1782","Pike County, Pennsylvania","Cumberland County, New Jersey",1,0,57369,156898
+"1783","Pike County, Pennsylvania","Philadelphia County, Pennsylvania",1,0,57369,1526006
+"1784","Pike County, Pennsylvania","Camden County, New Jersey",1,0,57369,513657
+"1785","Pike County, Pennsylvania","Burlington County, New Jersey",1,0,57369,448734
+"1786","Pike County, Pennsylvania","Cape May County, New Jersey",1,0,57369,97265
+"1787","Pike County, Pennsylvania","Atlantic County, New Jersey",1,0,57369,274549
+"1788","Pike County, Pennsylvania","New Castle County, Delaware",1,0,57369,538479
+"1789","Pike County, Pennsylvania","Delaware County, Pennsylvania",1,0,57369,558979
+"1790","Pike County, Pennsylvania","Montgomery County, Pennsylvania",1,0,57369,799874
+"1791","Pike County, Pennsylvania","Northampton County, Pennsylvania",1,0,57369,297735
+"1792","Pike County, Pennsylvania","Richmond County, New York",1,0,57369,468730
+"1793","Pike County, Pennsylvania","Bronx County, New York",1,0,57369,1385108
+"1794","Pike County, Pennsylvania","Rockland County, New York",1,0,57369,311687
+"1795","Pike County, Pennsylvania","Chester County, Pennsylvania",1,0,57369,498886
+"1796","Pike County, Pennsylvania","Orange County, New York",1,0,57369,372813
+"1797","Pike County, Pennsylvania","Lehigh County, Pennsylvania",1,0,57369,349497
+"1798","Pike County, Pennsylvania","Nassau County, New York",1,0,57369,1339532
+"1799","Pike County, Pennsylvania","Fairfield County, Connecticut",1,0,57369,916829
+"1800","Pike County, Pennsylvania","Monroe County, Pennsylvania",1,0,57369,169842
+"1801","Pike County, Pennsylvania","Suffolk County, New York",1,0,57369,1493350
+"1802","Pike County, Pennsylvania","District of Columbia, District of Columbia",1,0,57369,601723
+"1803","Pike County, Pennsylvania","Montgomery County, Maryland",1,0,57369,971777
+"1804","Pike County, Pennsylvania","Ulster County, New York",1,0,57369,182493
+"1805","Suffolk County, New York","Westchester County, New York",1,0,1493350,949113
+"1806","Suffolk County, New York","Warren County, New Jersey",1,0,1493350,108692
+"1807","Suffolk County, New York","Sussex County, New Jersey",1,0,1493350,149265
+"1808","Suffolk County, New York","Morris County, New Jersey",1,0,1493350,492276
+"1809","Suffolk County, New York","Union County, New Jersey",1,0,1493350,536499
+"1810","Suffolk County, New York","Essex County, New Jersey",1,0,1493350,783969
+"1811","Suffolk County, New York","Passaic County, New Jersey",1,0,1493350,501226
+"1812","Suffolk County, New York","Bergen County, New Jersey",1,0,1493350,905116
+"1813","Suffolk County, New York","New York County, New York",1,0,1493350,1585873
+"1814","Suffolk County, New York","Hudson County, New Jersey",1,0,1493350,634266
+"1815","Suffolk County, New York","Somerset County, New Jersey",1,0,1493350,323444
+"1816","Suffolk County, New York","Middlesex County, New Jersey",1,0,1493350,809858
+"1817","Suffolk County, New York","Hunterdon County, New Jersey",1,0,1493350,128349
+"1818","Suffolk County, New York","Mercer County, New Jersey",1,0,1493350,366513
+"1819","Suffolk County, New York","Ocean County, New Jersey",1,0,1493350,576567
+"1820","Suffolk County, New York","Monmouth County, New Jersey",1,0,1493350,630380
+"1821","Suffolk County, New York","Kings County, New York",1,0,1493350,2504700
+"1822","Suffolk County, New York","Bucks County, Pennsylvania",1,0,1493350,625249
+"1823","Suffolk County, New York","Queens County, New York",1,0,1493350,2230722
+"1824","Suffolk County, New York","Salem County, New Jersey",1,0,1493350,66083
+"1825","Suffolk County, New York","Gloucester County, New Jersey",1,0,1493350,288288
+"1826","Suffolk County, New York","Cumberland County, New Jersey",1,0,1493350,156898
+"1827","Suffolk County, New York","Philadelphia County, Pennsylvania",1,0,1493350,1526006
+"1828","Suffolk County, New York","Camden County, New Jersey",1,0,1493350,513657
+"1829","Suffolk County, New York","Burlington County, New Jersey",1,0,1493350,448734
+"1830","Suffolk County, New York","Cape May County, New Jersey",1,0,1493350,97265
+"1831","Suffolk County, New York","Atlantic County, New Jersey",1,0,1493350,274549
+"1832","Suffolk County, New York","New Castle County, Delaware",1,0,1493350,538479
+"1833","Suffolk County, New York","Delaware County, Pennsylvania",1,0,1493350,558979
+"1834","Suffolk County, New York","Montgomery County, Pennsylvania",1,0,1493350,799874
+"1835","Suffolk County, New York","Northampton County, Pennsylvania",1,0,1493350,297735
+"1836","Suffolk County, New York","Richmond County, New York",1,0,1493350,468730
+"1837","Suffolk County, New York","Bronx County, New York",1,0,1493350,1385108
+"1838","Suffolk County, New York","Rockland County, New York",1,0,1493350,311687
+"1839","Suffolk County, New York","Chester County, Pennsylvania",1,0,1493350,498886
+"1840","Suffolk County, New York","Orange County, New York",1,0,1493350,372813
+"1841","Suffolk County, New York","Lehigh County, Pennsylvania",1,0,1493350,349497
+"1842","Suffolk County, New York","Nassau County, New York",1,0,1493350,1339532
+"1843","Suffolk County, New York","Fairfield County, Connecticut",1,0,1493350,916829
+"1844","Suffolk County, New York","Monroe County, Pennsylvania",1,0,1493350,169842
+"1845","Suffolk County, New York","Pike County, Pennsylvania",1,0,1493350,57369
+"1846","Suffolk County, New York","District of Columbia, District of Columbia",1,0,1493350,601723
+"1847","Suffolk County, New York","Montgomery County, Maryland",1,0,1493350,971777
+"1848","Suffolk County, New York","Ulster County, New York",1,0,1493350,182493
+"1849","District of Columbia, District of Columbia","Westchester County, New York",1,0,601723,949113
+"1850","District of Columbia, District of Columbia","Warren County, New Jersey",1,0,601723,108692
+"1851","District of Columbia, District of Columbia","Sussex County, New Jersey",1,0,601723,149265
+"1852","District of Columbia, District of Columbia","Morris County, New Jersey",1,0,601723,492276
+"1853","District of Columbia, District of Columbia","Union County, New Jersey",1,0,601723,536499
+"1854","District of Columbia, District of Columbia","Essex County, New Jersey",1,0,601723,783969
+"1855","District of Columbia, District of Columbia","Passaic County, New Jersey",1,0,601723,501226
+"1856","District of Columbia, District of Columbia","Bergen County, New Jersey",1,0,601723,905116
+"1857","District of Columbia, District of Columbia","New York County, New York",1,0,601723,1585873
+"1858","District of Columbia, District of Columbia","Hudson County, New Jersey",1,0,601723,634266
+"1859","District of Columbia, District of Columbia","Somerset County, New Jersey",1,0,601723,323444
+"1860","District of Columbia, District of Columbia","Middlesex County, New Jersey",1,0,601723,809858
+"1861","District of Columbia, District of Columbia","Hunterdon County, New Jersey",1,0,601723,128349
+"1862","District of Columbia, District of Columbia","Mercer County, New Jersey",1,0,601723,366513
+"1863","District of Columbia, District of Columbia","Ocean County, New Jersey",1,0,601723,576567
+"1864","District of Columbia, District of Columbia","Monmouth County, New Jersey",1,0,601723,630380
+"1865","District of Columbia, District of Columbia","Kings County, New York",1,0,601723,2504700
+"1866","District of Columbia, District of Columbia","Bucks County, Pennsylvania",1,0,601723,625249
+"1867","District of Columbia, District of Columbia","Queens County, New York",1,0,601723,2230722
+"1868","District of Columbia, District of Columbia","Salem County, New Jersey",1,0,601723,66083
+"1869","District of Columbia, District of Columbia","Gloucester County, New Jersey",1,0,601723,288288
+"1870","District of Columbia, District of Columbia","Cumberland County, New Jersey",1,0,601723,156898
+"1871","District of Columbia, District of Columbia","Philadelphia County, Pennsylvania",1,0,601723,1526006
+"1872","District of Columbia, District of Columbia","Camden County, New Jersey",1,0,601723,513657
+"1873","District of Columbia, District of Columbia","Burlington County, New Jersey",1,0,601723,448734
+"1874","District of Columbia, District of Columbia","Cape May County, New Jersey",1,0,601723,97265
+"1875","District of Columbia, District of Columbia","Atlantic County, New Jersey",1,0,601723,274549
+"1876","District of Columbia, District of Columbia","New Castle County, Delaware",1,0,601723,538479
+"1877","District of Columbia, District of Columbia","Delaware County, Pennsylvania",1,0,601723,558979
+"1878","District of Columbia, District of Columbia","Montgomery County, Pennsylvania",1,0,601723,799874
+"1879","District of Columbia, District of Columbia","Northampton County, Pennsylvania",1,0,601723,297735
+"1880","District of Columbia, District of Columbia","Richmond County, New York",1,0,601723,468730
+"1881","District of Columbia, District of Columbia","Bronx County, New York",1,0,601723,1385108
+"1882","District of Columbia, District of Columbia","Rockland County, New York",1,0,601723,311687
+"1883","District of Columbia, District of Columbia","Chester County, Pennsylvania",1,0,601723,498886
+"1884","District of Columbia, District of Columbia","Orange County, New York",1,0,601723,372813
+"1885","District of Columbia, District of Columbia","Lehigh County, Pennsylvania",1,0,601723,349497
+"1886","District of Columbia, District of Columbia","Nassau County, New York",1,0,601723,1339532
+"1887","District of Columbia, District of Columbia","Fairfield County, Connecticut",1,0,601723,916829
+"1888","District of Columbia, District of Columbia","Monroe County, Pennsylvania",1,0,601723,169842
+"1889","District of Columbia, District of Columbia","Pike County, Pennsylvania",1,0,601723,57369
+"1890","District of Columbia, District of Columbia","Suffolk County, New York",1,0,601723,1493350
+"1891","District of Columbia, District of Columbia","Montgomery County, Maryland",1,0,601723,971777
+"1892","District of Columbia, District of Columbia","Ulster County, New York",1,0,601723,182493
+"1893","Montgomery County, Maryland","Westchester County, New York",1,0,971777,949113
+"1894","Montgomery County, Maryland","Warren County, New Jersey",1,0,971777,108692
+"1895","Montgomery County, Maryland","Sussex County, New Jersey",1,0,971777,149265
+"1896","Montgomery County, Maryland","Morris County, New Jersey",1,0,971777,492276
+"1897","Montgomery County, Maryland","Union County, New Jersey",1,0,971777,536499
+"1898","Montgomery County, Maryland","Essex County, New Jersey",1,0,971777,783969
+"1899","Montgomery County, Maryland","Passaic County, New Jersey",1,0,971777,501226
+"1900","Montgomery County, Maryland","Bergen County, New Jersey",1,0,971777,905116
+"1901","Montgomery County, Maryland","New York County, New York",1,0,971777,1585873
+"1902","Montgomery County, Maryland","Hudson County, New Jersey",1,0,971777,634266
+"1903","Montgomery County, Maryland","Somerset County, New Jersey",1,0,971777,323444
+"1904","Montgomery County, Maryland","Middlesex County, New Jersey",1,0,971777,809858
+"1905","Montgomery County, Maryland","Hunterdon County, New Jersey",1,0,971777,128349
+"1906","Montgomery County, Maryland","Mercer County, New Jersey",1,0,971777,366513
+"1907","Montgomery County, Maryland","Ocean County, New Jersey",1,0,971777,576567
+"1908","Montgomery County, Maryland","Monmouth County, New Jersey",1,0,971777,630380
+"1909","Montgomery County, Maryland","Kings County, New York",1,0,971777,2504700
+"1910","Montgomery County, Maryland","Bucks County, Pennsylvania",1,0,971777,625249
+"1911","Montgomery County, Maryland","Queens County, New York",1,0,971777,2230722
+"1912","Montgomery County, Maryland","Salem County, New Jersey",1,0,971777,66083
+"1913","Montgomery County, Maryland","Gloucester County, New Jersey",1,0,971777,288288
+"1914","Montgomery County, Maryland","Cumberland County, New Jersey",1,0,971777,156898
+"1915","Montgomery County, Maryland","Philadelphia County, Pennsylvania",1,0,971777,1526006
+"1916","Montgomery County, Maryland","Camden County, New Jersey",1,0,971777,513657
+"1917","Montgomery County, Maryland","Burlington County, New Jersey",1,0,971777,448734
+"1918","Montgomery County, Maryland","Cape May County, New Jersey",1,0,971777,97265
+"1919","Montgomery County, Maryland","Atlantic County, New Jersey",1,0,971777,274549
+"1920","Montgomery County, Maryland","New Castle County, Delaware",1,0,971777,538479
+"1921","Montgomery County, Maryland","Delaware County, Pennsylvania",1,0,971777,558979
+"1922","Montgomery County, Maryland","Montgomery County, Pennsylvania",1,0,971777,799874
+"1923","Montgomery County, Maryland","Northampton County, Pennsylvania",1,0,971777,297735
+"1924","Montgomery County, Maryland","Richmond County, New York",1,0,971777,468730
+"1925","Montgomery County, Maryland","Bronx County, New York",1,0,971777,1385108
+"1926","Montgomery County, Maryland","Rockland County, New York",1,0,971777,311687
+"1927","Montgomery County, Maryland","Chester County, Pennsylvania",1,0,971777,498886
+"1928","Montgomery County, Maryland","Orange County, New York",1,0,971777,372813
+"1929","Montgomery County, Maryland","Lehigh County, Pennsylvania",1,0,971777,349497
+"1930","Montgomery County, Maryland","Nassau County, New York",1,0,971777,1339532
+"1931","Montgomery County, Maryland","Fairfield County, Connecticut",1,0,971777,916829
+"1932","Montgomery County, Maryland","Monroe County, Pennsylvania",1,0,971777,169842
+"1933","Montgomery County, Maryland","Pike County, Pennsylvania",1,0,971777,57369
+"1934","Montgomery County, Maryland","Suffolk County, New York",1,0,971777,1493350
+"1935","Montgomery County, Maryland","District of Columbia, District of Columbia",1,0,971777,601723
+"1936","Montgomery County, Maryland","Ulster County, New York",1,0,971777,182493
+"1937","Ulster County, New York","Westchester County, New York",1,0,182493,949113
+"1938","Ulster County, New York","Warren County, New Jersey",1,0,182493,108692
+"1939","Ulster County, New York","Sussex County, New Jersey",1,0,182493,149265
+"1940","Ulster County, New York","Morris County, New Jersey",1,0,182493,492276
+"1941","Ulster County, New York","Union County, New Jersey",1,0,182493,536499
+"1942","Ulster County, New York","Essex County, New Jersey",1,0,182493,783969
+"1943","Ulster County, New York","Passaic County, New Jersey",1,0,182493,501226
+"1944","Ulster County, New York","Bergen County, New Jersey",1,0,182493,905116
+"1945","Ulster County, New York","New York County, New York",1,0,182493,1585873
+"1946","Ulster County, New York","Hudson County, New Jersey",1,0,182493,634266
+"1947","Ulster County, New York","Somerset County, New Jersey",1,0,182493,323444
+"1948","Ulster County, New York","Middlesex County, New Jersey",1,0,182493,809858
+"1949","Ulster County, New York","Hunterdon County, New Jersey",1,0,182493,128349
+"1950","Ulster County, New York","Mercer County, New Jersey",1,0,182493,366513
+"1951","Ulster County, New York","Ocean County, New Jersey",1,0,182493,576567
+"1952","Ulster County, New York","Monmouth County, New Jersey",1,0,182493,630380
+"1953","Ulster County, New York","Kings County, New York",1,0,182493,2504700
+"1954","Ulster County, New York","Bucks County, Pennsylvania",1,0,182493,625249
+"1955","Ulster County, New York","Queens County, New York",1,0,182493,2230722
+"1956","Ulster County, New York","Salem County, New Jersey",1,0,182493,66083
+"1957","Ulster County, New York","Gloucester County, New Jersey",1,0,182493,288288
+"1958","Ulster County, New York","Cumberland County, New Jersey",1,0,182493,156898
+"1959","Ulster County, New York","Philadelphia County, Pennsylvania",1,0,182493,1526006
+"1960","Ulster County, New York","Camden County, New Jersey",1,0,182493,513657
+"1961","Ulster County, New York","Burlington County, New Jersey",1,0,182493,448734
+"1962","Ulster County, New York","Cape May County, New Jersey",1,0,182493,97265
+"1963","Ulster County, New York","Atlantic County, New Jersey",1,0,182493,274549
+"1964","Ulster County, New York","New Castle County, Delaware",1,0,182493,538479
+"1965","Ulster County, New York","Delaware County, Pennsylvania",1,0,182493,558979
+"1966","Ulster County, New York","Montgomery County, Pennsylvania",1,0,182493,799874
+"1967","Ulster County, New York","Northampton County, Pennsylvania",1,0,182493,297735
+"1968","Ulster County, New York","Richmond County, New York",1,0,182493,468730
+"1969","Ulster County, New York","Bronx County, New York",1,0,182493,1385108
+"1970","Ulster County, New York","Rockland County, New York",1,0,182493,311687
+"1971","Ulster County, New York","Chester County, Pennsylvania",1,0,182493,498886
+"1972","Ulster County, New York","Orange County, New York",1,0,182493,372813
+"1973","Ulster County, New York","Lehigh County, Pennsylvania",1,0,182493,349497
+"1974","Ulster County, New York","Nassau County, New York",1,0,182493,1339532
+"1975","Ulster County, New York","Fairfield County, Connecticut",1,0,182493,916829
+"1976","Ulster County, New York","Monroe County, Pennsylvania",1,0,182493,169842
+"1977","Ulster County, New York","Pike County, Pennsylvania",1,0,182493,57369
+"1978","Ulster County, New York","Suffolk County, New York",1,0,182493,1493350
+"1979","Ulster County, New York","District of Columbia, District of Columbia",1,0,182493,601723
+"1980","Ulster County, New York","Montgomery County, Maryland",1,0,182493,971777

@@ -1,0 +1,2451 @@
+"","source","target","cluster","pct","srcpop","tarpop"
+"101","Sandoval County, New Mexico","Bernalillo County, New Mexico",1,0.19986926216736,131561,662564
+"52","Valencia County, New Mexico","Bernalillo County, New Mexico",1,0.161540571249461,76569,662564
+"200","Torrance County, New Mexico","Bernalillo County, New Mexico",1,0.111029725935421,16383,662564
+"300","Rio Arriba County, New Mexico","Santa Fe County, New Mexico",1,0.0811757690205238,40246,144170
+"301","Rio Arriba County, New Mexico","Los Alamos County, New Mexico",1,0.0723301694578343,40246,17950
+"398","San Miguel County, New Mexico","Santa Fe County, New Mexico",1,0.0672949341679992,29393,144170
+"1851","Roosevelt County, New Mexico","Curry County, New Mexico",1,0.0576438577043233,19846,48376
+"2050","Harding County, New Mexico","Quay County, New Mexico",1,0.0517985611510791,695,9041
+"450","Mora County, New Mexico","San Miguel County, New Mexico",1,0.0510141364474493,4881,29393
+"1200","Dona Ana County, New Mexico","El Paso County, Texas",1,0.0486060994202635,209233,800647
+"349","Los Alamos County, New Mexico","Santa Fe County, New Mexico",1,0.0269637883008357,17950,144170
+"249","Santa Fe County, New Mexico","Bernalillo County, New Mexico",1,0.0244849830061733,144170,662564
+"252","Santa Fe County, New Mexico","Los Alamos County, New Mexico",1,0.0242144690296178,144170,17950
+"1101","Otero County, New Mexico","El Paso County, Texas",1,0.0216311111807765,63797,800647
+"650","Cibola County, New Mexico","McKinley County, New Mexico",1,0.0201374343144821,27213,71492
+"103","Sandoval County, New Mexico","Santa Fe County, New Mexico",1,0.0192154209834221,131561,144170
+"201","Torrance County, New Mexico","Santa Fe County, New Mexico",1,0.0187389367026796,16383,144170
+"1700","Chaves County, New Mexico","Eddy County, New Mexico",1,0.0184020108157514,65645,53829
+"1351","Hidalgo County, New Mexico","Greenlee County, Arizona",1,0.0181855333060891,4894,8437
+"492","Socorro County, New Mexico","Valencia County, New Mexico",1,0.0179670883241912,17866,76569
+"452","Mora County, New Mexico","Colfax County, New Mexico",1,0.0165949600491703,4881,13750
+"641","Cibola County, New Mexico","Bernalillo County, New Mexico",1,0.0163892257376989,27213,662564
+"602","McKinley County, New Mexico","Apache County, Arizona",1,0.0147009455603424,71492,71518
+"150","Bernalillo County, New Mexico","Sandoval County, New Mexico",1,0.0144619991427243,662564,131561
+"1248","Lincoln County, New Mexico","Otero County, New Mexico",1,0.0136117480606918,20497,63797
+"1900","Curry County, New Mexico","Roosevelt County, New Mexico",1,0.0128989581610716,48376,19846
+"554","Colfax County, New Mexico","Las Animas County, Colorado",1,0.0121454545454545,13750,15507
+"1102","Otero County, New Mexico","Dona Ana County, New Mexico",1,0.0115679420662414,63797,209233
+"639","Cibola County, New Mexico","Valencia County, New Mexico",1,0.0102157057288796,27213,76569
+"494","Socorro County, New Mexico","Bernalillo County, New Mexico",1,0.00985111384753162,17866,662564
+"251","Santa Fe County, New Mexico","Rio Arriba County, New Mexico",1,0.00951654297010474,144170,40246
+"1901","Curry County, New Mexico","Parmer County, Texas",1,0.00818587729452621,48376,10269
+"790","Taos County, New Mexico","Santa Fe County, New Mexico",1,0.00768133102589793,32937,144170
+"951","San Juan County, New Mexico","La Plata County, Colorado",1,0.00730521977176955,130044,51334
+"1299","Luna County, New Mexico","Dona Ana County, New Mexico",1,0.00657501494321578,25095,209233
+"1751","Union County, New Mexico","Dallam County, Texas",1,0.00593537041107936,4549,6703
+"1449","Grant County, New Mexico","Hidalgo County, New Mexico",1,0.00515009825845361,29514,4894
+"848","Catron County, New Mexico","Apache County, Arizona",1,0.00483221476510067,3725,71518
+"1601","Lea County, New Mexico","Eddy County, New Mexico",1,0.00482024502912231,64727,53829
+"891","Guadalupe County, New Mexico","San Miguel County, New Mexico",1,0.00469383400896096,4687,29393
+"152","Bernalillo County, New Mexico","Santa Fe County, New Mexico",1,0.00462144034387621,662564,144170
+"401","San Miguel County, New Mexico","Mora County, New Mexico",1,0.00438880005443473,29393,4881
+"310","Rio Arriba County, New Mexico","Taos County, New Mexico",1,0.00352830094916265,40246,32937
+"105","Sandoval County, New Mexico","Los Alamos County, New Mexico",1,0.00345847173554473,131561,17950
+"791","Taos County, New Mexico","Rio Arriba County, New Mexico",1,0.00343079211828643,32937,40246
+"1103","Otero County, New Mexico","Lincoln County, New Mexico",1,0.00299387118516545,63797,20497
+"1352","Hidalgo County, New Mexico","Grant County, New Mexico",1,0.00286064568859828,4894,29514
+"149","Bernalillo County, New Mexico","Valencia County, New Mexico",1,0.00281029455267718,662564,76569
+"51","Valencia County, New Mexico","Sandoval County, New Mexico",1,0.00267732372108817,76569,131561
+"592","McKinley County, New Mexico","Bernalillo County, New Mexico",1,0.00267162759469591,71492,662564
+"1999","Quay County, New Mexico","Curry County, New Mexico",1,0.00265457360911404,9041,48376
+"944","San Juan County, New Mexico","McKinley County, New Mexico",1,0.00257605118267663,130044,71492
+"1650","Eddy County, New Mexico","Lea County, New Mexico",1,0.00256367385609987,53829,64727
+"607","McKinley County, New Mexico","San Juan County, New Mexico",1,0.00253175180439769,71492,130044
+"1053","Sierra County, New Mexico","Dona Ana County, New Mexico",1,0.00233566900233567,11988,209233
+"1448","Grant County, New Mexico","Luna County, New Mexico",1,0.00220234464999661,29514,25095
+"862","Catron County, New Mexico","Grant County, New Mexico",1,0.00214765100671141,3725,29514
+"298","Rio Arriba County, New Mexico","Bernalillo County, New Mexico",1,0.00208716394175819,40246,662564
+"199","Torrance County, New Mexico","Sandoval County, New Mexico",1,0.00201428309833364,16383,131561
+"601","McKinley County, New Mexico","Cibola County, New Mexico",1,0.00180439769484698,71492,27213
+"792","Taos County, New Mexico","Los Alamos County, New Mexico",1,0.00173057655524183,32937,17950
+"250","Santa Fe County, New Mexico","Torrance County, New Mexico",1,0.00167163764999653,144170,16383
+"1699","Chaves County, New Mexico","Lea County, New Mexico",1,0.001660446340163,65645,64727
+"1353","Hidalgo County, New Mexico","Cochise County, Arizona",1,0.00163465467919902,4894,131346
+"1256","Lincoln County, New Mexico","Lubbock County, Texas",1,0.00160999170610333,20497,278831
+"100","Sandoval County, New Mexico","Valencia County, New Mexico",1,0.00160381876087898,131561,76569
+"1301","Luna County, New Mexico","Hidalgo County, New Mexico",1,0.00159394301653716,25095,4894
+"59","Valencia County, New Mexico","Socorro County, New Mexico",1,0.00154109365408978,76569,17866
+"946","San Juan County, New Mexico","Apache County, Arizona",1,0.00152256159453723,130044,71518
+"1996","Quay County, New Mexico","Union County, New Mexico",1,0.0014378940382701,9041,4549
+"1259","Lincoln County, New Mexico","Chaves County, New Mexico",1,0.00141484119627263,20497,65645
+"350","Los Alamos County, New Mexico","Rio Arriba County, New Mexico",1,0.00128133704735376,17950,40246
+"1303","Luna County, New Mexico","Grant County, New Mexico",1,0.00111576011157601,25095,29514
+"1846","Roosevelt County, New Mexico","Lea County, New Mexico",1,0.00105814773757936,19846,64727
+"297","Rio Arriba County, New Mexico","Sandoval County, New Mexico",1,0.000993887591313422,40246,131561
+"54","Valencia County, New Mexico","Santa Fe County, New Mexico",1,0.000992568794159516,76569,144170
+"1199","Dona Ana County, New Mexico","Otero County, New Mexico",1,0.000855505584683104,209233,63797
+"924","Guadalupe County, New Mexico","De Baca County, New Mexico",1,0.000853424365265629,4687,2022
+"253","Santa Fe County, New Mexico","San Miguel County, New Mexico",1,0.000846223208711937,144170,29393
+"1611","Lea County, New Mexico","Gaines County, Texas",1,0.000818823674818855,64727,17526
+"1202","Dona Ana County, New Mexico","Luna County, New Mexico",1,0.000774256450942251,209233,25095
+"347","Los Alamos County, New Mexico","Bernalillo County, New Mexico",1,0.000668523676880223,17950,662564
+"1651","Eddy County, New Mexico","Chaves County, New Mexico",1,0.000650207137416634,53829,65645
+"313","Rio Arriba County, New Mexico","San Juan County, New Mexico",1,0.000596332554788054,40246,130044
+"1198","Dona Ana County, New Mexico","Sierra County, New Mexico",1,0.000583082018610831,209233,11988
+"1450","Grant County, New Mexico","Greenlee County, Arizona",1,0.000542115606153012,29514,8437
+"1569","Lea County, New Mexico","Yoakum County, Texas",1,0.000525283112147944,64727,7879
+"289","Santa Fe County, New Mexico","Los Angeles County, California",1,0.000513282929874454,144170,9818605
+"154","Bernalillo County, New Mexico","Los Alamos County, New Mexico",1,0.000508630109695064,662564,17950
+"151","Bernalillo County, New Mexico","Torrance County, New Mexico",1,0.000466370041233753,662564,16383
+"117","Sandoval County, New Mexico","San Juan County, New Mexico",1,0.000448461170103602,131561,130044
+"920","Guadalupe County, New Mexico","Curry County, New Mexico",1,0.000426712182632814,4687,48376
+"922","Guadalupe County, New Mexico","Quay County, New Mexico",1,0.000426712182632814,4687,9041
+"410","San Miguel County, New Mexico","Guadalupe County, New Mexico",1,0.000408260470179975,29393,4687
+"935","San Juan County, New Mexico","Bernalillo County, New Mexico",1,0.000399864661191597,130044,662564
+"160","Bernalillo County, New Mexico","Cibola County, New Mexico",1,0.000386377768789128,662564,27213
+"261","Santa Fe County, New Mexico","Taos County, New Mexico",1,0.000319067767219255,144170,32937
+"976","San Juan County, New Mexico","Montezuma County, Colorado",1,0.000276829380824951,130044,25535
+"844","Catron County, New Mexico","Socorro County, New Mexico",1,0.000268456375838927,3725,17866
+"106","Sandoval County, New Mexico","San Miguel County, New Mexico",1,0.000258435250568178,131561,29393
+"1180","Dona Ana County, New Mexico","Bernalillo County, New Mexico",1,0.000258085483647417,209233,662564
+"110","Sandoval County, New Mexico","McKinley County, New Mexico",1,0.000250834213786761,131561,71492
+"248","Santa Fe County, New Mexico","Sandoval County, New Mexico",1,0.000249705209128113,144170,131561
+"87","Valencia County, New Mexico","Curry County, New Mexico",1,0.000248142198539879,76569,48376
+"1320","Luna County, New Mexico","Graham County, Arizona",1,0.000239091452480574,25095,37220
+"396","San Miguel County, New Mexico","Bernalillo County, New Mexico",1,0.000238151940938319,29393,662564
+"62","Valencia County, New Mexico","Cibola County, New Mexico",1,0.000222021967114629,76569,27213
+"1727","Union County, New Mexico","Colfax County, New Mexico",1,0.00021982853374368,4549,13750
+"292","Santa Fe County, New Mexico","Harris County, Texas",1,0.000208087674273427,144170,4092459
+"449","Mora County, New Mexico","Los Alamos County, New Mexico",1,0.000204876049989755,4881,17950
+"1082","Otero County, New Mexico","Bernalillo County, New Mexico",1,0.000203771337210214,63797,662564
+"978","San Juan County, New Mexico","Harris County, Texas",1,0.000192242625572883,130044,4092459
+"591","McKinley County, New Mexico","Sandoval County, New Mexico",1,0.00018183852738768,71492,131561
+"1902","Curry County, New Mexico","Quay County, New Mexico",1,0.000165371258475277,48376,9041
+"157","Bernalillo County, New Mexico","Socorro County, New Mexico",1,0.000155456680411251,662564,17866
+"195","Bernalillo County, New Mexico","Maricopa County, Arizona",1,0.000144891663295923,662564,3817117
+"1225","Dona Ana County, New Mexico","Dallas County, Texas",1,0.000129042741823708,209233,2368139
+"171","Bernalillo County, New Mexico","Dona Ana County, New Mexico",1,0.000122252340905935,662564,209233
+"118","Sandoval County, New Mexico","La Plata County, Colorado",1,0.000121616588502672,131561,51334
+"159","Bernalillo County, New Mexico","McKinley County, New Mexico",1,0.000108668747471942,662564,71492
+"108","Sandoval County, New Mexico","Socorro County, New Mexico",1,0.000106414514939838,131561,17866
+"1845","Roosevelt County, New Mexico","Lubbock County, Texas",1,0.000100775975007558,19846,278831
+"945","San Juan County, New Mexico","Cibola County, New Mexico",1,9.99661652978992e-05,130044,27213
+"1703","Chaves County, New Mexico","Roosevelt County, New Mexico",1,9.14007159722752e-05,65645,19846
+"170","Bernalillo County, New Mexico","El Paso County, Texas",1,9.05572895599519e-05,662564,800647
+"1205","Dona Ana County, New Mexico","Grant County, New Mexico",1,8.6028494549139e-05,209233,29514
+"194","Bernalillo County, New Mexico","Harris County, Texas",1,8.30108487632893e-05,662564,4092459
+"104","Sandoval County, New Mexico","Rio Arriba County, New Mexico",1,7.60103678141698e-05,131561,40246
+"651","Cibola County, New Mexico","Apache County, Arizona",1,7.34942858192777e-05,27213,71518
+"111","Sandoval County, New Mexico","Cibola County, New Mexico",1,6.84093310327528e-05,131561,27213
+"153","Bernalillo County, New Mexico","Rio Arriba County, New Mexico",1,6.33901026919664e-05,662564,40246
+"1122","Otero County, New Mexico","Los Angeles County, California",1,6.26988729877581e-05,63797,9818605
+"1209","Dona Ana County, New Mexico","Eddy County, New Mexico",1,5.7352329699426e-05,209233,53829
+"155","Bernalillo County, New Mexico","San Miguel County, New Mexico",1,4.8297221098641e-05,662564,29393
+"1111","Otero County, New Mexico","Eddy County, New Mexico",1,4.70241547408185e-05,63797,53829
+"1881","Curry County, New Mexico","Guadalupe County, New Mexico",1,4.13428146188193e-05,48376,4687
+"1298","Luna County, New Mexico","El Paso County, Texas",1,3.98485754134288e-05,25095,800647
+"163","Bernalillo County, New Mexico","Taos County, New Mexico",1,3.92414921426458e-05,662564,32937
+"61","Valencia County, New Mexico","McKinley County, New Mexico",1,3.91803471378755e-05,76569,71492
+"934","San Juan County, New Mexico","Sandoval County, New Mexico",1,3.84485251145766e-05,130044,131561
+"180","Bernalillo County, New Mexico","Eddy County, New Mexico",1,3.62229158239808e-05,662564,53829
+"166","Bernalillo County, New Mexico","San Juan County, New Mexico",1,3.32043395053157e-05,662564,130044
+"938","San Juan County, New Mexico","Rio Arriba County, New Mexico",1,2.3069115068746e-05,130044,40246
+"277","Santa Fe County, New Mexico","Lea County, New Mexico",1,2.08087674273427e-05,144170,64727
+"181","Bernalillo County, New Mexico","Chaves County, New Mexico",1,1.50928815933253e-05,662564,65645
+"247","Santa Fe County, New Mexico","Valencia County, New Mexico",1,1.38725116182285e-05,144170,76569
+"179","Bernalillo County, New Mexico","Lea County, New Mexico",1,1.35835934339928e-05,662564,64727
+"53","Valencia County, New Mexico","Torrance County, New Mexico",1,1.30601157126253e-05,76569,16383
+"161","Bernalillo County, New Mexico","Apache County, Arizona",1,1.20743052746603e-05,662564,71518
+"178","Bernalillo County, New Mexico","Lubbock County, Texas",1,1.05650171153277e-05,662564,278831
+"979","San Juan County, New Mexico","Maricopa County, Arizona",1,7.68970502291528e-06,130044,3817117
+"165","Bernalillo County, New Mexico","Guadalupe County, New Mexico",1,7.54644079666266e-06,662564,4687
+"191","Bernalillo County, New Mexico","Los Angeles County, California",1,6.03715263733013e-06,662564,9818605
+"1182","Dona Ana County, New Mexico","Santa Fe County, New Mexico",1,4.77936080828549e-06,209233,144170
+"168","Bernalillo County, New Mexico","Sierra County, New Mexico",1,3.01857631866506e-06,662564,11988
+"172","Bernalillo County, New Mexico","Lincoln County, New Mexico",1,3.01857631866506e-06,662564,20497
+"1","Yoakum County, Texas","Valencia County, New Mexico",1,0,7879,76569
+"2","Yoakum County, Texas","Sandoval County, New Mexico",1,0,7879,131561
+"3","Yoakum County, Texas","Bernalillo County, New Mexico",1,0,7879,662564
+"4","Yoakum County, Texas","Torrance County, New Mexico",1,0,7879,16383
+"5","Yoakum County, Texas","Santa Fe County, New Mexico",1,0,7879,144170
+"6","Yoakum County, Texas","Rio Arriba County, New Mexico",1,0,7879,40246
+"7","Yoakum County, Texas","Los Alamos County, New Mexico",1,0,7879,17950
+"8","Yoakum County, Texas","San Miguel County, New Mexico",1,0,7879,29393
+"9","Yoakum County, Texas","Mora County, New Mexico",1,0,7879,4881
+"10","Yoakum County, Texas","Socorro County, New Mexico",1,0,7879,17866
+"11","Yoakum County, Texas","Colfax County, New Mexico",1,0,7879,13750
+"12","Yoakum County, Texas","McKinley County, New Mexico",1,0,7879,71492
+"13","Yoakum County, Texas","Cibola County, New Mexico",1,0,7879,27213
+"14","Yoakum County, Texas","Apache County, Arizona",1,0,7879,71518
+"15","Yoakum County, Texas","Las Animas County, Colorado",1,0,7879,15507
+"16","Yoakum County, Texas","Taos County, New Mexico",1,0,7879,32937
+"17","Yoakum County, Texas","Catron County, New Mexico",1,0,7879,3725
+"18","Yoakum County, Texas","Guadalupe County, New Mexico",1,0,7879,4687
+"19","Yoakum County, Texas","San Juan County, New Mexico",1,0,7879,130044
+"20","Yoakum County, Texas","La Plata County, Colorado",1,0,7879,51334
+"21","Yoakum County, Texas","Sierra County, New Mexico",1,0,7879,11988
+"22","Yoakum County, Texas","Otero County, New Mexico",1,0,7879,63797
+"23","Yoakum County, Texas","El Paso County, Texas",1,0,7879,800647
+"24","Yoakum County, Texas","Dona Ana County, New Mexico",1,0,7879,209233
+"25","Yoakum County, Texas","Lincoln County, New Mexico",1,0,7879,20497
+"26","Yoakum County, Texas","Luna County, New Mexico",1,0,7879,25095
+"27","Yoakum County, Texas","Hidalgo County, New Mexico",1,0,7879,4894
+"28","Yoakum County, Texas","Greenlee County, Arizona",1,0,7879,8437
+"29","Yoakum County, Texas","Grant County, New Mexico",1,0,7879,29514
+"30","Yoakum County, Texas","Cochise County, Arizona",1,0,7879,131346
+"31","Yoakum County, Texas","Lubbock County, Texas",1,0,7879,278831
+"32","Yoakum County, Texas","Lea County, New Mexico",1,0,7879,64727
+"33","Yoakum County, Texas","Eddy County, New Mexico",1,0,7879,53829
+"34","Yoakum County, Texas","Chaves County, New Mexico",1,0,7879,65645
+"35","Yoakum County, Texas","Union County, New Mexico",1,0,7879,4549
+"36","Yoakum County, Texas","Dallam County, Texas",1,0,7879,6703
+"37","Yoakum County, Texas","Roosevelt County, New Mexico",1,0,7879,19846
+"38","Yoakum County, Texas","Curry County, New Mexico",1,0,7879,48376
+"39","Yoakum County, Texas","Parmer County, Texas",1,0,7879,10269
+"40","Yoakum County, Texas","Quay County, New Mexico",1,0,7879,9041
+"41","Yoakum County, Texas","Harding County, New Mexico",1,0,7879,695
+"42","Yoakum County, Texas","De Baca County, New Mexico",1,0,7879,2022
+"43","Yoakum County, Texas","Gaines County, Texas",1,0,7879,17526
+"44","Yoakum County, Texas","Los Angeles County, California",1,0,7879,9818605
+"45","Yoakum County, Texas","Montezuma County, Colorado",1,0,7879,25535
+"46","Yoakum County, Texas","Graham County, Arizona",1,0,7879,37220
+"47","Yoakum County, Texas","Harris County, Texas",1,0,7879,4092459
+"48","Yoakum County, Texas","Maricopa County, Arizona",1,0,7879,3817117
+"49","Yoakum County, Texas","Dallas County, Texas",1,0,7879,2368139
+"50","Valencia County, New Mexico","Yoakum County, Texas",1,0,76569,7879
+"55","Valencia County, New Mexico","Rio Arriba County, New Mexico",1,0,76569,40246
+"56","Valencia County, New Mexico","Los Alamos County, New Mexico",1,0,76569,17950
+"57","Valencia County, New Mexico","San Miguel County, New Mexico",1,0,76569,29393
+"58","Valencia County, New Mexico","Mora County, New Mexico",1,0,76569,4881
+"60","Valencia County, New Mexico","Colfax County, New Mexico",1,0,76569,13750
+"63","Valencia County, New Mexico","Apache County, Arizona",1,0,76569,71518
+"64","Valencia County, New Mexico","Las Animas County, Colorado",1,0,76569,15507
+"65","Valencia County, New Mexico","Taos County, New Mexico",1,0,76569,32937
+"66","Valencia County, New Mexico","Catron County, New Mexico",1,0,76569,3725
+"67","Valencia County, New Mexico","Guadalupe County, New Mexico",1,0,76569,4687
+"68","Valencia County, New Mexico","San Juan County, New Mexico",1,0,76569,130044
+"69","Valencia County, New Mexico","La Plata County, Colorado",1,0,76569,51334
+"70","Valencia County, New Mexico","Sierra County, New Mexico",1,0,76569,11988
+"71","Valencia County, New Mexico","Otero County, New Mexico",1,0,76569,63797
+"72","Valencia County, New Mexico","El Paso County, Texas",1,0,76569,800647
+"73","Valencia County, New Mexico","Dona Ana County, New Mexico",1,0,76569,209233
+"74","Valencia County, New Mexico","Lincoln County, New Mexico",1,0,76569,20497
+"75","Valencia County, New Mexico","Luna County, New Mexico",1,0,76569,25095
+"76","Valencia County, New Mexico","Hidalgo County, New Mexico",1,0,76569,4894
+"77","Valencia County, New Mexico","Greenlee County, Arizona",1,0,76569,8437
+"78","Valencia County, New Mexico","Grant County, New Mexico",1,0,76569,29514
+"79","Valencia County, New Mexico","Cochise County, Arizona",1,0,76569,131346
+"80","Valencia County, New Mexico","Lubbock County, Texas",1,0,76569,278831
+"81","Valencia County, New Mexico","Lea County, New Mexico",1,0,76569,64727
+"82","Valencia County, New Mexico","Eddy County, New Mexico",1,0,76569,53829
+"83","Valencia County, New Mexico","Chaves County, New Mexico",1,0,76569,65645
+"84","Valencia County, New Mexico","Union County, New Mexico",1,0,76569,4549
+"85","Valencia County, New Mexico","Dallam County, Texas",1,0,76569,6703
+"86","Valencia County, New Mexico","Roosevelt County, New Mexico",1,0,76569,19846
+"88","Valencia County, New Mexico","Parmer County, Texas",1,0,76569,10269
+"89","Valencia County, New Mexico","Quay County, New Mexico",1,0,76569,9041
+"90","Valencia County, New Mexico","Harding County, New Mexico",1,0,76569,695
+"91","Valencia County, New Mexico","De Baca County, New Mexico",1,0,76569,2022
+"92","Valencia County, New Mexico","Gaines County, Texas",1,0,76569,17526
+"93","Valencia County, New Mexico","Los Angeles County, California",1,0,76569,9818605
+"94","Valencia County, New Mexico","Montezuma County, Colorado",1,0,76569,25535
+"95","Valencia County, New Mexico","Graham County, Arizona",1,0,76569,37220
+"96","Valencia County, New Mexico","Harris County, Texas",1,0,76569,4092459
+"97","Valencia County, New Mexico","Maricopa County, Arizona",1,0,76569,3817117
+"98","Valencia County, New Mexico","Dallas County, Texas",1,0,76569,2368139
+"99","Sandoval County, New Mexico","Yoakum County, Texas",1,0,131561,7879
+"102","Sandoval County, New Mexico","Torrance County, New Mexico",1,0,131561,16383
+"107","Sandoval County, New Mexico","Mora County, New Mexico",1,0,131561,4881
+"109","Sandoval County, New Mexico","Colfax County, New Mexico",1,0,131561,13750
+"112","Sandoval County, New Mexico","Apache County, Arizona",1,0,131561,71518
+"113","Sandoval County, New Mexico","Las Animas County, Colorado",1,0,131561,15507
+"114","Sandoval County, New Mexico","Taos County, New Mexico",1,0,131561,32937
+"115","Sandoval County, New Mexico","Catron County, New Mexico",1,0,131561,3725
+"116","Sandoval County, New Mexico","Guadalupe County, New Mexico",1,0,131561,4687
+"119","Sandoval County, New Mexico","Sierra County, New Mexico",1,0,131561,11988
+"120","Sandoval County, New Mexico","Otero County, New Mexico",1,0,131561,63797
+"121","Sandoval County, New Mexico","El Paso County, Texas",1,0,131561,800647
+"122","Sandoval County, New Mexico","Dona Ana County, New Mexico",1,0,131561,209233
+"123","Sandoval County, New Mexico","Lincoln County, New Mexico",1,0,131561,20497
+"124","Sandoval County, New Mexico","Luna County, New Mexico",1,0,131561,25095
+"125","Sandoval County, New Mexico","Hidalgo County, New Mexico",1,0,131561,4894
+"126","Sandoval County, New Mexico","Greenlee County, Arizona",1,0,131561,8437
+"127","Sandoval County, New Mexico","Grant County, New Mexico",1,0,131561,29514
+"128","Sandoval County, New Mexico","Cochise County, Arizona",1,0,131561,131346
+"129","Sandoval County, New Mexico","Lubbock County, Texas",1,0,131561,278831
+"130","Sandoval County, New Mexico","Lea County, New Mexico",1,0,131561,64727
+"131","Sandoval County, New Mexico","Eddy County, New Mexico",1,0,131561,53829
+"132","Sandoval County, New Mexico","Chaves County, New Mexico",1,0,131561,65645
+"133","Sandoval County, New Mexico","Union County, New Mexico",1,0,131561,4549
+"134","Sandoval County, New Mexico","Dallam County, Texas",1,0,131561,6703
+"135","Sandoval County, New Mexico","Roosevelt County, New Mexico",1,0,131561,19846
+"136","Sandoval County, New Mexico","Curry County, New Mexico",1,0,131561,48376
+"137","Sandoval County, New Mexico","Parmer County, Texas",1,0,131561,10269
+"138","Sandoval County, New Mexico","Quay County, New Mexico",1,0,131561,9041
+"139","Sandoval County, New Mexico","Harding County, New Mexico",1,0,131561,695
+"140","Sandoval County, New Mexico","De Baca County, New Mexico",1,0,131561,2022
+"141","Sandoval County, New Mexico","Gaines County, Texas",1,0,131561,17526
+"142","Sandoval County, New Mexico","Los Angeles County, California",1,0,131561,9818605
+"143","Sandoval County, New Mexico","Montezuma County, Colorado",1,0,131561,25535
+"144","Sandoval County, New Mexico","Graham County, Arizona",1,0,131561,37220
+"145","Sandoval County, New Mexico","Harris County, Texas",1,0,131561,4092459
+"146","Sandoval County, New Mexico","Maricopa County, Arizona",1,0,131561,3817117
+"147","Sandoval County, New Mexico","Dallas County, Texas",1,0,131561,2368139
+"148","Bernalillo County, New Mexico","Yoakum County, Texas",1,0,662564,7879
+"156","Bernalillo County, New Mexico","Mora County, New Mexico",1,0,662564,4881
+"158","Bernalillo County, New Mexico","Colfax County, New Mexico",1,0,662564,13750
+"162","Bernalillo County, New Mexico","Las Animas County, Colorado",1,0,662564,15507
+"164","Bernalillo County, New Mexico","Catron County, New Mexico",1,0,662564,3725
+"167","Bernalillo County, New Mexico","La Plata County, Colorado",1,0,662564,51334
+"169","Bernalillo County, New Mexico","Otero County, New Mexico",1,0,662564,63797
+"173","Bernalillo County, New Mexico","Luna County, New Mexico",1,0,662564,25095
+"174","Bernalillo County, New Mexico","Hidalgo County, New Mexico",1,0,662564,4894
+"175","Bernalillo County, New Mexico","Greenlee County, Arizona",1,0,662564,8437
+"176","Bernalillo County, New Mexico","Grant County, New Mexico",1,0,662564,29514
+"177","Bernalillo County, New Mexico","Cochise County, Arizona",1,0,662564,131346
+"182","Bernalillo County, New Mexico","Union County, New Mexico",1,0,662564,4549
+"183","Bernalillo County, New Mexico","Dallam County, Texas",1,0,662564,6703
+"184","Bernalillo County, New Mexico","Roosevelt County, New Mexico",1,0,662564,19846
+"185","Bernalillo County, New Mexico","Curry County, New Mexico",1,0,662564,48376
+"186","Bernalillo County, New Mexico","Parmer County, Texas",1,0,662564,10269
+"187","Bernalillo County, New Mexico","Quay County, New Mexico",1,0,662564,9041
+"188","Bernalillo County, New Mexico","Harding County, New Mexico",1,0,662564,695
+"189","Bernalillo County, New Mexico","De Baca County, New Mexico",1,0,662564,2022
+"190","Bernalillo County, New Mexico","Gaines County, Texas",1,0,662564,17526
+"192","Bernalillo County, New Mexico","Montezuma County, Colorado",1,0,662564,25535
+"193","Bernalillo County, New Mexico","Graham County, Arizona",1,0,662564,37220
+"196","Bernalillo County, New Mexico","Dallas County, Texas",1,0,662564,2368139
+"197","Torrance County, New Mexico","Yoakum County, Texas",1,0,16383,7879
+"198","Torrance County, New Mexico","Valencia County, New Mexico",1,0,16383,76569
+"202","Torrance County, New Mexico","Rio Arriba County, New Mexico",1,0,16383,40246
+"203","Torrance County, New Mexico","Los Alamos County, New Mexico",1,0,16383,17950
+"204","Torrance County, New Mexico","San Miguel County, New Mexico",1,0,16383,29393
+"205","Torrance County, New Mexico","Mora County, New Mexico",1,0,16383,4881
+"206","Torrance County, New Mexico","Socorro County, New Mexico",1,0,16383,17866
+"207","Torrance County, New Mexico","Colfax County, New Mexico",1,0,16383,13750
+"208","Torrance County, New Mexico","McKinley County, New Mexico",1,0,16383,71492
+"209","Torrance County, New Mexico","Cibola County, New Mexico",1,0,16383,27213
+"210","Torrance County, New Mexico","Apache County, Arizona",1,0,16383,71518
+"211","Torrance County, New Mexico","Las Animas County, Colorado",1,0,16383,15507
+"212","Torrance County, New Mexico","Taos County, New Mexico",1,0,16383,32937
+"213","Torrance County, New Mexico","Catron County, New Mexico",1,0,16383,3725
+"214","Torrance County, New Mexico","Guadalupe County, New Mexico",1,0,16383,4687
+"215","Torrance County, New Mexico","San Juan County, New Mexico",1,0,16383,130044
+"216","Torrance County, New Mexico","La Plata County, Colorado",1,0,16383,51334
+"217","Torrance County, New Mexico","Sierra County, New Mexico",1,0,16383,11988
+"218","Torrance County, New Mexico","Otero County, New Mexico",1,0,16383,63797
+"219","Torrance County, New Mexico","El Paso County, Texas",1,0,16383,800647
+"220","Torrance County, New Mexico","Dona Ana County, New Mexico",1,0,16383,209233
+"221","Torrance County, New Mexico","Lincoln County, New Mexico",1,0,16383,20497
+"222","Torrance County, New Mexico","Luna County, New Mexico",1,0,16383,25095
+"223","Torrance County, New Mexico","Hidalgo County, New Mexico",1,0,16383,4894
+"224","Torrance County, New Mexico","Greenlee County, Arizona",1,0,16383,8437
+"225","Torrance County, New Mexico","Grant County, New Mexico",1,0,16383,29514
+"226","Torrance County, New Mexico","Cochise County, Arizona",1,0,16383,131346
+"227","Torrance County, New Mexico","Lubbock County, Texas",1,0,16383,278831
+"228","Torrance County, New Mexico","Lea County, New Mexico",1,0,16383,64727
+"229","Torrance County, New Mexico","Eddy County, New Mexico",1,0,16383,53829
+"230","Torrance County, New Mexico","Chaves County, New Mexico",1,0,16383,65645
+"231","Torrance County, New Mexico","Union County, New Mexico",1,0,16383,4549
+"232","Torrance County, New Mexico","Dallam County, Texas",1,0,16383,6703
+"233","Torrance County, New Mexico","Roosevelt County, New Mexico",1,0,16383,19846
+"234","Torrance County, New Mexico","Curry County, New Mexico",1,0,16383,48376
+"235","Torrance County, New Mexico","Parmer County, Texas",1,0,16383,10269
+"236","Torrance County, New Mexico","Quay County, New Mexico",1,0,16383,9041
+"237","Torrance County, New Mexico","Harding County, New Mexico",1,0,16383,695
+"238","Torrance County, New Mexico","De Baca County, New Mexico",1,0,16383,2022
+"239","Torrance County, New Mexico","Gaines County, Texas",1,0,16383,17526
+"240","Torrance County, New Mexico","Los Angeles County, California",1,0,16383,9818605
+"241","Torrance County, New Mexico","Montezuma County, Colorado",1,0,16383,25535
+"242","Torrance County, New Mexico","Graham County, Arizona",1,0,16383,37220
+"243","Torrance County, New Mexico","Harris County, Texas",1,0,16383,4092459
+"244","Torrance County, New Mexico","Maricopa County, Arizona",1,0,16383,3817117
+"245","Torrance County, New Mexico","Dallas County, Texas",1,0,16383,2368139
+"246","Santa Fe County, New Mexico","Yoakum County, Texas",1,0,144170,7879
+"254","Santa Fe County, New Mexico","Mora County, New Mexico",1,0,144170,4881
+"255","Santa Fe County, New Mexico","Socorro County, New Mexico",1,0,144170,17866
+"256","Santa Fe County, New Mexico","Colfax County, New Mexico",1,0,144170,13750
+"257","Santa Fe County, New Mexico","McKinley County, New Mexico",1,0,144170,71492
+"258","Santa Fe County, New Mexico","Cibola County, New Mexico",1,0,144170,27213
+"259","Santa Fe County, New Mexico","Apache County, Arizona",1,0,144170,71518
+"260","Santa Fe County, New Mexico","Las Animas County, Colorado",1,0,144170,15507
+"262","Santa Fe County, New Mexico","Catron County, New Mexico",1,0,144170,3725
+"263","Santa Fe County, New Mexico","Guadalupe County, New Mexico",1,0,144170,4687
+"264","Santa Fe County, New Mexico","San Juan County, New Mexico",1,0,144170,130044
+"265","Santa Fe County, New Mexico","La Plata County, Colorado",1,0,144170,51334
+"266","Santa Fe County, New Mexico","Sierra County, New Mexico",1,0,144170,11988
+"267","Santa Fe County, New Mexico","Otero County, New Mexico",1,0,144170,63797
+"268","Santa Fe County, New Mexico","El Paso County, Texas",1,0,144170,800647
+"269","Santa Fe County, New Mexico","Dona Ana County, New Mexico",1,0,144170,209233
+"270","Santa Fe County, New Mexico","Lincoln County, New Mexico",1,0,144170,20497
+"271","Santa Fe County, New Mexico","Luna County, New Mexico",1,0,144170,25095
+"272","Santa Fe County, New Mexico","Hidalgo County, New Mexico",1,0,144170,4894
+"273","Santa Fe County, New Mexico","Greenlee County, Arizona",1,0,144170,8437
+"274","Santa Fe County, New Mexico","Grant County, New Mexico",1,0,144170,29514
+"275","Santa Fe County, New Mexico","Cochise County, Arizona",1,0,144170,131346
+"276","Santa Fe County, New Mexico","Lubbock County, Texas",1,0,144170,278831
+"278","Santa Fe County, New Mexico","Eddy County, New Mexico",1,0,144170,53829
+"279","Santa Fe County, New Mexico","Chaves County, New Mexico",1,0,144170,65645
+"280","Santa Fe County, New Mexico","Union County, New Mexico",1,0,144170,4549
+"281","Santa Fe County, New Mexico","Dallam County, Texas",1,0,144170,6703
+"282","Santa Fe County, New Mexico","Roosevelt County, New Mexico",1,0,144170,19846
+"283","Santa Fe County, New Mexico","Curry County, New Mexico",1,0,144170,48376
+"284","Santa Fe County, New Mexico","Parmer County, Texas",1,0,144170,10269
+"285","Santa Fe County, New Mexico","Quay County, New Mexico",1,0,144170,9041
+"286","Santa Fe County, New Mexico","Harding County, New Mexico",1,0,144170,695
+"287","Santa Fe County, New Mexico","De Baca County, New Mexico",1,0,144170,2022
+"288","Santa Fe County, New Mexico","Gaines County, Texas",1,0,144170,17526
+"290","Santa Fe County, New Mexico","Montezuma County, Colorado",1,0,144170,25535
+"291","Santa Fe County, New Mexico","Graham County, Arizona",1,0,144170,37220
+"293","Santa Fe County, New Mexico","Maricopa County, Arizona",1,0,144170,3817117
+"294","Santa Fe County, New Mexico","Dallas County, Texas",1,0,144170,2368139
+"295","Rio Arriba County, New Mexico","Yoakum County, Texas",1,0,40246,7879
+"296","Rio Arriba County, New Mexico","Valencia County, New Mexico",1,0,40246,76569
+"299","Rio Arriba County, New Mexico","Torrance County, New Mexico",1,0,40246,16383
+"302","Rio Arriba County, New Mexico","San Miguel County, New Mexico",1,0,40246,29393
+"303","Rio Arriba County, New Mexico","Mora County, New Mexico",1,0,40246,4881
+"304","Rio Arriba County, New Mexico","Socorro County, New Mexico",1,0,40246,17866
+"305","Rio Arriba County, New Mexico","Colfax County, New Mexico",1,0,40246,13750
+"306","Rio Arriba County, New Mexico","McKinley County, New Mexico",1,0,40246,71492
+"307","Rio Arriba County, New Mexico","Cibola County, New Mexico",1,0,40246,27213
+"308","Rio Arriba County, New Mexico","Apache County, Arizona",1,0,40246,71518
+"309","Rio Arriba County, New Mexico","Las Animas County, Colorado",1,0,40246,15507
+"311","Rio Arriba County, New Mexico","Catron County, New Mexico",1,0,40246,3725
+"312","Rio Arriba County, New Mexico","Guadalupe County, New Mexico",1,0,40246,4687
+"314","Rio Arriba County, New Mexico","La Plata County, Colorado",1,0,40246,51334
+"315","Rio Arriba County, New Mexico","Sierra County, New Mexico",1,0,40246,11988
+"316","Rio Arriba County, New Mexico","Otero County, New Mexico",1,0,40246,63797
+"317","Rio Arriba County, New Mexico","El Paso County, Texas",1,0,40246,800647
+"318","Rio Arriba County, New Mexico","Dona Ana County, New Mexico",1,0,40246,209233
+"319","Rio Arriba County, New Mexico","Lincoln County, New Mexico",1,0,40246,20497
+"320","Rio Arriba County, New Mexico","Luna County, New Mexico",1,0,40246,25095
+"321","Rio Arriba County, New Mexico","Hidalgo County, New Mexico",1,0,40246,4894
+"322","Rio Arriba County, New Mexico","Greenlee County, Arizona",1,0,40246,8437
+"323","Rio Arriba County, New Mexico","Grant County, New Mexico",1,0,40246,29514
+"324","Rio Arriba County, New Mexico","Cochise County, Arizona",1,0,40246,131346
+"325","Rio Arriba County, New Mexico","Lubbock County, Texas",1,0,40246,278831
+"326","Rio Arriba County, New Mexico","Lea County, New Mexico",1,0,40246,64727
+"327","Rio Arriba County, New Mexico","Eddy County, New Mexico",1,0,40246,53829
+"328","Rio Arriba County, New Mexico","Chaves County, New Mexico",1,0,40246,65645
+"329","Rio Arriba County, New Mexico","Union County, New Mexico",1,0,40246,4549
+"330","Rio Arriba County, New Mexico","Dallam County, Texas",1,0,40246,6703
+"331","Rio Arriba County, New Mexico","Roosevelt County, New Mexico",1,0,40246,19846
+"332","Rio Arriba County, New Mexico","Curry County, New Mexico",1,0,40246,48376
+"333","Rio Arriba County, New Mexico","Parmer County, Texas",1,0,40246,10269
+"334","Rio Arriba County, New Mexico","Quay County, New Mexico",1,0,40246,9041
+"335","Rio Arriba County, New Mexico","Harding County, New Mexico",1,0,40246,695
+"336","Rio Arriba County, New Mexico","De Baca County, New Mexico",1,0,40246,2022
+"337","Rio Arriba County, New Mexico","Gaines County, Texas",1,0,40246,17526
+"338","Rio Arriba County, New Mexico","Los Angeles County, California",1,0,40246,9818605
+"339","Rio Arriba County, New Mexico","Montezuma County, Colorado",1,0,40246,25535
+"340","Rio Arriba County, New Mexico","Graham County, Arizona",1,0,40246,37220
+"341","Rio Arriba County, New Mexico","Harris County, Texas",1,0,40246,4092459
+"342","Rio Arriba County, New Mexico","Maricopa County, Arizona",1,0,40246,3817117
+"343","Rio Arriba County, New Mexico","Dallas County, Texas",1,0,40246,2368139
+"344","Los Alamos County, New Mexico","Yoakum County, Texas",1,0,17950,7879
+"345","Los Alamos County, New Mexico","Valencia County, New Mexico",1,0,17950,76569
+"346","Los Alamos County, New Mexico","Sandoval County, New Mexico",1,0,17950,131561
+"348","Los Alamos County, New Mexico","Torrance County, New Mexico",1,0,17950,16383
+"351","Los Alamos County, New Mexico","San Miguel County, New Mexico",1,0,17950,29393
+"352","Los Alamos County, New Mexico","Mora County, New Mexico",1,0,17950,4881
+"353","Los Alamos County, New Mexico","Socorro County, New Mexico",1,0,17950,17866
+"354","Los Alamos County, New Mexico","Colfax County, New Mexico",1,0,17950,13750
+"355","Los Alamos County, New Mexico","McKinley County, New Mexico",1,0,17950,71492
+"356","Los Alamos County, New Mexico","Cibola County, New Mexico",1,0,17950,27213
+"357","Los Alamos County, New Mexico","Apache County, Arizona",1,0,17950,71518
+"358","Los Alamos County, New Mexico","Las Animas County, Colorado",1,0,17950,15507
+"359","Los Alamos County, New Mexico","Taos County, New Mexico",1,0,17950,32937
+"360","Los Alamos County, New Mexico","Catron County, New Mexico",1,0,17950,3725
+"361","Los Alamos County, New Mexico","Guadalupe County, New Mexico",1,0,17950,4687
+"362","Los Alamos County, New Mexico","San Juan County, New Mexico",1,0,17950,130044
+"363","Los Alamos County, New Mexico","La Plata County, Colorado",1,0,17950,51334
+"364","Los Alamos County, New Mexico","Sierra County, New Mexico",1,0,17950,11988
+"365","Los Alamos County, New Mexico","Otero County, New Mexico",1,0,17950,63797
+"366","Los Alamos County, New Mexico","El Paso County, Texas",1,0,17950,800647
+"367","Los Alamos County, New Mexico","Dona Ana County, New Mexico",1,0,17950,209233
+"368","Los Alamos County, New Mexico","Lincoln County, New Mexico",1,0,17950,20497
+"369","Los Alamos County, New Mexico","Luna County, New Mexico",1,0,17950,25095
+"370","Los Alamos County, New Mexico","Hidalgo County, New Mexico",1,0,17950,4894
+"371","Los Alamos County, New Mexico","Greenlee County, Arizona",1,0,17950,8437
+"372","Los Alamos County, New Mexico","Grant County, New Mexico",1,0,17950,29514
+"373","Los Alamos County, New Mexico","Cochise County, Arizona",1,0,17950,131346
+"374","Los Alamos County, New Mexico","Lubbock County, Texas",1,0,17950,278831
+"375","Los Alamos County, New Mexico","Lea County, New Mexico",1,0,17950,64727
+"376","Los Alamos County, New Mexico","Eddy County, New Mexico",1,0,17950,53829
+"377","Los Alamos County, New Mexico","Chaves County, New Mexico",1,0,17950,65645
+"378","Los Alamos County, New Mexico","Union County, New Mexico",1,0,17950,4549
+"379","Los Alamos County, New Mexico","Dallam County, Texas",1,0,17950,6703
+"380","Los Alamos County, New Mexico","Roosevelt County, New Mexico",1,0,17950,19846
+"381","Los Alamos County, New Mexico","Curry County, New Mexico",1,0,17950,48376
+"382","Los Alamos County, New Mexico","Parmer County, Texas",1,0,17950,10269
+"383","Los Alamos County, New Mexico","Quay County, New Mexico",1,0,17950,9041
+"384","Los Alamos County, New Mexico","Harding County, New Mexico",1,0,17950,695
+"385","Los Alamos County, New Mexico","De Baca County, New Mexico",1,0,17950,2022
+"386","Los Alamos County, New Mexico","Gaines County, Texas",1,0,17950,17526
+"387","Los Alamos County, New Mexico","Los Angeles County, California",1,0,17950,9818605
+"388","Los Alamos County, New Mexico","Montezuma County, Colorado",1,0,17950,25535
+"389","Los Alamos County, New Mexico","Graham County, Arizona",1,0,17950,37220
+"390","Los Alamos County, New Mexico","Harris County, Texas",1,0,17950,4092459
+"391","Los Alamos County, New Mexico","Maricopa County, Arizona",1,0,17950,3817117
+"392","Los Alamos County, New Mexico","Dallas County, Texas",1,0,17950,2368139
+"393","San Miguel County, New Mexico","Yoakum County, Texas",1,0,29393,7879
+"394","San Miguel County, New Mexico","Valencia County, New Mexico",1,0,29393,76569
+"395","San Miguel County, New Mexico","Sandoval County, New Mexico",1,0,29393,131561
+"397","San Miguel County, New Mexico","Torrance County, New Mexico",1,0,29393,16383
+"399","San Miguel County, New Mexico","Rio Arriba County, New Mexico",1,0,29393,40246
+"400","San Miguel County, New Mexico","Los Alamos County, New Mexico",1,0,29393,17950
+"402","San Miguel County, New Mexico","Socorro County, New Mexico",1,0,29393,17866
+"403","San Miguel County, New Mexico","Colfax County, New Mexico",1,0,29393,13750
+"404","San Miguel County, New Mexico","McKinley County, New Mexico",1,0,29393,71492
+"405","San Miguel County, New Mexico","Cibola County, New Mexico",1,0,29393,27213
+"406","San Miguel County, New Mexico","Apache County, Arizona",1,0,29393,71518
+"407","San Miguel County, New Mexico","Las Animas County, Colorado",1,0,29393,15507
+"408","San Miguel County, New Mexico","Taos County, New Mexico",1,0,29393,32937
+"409","San Miguel County, New Mexico","Catron County, New Mexico",1,0,29393,3725
+"411","San Miguel County, New Mexico","San Juan County, New Mexico",1,0,29393,130044
+"412","San Miguel County, New Mexico","La Plata County, Colorado",1,0,29393,51334
+"413","San Miguel County, New Mexico","Sierra County, New Mexico",1,0,29393,11988
+"414","San Miguel County, New Mexico","Otero County, New Mexico",1,0,29393,63797
+"415","San Miguel County, New Mexico","El Paso County, Texas",1,0,29393,800647
+"416","San Miguel County, New Mexico","Dona Ana County, New Mexico",1,0,29393,209233
+"417","San Miguel County, New Mexico","Lincoln County, New Mexico",1,0,29393,20497
+"418","San Miguel County, New Mexico","Luna County, New Mexico",1,0,29393,25095
+"419","San Miguel County, New Mexico","Hidalgo County, New Mexico",1,0,29393,4894
+"420","San Miguel County, New Mexico","Greenlee County, Arizona",1,0,29393,8437
+"421","San Miguel County, New Mexico","Grant County, New Mexico",1,0,29393,29514
+"422","San Miguel County, New Mexico","Cochise County, Arizona",1,0,29393,131346
+"423","San Miguel County, New Mexico","Lubbock County, Texas",1,0,29393,278831
+"424","San Miguel County, New Mexico","Lea County, New Mexico",1,0,29393,64727
+"425","San Miguel County, New Mexico","Eddy County, New Mexico",1,0,29393,53829
+"426","San Miguel County, New Mexico","Chaves County, New Mexico",1,0,29393,65645
+"427","San Miguel County, New Mexico","Union County, New Mexico",1,0,29393,4549
+"428","San Miguel County, New Mexico","Dallam County, Texas",1,0,29393,6703
+"429","San Miguel County, New Mexico","Roosevelt County, New Mexico",1,0,29393,19846
+"430","San Miguel County, New Mexico","Curry County, New Mexico",1,0,29393,48376
+"431","San Miguel County, New Mexico","Parmer County, Texas",1,0,29393,10269
+"432","San Miguel County, New Mexico","Quay County, New Mexico",1,0,29393,9041
+"433","San Miguel County, New Mexico","Harding County, New Mexico",1,0,29393,695
+"434","San Miguel County, New Mexico","De Baca County, New Mexico",1,0,29393,2022
+"435","San Miguel County, New Mexico","Gaines County, Texas",1,0,29393,17526
+"436","San Miguel County, New Mexico","Los Angeles County, California",1,0,29393,9818605
+"437","San Miguel County, New Mexico","Montezuma County, Colorado",1,0,29393,25535
+"438","San Miguel County, New Mexico","Graham County, Arizona",1,0,29393,37220
+"439","San Miguel County, New Mexico","Harris County, Texas",1,0,29393,4092459
+"440","San Miguel County, New Mexico","Maricopa County, Arizona",1,0,29393,3817117
+"441","San Miguel County, New Mexico","Dallas County, Texas",1,0,29393,2368139
+"442","Mora County, New Mexico","Yoakum County, Texas",1,0,4881,7879
+"443","Mora County, New Mexico","Valencia County, New Mexico",1,0,4881,76569
+"444","Mora County, New Mexico","Sandoval County, New Mexico",1,0,4881,131561
+"445","Mora County, New Mexico","Bernalillo County, New Mexico",1,0,4881,662564
+"446","Mora County, New Mexico","Torrance County, New Mexico",1,0,4881,16383
+"447","Mora County, New Mexico","Santa Fe County, New Mexico",1,0,4881,144170
+"448","Mora County, New Mexico","Rio Arriba County, New Mexico",1,0,4881,40246
+"451","Mora County, New Mexico","Socorro County, New Mexico",1,0,4881,17866
+"453","Mora County, New Mexico","McKinley County, New Mexico",1,0,4881,71492
+"454","Mora County, New Mexico","Cibola County, New Mexico",1,0,4881,27213
+"455","Mora County, New Mexico","Apache County, Arizona",1,0,4881,71518
+"456","Mora County, New Mexico","Las Animas County, Colorado",1,0,4881,15507
+"457","Mora County, New Mexico","Taos County, New Mexico",1,0,4881,32937
+"458","Mora County, New Mexico","Catron County, New Mexico",1,0,4881,3725
+"459","Mora County, New Mexico","Guadalupe County, New Mexico",1,0,4881,4687
+"460","Mora County, New Mexico","San Juan County, New Mexico",1,0,4881,130044
+"461","Mora County, New Mexico","La Plata County, Colorado",1,0,4881,51334
+"462","Mora County, New Mexico","Sierra County, New Mexico",1,0,4881,11988
+"463","Mora County, New Mexico","Otero County, New Mexico",1,0,4881,63797
+"464","Mora County, New Mexico","El Paso County, Texas",1,0,4881,800647
+"465","Mora County, New Mexico","Dona Ana County, New Mexico",1,0,4881,209233
+"466","Mora County, New Mexico","Lincoln County, New Mexico",1,0,4881,20497
+"467","Mora County, New Mexico","Luna County, New Mexico",1,0,4881,25095
+"468","Mora County, New Mexico","Hidalgo County, New Mexico",1,0,4881,4894
+"469","Mora County, New Mexico","Greenlee County, Arizona",1,0,4881,8437
+"470","Mora County, New Mexico","Grant County, New Mexico",1,0,4881,29514
+"471","Mora County, New Mexico","Cochise County, Arizona",1,0,4881,131346
+"472","Mora County, New Mexico","Lubbock County, Texas",1,0,4881,278831
+"473","Mora County, New Mexico","Lea County, New Mexico",1,0,4881,64727
+"474","Mora County, New Mexico","Eddy County, New Mexico",1,0,4881,53829
+"475","Mora County, New Mexico","Chaves County, New Mexico",1,0,4881,65645
+"476","Mora County, New Mexico","Union County, New Mexico",1,0,4881,4549
+"477","Mora County, New Mexico","Dallam County, Texas",1,0,4881,6703
+"478","Mora County, New Mexico","Roosevelt County, New Mexico",1,0,4881,19846
+"479","Mora County, New Mexico","Curry County, New Mexico",1,0,4881,48376
+"480","Mora County, New Mexico","Parmer County, Texas",1,0,4881,10269
+"481","Mora County, New Mexico","Quay County, New Mexico",1,0,4881,9041
+"482","Mora County, New Mexico","Harding County, New Mexico",1,0,4881,695
+"483","Mora County, New Mexico","De Baca County, New Mexico",1,0,4881,2022
+"484","Mora County, New Mexico","Gaines County, Texas",1,0,4881,17526
+"485","Mora County, New Mexico","Los Angeles County, California",1,0,4881,9818605
+"486","Mora County, New Mexico","Montezuma County, Colorado",1,0,4881,25535
+"487","Mora County, New Mexico","Graham County, Arizona",1,0,4881,37220
+"488","Mora County, New Mexico","Harris County, Texas",1,0,4881,4092459
+"489","Mora County, New Mexico","Maricopa County, Arizona",1,0,4881,3817117
+"490","Mora County, New Mexico","Dallas County, Texas",1,0,4881,2368139
+"491","Socorro County, New Mexico","Yoakum County, Texas",1,0,17866,7879
+"493","Socorro County, New Mexico","Sandoval County, New Mexico",1,0,17866,131561
+"495","Socorro County, New Mexico","Torrance County, New Mexico",1,0,17866,16383
+"496","Socorro County, New Mexico","Santa Fe County, New Mexico",1,0,17866,144170
+"497","Socorro County, New Mexico","Rio Arriba County, New Mexico",1,0,17866,40246
+"498","Socorro County, New Mexico","Los Alamos County, New Mexico",1,0,17866,17950
+"499","Socorro County, New Mexico","San Miguel County, New Mexico",1,0,17866,29393
+"500","Socorro County, New Mexico","Mora County, New Mexico",1,0,17866,4881
+"501","Socorro County, New Mexico","Colfax County, New Mexico",1,0,17866,13750
+"502","Socorro County, New Mexico","McKinley County, New Mexico",1,0,17866,71492
+"503","Socorro County, New Mexico","Cibola County, New Mexico",1,0,17866,27213
+"504","Socorro County, New Mexico","Apache County, Arizona",1,0,17866,71518
+"505","Socorro County, New Mexico","Las Animas County, Colorado",1,0,17866,15507
+"506","Socorro County, New Mexico","Taos County, New Mexico",1,0,17866,32937
+"507","Socorro County, New Mexico","Catron County, New Mexico",1,0,17866,3725
+"508","Socorro County, New Mexico","Guadalupe County, New Mexico",1,0,17866,4687
+"509","Socorro County, New Mexico","San Juan County, New Mexico",1,0,17866,130044
+"510","Socorro County, New Mexico","La Plata County, Colorado",1,0,17866,51334
+"511","Socorro County, New Mexico","Sierra County, New Mexico",1,0,17866,11988
+"512","Socorro County, New Mexico","Otero County, New Mexico",1,0,17866,63797
+"513","Socorro County, New Mexico","El Paso County, Texas",1,0,17866,800647
+"514","Socorro County, New Mexico","Dona Ana County, New Mexico",1,0,17866,209233
+"515","Socorro County, New Mexico","Lincoln County, New Mexico",1,0,17866,20497
+"516","Socorro County, New Mexico","Luna County, New Mexico",1,0,17866,25095
+"517","Socorro County, New Mexico","Hidalgo County, New Mexico",1,0,17866,4894
+"518","Socorro County, New Mexico","Greenlee County, Arizona",1,0,17866,8437
+"519","Socorro County, New Mexico","Grant County, New Mexico",1,0,17866,29514
+"520","Socorro County, New Mexico","Cochise County, Arizona",1,0,17866,131346
+"521","Socorro County, New Mexico","Lubbock County, Texas",1,0,17866,278831
+"522","Socorro County, New Mexico","Lea County, New Mexico",1,0,17866,64727
+"523","Socorro County, New Mexico","Eddy County, New Mexico",1,0,17866,53829
+"524","Socorro County, New Mexico","Chaves County, New Mexico",1,0,17866,65645
+"525","Socorro County, New Mexico","Union County, New Mexico",1,0,17866,4549
+"526","Socorro County, New Mexico","Dallam County, Texas",1,0,17866,6703
+"527","Socorro County, New Mexico","Roosevelt County, New Mexico",1,0,17866,19846
+"528","Socorro County, New Mexico","Curry County, New Mexico",1,0,17866,48376
+"529","Socorro County, New Mexico","Parmer County, Texas",1,0,17866,10269
+"530","Socorro County, New Mexico","Quay County, New Mexico",1,0,17866,9041
+"531","Socorro County, New Mexico","Harding County, New Mexico",1,0,17866,695
+"532","Socorro County, New Mexico","De Baca County, New Mexico",1,0,17866,2022
+"533","Socorro County, New Mexico","Gaines County, Texas",1,0,17866,17526
+"534","Socorro County, New Mexico","Los Angeles County, California",1,0,17866,9818605
+"535","Socorro County, New Mexico","Montezuma County, Colorado",1,0,17866,25535
+"536","Socorro County, New Mexico","Graham County, Arizona",1,0,17866,37220
+"537","Socorro County, New Mexico","Harris County, Texas",1,0,17866,4092459
+"538","Socorro County, New Mexico","Maricopa County, Arizona",1,0,17866,3817117
+"539","Socorro County, New Mexico","Dallas County, Texas",1,0,17866,2368139
+"540","Colfax County, New Mexico","Yoakum County, Texas",1,0,13750,7879
+"541","Colfax County, New Mexico","Valencia County, New Mexico",1,0,13750,76569
+"542","Colfax County, New Mexico","Sandoval County, New Mexico",1,0,13750,131561
+"543","Colfax County, New Mexico","Bernalillo County, New Mexico",1,0,13750,662564
+"544","Colfax County, New Mexico","Torrance County, New Mexico",1,0,13750,16383
+"545","Colfax County, New Mexico","Santa Fe County, New Mexico",1,0,13750,144170
+"546","Colfax County, New Mexico","Rio Arriba County, New Mexico",1,0,13750,40246
+"547","Colfax County, New Mexico","Los Alamos County, New Mexico",1,0,13750,17950
+"548","Colfax County, New Mexico","San Miguel County, New Mexico",1,0,13750,29393
+"549","Colfax County, New Mexico","Mora County, New Mexico",1,0,13750,4881
+"550","Colfax County, New Mexico","Socorro County, New Mexico",1,0,13750,17866
+"551","Colfax County, New Mexico","McKinley County, New Mexico",1,0,13750,71492
+"552","Colfax County, New Mexico","Cibola County, New Mexico",1,0,13750,27213
+"553","Colfax County, New Mexico","Apache County, Arizona",1,0,13750,71518
+"555","Colfax County, New Mexico","Taos County, New Mexico",1,0,13750,32937
+"556","Colfax County, New Mexico","Catron County, New Mexico",1,0,13750,3725
+"557","Colfax County, New Mexico","Guadalupe County, New Mexico",1,0,13750,4687
+"558","Colfax County, New Mexico","San Juan County, New Mexico",1,0,13750,130044
+"559","Colfax County, New Mexico","La Plata County, Colorado",1,0,13750,51334
+"560","Colfax County, New Mexico","Sierra County, New Mexico",1,0,13750,11988
+"561","Colfax County, New Mexico","Otero County, New Mexico",1,0,13750,63797
+"562","Colfax County, New Mexico","El Paso County, Texas",1,0,13750,800647
+"563","Colfax County, New Mexico","Dona Ana County, New Mexico",1,0,13750,209233
+"564","Colfax County, New Mexico","Lincoln County, New Mexico",1,0,13750,20497
+"565","Colfax County, New Mexico","Luna County, New Mexico",1,0,13750,25095
+"566","Colfax County, New Mexico","Hidalgo County, New Mexico",1,0,13750,4894
+"567","Colfax County, New Mexico","Greenlee County, Arizona",1,0,13750,8437
+"568","Colfax County, New Mexico","Grant County, New Mexico",1,0,13750,29514
+"569","Colfax County, New Mexico","Cochise County, Arizona",1,0,13750,131346
+"570","Colfax County, New Mexico","Lubbock County, Texas",1,0,13750,278831
+"571","Colfax County, New Mexico","Lea County, New Mexico",1,0,13750,64727
+"572","Colfax County, New Mexico","Eddy County, New Mexico",1,0,13750,53829
+"573","Colfax County, New Mexico","Chaves County, New Mexico",1,0,13750,65645
+"574","Colfax County, New Mexico","Union County, New Mexico",1,0,13750,4549
+"575","Colfax County, New Mexico","Dallam County, Texas",1,0,13750,6703
+"576","Colfax County, New Mexico","Roosevelt County, New Mexico",1,0,13750,19846
+"577","Colfax County, New Mexico","Curry County, New Mexico",1,0,13750,48376
+"578","Colfax County, New Mexico","Parmer County, Texas",1,0,13750,10269
+"579","Colfax County, New Mexico","Quay County, New Mexico",1,0,13750,9041
+"580","Colfax County, New Mexico","Harding County, New Mexico",1,0,13750,695
+"581","Colfax County, New Mexico","De Baca County, New Mexico",1,0,13750,2022
+"582","Colfax County, New Mexico","Gaines County, Texas",1,0,13750,17526
+"583","Colfax County, New Mexico","Los Angeles County, California",1,0,13750,9818605
+"584","Colfax County, New Mexico","Montezuma County, Colorado",1,0,13750,25535
+"585","Colfax County, New Mexico","Graham County, Arizona",1,0,13750,37220
+"586","Colfax County, New Mexico","Harris County, Texas",1,0,13750,4092459
+"587","Colfax County, New Mexico","Maricopa County, Arizona",1,0,13750,3817117
+"588","Colfax County, New Mexico","Dallas County, Texas",1,0,13750,2368139
+"589","McKinley County, New Mexico","Yoakum County, Texas",1,0,71492,7879
+"590","McKinley County, New Mexico","Valencia County, New Mexico",1,0,71492,76569
+"593","McKinley County, New Mexico","Torrance County, New Mexico",1,0,71492,16383
+"594","McKinley County, New Mexico","Santa Fe County, New Mexico",1,0,71492,144170
+"595","McKinley County, New Mexico","Rio Arriba County, New Mexico",1,0,71492,40246
+"596","McKinley County, New Mexico","Los Alamos County, New Mexico",1,0,71492,17950
+"597","McKinley County, New Mexico","San Miguel County, New Mexico",1,0,71492,29393
+"598","McKinley County, New Mexico","Mora County, New Mexico",1,0,71492,4881
+"599","McKinley County, New Mexico","Socorro County, New Mexico",1,0,71492,17866
+"600","McKinley County, New Mexico","Colfax County, New Mexico",1,0,71492,13750
+"603","McKinley County, New Mexico","Las Animas County, Colorado",1,0,71492,15507
+"604","McKinley County, New Mexico","Taos County, New Mexico",1,0,71492,32937
+"605","McKinley County, New Mexico","Catron County, New Mexico",1,0,71492,3725
+"606","McKinley County, New Mexico","Guadalupe County, New Mexico",1,0,71492,4687
+"608","McKinley County, New Mexico","La Plata County, Colorado",1,0,71492,51334
+"609","McKinley County, New Mexico","Sierra County, New Mexico",1,0,71492,11988
+"610","McKinley County, New Mexico","Otero County, New Mexico",1,0,71492,63797
+"611","McKinley County, New Mexico","El Paso County, Texas",1,0,71492,800647
+"612","McKinley County, New Mexico","Dona Ana County, New Mexico",1,0,71492,209233
+"613","McKinley County, New Mexico","Lincoln County, New Mexico",1,0,71492,20497
+"614","McKinley County, New Mexico","Luna County, New Mexico",1,0,71492,25095
+"615","McKinley County, New Mexico","Hidalgo County, New Mexico",1,0,71492,4894
+"616","McKinley County, New Mexico","Greenlee County, Arizona",1,0,71492,8437
+"617","McKinley County, New Mexico","Grant County, New Mexico",1,0,71492,29514
+"618","McKinley County, New Mexico","Cochise County, Arizona",1,0,71492,131346
+"619","McKinley County, New Mexico","Lubbock County, Texas",1,0,71492,278831
+"620","McKinley County, New Mexico","Lea County, New Mexico",1,0,71492,64727
+"621","McKinley County, New Mexico","Eddy County, New Mexico",1,0,71492,53829
+"622","McKinley County, New Mexico","Chaves County, New Mexico",1,0,71492,65645
+"623","McKinley County, New Mexico","Union County, New Mexico",1,0,71492,4549
+"624","McKinley County, New Mexico","Dallam County, Texas",1,0,71492,6703
+"625","McKinley County, New Mexico","Roosevelt County, New Mexico",1,0,71492,19846
+"626","McKinley County, New Mexico","Curry County, New Mexico",1,0,71492,48376
+"627","McKinley County, New Mexico","Parmer County, Texas",1,0,71492,10269
+"628","McKinley County, New Mexico","Quay County, New Mexico",1,0,71492,9041
+"629","McKinley County, New Mexico","Harding County, New Mexico",1,0,71492,695
+"630","McKinley County, New Mexico","De Baca County, New Mexico",1,0,71492,2022
+"631","McKinley County, New Mexico","Gaines County, Texas",1,0,71492,17526
+"632","McKinley County, New Mexico","Los Angeles County, California",1,0,71492,9818605
+"633","McKinley County, New Mexico","Montezuma County, Colorado",1,0,71492,25535
+"634","McKinley County, New Mexico","Graham County, Arizona",1,0,71492,37220
+"635","McKinley County, New Mexico","Harris County, Texas",1,0,71492,4092459
+"636","McKinley County, New Mexico","Maricopa County, Arizona",1,0,71492,3817117
+"637","McKinley County, New Mexico","Dallas County, Texas",1,0,71492,2368139
+"638","Cibola County, New Mexico","Yoakum County, Texas",1,0,27213,7879
+"640","Cibola County, New Mexico","Sandoval County, New Mexico",1,0,27213,131561
+"642","Cibola County, New Mexico","Torrance County, New Mexico",1,0,27213,16383
+"643","Cibola County, New Mexico","Santa Fe County, New Mexico",1,0,27213,144170
+"644","Cibola County, New Mexico","Rio Arriba County, New Mexico",1,0,27213,40246
+"645","Cibola County, New Mexico","Los Alamos County, New Mexico",1,0,27213,17950
+"646","Cibola County, New Mexico","San Miguel County, New Mexico",1,0,27213,29393
+"647","Cibola County, New Mexico","Mora County, New Mexico",1,0,27213,4881
+"648","Cibola County, New Mexico","Socorro County, New Mexico",1,0,27213,17866
+"649","Cibola County, New Mexico","Colfax County, New Mexico",1,0,27213,13750
+"652","Cibola County, New Mexico","Las Animas County, Colorado",1,0,27213,15507
+"653","Cibola County, New Mexico","Taos County, New Mexico",1,0,27213,32937
+"654","Cibola County, New Mexico","Catron County, New Mexico",1,0,27213,3725
+"655","Cibola County, New Mexico","Guadalupe County, New Mexico",1,0,27213,4687
+"656","Cibola County, New Mexico","San Juan County, New Mexico",1,0,27213,130044
+"657","Cibola County, New Mexico","La Plata County, Colorado",1,0,27213,51334
+"658","Cibola County, New Mexico","Sierra County, New Mexico",1,0,27213,11988
+"659","Cibola County, New Mexico","Otero County, New Mexico",1,0,27213,63797
+"660","Cibola County, New Mexico","El Paso County, Texas",1,0,27213,800647
+"661","Cibola County, New Mexico","Dona Ana County, New Mexico",1,0,27213,209233
+"662","Cibola County, New Mexico","Lincoln County, New Mexico",1,0,27213,20497
+"663","Cibola County, New Mexico","Luna County, New Mexico",1,0,27213,25095
+"664","Cibola County, New Mexico","Hidalgo County, New Mexico",1,0,27213,4894
+"665","Cibola County, New Mexico","Greenlee County, Arizona",1,0,27213,8437
+"666","Cibola County, New Mexico","Grant County, New Mexico",1,0,27213,29514
+"667","Cibola County, New Mexico","Cochise County, Arizona",1,0,27213,131346
+"668","Cibola County, New Mexico","Lubbock County, Texas",1,0,27213,278831
+"669","Cibola County, New Mexico","Lea County, New Mexico",1,0,27213,64727
+"670","Cibola County, New Mexico","Eddy County, New Mexico",1,0,27213,53829
+"671","Cibola County, New Mexico","Chaves County, New Mexico",1,0,27213,65645
+"672","Cibola County, New Mexico","Union County, New Mexico",1,0,27213,4549
+"673","Cibola County, New Mexico","Dallam County, Texas",1,0,27213,6703
+"674","Cibola County, New Mexico","Roosevelt County, New Mexico",1,0,27213,19846
+"675","Cibola County, New Mexico","Curry County, New Mexico",1,0,27213,48376
+"676","Cibola County, New Mexico","Parmer County, Texas",1,0,27213,10269
+"677","Cibola County, New Mexico","Quay County, New Mexico",1,0,27213,9041
+"678","Cibola County, New Mexico","Harding County, New Mexico",1,0,27213,695
+"679","Cibola County, New Mexico","De Baca County, New Mexico",1,0,27213,2022
+"680","Cibola County, New Mexico","Gaines County, Texas",1,0,27213,17526
+"681","Cibola County, New Mexico","Los Angeles County, California",1,0,27213,9818605
+"682","Cibola County, New Mexico","Montezuma County, Colorado",1,0,27213,25535
+"683","Cibola County, New Mexico","Graham County, Arizona",1,0,27213,37220
+"684","Cibola County, New Mexico","Harris County, Texas",1,0,27213,4092459
+"685","Cibola County, New Mexico","Maricopa County, Arizona",1,0,27213,3817117
+"686","Cibola County, New Mexico","Dallas County, Texas",1,0,27213,2368139
+"687","Apache County, Arizona","Yoakum County, Texas",1,0,71518,7879
+"688","Apache County, Arizona","Valencia County, New Mexico",1,0,71518,76569
+"689","Apache County, Arizona","Sandoval County, New Mexico",1,0,71518,131561
+"690","Apache County, Arizona","Bernalillo County, New Mexico",1,0,71518,662564
+"691","Apache County, Arizona","Torrance County, New Mexico",1,0,71518,16383
+"692","Apache County, Arizona","Santa Fe County, New Mexico",1,0,71518,144170
+"693","Apache County, Arizona","Rio Arriba County, New Mexico",1,0,71518,40246
+"694","Apache County, Arizona","Los Alamos County, New Mexico",1,0,71518,17950
+"695","Apache County, Arizona","San Miguel County, New Mexico",1,0,71518,29393
+"696","Apache County, Arizona","Mora County, New Mexico",1,0,71518,4881
+"697","Apache County, Arizona","Socorro County, New Mexico",1,0,71518,17866
+"698","Apache County, Arizona","Colfax County, New Mexico",1,0,71518,13750
+"699","Apache County, Arizona","McKinley County, New Mexico",1,0,71518,71492
+"700","Apache County, Arizona","Cibola County, New Mexico",1,0,71518,27213
+"701","Apache County, Arizona","Las Animas County, Colorado",1,0,71518,15507
+"702","Apache County, Arizona","Taos County, New Mexico",1,0,71518,32937
+"703","Apache County, Arizona","Catron County, New Mexico",1,0,71518,3725
+"704","Apache County, Arizona","Guadalupe County, New Mexico",1,0,71518,4687
+"705","Apache County, Arizona","San Juan County, New Mexico",1,0,71518,130044
+"706","Apache County, Arizona","La Plata County, Colorado",1,0,71518,51334
+"707","Apache County, Arizona","Sierra County, New Mexico",1,0,71518,11988
+"708","Apache County, Arizona","Otero County, New Mexico",1,0,71518,63797
+"709","Apache County, Arizona","El Paso County, Texas",1,0,71518,800647
+"710","Apache County, Arizona","Dona Ana County, New Mexico",1,0,71518,209233
+"711","Apache County, Arizona","Lincoln County, New Mexico",1,0,71518,20497
+"712","Apache County, Arizona","Luna County, New Mexico",1,0,71518,25095
+"713","Apache County, Arizona","Hidalgo County, New Mexico",1,0,71518,4894
+"714","Apache County, Arizona","Greenlee County, Arizona",1,0,71518,8437
+"715","Apache County, Arizona","Grant County, New Mexico",1,0,71518,29514
+"716","Apache County, Arizona","Cochise County, Arizona",1,0,71518,131346
+"717","Apache County, Arizona","Lubbock County, Texas",1,0,71518,278831
+"718","Apache County, Arizona","Lea County, New Mexico",1,0,71518,64727
+"719","Apache County, Arizona","Eddy County, New Mexico",1,0,71518,53829
+"720","Apache County, Arizona","Chaves County, New Mexico",1,0,71518,65645
+"721","Apache County, Arizona","Union County, New Mexico",1,0,71518,4549
+"722","Apache County, Arizona","Dallam County, Texas",1,0,71518,6703
+"723","Apache County, Arizona","Roosevelt County, New Mexico",1,0,71518,19846
+"724","Apache County, Arizona","Curry County, New Mexico",1,0,71518,48376
+"725","Apache County, Arizona","Parmer County, Texas",1,0,71518,10269
+"726","Apache County, Arizona","Quay County, New Mexico",1,0,71518,9041
+"727","Apache County, Arizona","Harding County, New Mexico",1,0,71518,695
+"728","Apache County, Arizona","De Baca County, New Mexico",1,0,71518,2022
+"729","Apache County, Arizona","Gaines County, Texas",1,0,71518,17526
+"730","Apache County, Arizona","Los Angeles County, California",1,0,71518,9818605
+"731","Apache County, Arizona","Montezuma County, Colorado",1,0,71518,25535
+"732","Apache County, Arizona","Graham County, Arizona",1,0,71518,37220
+"733","Apache County, Arizona","Harris County, Texas",1,0,71518,4092459
+"734","Apache County, Arizona","Maricopa County, Arizona",1,0,71518,3817117
+"735","Apache County, Arizona","Dallas County, Texas",1,0,71518,2368139
+"736","Las Animas County, Colorado","Yoakum County, Texas",1,0,15507,7879
+"737","Las Animas County, Colorado","Valencia County, New Mexico",1,0,15507,76569
+"738","Las Animas County, Colorado","Sandoval County, New Mexico",1,0,15507,131561
+"739","Las Animas County, Colorado","Bernalillo County, New Mexico",1,0,15507,662564
+"740","Las Animas County, Colorado","Torrance County, New Mexico",1,0,15507,16383
+"741","Las Animas County, Colorado","Santa Fe County, New Mexico",1,0,15507,144170
+"742","Las Animas County, Colorado","Rio Arriba County, New Mexico",1,0,15507,40246
+"743","Las Animas County, Colorado","Los Alamos County, New Mexico",1,0,15507,17950
+"744","Las Animas County, Colorado","San Miguel County, New Mexico",1,0,15507,29393
+"745","Las Animas County, Colorado","Mora County, New Mexico",1,0,15507,4881
+"746","Las Animas County, Colorado","Socorro County, New Mexico",1,0,15507,17866
+"747","Las Animas County, Colorado","Colfax County, New Mexico",1,0,15507,13750
+"748","Las Animas County, Colorado","McKinley County, New Mexico",1,0,15507,71492
+"749","Las Animas County, Colorado","Cibola County, New Mexico",1,0,15507,27213
+"750","Las Animas County, Colorado","Apache County, Arizona",1,0,15507,71518
+"751","Las Animas County, Colorado","Taos County, New Mexico",1,0,15507,32937
+"752","Las Animas County, Colorado","Catron County, New Mexico",1,0,15507,3725
+"753","Las Animas County, Colorado","Guadalupe County, New Mexico",1,0,15507,4687
+"754","Las Animas County, Colorado","San Juan County, New Mexico",1,0,15507,130044
+"755","Las Animas County, Colorado","La Plata County, Colorado",1,0,15507,51334
+"756","Las Animas County, Colorado","Sierra County, New Mexico",1,0,15507,11988
+"757","Las Animas County, Colorado","Otero County, New Mexico",1,0,15507,63797
+"758","Las Animas County, Colorado","El Paso County, Texas",1,0,15507,800647
+"759","Las Animas County, Colorado","Dona Ana County, New Mexico",1,0,15507,209233
+"760","Las Animas County, Colorado","Lincoln County, New Mexico",1,0,15507,20497
+"761","Las Animas County, Colorado","Luna County, New Mexico",1,0,15507,25095
+"762","Las Animas County, Colorado","Hidalgo County, New Mexico",1,0,15507,4894
+"763","Las Animas County, Colorado","Greenlee County, Arizona",1,0,15507,8437
+"764","Las Animas County, Colorado","Grant County, New Mexico",1,0,15507,29514
+"765","Las Animas County, Colorado","Cochise County, Arizona",1,0,15507,131346
+"766","Las Animas County, Colorado","Lubbock County, Texas",1,0,15507,278831
+"767","Las Animas County, Colorado","Lea County, New Mexico",1,0,15507,64727
+"768","Las Animas County, Colorado","Eddy County, New Mexico",1,0,15507,53829
+"769","Las Animas County, Colorado","Chaves County, New Mexico",1,0,15507,65645
+"770","Las Animas County, Colorado","Union County, New Mexico",1,0,15507,4549
+"771","Las Animas County, Colorado","Dallam County, Texas",1,0,15507,6703
+"772","Las Animas County, Colorado","Roosevelt County, New Mexico",1,0,15507,19846
+"773","Las Animas County, Colorado","Curry County, New Mexico",1,0,15507,48376
+"774","Las Animas County, Colorado","Parmer County, Texas",1,0,15507,10269
+"775","Las Animas County, Colorado","Quay County, New Mexico",1,0,15507,9041
+"776","Las Animas County, Colorado","Harding County, New Mexico",1,0,15507,695
+"777","Las Animas County, Colorado","De Baca County, New Mexico",1,0,15507,2022
+"778","Las Animas County, Colorado","Gaines County, Texas",1,0,15507,17526
+"779","Las Animas County, Colorado","Los Angeles County, California",1,0,15507,9818605
+"780","Las Animas County, Colorado","Montezuma County, Colorado",1,0,15507,25535
+"781","Las Animas County, Colorado","Graham County, Arizona",1,0,15507,37220
+"782","Las Animas County, Colorado","Harris County, Texas",1,0,15507,4092459
+"783","Las Animas County, Colorado","Maricopa County, Arizona",1,0,15507,3817117
+"784","Las Animas County, Colorado","Dallas County, Texas",1,0,15507,2368139
+"785","Taos County, New Mexico","Yoakum County, Texas",1,0,32937,7879
+"786","Taos County, New Mexico","Valencia County, New Mexico",1,0,32937,76569
+"787","Taos County, New Mexico","Sandoval County, New Mexico",1,0,32937,131561
+"788","Taos County, New Mexico","Bernalillo County, New Mexico",1,0,32937,662564
+"789","Taos County, New Mexico","Torrance County, New Mexico",1,0,32937,16383
+"793","Taos County, New Mexico","San Miguel County, New Mexico",1,0,32937,29393
+"794","Taos County, New Mexico","Mora County, New Mexico",1,0,32937,4881
+"795","Taos County, New Mexico","Socorro County, New Mexico",1,0,32937,17866
+"796","Taos County, New Mexico","Colfax County, New Mexico",1,0,32937,13750
+"797","Taos County, New Mexico","McKinley County, New Mexico",1,0,32937,71492
+"798","Taos County, New Mexico","Cibola County, New Mexico",1,0,32937,27213
+"799","Taos County, New Mexico","Apache County, Arizona",1,0,32937,71518
+"800","Taos County, New Mexico","Las Animas County, Colorado",1,0,32937,15507
+"801","Taos County, New Mexico","Catron County, New Mexico",1,0,32937,3725
+"802","Taos County, New Mexico","Guadalupe County, New Mexico",1,0,32937,4687
+"803","Taos County, New Mexico","San Juan County, New Mexico",1,0,32937,130044
+"804","Taos County, New Mexico","La Plata County, Colorado",1,0,32937,51334
+"805","Taos County, New Mexico","Sierra County, New Mexico",1,0,32937,11988
+"806","Taos County, New Mexico","Otero County, New Mexico",1,0,32937,63797
+"807","Taos County, New Mexico","El Paso County, Texas",1,0,32937,800647
+"808","Taos County, New Mexico","Dona Ana County, New Mexico",1,0,32937,209233
+"809","Taos County, New Mexico","Lincoln County, New Mexico",1,0,32937,20497
+"810","Taos County, New Mexico","Luna County, New Mexico",1,0,32937,25095
+"811","Taos County, New Mexico","Hidalgo County, New Mexico",1,0,32937,4894
+"812","Taos County, New Mexico","Greenlee County, Arizona",1,0,32937,8437
+"813","Taos County, New Mexico","Grant County, New Mexico",1,0,32937,29514
+"814","Taos County, New Mexico","Cochise County, Arizona",1,0,32937,131346
+"815","Taos County, New Mexico","Lubbock County, Texas",1,0,32937,278831
+"816","Taos County, New Mexico","Lea County, New Mexico",1,0,32937,64727
+"817","Taos County, New Mexico","Eddy County, New Mexico",1,0,32937,53829
+"818","Taos County, New Mexico","Chaves County, New Mexico",1,0,32937,65645
+"819","Taos County, New Mexico","Union County, New Mexico",1,0,32937,4549
+"820","Taos County, New Mexico","Dallam County, Texas",1,0,32937,6703
+"821","Taos County, New Mexico","Roosevelt County, New Mexico",1,0,32937,19846
+"822","Taos County, New Mexico","Curry County, New Mexico",1,0,32937,48376
+"823","Taos County, New Mexico","Parmer County, Texas",1,0,32937,10269
+"824","Taos County, New Mexico","Quay County, New Mexico",1,0,32937,9041
+"825","Taos County, New Mexico","Harding County, New Mexico",1,0,32937,695
+"826","Taos County, New Mexico","De Baca County, New Mexico",1,0,32937,2022
+"827","Taos County, New Mexico","Gaines County, Texas",1,0,32937,17526
+"828","Taos County, New Mexico","Los Angeles County, California",1,0,32937,9818605
+"829","Taos County, New Mexico","Montezuma County, Colorado",1,0,32937,25535
+"830","Taos County, New Mexico","Graham County, Arizona",1,0,32937,37220
+"831","Taos County, New Mexico","Harris County, Texas",1,0,32937,4092459
+"832","Taos County, New Mexico","Maricopa County, Arizona",1,0,32937,3817117
+"833","Taos County, New Mexico","Dallas County, Texas",1,0,32937,2368139
+"834","Catron County, New Mexico","Yoakum County, Texas",1,0,3725,7879
+"835","Catron County, New Mexico","Valencia County, New Mexico",1,0,3725,76569
+"836","Catron County, New Mexico","Sandoval County, New Mexico",1,0,3725,131561
+"837","Catron County, New Mexico","Bernalillo County, New Mexico",1,0,3725,662564
+"838","Catron County, New Mexico","Torrance County, New Mexico",1,0,3725,16383
+"839","Catron County, New Mexico","Santa Fe County, New Mexico",1,0,3725,144170
+"840","Catron County, New Mexico","Rio Arriba County, New Mexico",1,0,3725,40246
+"841","Catron County, New Mexico","Los Alamos County, New Mexico",1,0,3725,17950
+"842","Catron County, New Mexico","San Miguel County, New Mexico",1,0,3725,29393
+"843","Catron County, New Mexico","Mora County, New Mexico",1,0,3725,4881
+"845","Catron County, New Mexico","Colfax County, New Mexico",1,0,3725,13750
+"846","Catron County, New Mexico","McKinley County, New Mexico",1,0,3725,71492
+"847","Catron County, New Mexico","Cibola County, New Mexico",1,0,3725,27213
+"849","Catron County, New Mexico","Las Animas County, Colorado",1,0,3725,15507
+"850","Catron County, New Mexico","Taos County, New Mexico",1,0,3725,32937
+"851","Catron County, New Mexico","Guadalupe County, New Mexico",1,0,3725,4687
+"852","Catron County, New Mexico","San Juan County, New Mexico",1,0,3725,130044
+"853","Catron County, New Mexico","La Plata County, Colorado",1,0,3725,51334
+"854","Catron County, New Mexico","Sierra County, New Mexico",1,0,3725,11988
+"855","Catron County, New Mexico","Otero County, New Mexico",1,0,3725,63797
+"856","Catron County, New Mexico","El Paso County, Texas",1,0,3725,800647
+"857","Catron County, New Mexico","Dona Ana County, New Mexico",1,0,3725,209233
+"858","Catron County, New Mexico","Lincoln County, New Mexico",1,0,3725,20497
+"859","Catron County, New Mexico","Luna County, New Mexico",1,0,3725,25095
+"860","Catron County, New Mexico","Hidalgo County, New Mexico",1,0,3725,4894
+"861","Catron County, New Mexico","Greenlee County, Arizona",1,0,3725,8437
+"863","Catron County, New Mexico","Cochise County, Arizona",1,0,3725,131346
+"864","Catron County, New Mexico","Lubbock County, Texas",1,0,3725,278831
+"865","Catron County, New Mexico","Lea County, New Mexico",1,0,3725,64727
+"866","Catron County, New Mexico","Eddy County, New Mexico",1,0,3725,53829
+"867","Catron County, New Mexico","Chaves County, New Mexico",1,0,3725,65645
+"868","Catron County, New Mexico","Union County, New Mexico",1,0,3725,4549
+"869","Catron County, New Mexico","Dallam County, Texas",1,0,3725,6703
+"870","Catron County, New Mexico","Roosevelt County, New Mexico",1,0,3725,19846
+"871","Catron County, New Mexico","Curry County, New Mexico",1,0,3725,48376
+"872","Catron County, New Mexico","Parmer County, Texas",1,0,3725,10269
+"873","Catron County, New Mexico","Quay County, New Mexico",1,0,3725,9041
+"874","Catron County, New Mexico","Harding County, New Mexico",1,0,3725,695
+"875","Catron County, New Mexico","De Baca County, New Mexico",1,0,3725,2022
+"876","Catron County, New Mexico","Gaines County, Texas",1,0,3725,17526
+"877","Catron County, New Mexico","Los Angeles County, California",1,0,3725,9818605
+"878","Catron County, New Mexico","Montezuma County, Colorado",1,0,3725,25535
+"879","Catron County, New Mexico","Graham County, Arizona",1,0,3725,37220
+"880","Catron County, New Mexico","Harris County, Texas",1,0,3725,4092459
+"881","Catron County, New Mexico","Maricopa County, Arizona",1,0,3725,3817117
+"882","Catron County, New Mexico","Dallas County, Texas",1,0,3725,2368139
+"883","Guadalupe County, New Mexico","Yoakum County, Texas",1,0,4687,7879
+"884","Guadalupe County, New Mexico","Valencia County, New Mexico",1,0,4687,76569
+"885","Guadalupe County, New Mexico","Sandoval County, New Mexico",1,0,4687,131561
+"886","Guadalupe County, New Mexico","Bernalillo County, New Mexico",1,0,4687,662564
+"887","Guadalupe County, New Mexico","Torrance County, New Mexico",1,0,4687,16383
+"888","Guadalupe County, New Mexico","Santa Fe County, New Mexico",1,0,4687,144170
+"889","Guadalupe County, New Mexico","Rio Arriba County, New Mexico",1,0,4687,40246
+"890","Guadalupe County, New Mexico","Los Alamos County, New Mexico",1,0,4687,17950
+"892","Guadalupe County, New Mexico","Mora County, New Mexico",1,0,4687,4881
+"893","Guadalupe County, New Mexico","Socorro County, New Mexico",1,0,4687,17866
+"894","Guadalupe County, New Mexico","Colfax County, New Mexico",1,0,4687,13750
+"895","Guadalupe County, New Mexico","McKinley County, New Mexico",1,0,4687,71492
+"896","Guadalupe County, New Mexico","Cibola County, New Mexico",1,0,4687,27213
+"897","Guadalupe County, New Mexico","Apache County, Arizona",1,0,4687,71518
+"898","Guadalupe County, New Mexico","Las Animas County, Colorado",1,0,4687,15507
+"899","Guadalupe County, New Mexico","Taos County, New Mexico",1,0,4687,32937
+"900","Guadalupe County, New Mexico","Catron County, New Mexico",1,0,4687,3725
+"901","Guadalupe County, New Mexico","San Juan County, New Mexico",1,0,4687,130044
+"902","Guadalupe County, New Mexico","La Plata County, Colorado",1,0,4687,51334
+"903","Guadalupe County, New Mexico","Sierra County, New Mexico",1,0,4687,11988
+"904","Guadalupe County, New Mexico","Otero County, New Mexico",1,0,4687,63797
+"905","Guadalupe County, New Mexico","El Paso County, Texas",1,0,4687,800647
+"906","Guadalupe County, New Mexico","Dona Ana County, New Mexico",1,0,4687,209233
+"907","Guadalupe County, New Mexico","Lincoln County, New Mexico",1,0,4687,20497
+"908","Guadalupe County, New Mexico","Luna County, New Mexico",1,0,4687,25095
+"909","Guadalupe County, New Mexico","Hidalgo County, New Mexico",1,0,4687,4894
+"910","Guadalupe County, New Mexico","Greenlee County, Arizona",1,0,4687,8437
+"911","Guadalupe County, New Mexico","Grant County, New Mexico",1,0,4687,29514
+"912","Guadalupe County, New Mexico","Cochise County, Arizona",1,0,4687,131346
+"913","Guadalupe County, New Mexico","Lubbock County, Texas",1,0,4687,278831
+"914","Guadalupe County, New Mexico","Lea County, New Mexico",1,0,4687,64727
+"915","Guadalupe County, New Mexico","Eddy County, New Mexico",1,0,4687,53829
+"916","Guadalupe County, New Mexico","Chaves County, New Mexico",1,0,4687,65645
+"917","Guadalupe County, New Mexico","Union County, New Mexico",1,0,4687,4549
+"918","Guadalupe County, New Mexico","Dallam County, Texas",1,0,4687,6703
+"919","Guadalupe County, New Mexico","Roosevelt County, New Mexico",1,0,4687,19846
+"921","Guadalupe County, New Mexico","Parmer County, Texas",1,0,4687,10269
+"923","Guadalupe County, New Mexico","Harding County, New Mexico",1,0,4687,695
+"925","Guadalupe County, New Mexico","Gaines County, Texas",1,0,4687,17526
+"926","Guadalupe County, New Mexico","Los Angeles County, California",1,0,4687,9818605
+"927","Guadalupe County, New Mexico","Montezuma County, Colorado",1,0,4687,25535
+"928","Guadalupe County, New Mexico","Graham County, Arizona",1,0,4687,37220
+"929","Guadalupe County, New Mexico","Harris County, Texas",1,0,4687,4092459
+"930","Guadalupe County, New Mexico","Maricopa County, Arizona",1,0,4687,3817117
+"931","Guadalupe County, New Mexico","Dallas County, Texas",1,0,4687,2368139
+"932","San Juan County, New Mexico","Yoakum County, Texas",1,0,130044,7879
+"933","San Juan County, New Mexico","Valencia County, New Mexico",1,0,130044,76569
+"936","San Juan County, New Mexico","Torrance County, New Mexico",1,0,130044,16383
+"937","San Juan County, New Mexico","Santa Fe County, New Mexico",1,0,130044,144170
+"939","San Juan County, New Mexico","Los Alamos County, New Mexico",1,0,130044,17950
+"940","San Juan County, New Mexico","San Miguel County, New Mexico",1,0,130044,29393
+"941","San Juan County, New Mexico","Mora County, New Mexico",1,0,130044,4881
+"942","San Juan County, New Mexico","Socorro County, New Mexico",1,0,130044,17866
+"943","San Juan County, New Mexico","Colfax County, New Mexico",1,0,130044,13750
+"947","San Juan County, New Mexico","Las Animas County, Colorado",1,0,130044,15507
+"948","San Juan County, New Mexico","Taos County, New Mexico",1,0,130044,32937
+"949","San Juan County, New Mexico","Catron County, New Mexico",1,0,130044,3725
+"950","San Juan County, New Mexico","Guadalupe County, New Mexico",1,0,130044,4687
+"952","San Juan County, New Mexico","Sierra County, New Mexico",1,0,130044,11988
+"953","San Juan County, New Mexico","Otero County, New Mexico",1,0,130044,63797
+"954","San Juan County, New Mexico","El Paso County, Texas",1,0,130044,800647
+"955","San Juan County, New Mexico","Dona Ana County, New Mexico",1,0,130044,209233
+"956","San Juan County, New Mexico","Lincoln County, New Mexico",1,0,130044,20497
+"957","San Juan County, New Mexico","Luna County, New Mexico",1,0,130044,25095
+"958","San Juan County, New Mexico","Hidalgo County, New Mexico",1,0,130044,4894
+"959","San Juan County, New Mexico","Greenlee County, Arizona",1,0,130044,8437
+"960","San Juan County, New Mexico","Grant County, New Mexico",1,0,130044,29514
+"961","San Juan County, New Mexico","Cochise County, Arizona",1,0,130044,131346
+"962","San Juan County, New Mexico","Lubbock County, Texas",1,0,130044,278831
+"963","San Juan County, New Mexico","Lea County, New Mexico",1,0,130044,64727
+"964","San Juan County, New Mexico","Eddy County, New Mexico",1,0,130044,53829
+"965","San Juan County, New Mexico","Chaves County, New Mexico",1,0,130044,65645
+"966","San Juan County, New Mexico","Union County, New Mexico",1,0,130044,4549
+"967","San Juan County, New Mexico","Dallam County, Texas",1,0,130044,6703
+"968","San Juan County, New Mexico","Roosevelt County, New Mexico",1,0,130044,19846
+"969","San Juan County, New Mexico","Curry County, New Mexico",1,0,130044,48376
+"970","San Juan County, New Mexico","Parmer County, Texas",1,0,130044,10269
+"971","San Juan County, New Mexico","Quay County, New Mexico",1,0,130044,9041
+"972","San Juan County, New Mexico","Harding County, New Mexico",1,0,130044,695
+"973","San Juan County, New Mexico","De Baca County, New Mexico",1,0,130044,2022
+"974","San Juan County, New Mexico","Gaines County, Texas",1,0,130044,17526
+"975","San Juan County, New Mexico","Los Angeles County, California",1,0,130044,9818605
+"977","San Juan County, New Mexico","Graham County, Arizona",1,0,130044,37220
+"980","San Juan County, New Mexico","Dallas County, Texas",1,0,130044,2368139
+"981","La Plata County, Colorado","Yoakum County, Texas",1,0,51334,7879
+"982","La Plata County, Colorado","Valencia County, New Mexico",1,0,51334,76569
+"983","La Plata County, Colorado","Sandoval County, New Mexico",1,0,51334,131561
+"984","La Plata County, Colorado","Bernalillo County, New Mexico",1,0,51334,662564
+"985","La Plata County, Colorado","Torrance County, New Mexico",1,0,51334,16383
+"986","La Plata County, Colorado","Santa Fe County, New Mexico",1,0,51334,144170
+"987","La Plata County, Colorado","Rio Arriba County, New Mexico",1,0,51334,40246
+"988","La Plata County, Colorado","Los Alamos County, New Mexico",1,0,51334,17950
+"989","La Plata County, Colorado","San Miguel County, New Mexico",1,0,51334,29393
+"990","La Plata County, Colorado","Mora County, New Mexico",1,0,51334,4881
+"991","La Plata County, Colorado","Socorro County, New Mexico",1,0,51334,17866
+"992","La Plata County, Colorado","Colfax County, New Mexico",1,0,51334,13750
+"993","La Plata County, Colorado","McKinley County, New Mexico",1,0,51334,71492
+"994","La Plata County, Colorado","Cibola County, New Mexico",1,0,51334,27213
+"995","La Plata County, Colorado","Apache County, Arizona",1,0,51334,71518
+"996","La Plata County, Colorado","Las Animas County, Colorado",1,0,51334,15507
+"997","La Plata County, Colorado","Taos County, New Mexico",1,0,51334,32937
+"998","La Plata County, Colorado","Catron County, New Mexico",1,0,51334,3725
+"999","La Plata County, Colorado","Guadalupe County, New Mexico",1,0,51334,4687
+"1000","La Plata County, Colorado","San Juan County, New Mexico",1,0,51334,130044
+"1001","La Plata County, Colorado","Sierra County, New Mexico",1,0,51334,11988
+"1002","La Plata County, Colorado","Otero County, New Mexico",1,0,51334,63797
+"1003","La Plata County, Colorado","El Paso County, Texas",1,0,51334,800647
+"1004","La Plata County, Colorado","Dona Ana County, New Mexico",1,0,51334,209233
+"1005","La Plata County, Colorado","Lincoln County, New Mexico",1,0,51334,20497
+"1006","La Plata County, Colorado","Luna County, New Mexico",1,0,51334,25095
+"1007","La Plata County, Colorado","Hidalgo County, New Mexico",1,0,51334,4894
+"1008","La Plata County, Colorado","Greenlee County, Arizona",1,0,51334,8437
+"1009","La Plata County, Colorado","Grant County, New Mexico",1,0,51334,29514
+"1010","La Plata County, Colorado","Cochise County, Arizona",1,0,51334,131346
+"1011","La Plata County, Colorado","Lubbock County, Texas",1,0,51334,278831
+"1012","La Plata County, Colorado","Lea County, New Mexico",1,0,51334,64727
+"1013","La Plata County, Colorado","Eddy County, New Mexico",1,0,51334,53829
+"1014","La Plata County, Colorado","Chaves County, New Mexico",1,0,51334,65645
+"1015","La Plata County, Colorado","Union County, New Mexico",1,0,51334,4549
+"1016","La Plata County, Colorado","Dallam County, Texas",1,0,51334,6703
+"1017","La Plata County, Colorado","Roosevelt County, New Mexico",1,0,51334,19846
+"1018","La Plata County, Colorado","Curry County, New Mexico",1,0,51334,48376
+"1019","La Plata County, Colorado","Parmer County, Texas",1,0,51334,10269
+"1020","La Plata County, Colorado","Quay County, New Mexico",1,0,51334,9041
+"1021","La Plata County, Colorado","Harding County, New Mexico",1,0,51334,695
+"1022","La Plata County, Colorado","De Baca County, New Mexico",1,0,51334,2022
+"1023","La Plata County, Colorado","Gaines County, Texas",1,0,51334,17526
+"1024","La Plata County, Colorado","Los Angeles County, California",1,0,51334,9818605
+"1025","La Plata County, Colorado","Montezuma County, Colorado",1,0,51334,25535
+"1026","La Plata County, Colorado","Graham County, Arizona",1,0,51334,37220
+"1027","La Plata County, Colorado","Harris County, Texas",1,0,51334,4092459
+"1028","La Plata County, Colorado","Maricopa County, Arizona",1,0,51334,3817117
+"1029","La Plata County, Colorado","Dallas County, Texas",1,0,51334,2368139
+"1030","Sierra County, New Mexico","Yoakum County, Texas",1,0,11988,7879
+"1031","Sierra County, New Mexico","Valencia County, New Mexico",1,0,11988,76569
+"1032","Sierra County, New Mexico","Sandoval County, New Mexico",1,0,11988,131561
+"1033","Sierra County, New Mexico","Bernalillo County, New Mexico",1,0,11988,662564
+"1034","Sierra County, New Mexico","Torrance County, New Mexico",1,0,11988,16383
+"1035","Sierra County, New Mexico","Santa Fe County, New Mexico",1,0,11988,144170
+"1036","Sierra County, New Mexico","Rio Arriba County, New Mexico",1,0,11988,40246
+"1037","Sierra County, New Mexico","Los Alamos County, New Mexico",1,0,11988,17950
+"1038","Sierra County, New Mexico","San Miguel County, New Mexico",1,0,11988,29393
+"1039","Sierra County, New Mexico","Mora County, New Mexico",1,0,11988,4881
+"1040","Sierra County, New Mexico","Socorro County, New Mexico",1,0,11988,17866
+"1041","Sierra County, New Mexico","Colfax County, New Mexico",1,0,11988,13750
+"1042","Sierra County, New Mexico","McKinley County, New Mexico",1,0,11988,71492
+"1043","Sierra County, New Mexico","Cibola County, New Mexico",1,0,11988,27213
+"1044","Sierra County, New Mexico","Apache County, Arizona",1,0,11988,71518
+"1045","Sierra County, New Mexico","Las Animas County, Colorado",1,0,11988,15507
+"1046","Sierra County, New Mexico","Taos County, New Mexico",1,0,11988,32937
+"1047","Sierra County, New Mexico","Catron County, New Mexico",1,0,11988,3725
+"1048","Sierra County, New Mexico","Guadalupe County, New Mexico",1,0,11988,4687
+"1049","Sierra County, New Mexico","San Juan County, New Mexico",1,0,11988,130044
+"1050","Sierra County, New Mexico","La Plata County, Colorado",1,0,11988,51334
+"1051","Sierra County, New Mexico","Otero County, New Mexico",1,0,11988,63797
+"1052","Sierra County, New Mexico","El Paso County, Texas",1,0,11988,800647
+"1054","Sierra County, New Mexico","Lincoln County, New Mexico",1,0,11988,20497
+"1055","Sierra County, New Mexico","Luna County, New Mexico",1,0,11988,25095
+"1056","Sierra County, New Mexico","Hidalgo County, New Mexico",1,0,11988,4894
+"1057","Sierra County, New Mexico","Greenlee County, Arizona",1,0,11988,8437
+"1058","Sierra County, New Mexico","Grant County, New Mexico",1,0,11988,29514
+"1059","Sierra County, New Mexico","Cochise County, Arizona",1,0,11988,131346
+"1060","Sierra County, New Mexico","Lubbock County, Texas",1,0,11988,278831
+"1061","Sierra County, New Mexico","Lea County, New Mexico",1,0,11988,64727
+"1062","Sierra County, New Mexico","Eddy County, New Mexico",1,0,11988,53829
+"1063","Sierra County, New Mexico","Chaves County, New Mexico",1,0,11988,65645
+"1064","Sierra County, New Mexico","Union County, New Mexico",1,0,11988,4549
+"1065","Sierra County, New Mexico","Dallam County, Texas",1,0,11988,6703
+"1066","Sierra County, New Mexico","Roosevelt County, New Mexico",1,0,11988,19846
+"1067","Sierra County, New Mexico","Curry County, New Mexico",1,0,11988,48376
+"1068","Sierra County, New Mexico","Parmer County, Texas",1,0,11988,10269
+"1069","Sierra County, New Mexico","Quay County, New Mexico",1,0,11988,9041
+"1070","Sierra County, New Mexico","Harding County, New Mexico",1,0,11988,695
+"1071","Sierra County, New Mexico","De Baca County, New Mexico",1,0,11988,2022
+"1072","Sierra County, New Mexico","Gaines County, Texas",1,0,11988,17526
+"1073","Sierra County, New Mexico","Los Angeles County, California",1,0,11988,9818605
+"1074","Sierra County, New Mexico","Montezuma County, Colorado",1,0,11988,25535
+"1075","Sierra County, New Mexico","Graham County, Arizona",1,0,11988,37220
+"1076","Sierra County, New Mexico","Harris County, Texas",1,0,11988,4092459
+"1077","Sierra County, New Mexico","Maricopa County, Arizona",1,0,11988,3817117
+"1078","Sierra County, New Mexico","Dallas County, Texas",1,0,11988,2368139
+"1079","Otero County, New Mexico","Yoakum County, Texas",1,0,63797,7879
+"1080","Otero County, New Mexico","Valencia County, New Mexico",1,0,63797,76569
+"1081","Otero County, New Mexico","Sandoval County, New Mexico",1,0,63797,131561
+"1083","Otero County, New Mexico","Torrance County, New Mexico",1,0,63797,16383
+"1084","Otero County, New Mexico","Santa Fe County, New Mexico",1,0,63797,144170
+"1085","Otero County, New Mexico","Rio Arriba County, New Mexico",1,0,63797,40246
+"1086","Otero County, New Mexico","Los Alamos County, New Mexico",1,0,63797,17950
+"1087","Otero County, New Mexico","San Miguel County, New Mexico",1,0,63797,29393
+"1088","Otero County, New Mexico","Mora County, New Mexico",1,0,63797,4881
+"1089","Otero County, New Mexico","Socorro County, New Mexico",1,0,63797,17866
+"1090","Otero County, New Mexico","Colfax County, New Mexico",1,0,63797,13750
+"1091","Otero County, New Mexico","McKinley County, New Mexico",1,0,63797,71492
+"1092","Otero County, New Mexico","Cibola County, New Mexico",1,0,63797,27213
+"1093","Otero County, New Mexico","Apache County, Arizona",1,0,63797,71518
+"1094","Otero County, New Mexico","Las Animas County, Colorado",1,0,63797,15507
+"1095","Otero County, New Mexico","Taos County, New Mexico",1,0,63797,32937
+"1096","Otero County, New Mexico","Catron County, New Mexico",1,0,63797,3725
+"1097","Otero County, New Mexico","Guadalupe County, New Mexico",1,0,63797,4687
+"1098","Otero County, New Mexico","San Juan County, New Mexico",1,0,63797,130044
+"1099","Otero County, New Mexico","La Plata County, Colorado",1,0,63797,51334
+"1100","Otero County, New Mexico","Sierra County, New Mexico",1,0,63797,11988
+"1104","Otero County, New Mexico","Luna County, New Mexico",1,0,63797,25095
+"1105","Otero County, New Mexico","Hidalgo County, New Mexico",1,0,63797,4894
+"1106","Otero County, New Mexico","Greenlee County, Arizona",1,0,63797,8437
+"1107","Otero County, New Mexico","Grant County, New Mexico",1,0,63797,29514
+"1108","Otero County, New Mexico","Cochise County, Arizona",1,0,63797,131346
+"1109","Otero County, New Mexico","Lubbock County, Texas",1,0,63797,278831
+"1110","Otero County, New Mexico","Lea County, New Mexico",1,0,63797,64727
+"1112","Otero County, New Mexico","Chaves County, New Mexico",1,0,63797,65645
+"1113","Otero County, New Mexico","Union County, New Mexico",1,0,63797,4549
+"1114","Otero County, New Mexico","Dallam County, Texas",1,0,63797,6703
+"1115","Otero County, New Mexico","Roosevelt County, New Mexico",1,0,63797,19846
+"1116","Otero County, New Mexico","Curry County, New Mexico",1,0,63797,48376
+"1117","Otero County, New Mexico","Parmer County, Texas",1,0,63797,10269
+"1118","Otero County, New Mexico","Quay County, New Mexico",1,0,63797,9041
+"1119","Otero County, New Mexico","Harding County, New Mexico",1,0,63797,695
+"1120","Otero County, New Mexico","De Baca County, New Mexico",1,0,63797,2022
+"1121","Otero County, New Mexico","Gaines County, Texas",1,0,63797,17526
+"1123","Otero County, New Mexico","Montezuma County, Colorado",1,0,63797,25535
+"1124","Otero County, New Mexico","Graham County, Arizona",1,0,63797,37220
+"1125","Otero County, New Mexico","Harris County, Texas",1,0,63797,4092459
+"1126","Otero County, New Mexico","Maricopa County, Arizona",1,0,63797,3817117
+"1127","Otero County, New Mexico","Dallas County, Texas",1,0,63797,2368139
+"1128","El Paso County, Texas","Yoakum County, Texas",1,0,800647,7879
+"1129","El Paso County, Texas","Valencia County, New Mexico",1,0,800647,76569
+"1130","El Paso County, Texas","Sandoval County, New Mexico",1,0,800647,131561
+"1131","El Paso County, Texas","Bernalillo County, New Mexico",1,0,800647,662564
+"1132","El Paso County, Texas","Torrance County, New Mexico",1,0,800647,16383
+"1133","El Paso County, Texas","Santa Fe County, New Mexico",1,0,800647,144170
+"1134","El Paso County, Texas","Rio Arriba County, New Mexico",1,0,800647,40246
+"1135","El Paso County, Texas","Los Alamos County, New Mexico",1,0,800647,17950
+"1136","El Paso County, Texas","San Miguel County, New Mexico",1,0,800647,29393
+"1137","El Paso County, Texas","Mora County, New Mexico",1,0,800647,4881
+"1138","El Paso County, Texas","Socorro County, New Mexico",1,0,800647,17866
+"1139","El Paso County, Texas","Colfax County, New Mexico",1,0,800647,13750
+"1140","El Paso County, Texas","McKinley County, New Mexico",1,0,800647,71492
+"1141","El Paso County, Texas","Cibola County, New Mexico",1,0,800647,27213
+"1142","El Paso County, Texas","Apache County, Arizona",1,0,800647,71518
+"1143","El Paso County, Texas","Las Animas County, Colorado",1,0,800647,15507
+"1144","El Paso County, Texas","Taos County, New Mexico",1,0,800647,32937
+"1145","El Paso County, Texas","Catron County, New Mexico",1,0,800647,3725
+"1146","El Paso County, Texas","Guadalupe County, New Mexico",1,0,800647,4687
+"1147","El Paso County, Texas","San Juan County, New Mexico",1,0,800647,130044
+"1148","El Paso County, Texas","La Plata County, Colorado",1,0,800647,51334
+"1149","El Paso County, Texas","Sierra County, New Mexico",1,0,800647,11988
+"1150","El Paso County, Texas","Otero County, New Mexico",1,0,800647,63797
+"1151","El Paso County, Texas","Dona Ana County, New Mexico",1,0,800647,209233
+"1152","El Paso County, Texas","Lincoln County, New Mexico",1,0,800647,20497
+"1153","El Paso County, Texas","Luna County, New Mexico",1,0,800647,25095
+"1154","El Paso County, Texas","Hidalgo County, New Mexico",1,0,800647,4894
+"1155","El Paso County, Texas","Greenlee County, Arizona",1,0,800647,8437
+"1156","El Paso County, Texas","Grant County, New Mexico",1,0,800647,29514
+"1157","El Paso County, Texas","Cochise County, Arizona",1,0,800647,131346
+"1158","El Paso County, Texas","Lubbock County, Texas",1,0,800647,278831
+"1159","El Paso County, Texas","Lea County, New Mexico",1,0,800647,64727
+"1160","El Paso County, Texas","Eddy County, New Mexico",1,0,800647,53829
+"1161","El Paso County, Texas","Chaves County, New Mexico",1,0,800647,65645
+"1162","El Paso County, Texas","Union County, New Mexico",1,0,800647,4549
+"1163","El Paso County, Texas","Dallam County, Texas",1,0,800647,6703
+"1164","El Paso County, Texas","Roosevelt County, New Mexico",1,0,800647,19846
+"1165","El Paso County, Texas","Curry County, New Mexico",1,0,800647,48376
+"1166","El Paso County, Texas","Parmer County, Texas",1,0,800647,10269
+"1167","El Paso County, Texas","Quay County, New Mexico",1,0,800647,9041
+"1168","El Paso County, Texas","Harding County, New Mexico",1,0,800647,695
+"1169","El Paso County, Texas","De Baca County, New Mexico",1,0,800647,2022
+"1170","El Paso County, Texas","Gaines County, Texas",1,0,800647,17526
+"1171","El Paso County, Texas","Los Angeles County, California",1,0,800647,9818605
+"1172","El Paso County, Texas","Montezuma County, Colorado",1,0,800647,25535
+"1173","El Paso County, Texas","Graham County, Arizona",1,0,800647,37220
+"1174","El Paso County, Texas","Harris County, Texas",1,0,800647,4092459
+"1175","El Paso County, Texas","Maricopa County, Arizona",1,0,800647,3817117
+"1176","El Paso County, Texas","Dallas County, Texas",1,0,800647,2368139
+"1177","Dona Ana County, New Mexico","Yoakum County, Texas",1,0,209233,7879
+"1178","Dona Ana County, New Mexico","Valencia County, New Mexico",1,0,209233,76569
+"1179","Dona Ana County, New Mexico","Sandoval County, New Mexico",1,0,209233,131561
+"1181","Dona Ana County, New Mexico","Torrance County, New Mexico",1,0,209233,16383
+"1183","Dona Ana County, New Mexico","Rio Arriba County, New Mexico",1,0,209233,40246
+"1184","Dona Ana County, New Mexico","Los Alamos County, New Mexico",1,0,209233,17950
+"1185","Dona Ana County, New Mexico","San Miguel County, New Mexico",1,0,209233,29393
+"1186","Dona Ana County, New Mexico","Mora County, New Mexico",1,0,209233,4881
+"1187","Dona Ana County, New Mexico","Socorro County, New Mexico",1,0,209233,17866
+"1188","Dona Ana County, New Mexico","Colfax County, New Mexico",1,0,209233,13750
+"1189","Dona Ana County, New Mexico","McKinley County, New Mexico",1,0,209233,71492
+"1190","Dona Ana County, New Mexico","Cibola County, New Mexico",1,0,209233,27213
+"1191","Dona Ana County, New Mexico","Apache County, Arizona",1,0,209233,71518
+"1192","Dona Ana County, New Mexico","Las Animas County, Colorado",1,0,209233,15507
+"1193","Dona Ana County, New Mexico","Taos County, New Mexico",1,0,209233,32937
+"1194","Dona Ana County, New Mexico","Catron County, New Mexico",1,0,209233,3725
+"1195","Dona Ana County, New Mexico","Guadalupe County, New Mexico",1,0,209233,4687
+"1196","Dona Ana County, New Mexico","San Juan County, New Mexico",1,0,209233,130044
+"1197","Dona Ana County, New Mexico","La Plata County, Colorado",1,0,209233,51334
+"1201","Dona Ana County, New Mexico","Lincoln County, New Mexico",1,0,209233,20497
+"1203","Dona Ana County, New Mexico","Hidalgo County, New Mexico",1,0,209233,4894
+"1204","Dona Ana County, New Mexico","Greenlee County, Arizona",1,0,209233,8437
+"1206","Dona Ana County, New Mexico","Cochise County, Arizona",1,0,209233,131346
+"1207","Dona Ana County, New Mexico","Lubbock County, Texas",1,0,209233,278831
+"1208","Dona Ana County, New Mexico","Lea County, New Mexico",1,0,209233,64727
+"1210","Dona Ana County, New Mexico","Chaves County, New Mexico",1,0,209233,65645
+"1211","Dona Ana County, New Mexico","Union County, New Mexico",1,0,209233,4549
+"1212","Dona Ana County, New Mexico","Dallam County, Texas",1,0,209233,6703
+"1213","Dona Ana County, New Mexico","Roosevelt County, New Mexico",1,0,209233,19846
+"1214","Dona Ana County, New Mexico","Curry County, New Mexico",1,0,209233,48376
+"1215","Dona Ana County, New Mexico","Parmer County, Texas",1,0,209233,10269
+"1216","Dona Ana County, New Mexico","Quay County, New Mexico",1,0,209233,9041
+"1217","Dona Ana County, New Mexico","Harding County, New Mexico",1,0,209233,695
+"1218","Dona Ana County, New Mexico","De Baca County, New Mexico",1,0,209233,2022
+"1219","Dona Ana County, New Mexico","Gaines County, Texas",1,0,209233,17526
+"1220","Dona Ana County, New Mexico","Los Angeles County, California",1,0,209233,9818605
+"1221","Dona Ana County, New Mexico","Montezuma County, Colorado",1,0,209233,25535
+"1222","Dona Ana County, New Mexico","Graham County, Arizona",1,0,209233,37220
+"1223","Dona Ana County, New Mexico","Harris County, Texas",1,0,209233,4092459
+"1224","Dona Ana County, New Mexico","Maricopa County, Arizona",1,0,209233,3817117
+"1226","Lincoln County, New Mexico","Yoakum County, Texas",1,0,20497,7879
+"1227","Lincoln County, New Mexico","Valencia County, New Mexico",1,0,20497,76569
+"1228","Lincoln County, New Mexico","Sandoval County, New Mexico",1,0,20497,131561
+"1229","Lincoln County, New Mexico","Bernalillo County, New Mexico",1,0,20497,662564
+"1230","Lincoln County, New Mexico","Torrance County, New Mexico",1,0,20497,16383
+"1231","Lincoln County, New Mexico","Santa Fe County, New Mexico",1,0,20497,144170
+"1232","Lincoln County, New Mexico","Rio Arriba County, New Mexico",1,0,20497,40246
+"1233","Lincoln County, New Mexico","Los Alamos County, New Mexico",1,0,20497,17950
+"1234","Lincoln County, New Mexico","San Miguel County, New Mexico",1,0,20497,29393
+"1235","Lincoln County, New Mexico","Mora County, New Mexico",1,0,20497,4881
+"1236","Lincoln County, New Mexico","Socorro County, New Mexico",1,0,20497,17866
+"1237","Lincoln County, New Mexico","Colfax County, New Mexico",1,0,20497,13750
+"1238","Lincoln County, New Mexico","McKinley County, New Mexico",1,0,20497,71492
+"1239","Lincoln County, New Mexico","Cibola County, New Mexico",1,0,20497,27213
+"1240","Lincoln County, New Mexico","Apache County, Arizona",1,0,20497,71518
+"1241","Lincoln County, New Mexico","Las Animas County, Colorado",1,0,20497,15507
+"1242","Lincoln County, New Mexico","Taos County, New Mexico",1,0,20497,32937
+"1243","Lincoln County, New Mexico","Catron County, New Mexico",1,0,20497,3725
+"1244","Lincoln County, New Mexico","Guadalupe County, New Mexico",1,0,20497,4687
+"1245","Lincoln County, New Mexico","San Juan County, New Mexico",1,0,20497,130044
+"1246","Lincoln County, New Mexico","La Plata County, Colorado",1,0,20497,51334
+"1247","Lincoln County, New Mexico","Sierra County, New Mexico",1,0,20497,11988
+"1249","Lincoln County, New Mexico","El Paso County, Texas",1,0,20497,800647
+"1250","Lincoln County, New Mexico","Dona Ana County, New Mexico",1,0,20497,209233
+"1251","Lincoln County, New Mexico","Luna County, New Mexico",1,0,20497,25095
+"1252","Lincoln County, New Mexico","Hidalgo County, New Mexico",1,0,20497,4894
+"1253","Lincoln County, New Mexico","Greenlee County, Arizona",1,0,20497,8437
+"1254","Lincoln County, New Mexico","Grant County, New Mexico",1,0,20497,29514
+"1255","Lincoln County, New Mexico","Cochise County, Arizona",1,0,20497,131346
+"1257","Lincoln County, New Mexico","Lea County, New Mexico",1,0,20497,64727
+"1258","Lincoln County, New Mexico","Eddy County, New Mexico",1,0,20497,53829
+"1260","Lincoln County, New Mexico","Union County, New Mexico",1,0,20497,4549
+"1261","Lincoln County, New Mexico","Dallam County, Texas",1,0,20497,6703
+"1262","Lincoln County, New Mexico","Roosevelt County, New Mexico",1,0,20497,19846
+"1263","Lincoln County, New Mexico","Curry County, New Mexico",1,0,20497,48376
+"1264","Lincoln County, New Mexico","Parmer County, Texas",1,0,20497,10269
+"1265","Lincoln County, New Mexico","Quay County, New Mexico",1,0,20497,9041
+"1266","Lincoln County, New Mexico","Harding County, New Mexico",1,0,20497,695
+"1267","Lincoln County, New Mexico","De Baca County, New Mexico",1,0,20497,2022
+"1268","Lincoln County, New Mexico","Gaines County, Texas",1,0,20497,17526
+"1269","Lincoln County, New Mexico","Los Angeles County, California",1,0,20497,9818605
+"1270","Lincoln County, New Mexico","Montezuma County, Colorado",1,0,20497,25535
+"1271","Lincoln County, New Mexico","Graham County, Arizona",1,0,20497,37220
+"1272","Lincoln County, New Mexico","Harris County, Texas",1,0,20497,4092459
+"1273","Lincoln County, New Mexico","Maricopa County, Arizona",1,0,20497,3817117
+"1274","Lincoln County, New Mexico","Dallas County, Texas",1,0,20497,2368139
+"1275","Luna County, New Mexico","Yoakum County, Texas",1,0,25095,7879
+"1276","Luna County, New Mexico","Valencia County, New Mexico",1,0,25095,76569
+"1277","Luna County, New Mexico","Sandoval County, New Mexico",1,0,25095,131561
+"1278","Luna County, New Mexico","Bernalillo County, New Mexico",1,0,25095,662564
+"1279","Luna County, New Mexico","Torrance County, New Mexico",1,0,25095,16383
+"1280","Luna County, New Mexico","Santa Fe County, New Mexico",1,0,25095,144170
+"1281","Luna County, New Mexico","Rio Arriba County, New Mexico",1,0,25095,40246
+"1282","Luna County, New Mexico","Los Alamos County, New Mexico",1,0,25095,17950
+"1283","Luna County, New Mexico","San Miguel County, New Mexico",1,0,25095,29393
+"1284","Luna County, New Mexico","Mora County, New Mexico",1,0,25095,4881
+"1285","Luna County, New Mexico","Socorro County, New Mexico",1,0,25095,17866
+"1286","Luna County, New Mexico","Colfax County, New Mexico",1,0,25095,13750
+"1287","Luna County, New Mexico","McKinley County, New Mexico",1,0,25095,71492
+"1288","Luna County, New Mexico","Cibola County, New Mexico",1,0,25095,27213
+"1289","Luna County, New Mexico","Apache County, Arizona",1,0,25095,71518
+"1290","Luna County, New Mexico","Las Animas County, Colorado",1,0,25095,15507
+"1291","Luna County, New Mexico","Taos County, New Mexico",1,0,25095,32937
+"1292","Luna County, New Mexico","Catron County, New Mexico",1,0,25095,3725
+"1293","Luna County, New Mexico","Guadalupe County, New Mexico",1,0,25095,4687
+"1294","Luna County, New Mexico","San Juan County, New Mexico",1,0,25095,130044
+"1295","Luna County, New Mexico","La Plata County, Colorado",1,0,25095,51334
+"1296","Luna County, New Mexico","Sierra County, New Mexico",1,0,25095,11988
+"1297","Luna County, New Mexico","Otero County, New Mexico",1,0,25095,63797
+"1300","Luna County, New Mexico","Lincoln County, New Mexico",1,0,25095,20497
+"1302","Luna County, New Mexico","Greenlee County, Arizona",1,0,25095,8437
+"1304","Luna County, New Mexico","Cochise County, Arizona",1,0,25095,131346
+"1305","Luna County, New Mexico","Lubbock County, Texas",1,0,25095,278831
+"1306","Luna County, New Mexico","Lea County, New Mexico",1,0,25095,64727
+"1307","Luna County, New Mexico","Eddy County, New Mexico",1,0,25095,53829
+"1308","Luna County, New Mexico","Chaves County, New Mexico",1,0,25095,65645
+"1309","Luna County, New Mexico","Union County, New Mexico",1,0,25095,4549
+"1310","Luna County, New Mexico","Dallam County, Texas",1,0,25095,6703
+"1311","Luna County, New Mexico","Roosevelt County, New Mexico",1,0,25095,19846
+"1312","Luna County, New Mexico","Curry County, New Mexico",1,0,25095,48376
+"1313","Luna County, New Mexico","Parmer County, Texas",1,0,25095,10269
+"1314","Luna County, New Mexico","Quay County, New Mexico",1,0,25095,9041
+"1315","Luna County, New Mexico","Harding County, New Mexico",1,0,25095,695
+"1316","Luna County, New Mexico","De Baca County, New Mexico",1,0,25095,2022
+"1317","Luna County, New Mexico","Gaines County, Texas",1,0,25095,17526
+"1318","Luna County, New Mexico","Los Angeles County, California",1,0,25095,9818605
+"1319","Luna County, New Mexico","Montezuma County, Colorado",1,0,25095,25535
+"1321","Luna County, New Mexico","Harris County, Texas",1,0,25095,4092459
+"1322","Luna County, New Mexico","Maricopa County, Arizona",1,0,25095,3817117
+"1323","Luna County, New Mexico","Dallas County, Texas",1,0,25095,2368139
+"1324","Hidalgo County, New Mexico","Yoakum County, Texas",1,0,4894,7879
+"1325","Hidalgo County, New Mexico","Valencia County, New Mexico",1,0,4894,76569
+"1326","Hidalgo County, New Mexico","Sandoval County, New Mexico",1,0,4894,131561
+"1327","Hidalgo County, New Mexico","Bernalillo County, New Mexico",1,0,4894,662564
+"1328","Hidalgo County, New Mexico","Torrance County, New Mexico",1,0,4894,16383
+"1329","Hidalgo County, New Mexico","Santa Fe County, New Mexico",1,0,4894,144170
+"1330","Hidalgo County, New Mexico","Rio Arriba County, New Mexico",1,0,4894,40246
+"1331","Hidalgo County, New Mexico","Los Alamos County, New Mexico",1,0,4894,17950
+"1332","Hidalgo County, New Mexico","San Miguel County, New Mexico",1,0,4894,29393
+"1333","Hidalgo County, New Mexico","Mora County, New Mexico",1,0,4894,4881
+"1334","Hidalgo County, New Mexico","Socorro County, New Mexico",1,0,4894,17866
+"1335","Hidalgo County, New Mexico","Colfax County, New Mexico",1,0,4894,13750
+"1336","Hidalgo County, New Mexico","McKinley County, New Mexico",1,0,4894,71492
+"1337","Hidalgo County, New Mexico","Cibola County, New Mexico",1,0,4894,27213
+"1338","Hidalgo County, New Mexico","Apache County, Arizona",1,0,4894,71518
+"1339","Hidalgo County, New Mexico","Las Animas County, Colorado",1,0,4894,15507
+"1340","Hidalgo County, New Mexico","Taos County, New Mexico",1,0,4894,32937
+"1341","Hidalgo County, New Mexico","Catron County, New Mexico",1,0,4894,3725
+"1342","Hidalgo County, New Mexico","Guadalupe County, New Mexico",1,0,4894,4687
+"1343","Hidalgo County, New Mexico","San Juan County, New Mexico",1,0,4894,130044
+"1344","Hidalgo County, New Mexico","La Plata County, Colorado",1,0,4894,51334
+"1345","Hidalgo County, New Mexico","Sierra County, New Mexico",1,0,4894,11988
+"1346","Hidalgo County, New Mexico","Otero County, New Mexico",1,0,4894,63797
+"1347","Hidalgo County, New Mexico","El Paso County, Texas",1,0,4894,800647
+"1348","Hidalgo County, New Mexico","Dona Ana County, New Mexico",1,0,4894,209233
+"1349","Hidalgo County, New Mexico","Lincoln County, New Mexico",1,0,4894,20497
+"1350","Hidalgo County, New Mexico","Luna County, New Mexico",1,0,4894,25095
+"1354","Hidalgo County, New Mexico","Lubbock County, Texas",1,0,4894,278831
+"1355","Hidalgo County, New Mexico","Lea County, New Mexico",1,0,4894,64727
+"1356","Hidalgo County, New Mexico","Eddy County, New Mexico",1,0,4894,53829
+"1357","Hidalgo County, New Mexico","Chaves County, New Mexico",1,0,4894,65645
+"1358","Hidalgo County, New Mexico","Union County, New Mexico",1,0,4894,4549
+"1359","Hidalgo County, New Mexico","Dallam County, Texas",1,0,4894,6703
+"1360","Hidalgo County, New Mexico","Roosevelt County, New Mexico",1,0,4894,19846
+"1361","Hidalgo County, New Mexico","Curry County, New Mexico",1,0,4894,48376
+"1362","Hidalgo County, New Mexico","Parmer County, Texas",1,0,4894,10269
+"1363","Hidalgo County, New Mexico","Quay County, New Mexico",1,0,4894,9041
+"1364","Hidalgo County, New Mexico","Harding County, New Mexico",1,0,4894,695
+"1365","Hidalgo County, New Mexico","De Baca County, New Mexico",1,0,4894,2022
+"1366","Hidalgo County, New Mexico","Gaines County, Texas",1,0,4894,17526
+"1367","Hidalgo County, New Mexico","Los Angeles County, California",1,0,4894,9818605
+"1368","Hidalgo County, New Mexico","Montezuma County, Colorado",1,0,4894,25535
+"1369","Hidalgo County, New Mexico","Graham County, Arizona",1,0,4894,37220
+"1370","Hidalgo County, New Mexico","Harris County, Texas",1,0,4894,4092459
+"1371","Hidalgo County, New Mexico","Maricopa County, Arizona",1,0,4894,3817117
+"1372","Hidalgo County, New Mexico","Dallas County, Texas",1,0,4894,2368139
+"1373","Greenlee County, Arizona","Yoakum County, Texas",1,0,8437,7879
+"1374","Greenlee County, Arizona","Valencia County, New Mexico",1,0,8437,76569
+"1375","Greenlee County, Arizona","Sandoval County, New Mexico",1,0,8437,131561
+"1376","Greenlee County, Arizona","Bernalillo County, New Mexico",1,0,8437,662564
+"1377","Greenlee County, Arizona","Torrance County, New Mexico",1,0,8437,16383
+"1378","Greenlee County, Arizona","Santa Fe County, New Mexico",1,0,8437,144170
+"1379","Greenlee County, Arizona","Rio Arriba County, New Mexico",1,0,8437,40246
+"1380","Greenlee County, Arizona","Los Alamos County, New Mexico",1,0,8437,17950
+"1381","Greenlee County, Arizona","San Miguel County, New Mexico",1,0,8437,29393
+"1382","Greenlee County, Arizona","Mora County, New Mexico",1,0,8437,4881
+"1383","Greenlee County, Arizona","Socorro County, New Mexico",1,0,8437,17866
+"1384","Greenlee County, Arizona","Colfax County, New Mexico",1,0,8437,13750
+"1385","Greenlee County, Arizona","McKinley County, New Mexico",1,0,8437,71492
+"1386","Greenlee County, Arizona","Cibola County, New Mexico",1,0,8437,27213
+"1387","Greenlee County, Arizona","Apache County, Arizona",1,0,8437,71518
+"1388","Greenlee County, Arizona","Las Animas County, Colorado",1,0,8437,15507
+"1389","Greenlee County, Arizona","Taos County, New Mexico",1,0,8437,32937
+"1390","Greenlee County, Arizona","Catron County, New Mexico",1,0,8437,3725
+"1391","Greenlee County, Arizona","Guadalupe County, New Mexico",1,0,8437,4687
+"1392","Greenlee County, Arizona","San Juan County, New Mexico",1,0,8437,130044
+"1393","Greenlee County, Arizona","La Plata County, Colorado",1,0,8437,51334
+"1394","Greenlee County, Arizona","Sierra County, New Mexico",1,0,8437,11988
+"1395","Greenlee County, Arizona","Otero County, New Mexico",1,0,8437,63797
+"1396","Greenlee County, Arizona","El Paso County, Texas",1,0,8437,800647
+"1397","Greenlee County, Arizona","Dona Ana County, New Mexico",1,0,8437,209233
+"1398","Greenlee County, Arizona","Lincoln County, New Mexico",1,0,8437,20497
+"1399","Greenlee County, Arizona","Luna County, New Mexico",1,0,8437,25095
+"1400","Greenlee County, Arizona","Hidalgo County, New Mexico",1,0,8437,4894
+"1401","Greenlee County, Arizona","Grant County, New Mexico",1,0,8437,29514
+"1402","Greenlee County, Arizona","Cochise County, Arizona",1,0,8437,131346
+"1403","Greenlee County, Arizona","Lubbock County, Texas",1,0,8437,278831
+"1404","Greenlee County, Arizona","Lea County, New Mexico",1,0,8437,64727
+"1405","Greenlee County, Arizona","Eddy County, New Mexico",1,0,8437,53829
+"1406","Greenlee County, Arizona","Chaves County, New Mexico",1,0,8437,65645
+"1407","Greenlee County, Arizona","Union County, New Mexico",1,0,8437,4549
+"1408","Greenlee County, Arizona","Dallam County, Texas",1,0,8437,6703
+"1409","Greenlee County, Arizona","Roosevelt County, New Mexico",1,0,8437,19846
+"1410","Greenlee County, Arizona","Curry County, New Mexico",1,0,8437,48376
+"1411","Greenlee County, Arizona","Parmer County, Texas",1,0,8437,10269
+"1412","Greenlee County, Arizona","Quay County, New Mexico",1,0,8437,9041
+"1413","Greenlee County, Arizona","Harding County, New Mexico",1,0,8437,695
+"1414","Greenlee County, Arizona","De Baca County, New Mexico",1,0,8437,2022
+"1415","Greenlee County, Arizona","Gaines County, Texas",1,0,8437,17526
+"1416","Greenlee County, Arizona","Los Angeles County, California",1,0,8437,9818605
+"1417","Greenlee County, Arizona","Montezuma County, Colorado",1,0,8437,25535
+"1418","Greenlee County, Arizona","Graham County, Arizona",1,0,8437,37220
+"1419","Greenlee County, Arizona","Harris County, Texas",1,0,8437,4092459
+"1420","Greenlee County, Arizona","Maricopa County, Arizona",1,0,8437,3817117
+"1421","Greenlee County, Arizona","Dallas County, Texas",1,0,8437,2368139
+"1422","Grant County, New Mexico","Yoakum County, Texas",1,0,29514,7879
+"1423","Grant County, New Mexico","Valencia County, New Mexico",1,0,29514,76569
+"1424","Grant County, New Mexico","Sandoval County, New Mexico",1,0,29514,131561
+"1425","Grant County, New Mexico","Bernalillo County, New Mexico",1,0,29514,662564
+"1426","Grant County, New Mexico","Torrance County, New Mexico",1,0,29514,16383
+"1427","Grant County, New Mexico","Santa Fe County, New Mexico",1,0,29514,144170
+"1428","Grant County, New Mexico","Rio Arriba County, New Mexico",1,0,29514,40246
+"1429","Grant County, New Mexico","Los Alamos County, New Mexico",1,0,29514,17950
+"1430","Grant County, New Mexico","San Miguel County, New Mexico",1,0,29514,29393
+"1431","Grant County, New Mexico","Mora County, New Mexico",1,0,29514,4881
+"1432","Grant County, New Mexico","Socorro County, New Mexico",1,0,29514,17866
+"1433","Grant County, New Mexico","Colfax County, New Mexico",1,0,29514,13750
+"1434","Grant County, New Mexico","McKinley County, New Mexico",1,0,29514,71492
+"1435","Grant County, New Mexico","Cibola County, New Mexico",1,0,29514,27213
+"1436","Grant County, New Mexico","Apache County, Arizona",1,0,29514,71518
+"1437","Grant County, New Mexico","Las Animas County, Colorado",1,0,29514,15507
+"1438","Grant County, New Mexico","Taos County, New Mexico",1,0,29514,32937
+"1439","Grant County, New Mexico","Catron County, New Mexico",1,0,29514,3725
+"1440","Grant County, New Mexico","Guadalupe County, New Mexico",1,0,29514,4687
+"1441","Grant County, New Mexico","San Juan County, New Mexico",1,0,29514,130044
+"1442","Grant County, New Mexico","La Plata County, Colorado",1,0,29514,51334
+"1443","Grant County, New Mexico","Sierra County, New Mexico",1,0,29514,11988
+"1444","Grant County, New Mexico","Otero County, New Mexico",1,0,29514,63797
+"1445","Grant County, New Mexico","El Paso County, Texas",1,0,29514,800647
+"1446","Grant County, New Mexico","Dona Ana County, New Mexico",1,0,29514,209233
+"1447","Grant County, New Mexico","Lincoln County, New Mexico",1,0,29514,20497
+"1451","Grant County, New Mexico","Cochise County, Arizona",1,0,29514,131346
+"1452","Grant County, New Mexico","Lubbock County, Texas",1,0,29514,278831
+"1453","Grant County, New Mexico","Lea County, New Mexico",1,0,29514,64727
+"1454","Grant County, New Mexico","Eddy County, New Mexico",1,0,29514,53829
+"1455","Grant County, New Mexico","Chaves County, New Mexico",1,0,29514,65645
+"1456","Grant County, New Mexico","Union County, New Mexico",1,0,29514,4549
+"1457","Grant County, New Mexico","Dallam County, Texas",1,0,29514,6703
+"1458","Grant County, New Mexico","Roosevelt County, New Mexico",1,0,29514,19846
+"1459","Grant County, New Mexico","Curry County, New Mexico",1,0,29514,48376
+"1460","Grant County, New Mexico","Parmer County, Texas",1,0,29514,10269
+"1461","Grant County, New Mexico","Quay County, New Mexico",1,0,29514,9041
+"1462","Grant County, New Mexico","Harding County, New Mexico",1,0,29514,695
+"1463","Grant County, New Mexico","De Baca County, New Mexico",1,0,29514,2022
+"1464","Grant County, New Mexico","Gaines County, Texas",1,0,29514,17526
+"1465","Grant County, New Mexico","Los Angeles County, California",1,0,29514,9818605
+"1466","Grant County, New Mexico","Montezuma County, Colorado",1,0,29514,25535
+"1467","Grant County, New Mexico","Graham County, Arizona",1,0,29514,37220
+"1468","Grant County, New Mexico","Harris County, Texas",1,0,29514,4092459
+"1469","Grant County, New Mexico","Maricopa County, Arizona",1,0,29514,3817117
+"1470","Grant County, New Mexico","Dallas County, Texas",1,0,29514,2368139
+"1471","Cochise County, Arizona","Yoakum County, Texas",1,0,131346,7879
+"1472","Cochise County, Arizona","Valencia County, New Mexico",1,0,131346,76569
+"1473","Cochise County, Arizona","Sandoval County, New Mexico",1,0,131346,131561
+"1474","Cochise County, Arizona","Bernalillo County, New Mexico",1,0,131346,662564
+"1475","Cochise County, Arizona","Torrance County, New Mexico",1,0,131346,16383
+"1476","Cochise County, Arizona","Santa Fe County, New Mexico",1,0,131346,144170
+"1477","Cochise County, Arizona","Rio Arriba County, New Mexico",1,0,131346,40246
+"1478","Cochise County, Arizona","Los Alamos County, New Mexico",1,0,131346,17950
+"1479","Cochise County, Arizona","San Miguel County, New Mexico",1,0,131346,29393
+"1480","Cochise County, Arizona","Mora County, New Mexico",1,0,131346,4881
+"1481","Cochise County, Arizona","Socorro County, New Mexico",1,0,131346,17866
+"1482","Cochise County, Arizona","Colfax County, New Mexico",1,0,131346,13750
+"1483","Cochise County, Arizona","McKinley County, New Mexico",1,0,131346,71492
+"1484","Cochise County, Arizona","Cibola County, New Mexico",1,0,131346,27213
+"1485","Cochise County, Arizona","Apache County, Arizona",1,0,131346,71518
+"1486","Cochise County, Arizona","Las Animas County, Colorado",1,0,131346,15507
+"1487","Cochise County, Arizona","Taos County, New Mexico",1,0,131346,32937
+"1488","Cochise County, Arizona","Catron County, New Mexico",1,0,131346,3725
+"1489","Cochise County, Arizona","Guadalupe County, New Mexico",1,0,131346,4687
+"1490","Cochise County, Arizona","San Juan County, New Mexico",1,0,131346,130044
+"1491","Cochise County, Arizona","La Plata County, Colorado",1,0,131346,51334
+"1492","Cochise County, Arizona","Sierra County, New Mexico",1,0,131346,11988
+"1493","Cochise County, Arizona","Otero County, New Mexico",1,0,131346,63797
+"1494","Cochise County, Arizona","El Paso County, Texas",1,0,131346,800647
+"1495","Cochise County, Arizona","Dona Ana County, New Mexico",1,0,131346,209233
+"1496","Cochise County, Arizona","Lincoln County, New Mexico",1,0,131346,20497
+"1497","Cochise County, Arizona","Luna County, New Mexico",1,0,131346,25095
+"1498","Cochise County, Arizona","Hidalgo County, New Mexico",1,0,131346,4894
+"1499","Cochise County, Arizona","Greenlee County, Arizona",1,0,131346,8437
+"1500","Cochise County, Arizona","Grant County, New Mexico",1,0,131346,29514
+"1501","Cochise County, Arizona","Lubbock County, Texas",1,0,131346,278831
+"1502","Cochise County, Arizona","Lea County, New Mexico",1,0,131346,64727
+"1503","Cochise County, Arizona","Eddy County, New Mexico",1,0,131346,53829
+"1504","Cochise County, Arizona","Chaves County, New Mexico",1,0,131346,65645
+"1505","Cochise County, Arizona","Union County, New Mexico",1,0,131346,4549
+"1506","Cochise County, Arizona","Dallam County, Texas",1,0,131346,6703
+"1507","Cochise County, Arizona","Roosevelt County, New Mexico",1,0,131346,19846
+"1508","Cochise County, Arizona","Curry County, New Mexico",1,0,131346,48376
+"1509","Cochise County, Arizona","Parmer County, Texas",1,0,131346,10269
+"1510","Cochise County, Arizona","Quay County, New Mexico",1,0,131346,9041
+"1511","Cochise County, Arizona","Harding County, New Mexico",1,0,131346,695
+"1512","Cochise County, Arizona","De Baca County, New Mexico",1,0,131346,2022
+"1513","Cochise County, Arizona","Gaines County, Texas",1,0,131346,17526
+"1514","Cochise County, Arizona","Los Angeles County, California",1,0,131346,9818605
+"1515","Cochise County, Arizona","Montezuma County, Colorado",1,0,131346,25535
+"1516","Cochise County, Arizona","Graham County, Arizona",1,0,131346,37220
+"1517","Cochise County, Arizona","Harris County, Texas",1,0,131346,4092459
+"1518","Cochise County, Arizona","Maricopa County, Arizona",1,0,131346,3817117
+"1519","Cochise County, Arizona","Dallas County, Texas",1,0,131346,2368139
+"1520","Lubbock County, Texas","Yoakum County, Texas",1,0,278831,7879
+"1521","Lubbock County, Texas","Valencia County, New Mexico",1,0,278831,76569
+"1522","Lubbock County, Texas","Sandoval County, New Mexico",1,0,278831,131561
+"1523","Lubbock County, Texas","Bernalillo County, New Mexico",1,0,278831,662564
+"1524","Lubbock County, Texas","Torrance County, New Mexico",1,0,278831,16383
+"1525","Lubbock County, Texas","Santa Fe County, New Mexico",1,0,278831,144170
+"1526","Lubbock County, Texas","Rio Arriba County, New Mexico",1,0,278831,40246
+"1527","Lubbock County, Texas","Los Alamos County, New Mexico",1,0,278831,17950
+"1528","Lubbock County, Texas","San Miguel County, New Mexico",1,0,278831,29393
+"1529","Lubbock County, Texas","Mora County, New Mexico",1,0,278831,4881
+"1530","Lubbock County, Texas","Socorro County, New Mexico",1,0,278831,17866
+"1531","Lubbock County, Texas","Colfax County, New Mexico",1,0,278831,13750
+"1532","Lubbock County, Texas","McKinley County, New Mexico",1,0,278831,71492
+"1533","Lubbock County, Texas","Cibola County, New Mexico",1,0,278831,27213
+"1534","Lubbock County, Texas","Apache County, Arizona",1,0,278831,71518
+"1535","Lubbock County, Texas","Las Animas County, Colorado",1,0,278831,15507
+"1536","Lubbock County, Texas","Taos County, New Mexico",1,0,278831,32937
+"1537","Lubbock County, Texas","Catron County, New Mexico",1,0,278831,3725
+"1538","Lubbock County, Texas","Guadalupe County, New Mexico",1,0,278831,4687
+"1539","Lubbock County, Texas","San Juan County, New Mexico",1,0,278831,130044
+"1540","Lubbock County, Texas","La Plata County, Colorado",1,0,278831,51334
+"1541","Lubbock County, Texas","Sierra County, New Mexico",1,0,278831,11988
+"1542","Lubbock County, Texas","Otero County, New Mexico",1,0,278831,63797
+"1543","Lubbock County, Texas","El Paso County, Texas",1,0,278831,800647
+"1544","Lubbock County, Texas","Dona Ana County, New Mexico",1,0,278831,209233
+"1545","Lubbock County, Texas","Lincoln County, New Mexico",1,0,278831,20497
+"1546","Lubbock County, Texas","Luna County, New Mexico",1,0,278831,25095
+"1547","Lubbock County, Texas","Hidalgo County, New Mexico",1,0,278831,4894
+"1548","Lubbock County, Texas","Greenlee County, Arizona",1,0,278831,8437
+"1549","Lubbock County, Texas","Grant County, New Mexico",1,0,278831,29514
+"1550","Lubbock County, Texas","Cochise County, Arizona",1,0,278831,131346
+"1551","Lubbock County, Texas","Lea County, New Mexico",1,0,278831,64727
+"1552","Lubbock County, Texas","Eddy County, New Mexico",1,0,278831,53829
+"1553","Lubbock County, Texas","Chaves County, New Mexico",1,0,278831,65645
+"1554","Lubbock County, Texas","Union County, New Mexico",1,0,278831,4549
+"1555","Lubbock County, Texas","Dallam County, Texas",1,0,278831,6703
+"1556","Lubbock County, Texas","Roosevelt County, New Mexico",1,0,278831,19846
+"1557","Lubbock County, Texas","Curry County, New Mexico",1,0,278831,48376
+"1558","Lubbock County, Texas","Parmer County, Texas",1,0,278831,10269
+"1559","Lubbock County, Texas","Quay County, New Mexico",1,0,278831,9041
+"1560","Lubbock County, Texas","Harding County, New Mexico",1,0,278831,695
+"1561","Lubbock County, Texas","De Baca County, New Mexico",1,0,278831,2022
+"1562","Lubbock County, Texas","Gaines County, Texas",1,0,278831,17526
+"1563","Lubbock County, Texas","Los Angeles County, California",1,0,278831,9818605
+"1564","Lubbock County, Texas","Montezuma County, Colorado",1,0,278831,25535
+"1565","Lubbock County, Texas","Graham County, Arizona",1,0,278831,37220
+"1566","Lubbock County, Texas","Harris County, Texas",1,0,278831,4092459
+"1567","Lubbock County, Texas","Maricopa County, Arizona",1,0,278831,3817117
+"1568","Lubbock County, Texas","Dallas County, Texas",1,0,278831,2368139
+"1570","Lea County, New Mexico","Valencia County, New Mexico",1,0,64727,76569
+"1571","Lea County, New Mexico","Sandoval County, New Mexico",1,0,64727,131561
+"1572","Lea County, New Mexico","Bernalillo County, New Mexico",1,0,64727,662564
+"1573","Lea County, New Mexico","Torrance County, New Mexico",1,0,64727,16383
+"1574","Lea County, New Mexico","Santa Fe County, New Mexico",1,0,64727,144170
+"1575","Lea County, New Mexico","Rio Arriba County, New Mexico",1,0,64727,40246
+"1576","Lea County, New Mexico","Los Alamos County, New Mexico",1,0,64727,17950
+"1577","Lea County, New Mexico","San Miguel County, New Mexico",1,0,64727,29393
+"1578","Lea County, New Mexico","Mora County, New Mexico",1,0,64727,4881
+"1579","Lea County, New Mexico","Socorro County, New Mexico",1,0,64727,17866
+"1580","Lea County, New Mexico","Colfax County, New Mexico",1,0,64727,13750
+"1581","Lea County, New Mexico","McKinley County, New Mexico",1,0,64727,71492
+"1582","Lea County, New Mexico","Cibola County, New Mexico",1,0,64727,27213
+"1583","Lea County, New Mexico","Apache County, Arizona",1,0,64727,71518
+"1584","Lea County, New Mexico","Las Animas County, Colorado",1,0,64727,15507
+"1585","Lea County, New Mexico","Taos County, New Mexico",1,0,64727,32937
+"1586","Lea County, New Mexico","Catron County, New Mexico",1,0,64727,3725
+"1587","Lea County, New Mexico","Guadalupe County, New Mexico",1,0,64727,4687
+"1588","Lea County, New Mexico","San Juan County, New Mexico",1,0,64727,130044
+"1589","Lea County, New Mexico","La Plata County, Colorado",1,0,64727,51334
+"1590","Lea County, New Mexico","Sierra County, New Mexico",1,0,64727,11988
+"1591","Lea County, New Mexico","Otero County, New Mexico",1,0,64727,63797
+"1592","Lea County, New Mexico","El Paso County, Texas",1,0,64727,800647
+"1593","Lea County, New Mexico","Dona Ana County, New Mexico",1,0,64727,209233
+"1594","Lea County, New Mexico","Lincoln County, New Mexico",1,0,64727,20497
+"1595","Lea County, New Mexico","Luna County, New Mexico",1,0,64727,25095
+"1596","Lea County, New Mexico","Hidalgo County, New Mexico",1,0,64727,4894
+"1597","Lea County, New Mexico","Greenlee County, Arizona",1,0,64727,8437
+"1598","Lea County, New Mexico","Grant County, New Mexico",1,0,64727,29514
+"1599","Lea County, New Mexico","Cochise County, Arizona",1,0,64727,131346
+"1600","Lea County, New Mexico","Lubbock County, Texas",1,0,64727,278831
+"1602","Lea County, New Mexico","Chaves County, New Mexico",1,0,64727,65645
+"1603","Lea County, New Mexico","Union County, New Mexico",1,0,64727,4549
+"1604","Lea County, New Mexico","Dallam County, Texas",1,0,64727,6703
+"1605","Lea County, New Mexico","Roosevelt County, New Mexico",1,0,64727,19846
+"1606","Lea County, New Mexico","Curry County, New Mexico",1,0,64727,48376
+"1607","Lea County, New Mexico","Parmer County, Texas",1,0,64727,10269
+"1608","Lea County, New Mexico","Quay County, New Mexico",1,0,64727,9041
+"1609","Lea County, New Mexico","Harding County, New Mexico",1,0,64727,695
+"1610","Lea County, New Mexico","De Baca County, New Mexico",1,0,64727,2022
+"1612","Lea County, New Mexico","Los Angeles County, California",1,0,64727,9818605
+"1613","Lea County, New Mexico","Montezuma County, Colorado",1,0,64727,25535
+"1614","Lea County, New Mexico","Graham County, Arizona",1,0,64727,37220
+"1615","Lea County, New Mexico","Harris County, Texas",1,0,64727,4092459
+"1616","Lea County, New Mexico","Maricopa County, Arizona",1,0,64727,3817117
+"1617","Lea County, New Mexico","Dallas County, Texas",1,0,64727,2368139
+"1618","Eddy County, New Mexico","Yoakum County, Texas",1,0,53829,7879
+"1619","Eddy County, New Mexico","Valencia County, New Mexico",1,0,53829,76569
+"1620","Eddy County, New Mexico","Sandoval County, New Mexico",1,0,53829,131561
+"1621","Eddy County, New Mexico","Bernalillo County, New Mexico",1,0,53829,662564
+"1622","Eddy County, New Mexico","Torrance County, New Mexico",1,0,53829,16383
+"1623","Eddy County, New Mexico","Santa Fe County, New Mexico",1,0,53829,144170
+"1624","Eddy County, New Mexico","Rio Arriba County, New Mexico",1,0,53829,40246
+"1625","Eddy County, New Mexico","Los Alamos County, New Mexico",1,0,53829,17950
+"1626","Eddy County, New Mexico","San Miguel County, New Mexico",1,0,53829,29393
+"1627","Eddy County, New Mexico","Mora County, New Mexico",1,0,53829,4881
+"1628","Eddy County, New Mexico","Socorro County, New Mexico",1,0,53829,17866
+"1629","Eddy County, New Mexico","Colfax County, New Mexico",1,0,53829,13750
+"1630","Eddy County, New Mexico","McKinley County, New Mexico",1,0,53829,71492
+"1631","Eddy County, New Mexico","Cibola County, New Mexico",1,0,53829,27213
+"1632","Eddy County, New Mexico","Apache County, Arizona",1,0,53829,71518
+"1633","Eddy County, New Mexico","Las Animas County, Colorado",1,0,53829,15507
+"1634","Eddy County, New Mexico","Taos County, New Mexico",1,0,53829,32937
+"1635","Eddy County, New Mexico","Catron County, New Mexico",1,0,53829,3725
+"1636","Eddy County, New Mexico","Guadalupe County, New Mexico",1,0,53829,4687
+"1637","Eddy County, New Mexico","San Juan County, New Mexico",1,0,53829,130044
+"1638","Eddy County, New Mexico","La Plata County, Colorado",1,0,53829,51334
+"1639","Eddy County, New Mexico","Sierra County, New Mexico",1,0,53829,11988
+"1640","Eddy County, New Mexico","Otero County, New Mexico",1,0,53829,63797
+"1641","Eddy County, New Mexico","El Paso County, Texas",1,0,53829,800647
+"1642","Eddy County, New Mexico","Dona Ana County, New Mexico",1,0,53829,209233
+"1643","Eddy County, New Mexico","Lincoln County, New Mexico",1,0,53829,20497
+"1644","Eddy County, New Mexico","Luna County, New Mexico",1,0,53829,25095
+"1645","Eddy County, New Mexico","Hidalgo County, New Mexico",1,0,53829,4894
+"1646","Eddy County, New Mexico","Greenlee County, Arizona",1,0,53829,8437
+"1647","Eddy County, New Mexico","Grant County, New Mexico",1,0,53829,29514
+"1648","Eddy County, New Mexico","Cochise County, Arizona",1,0,53829,131346
+"1649","Eddy County, New Mexico","Lubbock County, Texas",1,0,53829,278831
+"1652","Eddy County, New Mexico","Union County, New Mexico",1,0,53829,4549
+"1653","Eddy County, New Mexico","Dallam County, Texas",1,0,53829,6703
+"1654","Eddy County, New Mexico","Roosevelt County, New Mexico",1,0,53829,19846
+"1655","Eddy County, New Mexico","Curry County, New Mexico",1,0,53829,48376
+"1656","Eddy County, New Mexico","Parmer County, Texas",1,0,53829,10269
+"1657","Eddy County, New Mexico","Quay County, New Mexico",1,0,53829,9041
+"1658","Eddy County, New Mexico","Harding County, New Mexico",1,0,53829,695
+"1659","Eddy County, New Mexico","De Baca County, New Mexico",1,0,53829,2022
+"1660","Eddy County, New Mexico","Gaines County, Texas",1,0,53829,17526
+"1661","Eddy County, New Mexico","Los Angeles County, California",1,0,53829,9818605
+"1662","Eddy County, New Mexico","Montezuma County, Colorado",1,0,53829,25535
+"1663","Eddy County, New Mexico","Graham County, Arizona",1,0,53829,37220
+"1664","Eddy County, New Mexico","Harris County, Texas",1,0,53829,4092459
+"1665","Eddy County, New Mexico","Maricopa County, Arizona",1,0,53829,3817117
+"1666","Eddy County, New Mexico","Dallas County, Texas",1,0,53829,2368139
+"1667","Chaves County, New Mexico","Yoakum County, Texas",1,0,65645,7879
+"1668","Chaves County, New Mexico","Valencia County, New Mexico",1,0,65645,76569
+"1669","Chaves County, New Mexico","Sandoval County, New Mexico",1,0,65645,131561
+"1670","Chaves County, New Mexico","Bernalillo County, New Mexico",1,0,65645,662564
+"1671","Chaves County, New Mexico","Torrance County, New Mexico",1,0,65645,16383
+"1672","Chaves County, New Mexico","Santa Fe County, New Mexico",1,0,65645,144170
+"1673","Chaves County, New Mexico","Rio Arriba County, New Mexico",1,0,65645,40246
+"1674","Chaves County, New Mexico","Los Alamos County, New Mexico",1,0,65645,17950
+"1675","Chaves County, New Mexico","San Miguel County, New Mexico",1,0,65645,29393
+"1676","Chaves County, New Mexico","Mora County, New Mexico",1,0,65645,4881
+"1677","Chaves County, New Mexico","Socorro County, New Mexico",1,0,65645,17866
+"1678","Chaves County, New Mexico","Colfax County, New Mexico",1,0,65645,13750
+"1679","Chaves County, New Mexico","McKinley County, New Mexico",1,0,65645,71492
+"1680","Chaves County, New Mexico","Cibola County, New Mexico",1,0,65645,27213
+"1681","Chaves County, New Mexico","Apache County, Arizona",1,0,65645,71518
+"1682","Chaves County, New Mexico","Las Animas County, Colorado",1,0,65645,15507
+"1683","Chaves County, New Mexico","Taos County, New Mexico",1,0,65645,32937
+"1684","Chaves County, New Mexico","Catron County, New Mexico",1,0,65645,3725
+"1685","Chaves County, New Mexico","Guadalupe County, New Mexico",1,0,65645,4687
+"1686","Chaves County, New Mexico","San Juan County, New Mexico",1,0,65645,130044
+"1687","Chaves County, New Mexico","La Plata County, Colorado",1,0,65645,51334
+"1688","Chaves County, New Mexico","Sierra County, New Mexico",1,0,65645,11988
+"1689","Chaves County, New Mexico","Otero County, New Mexico",1,0,65645,63797
+"1690","Chaves County, New Mexico","El Paso County, Texas",1,0,65645,800647
+"1691","Chaves County, New Mexico","Dona Ana County, New Mexico",1,0,65645,209233
+"1692","Chaves County, New Mexico","Lincoln County, New Mexico",1,0,65645,20497
+"1693","Chaves County, New Mexico","Luna County, New Mexico",1,0,65645,25095
+"1694","Chaves County, New Mexico","Hidalgo County, New Mexico",1,0,65645,4894
+"1695","Chaves County, New Mexico","Greenlee County, Arizona",1,0,65645,8437
+"1696","Chaves County, New Mexico","Grant County, New Mexico",1,0,65645,29514
+"1697","Chaves County, New Mexico","Cochise County, Arizona",1,0,65645,131346
+"1698","Chaves County, New Mexico","Lubbock County, Texas",1,0,65645,278831
+"1701","Chaves County, New Mexico","Union County, New Mexico",1,0,65645,4549
+"1702","Chaves County, New Mexico","Dallam County, Texas",1,0,65645,6703
+"1704","Chaves County, New Mexico","Curry County, New Mexico",1,0,65645,48376
+"1705","Chaves County, New Mexico","Parmer County, Texas",1,0,65645,10269
+"1706","Chaves County, New Mexico","Quay County, New Mexico",1,0,65645,9041
+"1707","Chaves County, New Mexico","Harding County, New Mexico",1,0,65645,695
+"1708","Chaves County, New Mexico","De Baca County, New Mexico",1,0,65645,2022
+"1709","Chaves County, New Mexico","Gaines County, Texas",1,0,65645,17526
+"1710","Chaves County, New Mexico","Los Angeles County, California",1,0,65645,9818605
+"1711","Chaves County, New Mexico","Montezuma County, Colorado",1,0,65645,25535
+"1712","Chaves County, New Mexico","Graham County, Arizona",1,0,65645,37220
+"1713","Chaves County, New Mexico","Harris County, Texas",1,0,65645,4092459
+"1714","Chaves County, New Mexico","Maricopa County, Arizona",1,0,65645,3817117
+"1715","Chaves County, New Mexico","Dallas County, Texas",1,0,65645,2368139
+"1716","Union County, New Mexico","Yoakum County, Texas",1,0,4549,7879
+"1717","Union County, New Mexico","Valencia County, New Mexico",1,0,4549,76569
+"1718","Union County, New Mexico","Sandoval County, New Mexico",1,0,4549,131561
+"1719","Union County, New Mexico","Bernalillo County, New Mexico",1,0,4549,662564
+"1720","Union County, New Mexico","Torrance County, New Mexico",1,0,4549,16383
+"1721","Union County, New Mexico","Santa Fe County, New Mexico",1,0,4549,144170
+"1722","Union County, New Mexico","Rio Arriba County, New Mexico",1,0,4549,40246
+"1723","Union County, New Mexico","Los Alamos County, New Mexico",1,0,4549,17950
+"1724","Union County, New Mexico","San Miguel County, New Mexico",1,0,4549,29393
+"1725","Union County, New Mexico","Mora County, New Mexico",1,0,4549,4881
+"1726","Union County, New Mexico","Socorro County, New Mexico",1,0,4549,17866
+"1728","Union County, New Mexico","McKinley County, New Mexico",1,0,4549,71492
+"1729","Union County, New Mexico","Cibola County, New Mexico",1,0,4549,27213
+"1730","Union County, New Mexico","Apache County, Arizona",1,0,4549,71518
+"1731","Union County, New Mexico","Las Animas County, Colorado",1,0,4549,15507
+"1732","Union County, New Mexico","Taos County, New Mexico",1,0,4549,32937
+"1733","Union County, New Mexico","Catron County, New Mexico",1,0,4549,3725
+"1734","Union County, New Mexico","Guadalupe County, New Mexico",1,0,4549,4687
+"1735","Union County, New Mexico","San Juan County, New Mexico",1,0,4549,130044
+"1736","Union County, New Mexico","La Plata County, Colorado",1,0,4549,51334
+"1737","Union County, New Mexico","Sierra County, New Mexico",1,0,4549,11988
+"1738","Union County, New Mexico","Otero County, New Mexico",1,0,4549,63797
+"1739","Union County, New Mexico","El Paso County, Texas",1,0,4549,800647
+"1740","Union County, New Mexico","Dona Ana County, New Mexico",1,0,4549,209233
+"1741","Union County, New Mexico","Lincoln County, New Mexico",1,0,4549,20497
+"1742","Union County, New Mexico","Luna County, New Mexico",1,0,4549,25095
+"1743","Union County, New Mexico","Hidalgo County, New Mexico",1,0,4549,4894
+"1744","Union County, New Mexico","Greenlee County, Arizona",1,0,4549,8437
+"1745","Union County, New Mexico","Grant County, New Mexico",1,0,4549,29514
+"1746","Union County, New Mexico","Cochise County, Arizona",1,0,4549,131346
+"1747","Union County, New Mexico","Lubbock County, Texas",1,0,4549,278831
+"1748","Union County, New Mexico","Lea County, New Mexico",1,0,4549,64727
+"1749","Union County, New Mexico","Eddy County, New Mexico",1,0,4549,53829
+"1750","Union County, New Mexico","Chaves County, New Mexico",1,0,4549,65645
+"1752","Union County, New Mexico","Roosevelt County, New Mexico",1,0,4549,19846
+"1753","Union County, New Mexico","Curry County, New Mexico",1,0,4549,48376
+"1754","Union County, New Mexico","Parmer County, Texas",1,0,4549,10269
+"1755","Union County, New Mexico","Quay County, New Mexico",1,0,4549,9041
+"1756","Union County, New Mexico","Harding County, New Mexico",1,0,4549,695
+"1757","Union County, New Mexico","De Baca County, New Mexico",1,0,4549,2022
+"1758","Union County, New Mexico","Gaines County, Texas",1,0,4549,17526
+"1759","Union County, New Mexico","Los Angeles County, California",1,0,4549,9818605
+"1760","Union County, New Mexico","Montezuma County, Colorado",1,0,4549,25535
+"1761","Union County, New Mexico","Graham County, Arizona",1,0,4549,37220
+"1762","Union County, New Mexico","Harris County, Texas",1,0,4549,4092459
+"1763","Union County, New Mexico","Maricopa County, Arizona",1,0,4549,3817117
+"1764","Union County, New Mexico","Dallas County, Texas",1,0,4549,2368139
+"1765","Dallam County, Texas","Yoakum County, Texas",1,0,6703,7879
+"1766","Dallam County, Texas","Valencia County, New Mexico",1,0,6703,76569
+"1767","Dallam County, Texas","Sandoval County, New Mexico",1,0,6703,131561
+"1768","Dallam County, Texas","Bernalillo County, New Mexico",1,0,6703,662564
+"1769","Dallam County, Texas","Torrance County, New Mexico",1,0,6703,16383
+"1770","Dallam County, Texas","Santa Fe County, New Mexico",1,0,6703,144170
+"1771","Dallam County, Texas","Rio Arriba County, New Mexico",1,0,6703,40246
+"1772","Dallam County, Texas","Los Alamos County, New Mexico",1,0,6703,17950
+"1773","Dallam County, Texas","San Miguel County, New Mexico",1,0,6703,29393
+"1774","Dallam County, Texas","Mora County, New Mexico",1,0,6703,4881
+"1775","Dallam County, Texas","Socorro County, New Mexico",1,0,6703,17866
+"1776","Dallam County, Texas","Colfax County, New Mexico",1,0,6703,13750
+"1777","Dallam County, Texas","McKinley County, New Mexico",1,0,6703,71492
+"1778","Dallam County, Texas","Cibola County, New Mexico",1,0,6703,27213
+"1779","Dallam County, Texas","Apache County, Arizona",1,0,6703,71518
+"1780","Dallam County, Texas","Las Animas County, Colorado",1,0,6703,15507
+"1781","Dallam County, Texas","Taos County, New Mexico",1,0,6703,32937
+"1782","Dallam County, Texas","Catron County, New Mexico",1,0,6703,3725
+"1783","Dallam County, Texas","Guadalupe County, New Mexico",1,0,6703,4687
+"1784","Dallam County, Texas","San Juan County, New Mexico",1,0,6703,130044
+"1785","Dallam County, Texas","La Plata County, Colorado",1,0,6703,51334
+"1786","Dallam County, Texas","Sierra County, New Mexico",1,0,6703,11988
+"1787","Dallam County, Texas","Otero County, New Mexico",1,0,6703,63797
+"1788","Dallam County, Texas","El Paso County, Texas",1,0,6703,800647
+"1789","Dallam County, Texas","Dona Ana County, New Mexico",1,0,6703,209233
+"1790","Dallam County, Texas","Lincoln County, New Mexico",1,0,6703,20497
+"1791","Dallam County, Texas","Luna County, New Mexico",1,0,6703,25095
+"1792","Dallam County, Texas","Hidalgo County, New Mexico",1,0,6703,4894
+"1793","Dallam County, Texas","Greenlee County, Arizona",1,0,6703,8437
+"1794","Dallam County, Texas","Grant County, New Mexico",1,0,6703,29514
+"1795","Dallam County, Texas","Cochise County, Arizona",1,0,6703,131346
+"1796","Dallam County, Texas","Lubbock County, Texas",1,0,6703,278831
+"1797","Dallam County, Texas","Lea County, New Mexico",1,0,6703,64727
+"1798","Dallam County, Texas","Eddy County, New Mexico",1,0,6703,53829
+"1799","Dallam County, Texas","Chaves County, New Mexico",1,0,6703,65645
+"1800","Dallam County, Texas","Union County, New Mexico",1,0,6703,4549
+"1801","Dallam County, Texas","Roosevelt County, New Mexico",1,0,6703,19846
+"1802","Dallam County, Texas","Curry County, New Mexico",1,0,6703,48376
+"1803","Dallam County, Texas","Parmer County, Texas",1,0,6703,10269
+"1804","Dallam County, Texas","Quay County, New Mexico",1,0,6703,9041
+"1805","Dallam County, Texas","Harding County, New Mexico",1,0,6703,695
+"1806","Dallam County, Texas","De Baca County, New Mexico",1,0,6703,2022
+"1807","Dallam County, Texas","Gaines County, Texas",1,0,6703,17526
+"1808","Dallam County, Texas","Los Angeles County, California",1,0,6703,9818605
+"1809","Dallam County, Texas","Montezuma County, Colorado",1,0,6703,25535
+"1810","Dallam County, Texas","Graham County, Arizona",1,0,6703,37220
+"1811","Dallam County, Texas","Harris County, Texas",1,0,6703,4092459
+"1812","Dallam County, Texas","Maricopa County, Arizona",1,0,6703,3817117
+"1813","Dallam County, Texas","Dallas County, Texas",1,0,6703,2368139
+"1814","Roosevelt County, New Mexico","Yoakum County, Texas",1,0,19846,7879
+"1815","Roosevelt County, New Mexico","Valencia County, New Mexico",1,0,19846,76569
+"1816","Roosevelt County, New Mexico","Sandoval County, New Mexico",1,0,19846,131561
+"1817","Roosevelt County, New Mexico","Bernalillo County, New Mexico",1,0,19846,662564
+"1818","Roosevelt County, New Mexico","Torrance County, New Mexico",1,0,19846,16383
+"1819","Roosevelt County, New Mexico","Santa Fe County, New Mexico",1,0,19846,144170
+"1820","Roosevelt County, New Mexico","Rio Arriba County, New Mexico",1,0,19846,40246
+"1821","Roosevelt County, New Mexico","Los Alamos County, New Mexico",1,0,19846,17950
+"1822","Roosevelt County, New Mexico","San Miguel County, New Mexico",1,0,19846,29393
+"1823","Roosevelt County, New Mexico","Mora County, New Mexico",1,0,19846,4881
+"1824","Roosevelt County, New Mexico","Socorro County, New Mexico",1,0,19846,17866
+"1825","Roosevelt County, New Mexico","Colfax County, New Mexico",1,0,19846,13750
+"1826","Roosevelt County, New Mexico","McKinley County, New Mexico",1,0,19846,71492
+"1827","Roosevelt County, New Mexico","Cibola County, New Mexico",1,0,19846,27213
+"1828","Roosevelt County, New Mexico","Apache County, Arizona",1,0,19846,71518
+"1829","Roosevelt County, New Mexico","Las Animas County, Colorado",1,0,19846,15507
+"1830","Roosevelt County, New Mexico","Taos County, New Mexico",1,0,19846,32937
+"1831","Roosevelt County, New Mexico","Catron County, New Mexico",1,0,19846,3725
+"1832","Roosevelt County, New Mexico","Guadalupe County, New Mexico",1,0,19846,4687
+"1833","Roosevelt County, New Mexico","San Juan County, New Mexico",1,0,19846,130044
+"1834","Roosevelt County, New Mexico","La Plata County, Colorado",1,0,19846,51334
+"1835","Roosevelt County, New Mexico","Sierra County, New Mexico",1,0,19846,11988
+"1836","Roosevelt County, New Mexico","Otero County, New Mexico",1,0,19846,63797
+"1837","Roosevelt County, New Mexico","El Paso County, Texas",1,0,19846,800647
+"1838","Roosevelt County, New Mexico","Dona Ana County, New Mexico",1,0,19846,209233
+"1839","Roosevelt County, New Mexico","Lincoln County, New Mexico",1,0,19846,20497
+"1840","Roosevelt County, New Mexico","Luna County, New Mexico",1,0,19846,25095
+"1841","Roosevelt County, New Mexico","Hidalgo County, New Mexico",1,0,19846,4894
+"1842","Roosevelt County, New Mexico","Greenlee County, Arizona",1,0,19846,8437
+"1843","Roosevelt County, New Mexico","Grant County, New Mexico",1,0,19846,29514
+"1844","Roosevelt County, New Mexico","Cochise County, Arizona",1,0,19846,131346
+"1847","Roosevelt County, New Mexico","Eddy County, New Mexico",1,0,19846,53829
+"1848","Roosevelt County, New Mexico","Chaves County, New Mexico",1,0,19846,65645
+"1849","Roosevelt County, New Mexico","Union County, New Mexico",1,0,19846,4549
+"1850","Roosevelt County, New Mexico","Dallam County, Texas",1,0,19846,6703
+"1852","Roosevelt County, New Mexico","Parmer County, Texas",1,0,19846,10269
+"1853","Roosevelt County, New Mexico","Quay County, New Mexico",1,0,19846,9041
+"1854","Roosevelt County, New Mexico","Harding County, New Mexico",1,0,19846,695
+"1855","Roosevelt County, New Mexico","De Baca County, New Mexico",1,0,19846,2022
+"1856","Roosevelt County, New Mexico","Gaines County, Texas",1,0,19846,17526
+"1857","Roosevelt County, New Mexico","Los Angeles County, California",1,0,19846,9818605
+"1858","Roosevelt County, New Mexico","Montezuma County, Colorado",1,0,19846,25535
+"1859","Roosevelt County, New Mexico","Graham County, Arizona",1,0,19846,37220
+"1860","Roosevelt County, New Mexico","Harris County, Texas",1,0,19846,4092459
+"1861","Roosevelt County, New Mexico","Maricopa County, Arizona",1,0,19846,3817117
+"1862","Roosevelt County, New Mexico","Dallas County, Texas",1,0,19846,2368139
+"1863","Curry County, New Mexico","Yoakum County, Texas",1,0,48376,7879
+"1864","Curry County, New Mexico","Valencia County, New Mexico",1,0,48376,76569
+"1865","Curry County, New Mexico","Sandoval County, New Mexico",1,0,48376,131561
+"1866","Curry County, New Mexico","Bernalillo County, New Mexico",1,0,48376,662564
+"1867","Curry County, New Mexico","Torrance County, New Mexico",1,0,48376,16383
+"1868","Curry County, New Mexico","Santa Fe County, New Mexico",1,0,48376,144170
+"1869","Curry County, New Mexico","Rio Arriba County, New Mexico",1,0,48376,40246
+"1870","Curry County, New Mexico","Los Alamos County, New Mexico",1,0,48376,17950
+"1871","Curry County, New Mexico","San Miguel County, New Mexico",1,0,48376,29393
+"1872","Curry County, New Mexico","Mora County, New Mexico",1,0,48376,4881
+"1873","Curry County, New Mexico","Socorro County, New Mexico",1,0,48376,17866
+"1874","Curry County, New Mexico","Colfax County, New Mexico",1,0,48376,13750
+"1875","Curry County, New Mexico","McKinley County, New Mexico",1,0,48376,71492
+"1876","Curry County, New Mexico","Cibola County, New Mexico",1,0,48376,27213
+"1877","Curry County, New Mexico","Apache County, Arizona",1,0,48376,71518
+"1878","Curry County, New Mexico","Las Animas County, Colorado",1,0,48376,15507
+"1879","Curry County, New Mexico","Taos County, New Mexico",1,0,48376,32937
+"1880","Curry County, New Mexico","Catron County, New Mexico",1,0,48376,3725
+"1882","Curry County, New Mexico","San Juan County, New Mexico",1,0,48376,130044
+"1883","Curry County, New Mexico","La Plata County, Colorado",1,0,48376,51334
+"1884","Curry County, New Mexico","Sierra County, New Mexico",1,0,48376,11988
+"1885","Curry County, New Mexico","Otero County, New Mexico",1,0,48376,63797
+"1886","Curry County, New Mexico","El Paso County, Texas",1,0,48376,800647
+"1887","Curry County, New Mexico","Dona Ana County, New Mexico",1,0,48376,209233
+"1888","Curry County, New Mexico","Lincoln County, New Mexico",1,0,48376,20497
+"1889","Curry County, New Mexico","Luna County, New Mexico",1,0,48376,25095
+"1890","Curry County, New Mexico","Hidalgo County, New Mexico",1,0,48376,4894
+"1891","Curry County, New Mexico","Greenlee County, Arizona",1,0,48376,8437
+"1892","Curry County, New Mexico","Grant County, New Mexico",1,0,48376,29514
+"1893","Curry County, New Mexico","Cochise County, Arizona",1,0,48376,131346
+"1894","Curry County, New Mexico","Lubbock County, Texas",1,0,48376,278831
+"1895","Curry County, New Mexico","Lea County, New Mexico",1,0,48376,64727
+"1896","Curry County, New Mexico","Eddy County, New Mexico",1,0,48376,53829
+"1897","Curry County, New Mexico","Chaves County, New Mexico",1,0,48376,65645
+"1898","Curry County, New Mexico","Union County, New Mexico",1,0,48376,4549
+"1899","Curry County, New Mexico","Dallam County, Texas",1,0,48376,6703
+"1903","Curry County, New Mexico","Harding County, New Mexico",1,0,48376,695
+"1904","Curry County, New Mexico","De Baca County, New Mexico",1,0,48376,2022
+"1905","Curry County, New Mexico","Gaines County, Texas",1,0,48376,17526
+"1906","Curry County, New Mexico","Los Angeles County, California",1,0,48376,9818605
+"1907","Curry County, New Mexico","Montezuma County, Colorado",1,0,48376,25535
+"1908","Curry County, New Mexico","Graham County, Arizona",1,0,48376,37220
+"1909","Curry County, New Mexico","Harris County, Texas",1,0,48376,4092459
+"1910","Curry County, New Mexico","Maricopa County, Arizona",1,0,48376,3817117
+"1911","Curry County, New Mexico","Dallas County, Texas",1,0,48376,2368139
+"1912","Parmer County, Texas","Yoakum County, Texas",1,0,10269,7879
+"1913","Parmer County, Texas","Valencia County, New Mexico",1,0,10269,76569
+"1914","Parmer County, Texas","Sandoval County, New Mexico",1,0,10269,131561
+"1915","Parmer County, Texas","Bernalillo County, New Mexico",1,0,10269,662564
+"1916","Parmer County, Texas","Torrance County, New Mexico",1,0,10269,16383
+"1917","Parmer County, Texas","Santa Fe County, New Mexico",1,0,10269,144170
+"1918","Parmer County, Texas","Rio Arriba County, New Mexico",1,0,10269,40246
+"1919","Parmer County, Texas","Los Alamos County, New Mexico",1,0,10269,17950
+"1920","Parmer County, Texas","San Miguel County, New Mexico",1,0,10269,29393
+"1921","Parmer County, Texas","Mora County, New Mexico",1,0,10269,4881
+"1922","Parmer County, Texas","Socorro County, New Mexico",1,0,10269,17866
+"1923","Parmer County, Texas","Colfax County, New Mexico",1,0,10269,13750
+"1924","Parmer County, Texas","McKinley County, New Mexico",1,0,10269,71492
+"1925","Parmer County, Texas","Cibola County, New Mexico",1,0,10269,27213
+"1926","Parmer County, Texas","Apache County, Arizona",1,0,10269,71518
+"1927","Parmer County, Texas","Las Animas County, Colorado",1,0,10269,15507
+"1928","Parmer County, Texas","Taos County, New Mexico",1,0,10269,32937
+"1929","Parmer County, Texas","Catron County, New Mexico",1,0,10269,3725
+"1930","Parmer County, Texas","Guadalupe County, New Mexico",1,0,10269,4687
+"1931","Parmer County, Texas","San Juan County, New Mexico",1,0,10269,130044
+"1932","Parmer County, Texas","La Plata County, Colorado",1,0,10269,51334
+"1933","Parmer County, Texas","Sierra County, New Mexico",1,0,10269,11988
+"1934","Parmer County, Texas","Otero County, New Mexico",1,0,10269,63797
+"1935","Parmer County, Texas","El Paso County, Texas",1,0,10269,800647
+"1936","Parmer County, Texas","Dona Ana County, New Mexico",1,0,10269,209233
+"1937","Parmer County, Texas","Lincoln County, New Mexico",1,0,10269,20497
+"1938","Parmer County, Texas","Luna County, New Mexico",1,0,10269,25095
+"1939","Parmer County, Texas","Hidalgo County, New Mexico",1,0,10269,4894
+"1940","Parmer County, Texas","Greenlee County, Arizona",1,0,10269,8437
+"1941","Parmer County, Texas","Grant County, New Mexico",1,0,10269,29514
+"1942","Parmer County, Texas","Cochise County, Arizona",1,0,10269,131346
+"1943","Parmer County, Texas","Lubbock County, Texas",1,0,10269,278831
+"1944","Parmer County, Texas","Lea County, New Mexico",1,0,10269,64727
+"1945","Parmer County, Texas","Eddy County, New Mexico",1,0,10269,53829
+"1946","Parmer County, Texas","Chaves County, New Mexico",1,0,10269,65645
+"1947","Parmer County, Texas","Union County, New Mexico",1,0,10269,4549
+"1948","Parmer County, Texas","Dallam County, Texas",1,0,10269,6703
+"1949","Parmer County, Texas","Roosevelt County, New Mexico",1,0,10269,19846
+"1950","Parmer County, Texas","Curry County, New Mexico",1,0,10269,48376
+"1951","Parmer County, Texas","Quay County, New Mexico",1,0,10269,9041
+"1952","Parmer County, Texas","Harding County, New Mexico",1,0,10269,695
+"1953","Parmer County, Texas","De Baca County, New Mexico",1,0,10269,2022
+"1954","Parmer County, Texas","Gaines County, Texas",1,0,10269,17526
+"1955","Parmer County, Texas","Los Angeles County, California",1,0,10269,9818605
+"1956","Parmer County, Texas","Montezuma County, Colorado",1,0,10269,25535
+"1957","Parmer County, Texas","Graham County, Arizona",1,0,10269,37220
+"1958","Parmer County, Texas","Harris County, Texas",1,0,10269,4092459
+"1959","Parmer County, Texas","Maricopa County, Arizona",1,0,10269,3817117
+"1960","Parmer County, Texas","Dallas County, Texas",1,0,10269,2368139
+"1961","Quay County, New Mexico","Yoakum County, Texas",1,0,9041,7879
+"1962","Quay County, New Mexico","Valencia County, New Mexico",1,0,9041,76569
+"1963","Quay County, New Mexico","Sandoval County, New Mexico",1,0,9041,131561
+"1964","Quay County, New Mexico","Bernalillo County, New Mexico",1,0,9041,662564
+"1965","Quay County, New Mexico","Torrance County, New Mexico",1,0,9041,16383
+"1966","Quay County, New Mexico","Santa Fe County, New Mexico",1,0,9041,144170
+"1967","Quay County, New Mexico","Rio Arriba County, New Mexico",1,0,9041,40246
+"1968","Quay County, New Mexico","Los Alamos County, New Mexico",1,0,9041,17950
+"1969","Quay County, New Mexico","San Miguel County, New Mexico",1,0,9041,29393
+"1970","Quay County, New Mexico","Mora County, New Mexico",1,0,9041,4881
+"1971","Quay County, New Mexico","Socorro County, New Mexico",1,0,9041,17866
+"1972","Quay County, New Mexico","Colfax County, New Mexico",1,0,9041,13750
+"1973","Quay County, New Mexico","McKinley County, New Mexico",1,0,9041,71492
+"1974","Quay County, New Mexico","Cibola County, New Mexico",1,0,9041,27213
+"1975","Quay County, New Mexico","Apache County, Arizona",1,0,9041,71518
+"1976","Quay County, New Mexico","Las Animas County, Colorado",1,0,9041,15507
+"1977","Quay County, New Mexico","Taos County, New Mexico",1,0,9041,32937
+"1978","Quay County, New Mexico","Catron County, New Mexico",1,0,9041,3725
+"1979","Quay County, New Mexico","Guadalupe County, New Mexico",1,0,9041,4687
+"1980","Quay County, New Mexico","San Juan County, New Mexico",1,0,9041,130044
+"1981","Quay County, New Mexico","La Plata County, Colorado",1,0,9041,51334
+"1982","Quay County, New Mexico","Sierra County, New Mexico",1,0,9041,11988
+"1983","Quay County, New Mexico","Otero County, New Mexico",1,0,9041,63797
+"1984","Quay County, New Mexico","El Paso County, Texas",1,0,9041,800647
+"1985","Quay County, New Mexico","Dona Ana County, New Mexico",1,0,9041,209233
+"1986","Quay County, New Mexico","Lincoln County, New Mexico",1,0,9041,20497
+"1987","Quay County, New Mexico","Luna County, New Mexico",1,0,9041,25095
+"1988","Quay County, New Mexico","Hidalgo County, New Mexico",1,0,9041,4894
+"1989","Quay County, New Mexico","Greenlee County, Arizona",1,0,9041,8437
+"1990","Quay County, New Mexico","Grant County, New Mexico",1,0,9041,29514
+"1991","Quay County, New Mexico","Cochise County, Arizona",1,0,9041,131346
+"1992","Quay County, New Mexico","Lubbock County, Texas",1,0,9041,278831
+"1993","Quay County, New Mexico","Lea County, New Mexico",1,0,9041,64727
+"1994","Quay County, New Mexico","Eddy County, New Mexico",1,0,9041,53829
+"1995","Quay County, New Mexico","Chaves County, New Mexico",1,0,9041,65645
+"1997","Quay County, New Mexico","Dallam County, Texas",1,0,9041,6703
+"1998","Quay County, New Mexico","Roosevelt County, New Mexico",1,0,9041,19846
+"2000","Quay County, New Mexico","Parmer County, Texas",1,0,9041,10269
+"2001","Quay County, New Mexico","Harding County, New Mexico",1,0,9041,695
+"2002","Quay County, New Mexico","De Baca County, New Mexico",1,0,9041,2022
+"2003","Quay County, New Mexico","Gaines County, Texas",1,0,9041,17526
+"2004","Quay County, New Mexico","Los Angeles County, California",1,0,9041,9818605
+"2005","Quay County, New Mexico","Montezuma County, Colorado",1,0,9041,25535
+"2006","Quay County, New Mexico","Graham County, Arizona",1,0,9041,37220
+"2007","Quay County, New Mexico","Harris County, Texas",1,0,9041,4092459
+"2008","Quay County, New Mexico","Maricopa County, Arizona",1,0,9041,3817117
+"2009","Quay County, New Mexico","Dallas County, Texas",1,0,9041,2368139
+"2010","Harding County, New Mexico","Yoakum County, Texas",1,0,695,7879
+"2011","Harding County, New Mexico","Valencia County, New Mexico",1,0,695,76569
+"2012","Harding County, New Mexico","Sandoval County, New Mexico",1,0,695,131561
+"2013","Harding County, New Mexico","Bernalillo County, New Mexico",1,0,695,662564
+"2014","Harding County, New Mexico","Torrance County, New Mexico",1,0,695,16383
+"2015","Harding County, New Mexico","Santa Fe County, New Mexico",1,0,695,144170
+"2016","Harding County, New Mexico","Rio Arriba County, New Mexico",1,0,695,40246
+"2017","Harding County, New Mexico","Los Alamos County, New Mexico",1,0,695,17950
+"2018","Harding County, New Mexico","San Miguel County, New Mexico",1,0,695,29393
+"2019","Harding County, New Mexico","Mora County, New Mexico",1,0,695,4881
+"2020","Harding County, New Mexico","Socorro County, New Mexico",1,0,695,17866
+"2021","Harding County, New Mexico","Colfax County, New Mexico",1,0,695,13750
+"2022","Harding County, New Mexico","McKinley County, New Mexico",1,0,695,71492
+"2023","Harding County, New Mexico","Cibola County, New Mexico",1,0,695,27213
+"2024","Harding County, New Mexico","Apache County, Arizona",1,0,695,71518
+"2025","Harding County, New Mexico","Las Animas County, Colorado",1,0,695,15507
+"2026","Harding County, New Mexico","Taos County, New Mexico",1,0,695,32937
+"2027","Harding County, New Mexico","Catron County, New Mexico",1,0,695,3725
+"2028","Harding County, New Mexico","Guadalupe County, New Mexico",1,0,695,4687
+"2029","Harding County, New Mexico","San Juan County, New Mexico",1,0,695,130044
+"2030","Harding County, New Mexico","La Plata County, Colorado",1,0,695,51334
+"2031","Harding County, New Mexico","Sierra County, New Mexico",1,0,695,11988
+"2032","Harding County, New Mexico","Otero County, New Mexico",1,0,695,63797
+"2033","Harding County, New Mexico","El Paso County, Texas",1,0,695,800647
+"2034","Harding County, New Mexico","Dona Ana County, New Mexico",1,0,695,209233
+"2035","Harding County, New Mexico","Lincoln County, New Mexico",1,0,695,20497
+"2036","Harding County, New Mexico","Luna County, New Mexico",1,0,695,25095
+"2037","Harding County, New Mexico","Hidalgo County, New Mexico",1,0,695,4894
+"2038","Harding County, New Mexico","Greenlee County, Arizona",1,0,695,8437
+"2039","Harding County, New Mexico","Grant County, New Mexico",1,0,695,29514
+"2040","Harding County, New Mexico","Cochise County, Arizona",1,0,695,131346
+"2041","Harding County, New Mexico","Lubbock County, Texas",1,0,695,278831
+"2042","Harding County, New Mexico","Lea County, New Mexico",1,0,695,64727
+"2043","Harding County, New Mexico","Eddy County, New Mexico",1,0,695,53829
+"2044","Harding County, New Mexico","Chaves County, New Mexico",1,0,695,65645
+"2045","Harding County, New Mexico","Union County, New Mexico",1,0,695,4549
+"2046","Harding County, New Mexico","Dallam County, Texas",1,0,695,6703
+"2047","Harding County, New Mexico","Roosevelt County, New Mexico",1,0,695,19846
+"2048","Harding County, New Mexico","Curry County, New Mexico",1,0,695,48376
+"2049","Harding County, New Mexico","Parmer County, Texas",1,0,695,10269
+"2051","Harding County, New Mexico","De Baca County, New Mexico",1,0,695,2022
+"2052","Harding County, New Mexico","Gaines County, Texas",1,0,695,17526
+"2053","Harding County, New Mexico","Los Angeles County, California",1,0,695,9818605
+"2054","Harding County, New Mexico","Montezuma County, Colorado",1,0,695,25535
+"2055","Harding County, New Mexico","Graham County, Arizona",1,0,695,37220
+"2056","Harding County, New Mexico","Harris County, Texas",1,0,695,4092459
+"2057","Harding County, New Mexico","Maricopa County, Arizona",1,0,695,3817117
+"2058","Harding County, New Mexico","Dallas County, Texas",1,0,695,2368139
+"2059","De Baca County, New Mexico","Yoakum County, Texas",1,0,2022,7879
+"2060","De Baca County, New Mexico","Valencia County, New Mexico",1,0,2022,76569
+"2061","De Baca County, New Mexico","Sandoval County, New Mexico",1,0,2022,131561
+"2062","De Baca County, New Mexico","Bernalillo County, New Mexico",1,0,2022,662564
+"2063","De Baca County, New Mexico","Torrance County, New Mexico",1,0,2022,16383
+"2064","De Baca County, New Mexico","Santa Fe County, New Mexico",1,0,2022,144170
+"2065","De Baca County, New Mexico","Rio Arriba County, New Mexico",1,0,2022,40246
+"2066","De Baca County, New Mexico","Los Alamos County, New Mexico",1,0,2022,17950
+"2067","De Baca County, New Mexico","San Miguel County, New Mexico",1,0,2022,29393
+"2068","De Baca County, New Mexico","Mora County, New Mexico",1,0,2022,4881
+"2069","De Baca County, New Mexico","Socorro County, New Mexico",1,0,2022,17866
+"2070","De Baca County, New Mexico","Colfax County, New Mexico",1,0,2022,13750
+"2071","De Baca County, New Mexico","McKinley County, New Mexico",1,0,2022,71492
+"2072","De Baca County, New Mexico","Cibola County, New Mexico",1,0,2022,27213
+"2073","De Baca County, New Mexico","Apache County, Arizona",1,0,2022,71518
+"2074","De Baca County, New Mexico","Las Animas County, Colorado",1,0,2022,15507
+"2075","De Baca County, New Mexico","Taos County, New Mexico",1,0,2022,32937
+"2076","De Baca County, New Mexico","Catron County, New Mexico",1,0,2022,3725
+"2077","De Baca County, New Mexico","Guadalupe County, New Mexico",1,0,2022,4687
+"2078","De Baca County, New Mexico","San Juan County, New Mexico",1,0,2022,130044
+"2079","De Baca County, New Mexico","La Plata County, Colorado",1,0,2022,51334
+"2080","De Baca County, New Mexico","Sierra County, New Mexico",1,0,2022,11988
+"2081","De Baca County, New Mexico","Otero County, New Mexico",1,0,2022,63797
+"2082","De Baca County, New Mexico","El Paso County, Texas",1,0,2022,800647
+"2083","De Baca County, New Mexico","Dona Ana County, New Mexico",1,0,2022,209233
+"2084","De Baca County, New Mexico","Lincoln County, New Mexico",1,0,2022,20497
+"2085","De Baca County, New Mexico","Luna County, New Mexico",1,0,2022,25095
+"2086","De Baca County, New Mexico","Hidalgo County, New Mexico",1,0,2022,4894
+"2087","De Baca County, New Mexico","Greenlee County, Arizona",1,0,2022,8437
+"2088","De Baca County, New Mexico","Grant County, New Mexico",1,0,2022,29514
+"2089","De Baca County, New Mexico","Cochise County, Arizona",1,0,2022,131346
+"2090","De Baca County, New Mexico","Lubbock County, Texas",1,0,2022,278831
+"2091","De Baca County, New Mexico","Lea County, New Mexico",1,0,2022,64727
+"2092","De Baca County, New Mexico","Eddy County, New Mexico",1,0,2022,53829
+"2093","De Baca County, New Mexico","Chaves County, New Mexico",1,0,2022,65645
+"2094","De Baca County, New Mexico","Union County, New Mexico",1,0,2022,4549
+"2095","De Baca County, New Mexico","Dallam County, Texas",1,0,2022,6703
+"2096","De Baca County, New Mexico","Roosevelt County, New Mexico",1,0,2022,19846
+"2097","De Baca County, New Mexico","Curry County, New Mexico",1,0,2022,48376
+"2098","De Baca County, New Mexico","Parmer County, Texas",1,0,2022,10269
+"2099","De Baca County, New Mexico","Quay County, New Mexico",1,0,2022,9041
+"2100","De Baca County, New Mexico","Harding County, New Mexico",1,0,2022,695
+"2101","De Baca County, New Mexico","Gaines County, Texas",1,0,2022,17526
+"2102","De Baca County, New Mexico","Los Angeles County, California",1,0,2022,9818605
+"2103","De Baca County, New Mexico","Montezuma County, Colorado",1,0,2022,25535
+"2104","De Baca County, New Mexico","Graham County, Arizona",1,0,2022,37220
+"2105","De Baca County, New Mexico","Harris County, Texas",1,0,2022,4092459
+"2106","De Baca County, New Mexico","Maricopa County, Arizona",1,0,2022,3817117
+"2107","De Baca County, New Mexico","Dallas County, Texas",1,0,2022,2368139
+"2108","Gaines County, Texas","Yoakum County, Texas",1,0,17526,7879
+"2109","Gaines County, Texas","Valencia County, New Mexico",1,0,17526,76569
+"2110","Gaines County, Texas","Sandoval County, New Mexico",1,0,17526,131561
+"2111","Gaines County, Texas","Bernalillo County, New Mexico",1,0,17526,662564
+"2112","Gaines County, Texas","Torrance County, New Mexico",1,0,17526,16383
+"2113","Gaines County, Texas","Santa Fe County, New Mexico",1,0,17526,144170
+"2114","Gaines County, Texas","Rio Arriba County, New Mexico",1,0,17526,40246
+"2115","Gaines County, Texas","Los Alamos County, New Mexico",1,0,17526,17950
+"2116","Gaines County, Texas","San Miguel County, New Mexico",1,0,17526,29393
+"2117","Gaines County, Texas","Mora County, New Mexico",1,0,17526,4881
+"2118","Gaines County, Texas","Socorro County, New Mexico",1,0,17526,17866
+"2119","Gaines County, Texas","Colfax County, New Mexico",1,0,17526,13750
+"2120","Gaines County, Texas","McKinley County, New Mexico",1,0,17526,71492
+"2121","Gaines County, Texas","Cibola County, New Mexico",1,0,17526,27213
+"2122","Gaines County, Texas","Apache County, Arizona",1,0,17526,71518
+"2123","Gaines County, Texas","Las Animas County, Colorado",1,0,17526,15507
+"2124","Gaines County, Texas","Taos County, New Mexico",1,0,17526,32937
+"2125","Gaines County, Texas","Catron County, New Mexico",1,0,17526,3725
+"2126","Gaines County, Texas","Guadalupe County, New Mexico",1,0,17526,4687
+"2127","Gaines County, Texas","San Juan County, New Mexico",1,0,17526,130044
+"2128","Gaines County, Texas","La Plata County, Colorado",1,0,17526,51334
+"2129","Gaines County, Texas","Sierra County, New Mexico",1,0,17526,11988
+"2130","Gaines County, Texas","Otero County, New Mexico",1,0,17526,63797
+"2131","Gaines County, Texas","El Paso County, Texas",1,0,17526,800647
+"2132","Gaines County, Texas","Dona Ana County, New Mexico",1,0,17526,209233
+"2133","Gaines County, Texas","Lincoln County, New Mexico",1,0,17526,20497
+"2134","Gaines County, Texas","Luna County, New Mexico",1,0,17526,25095
+"2135","Gaines County, Texas","Hidalgo County, New Mexico",1,0,17526,4894
+"2136","Gaines County, Texas","Greenlee County, Arizona",1,0,17526,8437
+"2137","Gaines County, Texas","Grant County, New Mexico",1,0,17526,29514
+"2138","Gaines County, Texas","Cochise County, Arizona",1,0,17526,131346
+"2139","Gaines County, Texas","Lubbock County, Texas",1,0,17526,278831
+"2140","Gaines County, Texas","Lea County, New Mexico",1,0,17526,64727
+"2141","Gaines County, Texas","Eddy County, New Mexico",1,0,17526,53829
+"2142","Gaines County, Texas","Chaves County, New Mexico",1,0,17526,65645
+"2143","Gaines County, Texas","Union County, New Mexico",1,0,17526,4549
+"2144","Gaines County, Texas","Dallam County, Texas",1,0,17526,6703
+"2145","Gaines County, Texas","Roosevelt County, New Mexico",1,0,17526,19846
+"2146","Gaines County, Texas","Curry County, New Mexico",1,0,17526,48376
+"2147","Gaines County, Texas","Parmer County, Texas",1,0,17526,10269
+"2148","Gaines County, Texas","Quay County, New Mexico",1,0,17526,9041
+"2149","Gaines County, Texas","Harding County, New Mexico",1,0,17526,695
+"2150","Gaines County, Texas","De Baca County, New Mexico",1,0,17526,2022
+"2151","Gaines County, Texas","Los Angeles County, California",1,0,17526,9818605
+"2152","Gaines County, Texas","Montezuma County, Colorado",1,0,17526,25535
+"2153","Gaines County, Texas","Graham County, Arizona",1,0,17526,37220
+"2154","Gaines County, Texas","Harris County, Texas",1,0,17526,4092459
+"2155","Gaines County, Texas","Maricopa County, Arizona",1,0,17526,3817117
+"2156","Gaines County, Texas","Dallas County, Texas",1,0,17526,2368139
+"2157","Los Angeles County, California","Yoakum County, Texas",1,0,9818605,7879
+"2158","Los Angeles County, California","Valencia County, New Mexico",1,0,9818605,76569
+"2159","Los Angeles County, California","Sandoval County, New Mexico",1,0,9818605,131561
+"2160","Los Angeles County, California","Bernalillo County, New Mexico",1,0,9818605,662564
+"2161","Los Angeles County, California","Torrance County, New Mexico",1,0,9818605,16383
+"2162","Los Angeles County, California","Santa Fe County, New Mexico",1,0,9818605,144170
+"2163","Los Angeles County, California","Rio Arriba County, New Mexico",1,0,9818605,40246
+"2164","Los Angeles County, California","Los Alamos County, New Mexico",1,0,9818605,17950
+"2165","Los Angeles County, California","San Miguel County, New Mexico",1,0,9818605,29393
+"2166","Los Angeles County, California","Mora County, New Mexico",1,0,9818605,4881
+"2167","Los Angeles County, California","Socorro County, New Mexico",1,0,9818605,17866
+"2168","Los Angeles County, California","Colfax County, New Mexico",1,0,9818605,13750
+"2169","Los Angeles County, California","McKinley County, New Mexico",1,0,9818605,71492
+"2170","Los Angeles County, California","Cibola County, New Mexico",1,0,9818605,27213
+"2171","Los Angeles County, California","Apache County, Arizona",1,0,9818605,71518
+"2172","Los Angeles County, California","Las Animas County, Colorado",1,0,9818605,15507
+"2173","Los Angeles County, California","Taos County, New Mexico",1,0,9818605,32937
+"2174","Los Angeles County, California","Catron County, New Mexico",1,0,9818605,3725
+"2175","Los Angeles County, California","Guadalupe County, New Mexico",1,0,9818605,4687
+"2176","Los Angeles County, California","San Juan County, New Mexico",1,0,9818605,130044
+"2177","Los Angeles County, California","La Plata County, Colorado",1,0,9818605,51334
+"2178","Los Angeles County, California","Sierra County, New Mexico",1,0,9818605,11988
+"2179","Los Angeles County, California","Otero County, New Mexico",1,0,9818605,63797
+"2180","Los Angeles County, California","El Paso County, Texas",1,0,9818605,800647
+"2181","Los Angeles County, California","Dona Ana County, New Mexico",1,0,9818605,209233
+"2182","Los Angeles County, California","Lincoln County, New Mexico",1,0,9818605,20497
+"2183","Los Angeles County, California","Luna County, New Mexico",1,0,9818605,25095
+"2184","Los Angeles County, California","Hidalgo County, New Mexico",1,0,9818605,4894
+"2185","Los Angeles County, California","Greenlee County, Arizona",1,0,9818605,8437
+"2186","Los Angeles County, California","Grant County, New Mexico",1,0,9818605,29514
+"2187","Los Angeles County, California","Cochise County, Arizona",1,0,9818605,131346
+"2188","Los Angeles County, California","Lubbock County, Texas",1,0,9818605,278831
+"2189","Los Angeles County, California","Lea County, New Mexico",1,0,9818605,64727
+"2190","Los Angeles County, California","Eddy County, New Mexico",1,0,9818605,53829
+"2191","Los Angeles County, California","Chaves County, New Mexico",1,0,9818605,65645
+"2192","Los Angeles County, California","Union County, New Mexico",1,0,9818605,4549
+"2193","Los Angeles County, California","Dallam County, Texas",1,0,9818605,6703
+"2194","Los Angeles County, California","Roosevelt County, New Mexico",1,0,9818605,19846
+"2195","Los Angeles County, California","Curry County, New Mexico",1,0,9818605,48376
+"2196","Los Angeles County, California","Parmer County, Texas",1,0,9818605,10269
+"2197","Los Angeles County, California","Quay County, New Mexico",1,0,9818605,9041
+"2198","Los Angeles County, California","Harding County, New Mexico",1,0,9818605,695
+"2199","Los Angeles County, California","De Baca County, New Mexico",1,0,9818605,2022
+"2200","Los Angeles County, California","Gaines County, Texas",1,0,9818605,17526
+"2201","Los Angeles County, California","Montezuma County, Colorado",1,0,9818605,25535
+"2202","Los Angeles County, California","Graham County, Arizona",1,0,9818605,37220
+"2203","Los Angeles County, California","Harris County, Texas",1,0,9818605,4092459
+"2204","Los Angeles County, California","Maricopa County, Arizona",1,0,9818605,3817117
+"2205","Los Angeles County, California","Dallas County, Texas",1,0,9818605,2368139
+"2206","Montezuma County, Colorado","Yoakum County, Texas",1,0,25535,7879
+"2207","Montezuma County, Colorado","Valencia County, New Mexico",1,0,25535,76569
+"2208","Montezuma County, Colorado","Sandoval County, New Mexico",1,0,25535,131561
+"2209","Montezuma County, Colorado","Bernalillo County, New Mexico",1,0,25535,662564
+"2210","Montezuma County, Colorado","Torrance County, New Mexico",1,0,25535,16383
+"2211","Montezuma County, Colorado","Santa Fe County, New Mexico",1,0,25535,144170
+"2212","Montezuma County, Colorado","Rio Arriba County, New Mexico",1,0,25535,40246
+"2213","Montezuma County, Colorado","Los Alamos County, New Mexico",1,0,25535,17950
+"2214","Montezuma County, Colorado","San Miguel County, New Mexico",1,0,25535,29393
+"2215","Montezuma County, Colorado","Mora County, New Mexico",1,0,25535,4881
+"2216","Montezuma County, Colorado","Socorro County, New Mexico",1,0,25535,17866
+"2217","Montezuma County, Colorado","Colfax County, New Mexico",1,0,25535,13750
+"2218","Montezuma County, Colorado","McKinley County, New Mexico",1,0,25535,71492
+"2219","Montezuma County, Colorado","Cibola County, New Mexico",1,0,25535,27213
+"2220","Montezuma County, Colorado","Apache County, Arizona",1,0,25535,71518
+"2221","Montezuma County, Colorado","Las Animas County, Colorado",1,0,25535,15507
+"2222","Montezuma County, Colorado","Taos County, New Mexico",1,0,25535,32937
+"2223","Montezuma County, Colorado","Catron County, New Mexico",1,0,25535,3725
+"2224","Montezuma County, Colorado","Guadalupe County, New Mexico",1,0,25535,4687
+"2225","Montezuma County, Colorado","San Juan County, New Mexico",1,0,25535,130044
+"2226","Montezuma County, Colorado","La Plata County, Colorado",1,0,25535,51334
+"2227","Montezuma County, Colorado","Sierra County, New Mexico",1,0,25535,11988
+"2228","Montezuma County, Colorado","Otero County, New Mexico",1,0,25535,63797
+"2229","Montezuma County, Colorado","El Paso County, Texas",1,0,25535,800647
+"2230","Montezuma County, Colorado","Dona Ana County, New Mexico",1,0,25535,209233
+"2231","Montezuma County, Colorado","Lincoln County, New Mexico",1,0,25535,20497
+"2232","Montezuma County, Colorado","Luna County, New Mexico",1,0,25535,25095
+"2233","Montezuma County, Colorado","Hidalgo County, New Mexico",1,0,25535,4894
+"2234","Montezuma County, Colorado","Greenlee County, Arizona",1,0,25535,8437
+"2235","Montezuma County, Colorado","Grant County, New Mexico",1,0,25535,29514
+"2236","Montezuma County, Colorado","Cochise County, Arizona",1,0,25535,131346
+"2237","Montezuma County, Colorado","Lubbock County, Texas",1,0,25535,278831
+"2238","Montezuma County, Colorado","Lea County, New Mexico",1,0,25535,64727
+"2239","Montezuma County, Colorado","Eddy County, New Mexico",1,0,25535,53829
+"2240","Montezuma County, Colorado","Chaves County, New Mexico",1,0,25535,65645
+"2241","Montezuma County, Colorado","Union County, New Mexico",1,0,25535,4549
+"2242","Montezuma County, Colorado","Dallam County, Texas",1,0,25535,6703
+"2243","Montezuma County, Colorado","Roosevelt County, New Mexico",1,0,25535,19846
+"2244","Montezuma County, Colorado","Curry County, New Mexico",1,0,25535,48376
+"2245","Montezuma County, Colorado","Parmer County, Texas",1,0,25535,10269
+"2246","Montezuma County, Colorado","Quay County, New Mexico",1,0,25535,9041
+"2247","Montezuma County, Colorado","Harding County, New Mexico",1,0,25535,695
+"2248","Montezuma County, Colorado","De Baca County, New Mexico",1,0,25535,2022
+"2249","Montezuma County, Colorado","Gaines County, Texas",1,0,25535,17526
+"2250","Montezuma County, Colorado","Los Angeles County, California",1,0,25535,9818605
+"2251","Montezuma County, Colorado","Graham County, Arizona",1,0,25535,37220
+"2252","Montezuma County, Colorado","Harris County, Texas",1,0,25535,4092459
+"2253","Montezuma County, Colorado","Maricopa County, Arizona",1,0,25535,3817117
+"2254","Montezuma County, Colorado","Dallas County, Texas",1,0,25535,2368139
+"2255","Graham County, Arizona","Yoakum County, Texas",1,0,37220,7879
+"2256","Graham County, Arizona","Valencia County, New Mexico",1,0,37220,76569
+"2257","Graham County, Arizona","Sandoval County, New Mexico",1,0,37220,131561
+"2258","Graham County, Arizona","Bernalillo County, New Mexico",1,0,37220,662564
+"2259","Graham County, Arizona","Torrance County, New Mexico",1,0,37220,16383
+"2260","Graham County, Arizona","Santa Fe County, New Mexico",1,0,37220,144170
+"2261","Graham County, Arizona","Rio Arriba County, New Mexico",1,0,37220,40246
+"2262","Graham County, Arizona","Los Alamos County, New Mexico",1,0,37220,17950
+"2263","Graham County, Arizona","San Miguel County, New Mexico",1,0,37220,29393
+"2264","Graham County, Arizona","Mora County, New Mexico",1,0,37220,4881
+"2265","Graham County, Arizona","Socorro County, New Mexico",1,0,37220,17866
+"2266","Graham County, Arizona","Colfax County, New Mexico",1,0,37220,13750
+"2267","Graham County, Arizona","McKinley County, New Mexico",1,0,37220,71492
+"2268","Graham County, Arizona","Cibola County, New Mexico",1,0,37220,27213
+"2269","Graham County, Arizona","Apache County, Arizona",1,0,37220,71518
+"2270","Graham County, Arizona","Las Animas County, Colorado",1,0,37220,15507
+"2271","Graham County, Arizona","Taos County, New Mexico",1,0,37220,32937
+"2272","Graham County, Arizona","Catron County, New Mexico",1,0,37220,3725
+"2273","Graham County, Arizona","Guadalupe County, New Mexico",1,0,37220,4687
+"2274","Graham County, Arizona","San Juan County, New Mexico",1,0,37220,130044
+"2275","Graham County, Arizona","La Plata County, Colorado",1,0,37220,51334
+"2276","Graham County, Arizona","Sierra County, New Mexico",1,0,37220,11988
+"2277","Graham County, Arizona","Otero County, New Mexico",1,0,37220,63797
+"2278","Graham County, Arizona","El Paso County, Texas",1,0,37220,800647
+"2279","Graham County, Arizona","Dona Ana County, New Mexico",1,0,37220,209233
+"2280","Graham County, Arizona","Lincoln County, New Mexico",1,0,37220,20497
+"2281","Graham County, Arizona","Luna County, New Mexico",1,0,37220,25095
+"2282","Graham County, Arizona","Hidalgo County, New Mexico",1,0,37220,4894
+"2283","Graham County, Arizona","Greenlee County, Arizona",1,0,37220,8437
+"2284","Graham County, Arizona","Grant County, New Mexico",1,0,37220,29514
+"2285","Graham County, Arizona","Cochise County, Arizona",1,0,37220,131346
+"2286","Graham County, Arizona","Lubbock County, Texas",1,0,37220,278831
+"2287","Graham County, Arizona","Lea County, New Mexico",1,0,37220,64727
+"2288","Graham County, Arizona","Eddy County, New Mexico",1,0,37220,53829
+"2289","Graham County, Arizona","Chaves County, New Mexico",1,0,37220,65645
+"2290","Graham County, Arizona","Union County, New Mexico",1,0,37220,4549
+"2291","Graham County, Arizona","Dallam County, Texas",1,0,37220,6703
+"2292","Graham County, Arizona","Roosevelt County, New Mexico",1,0,37220,19846
+"2293","Graham County, Arizona","Curry County, New Mexico",1,0,37220,48376
+"2294","Graham County, Arizona","Parmer County, Texas",1,0,37220,10269
+"2295","Graham County, Arizona","Quay County, New Mexico",1,0,37220,9041
+"2296","Graham County, Arizona","Harding County, New Mexico",1,0,37220,695
+"2297","Graham County, Arizona","De Baca County, New Mexico",1,0,37220,2022
+"2298","Graham County, Arizona","Gaines County, Texas",1,0,37220,17526
+"2299","Graham County, Arizona","Los Angeles County, California",1,0,37220,9818605
+"2300","Graham County, Arizona","Montezuma County, Colorado",1,0,37220,25535
+"2301","Graham County, Arizona","Harris County, Texas",1,0,37220,4092459
+"2302","Graham County, Arizona","Maricopa County, Arizona",1,0,37220,3817117
+"2303","Graham County, Arizona","Dallas County, Texas",1,0,37220,2368139
+"2304","Harris County, Texas","Yoakum County, Texas",1,0,4092459,7879
+"2305","Harris County, Texas","Valencia County, New Mexico",1,0,4092459,76569
+"2306","Harris County, Texas","Sandoval County, New Mexico",1,0,4092459,131561
+"2307","Harris County, Texas","Bernalillo County, New Mexico",1,0,4092459,662564
+"2308","Harris County, Texas","Torrance County, New Mexico",1,0,4092459,16383
+"2309","Harris County, Texas","Santa Fe County, New Mexico",1,0,4092459,144170
+"2310","Harris County, Texas","Rio Arriba County, New Mexico",1,0,4092459,40246
+"2311","Harris County, Texas","Los Alamos County, New Mexico",1,0,4092459,17950
+"2312","Harris County, Texas","San Miguel County, New Mexico",1,0,4092459,29393
+"2313","Harris County, Texas","Mora County, New Mexico",1,0,4092459,4881
+"2314","Harris County, Texas","Socorro County, New Mexico",1,0,4092459,17866
+"2315","Harris County, Texas","Colfax County, New Mexico",1,0,4092459,13750
+"2316","Harris County, Texas","McKinley County, New Mexico",1,0,4092459,71492
+"2317","Harris County, Texas","Cibola County, New Mexico",1,0,4092459,27213
+"2318","Harris County, Texas","Apache County, Arizona",1,0,4092459,71518
+"2319","Harris County, Texas","Las Animas County, Colorado",1,0,4092459,15507
+"2320","Harris County, Texas","Taos County, New Mexico",1,0,4092459,32937
+"2321","Harris County, Texas","Catron County, New Mexico",1,0,4092459,3725
+"2322","Harris County, Texas","Guadalupe County, New Mexico",1,0,4092459,4687
+"2323","Harris County, Texas","San Juan County, New Mexico",1,0,4092459,130044
+"2324","Harris County, Texas","La Plata County, Colorado",1,0,4092459,51334
+"2325","Harris County, Texas","Sierra County, New Mexico",1,0,4092459,11988
+"2326","Harris County, Texas","Otero County, New Mexico",1,0,4092459,63797
+"2327","Harris County, Texas","El Paso County, Texas",1,0,4092459,800647
+"2328","Harris County, Texas","Dona Ana County, New Mexico",1,0,4092459,209233
+"2329","Harris County, Texas","Lincoln County, New Mexico",1,0,4092459,20497
+"2330","Harris County, Texas","Luna County, New Mexico",1,0,4092459,25095
+"2331","Harris County, Texas","Hidalgo County, New Mexico",1,0,4092459,4894
+"2332","Harris County, Texas","Greenlee County, Arizona",1,0,4092459,8437
+"2333","Harris County, Texas","Grant County, New Mexico",1,0,4092459,29514
+"2334","Harris County, Texas","Cochise County, Arizona",1,0,4092459,131346
+"2335","Harris County, Texas","Lubbock County, Texas",1,0,4092459,278831
+"2336","Harris County, Texas","Lea County, New Mexico",1,0,4092459,64727
+"2337","Harris County, Texas","Eddy County, New Mexico",1,0,4092459,53829
+"2338","Harris County, Texas","Chaves County, New Mexico",1,0,4092459,65645
+"2339","Harris County, Texas","Union County, New Mexico",1,0,4092459,4549
+"2340","Harris County, Texas","Dallam County, Texas",1,0,4092459,6703
+"2341","Harris County, Texas","Roosevelt County, New Mexico",1,0,4092459,19846
+"2342","Harris County, Texas","Curry County, New Mexico",1,0,4092459,48376
+"2343","Harris County, Texas","Parmer County, Texas",1,0,4092459,10269
+"2344","Harris County, Texas","Quay County, New Mexico",1,0,4092459,9041
+"2345","Harris County, Texas","Harding County, New Mexico",1,0,4092459,695
+"2346","Harris County, Texas","De Baca County, New Mexico",1,0,4092459,2022
+"2347","Harris County, Texas","Gaines County, Texas",1,0,4092459,17526
+"2348","Harris County, Texas","Los Angeles County, California",1,0,4092459,9818605
+"2349","Harris County, Texas","Montezuma County, Colorado",1,0,4092459,25535
+"2350","Harris County, Texas","Graham County, Arizona",1,0,4092459,37220
+"2351","Harris County, Texas","Maricopa County, Arizona",1,0,4092459,3817117
+"2352","Harris County, Texas","Dallas County, Texas",1,0,4092459,2368139
+"2353","Maricopa County, Arizona","Yoakum County, Texas",1,0,3817117,7879
+"2354","Maricopa County, Arizona","Valencia County, New Mexico",1,0,3817117,76569
+"2355","Maricopa County, Arizona","Sandoval County, New Mexico",1,0,3817117,131561
+"2356","Maricopa County, Arizona","Bernalillo County, New Mexico",1,0,3817117,662564
+"2357","Maricopa County, Arizona","Torrance County, New Mexico",1,0,3817117,16383
+"2358","Maricopa County, Arizona","Santa Fe County, New Mexico",1,0,3817117,144170
+"2359","Maricopa County, Arizona","Rio Arriba County, New Mexico",1,0,3817117,40246
+"2360","Maricopa County, Arizona","Los Alamos County, New Mexico",1,0,3817117,17950
+"2361","Maricopa County, Arizona","San Miguel County, New Mexico",1,0,3817117,29393
+"2362","Maricopa County, Arizona","Mora County, New Mexico",1,0,3817117,4881
+"2363","Maricopa County, Arizona","Socorro County, New Mexico",1,0,3817117,17866
+"2364","Maricopa County, Arizona","Colfax County, New Mexico",1,0,3817117,13750
+"2365","Maricopa County, Arizona","McKinley County, New Mexico",1,0,3817117,71492
+"2366","Maricopa County, Arizona","Cibola County, New Mexico",1,0,3817117,27213
+"2367","Maricopa County, Arizona","Apache County, Arizona",1,0,3817117,71518
+"2368","Maricopa County, Arizona","Las Animas County, Colorado",1,0,3817117,15507
+"2369","Maricopa County, Arizona","Taos County, New Mexico",1,0,3817117,32937
+"2370","Maricopa County, Arizona","Catron County, New Mexico",1,0,3817117,3725
+"2371","Maricopa County, Arizona","Guadalupe County, New Mexico",1,0,3817117,4687
+"2372","Maricopa County, Arizona","San Juan County, New Mexico",1,0,3817117,130044
+"2373","Maricopa County, Arizona","La Plata County, Colorado",1,0,3817117,51334
+"2374","Maricopa County, Arizona","Sierra County, New Mexico",1,0,3817117,11988
+"2375","Maricopa County, Arizona","Otero County, New Mexico",1,0,3817117,63797
+"2376","Maricopa County, Arizona","El Paso County, Texas",1,0,3817117,800647
+"2377","Maricopa County, Arizona","Dona Ana County, New Mexico",1,0,3817117,209233
+"2378","Maricopa County, Arizona","Lincoln County, New Mexico",1,0,3817117,20497
+"2379","Maricopa County, Arizona","Luna County, New Mexico",1,0,3817117,25095
+"2380","Maricopa County, Arizona","Hidalgo County, New Mexico",1,0,3817117,4894
+"2381","Maricopa County, Arizona","Greenlee County, Arizona",1,0,3817117,8437
+"2382","Maricopa County, Arizona","Grant County, New Mexico",1,0,3817117,29514
+"2383","Maricopa County, Arizona","Cochise County, Arizona",1,0,3817117,131346
+"2384","Maricopa County, Arizona","Lubbock County, Texas",1,0,3817117,278831
+"2385","Maricopa County, Arizona","Lea County, New Mexico",1,0,3817117,64727
+"2386","Maricopa County, Arizona","Eddy County, New Mexico",1,0,3817117,53829
+"2387","Maricopa County, Arizona","Chaves County, New Mexico",1,0,3817117,65645
+"2388","Maricopa County, Arizona","Union County, New Mexico",1,0,3817117,4549
+"2389","Maricopa County, Arizona","Dallam County, Texas",1,0,3817117,6703
+"2390","Maricopa County, Arizona","Roosevelt County, New Mexico",1,0,3817117,19846
+"2391","Maricopa County, Arizona","Curry County, New Mexico",1,0,3817117,48376
+"2392","Maricopa County, Arizona","Parmer County, Texas",1,0,3817117,10269
+"2393","Maricopa County, Arizona","Quay County, New Mexico",1,0,3817117,9041
+"2394","Maricopa County, Arizona","Harding County, New Mexico",1,0,3817117,695
+"2395","Maricopa County, Arizona","De Baca County, New Mexico",1,0,3817117,2022
+"2396","Maricopa County, Arizona","Gaines County, Texas",1,0,3817117,17526
+"2397","Maricopa County, Arizona","Los Angeles County, California",1,0,3817117,9818605
+"2398","Maricopa County, Arizona","Montezuma County, Colorado",1,0,3817117,25535
+"2399","Maricopa County, Arizona","Graham County, Arizona",1,0,3817117,37220
+"2400","Maricopa County, Arizona","Harris County, Texas",1,0,3817117,4092459
+"2401","Maricopa County, Arizona","Dallas County, Texas",1,0,3817117,2368139
+"2402","Dallas County, Texas","Yoakum County, Texas",1,0,2368139,7879
+"2403","Dallas County, Texas","Valencia County, New Mexico",1,0,2368139,76569
+"2404","Dallas County, Texas","Sandoval County, New Mexico",1,0,2368139,131561
+"2405","Dallas County, Texas","Bernalillo County, New Mexico",1,0,2368139,662564
+"2406","Dallas County, Texas","Torrance County, New Mexico",1,0,2368139,16383
+"2407","Dallas County, Texas","Santa Fe County, New Mexico",1,0,2368139,144170
+"2408","Dallas County, Texas","Rio Arriba County, New Mexico",1,0,2368139,40246
+"2409","Dallas County, Texas","Los Alamos County, New Mexico",1,0,2368139,17950
+"2410","Dallas County, Texas","San Miguel County, New Mexico",1,0,2368139,29393
+"2411","Dallas County, Texas","Mora County, New Mexico",1,0,2368139,4881
+"2412","Dallas County, Texas","Socorro County, New Mexico",1,0,2368139,17866
+"2413","Dallas County, Texas","Colfax County, New Mexico",1,0,2368139,13750
+"2414","Dallas County, Texas","McKinley County, New Mexico",1,0,2368139,71492
+"2415","Dallas County, Texas","Cibola County, New Mexico",1,0,2368139,27213
+"2416","Dallas County, Texas","Apache County, Arizona",1,0,2368139,71518
+"2417","Dallas County, Texas","Las Animas County, Colorado",1,0,2368139,15507
+"2418","Dallas County, Texas","Taos County, New Mexico",1,0,2368139,32937
+"2419","Dallas County, Texas","Catron County, New Mexico",1,0,2368139,3725
+"2420","Dallas County, Texas","Guadalupe County, New Mexico",1,0,2368139,4687
+"2421","Dallas County, Texas","San Juan County, New Mexico",1,0,2368139,130044
+"2422","Dallas County, Texas","La Plata County, Colorado",1,0,2368139,51334
+"2423","Dallas County, Texas","Sierra County, New Mexico",1,0,2368139,11988
+"2424","Dallas County, Texas","Otero County, New Mexico",1,0,2368139,63797
+"2425","Dallas County, Texas","El Paso County, Texas",1,0,2368139,800647
+"2426","Dallas County, Texas","Dona Ana County, New Mexico",1,0,2368139,209233
+"2427","Dallas County, Texas","Lincoln County, New Mexico",1,0,2368139,20497
+"2428","Dallas County, Texas","Luna County, New Mexico",1,0,2368139,25095
+"2429","Dallas County, Texas","Hidalgo County, New Mexico",1,0,2368139,4894
+"2430","Dallas County, Texas","Greenlee County, Arizona",1,0,2368139,8437
+"2431","Dallas County, Texas","Grant County, New Mexico",1,0,2368139,29514
+"2432","Dallas County, Texas","Cochise County, Arizona",1,0,2368139,131346
+"2433","Dallas County, Texas","Lubbock County, Texas",1,0,2368139,278831
+"2434","Dallas County, Texas","Lea County, New Mexico",1,0,2368139,64727
+"2435","Dallas County, Texas","Eddy County, New Mexico",1,0,2368139,53829
+"2436","Dallas County, Texas","Chaves County, New Mexico",1,0,2368139,65645
+"2437","Dallas County, Texas","Union County, New Mexico",1,0,2368139,4549
+"2438","Dallas County, Texas","Dallam County, Texas",1,0,2368139,6703
+"2439","Dallas County, Texas","Roosevelt County, New Mexico",1,0,2368139,19846
+"2440","Dallas County, Texas","Curry County, New Mexico",1,0,2368139,48376
+"2441","Dallas County, Texas","Parmer County, Texas",1,0,2368139,10269
+"2442","Dallas County, Texas","Quay County, New Mexico",1,0,2368139,9041
+"2443","Dallas County, Texas","Harding County, New Mexico",1,0,2368139,695
+"2444","Dallas County, Texas","De Baca County, New Mexico",1,0,2368139,2022
+"2445","Dallas County, Texas","Gaines County, Texas",1,0,2368139,17526
+"2446","Dallas County, Texas","Los Angeles County, California",1,0,2368139,9818605
+"2447","Dallas County, Texas","Montezuma County, Colorado",1,0,2368139,25535
+"2448","Dallas County, Texas","Graham County, Arizona",1,0,2368139,37220
+"2449","Dallas County, Texas","Harris County, Texas",1,0,2368139,4092459
+"2450","Dallas County, Texas","Maricopa County, Arizona",1,0,2368139,3817117

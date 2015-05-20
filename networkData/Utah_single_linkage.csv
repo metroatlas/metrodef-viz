@@ -1,0 +1,1981 @@
+"","source","target","cluster","pct","srcpop","tarpop"
+"181","Tooele County, Utah","Salt Lake County, Utah",1,0.146398021230547,58218,1029655
+"270","Davis County, Utah","Salt Lake County, Utah",1,0.135412214213698,306479,1029655
+"91","Wasatch County, Utah","Summit County, Utah",1,0.0945601359966001,23530,36324
+"360","Juab County, Utah","Utah County, Utah",1,0.0937926995900839,10246,516564
+"137","Summit County, Utah","Salt Lake County, Utah",1,0.0924457658848144,36324,1029655
+"45","Morgan County, Utah","Weber County, Utah",1,0.091033900095047,9469,231236
+"6","Weber County, Utah","Davis County, Utah",1,0.0880442491653549,231236,306479
+"1531","Emery County, Utah","Carbon County, Utah",1,0.0744351311953353,10976,21403
+"50","Morgan County, Utah","Davis County, Utah",1,0.0596683915936213,9469,306479
+"314","Utah County, Utah","Salt Lake County, Utah",1,0.054272074709039,516564,1029655
+"397","Box Elder County, Utah","Weber County, Utah",1,0.0529464732366183,49975,231236
+"265","Davis County, Utah","Weber County, Utah",1,0.0512987839297309,306479,231236
+"1665","Duchesne County, Utah","Uintah County, Utah",1,0.0411135594131241,18607,32588
+"93","Wasatch County, Utah","Salt Lake County, Utah",1,0.0365915852103697,23530,1029655
+"585","Piute County, Utah","Sevier County, Utah",1,0.0353470437017995,1556,20802
+"49","Morgan County, Utah","Salt Lake County, Utah",1,0.034744957228852,9469,1029655
+"5","Weber County, Utah","Salt Lake County, Utah",1,0.034255046792022,231236,1029655
+"1261","Kane County, Utah","Coconino County, Arizona",1,0.0298947368421053,7125,134421
+"1621","Uintah County, Utah","Duchesne County, Utah",1,0.0215723579231619,32588,18607
+"1575","Carbon County, Utah","Emery County, Utah",1,0.0205111432976685,21403,10976
+"95","Wasatch County, Utah","Utah County, Utah",1,0.0196345091372716,23530,516564
+"855","Rich County, Utah","Uinta County, Wyoming",1,0.019434628975265,2264,21118
+"403","Box Elder County, Utah","Davis County, Utah",1,0.0161480740370185,49975,306479
+"856","Rich County, Utah","Lincoln County, Wyoming",1,0.0154593639575972,2264,18106
+"406","Box Elder County, Utah","Cache County, Utah",1,0.0151075537768884,49975,112656
+"492","Sanpete County, Utah","Utah County, Utah",1,0.0145568255337503,27822,516564
+"358","Juab County, Utah","Salt Lake County, Utah",1,0.0129806753855163,10246,1029655
+"586","Piute County, Utah","Garfield County, Utah",1,0.012853470437018,1556,5172
+"450","Cache County, Utah","Box Elder County, Utah",1,0.0123473228234626,112656,49975
+"1171","San Juan County, Utah","Grand County, Utah",1,0.0122745151227451,14746,9225
+"1035","Iron County, Utah","Washington County, Utah",1,0.0120876026254793,46163,138115
+"496","Sanpete County, Utah","Sevier County, Utah",1,0.0110344331823737,27822,20802
+"540","Sevier County, Utah","Sanpete County, Utah",1,0.0103836169599077,20802,27822
+"227","Salt Lake County, Utah","Utah County, Utah",1,0.00992468351049623,1029655,516564
+"9","Weber County, Utah","Box Elder County, Utah",1,0.00829888079710772,231236,49975
+"402","Box Elder County, Utah","Salt Lake County, Utah",1,0.00782391195597799,49975,1029655
+"226","Salt Lake County, Utah","Davis County, Utah",1,0.00777153512584312,1029655,306479
+"1935","Daggett County, Utah","Sweetwater County, Wyoming",1,0.00755429650613787,1059,43806
+"1259","Kane County, Utah","San Juan County, Utah",1,0.00743859649122807,7125,14746
+"182","Tooele County, Utah","Davis County, Utah",1,0.00728297090247003,58218,306479
+"47","Morgan County, Utah","Summit County, Utah",1,0.00654768190938853,9469,36324
+"1215","Grand County, Utah","San Juan County, Utah",1,0.00628726287262873,9225,14746
+"666","Millard County, Utah","Salt Lake County, Utah",1,0.00599856034551708,12503,1029655
+"490","Sanpete County, Utah","Salt Lake County, Utah",1,0.00578678743440443,27822,1029655
+"992","Washington County, Utah","Clark County, Nevada",1,0.00571263077869891,138115,1951269
+"1124","Beaver County, Utah","Iron County, Utah",1,0.00543068336098959,6629,46163
+"710","Wayne County, Utah","Salt Lake County, Utah",1,0.00539956803455724,2778,1029655
+"193","Tooele County, Utah","Elko County, Nevada",1,0.00537634408602151,58218,48818
+"1174","San Juan County, Utah","Navajo County, Arizona",1,0.00535738505357385,14746,107449
+"135","Summit County, Utah","Wasatch County, Utah",1,0.00534082149543002,36324,23530
+"847","Rich County, Utah","Cache County, Utah",1,0.00530035335689046,2264,112656
+"367","Juab County, Utah","Millard County, Utah",1,0.00468475502635175,10246,12503
+"493","Sanpete County, Utah","Juab County, Utah",1,0.00463661850334268,27822,10246
+"441","Cache County, Utah","Weber County, Utah",1,0.00425188183496662,112656,231236
+"991","Washington County, Utah","Iron County, Utah",1,0.00396770806936249,138115,46163
+"224","Salt Lake County, Utah","Summit County, Utah",1,0.00382458202019123,1029655,36324
+"446","Cache County, Utah","Salt Lake County, Utah",1,0.00320444539127965,112656,1029655
+"1175","San Juan County, Utah","Montezuma County, Colorado",1,0.00318730503187305,14746,25535
+"1622","Uintah County, Utah","Rio Blanco County, Colorado",1,0.00279243893457715,32588,6666
+"578","Piute County, Utah","Salt Lake County, Utah",1,0.0025706940874036,1556,1029655
+"584","Piute County, Utah","Sanpete County, Utah",1,0.0025706940874036,1556,27822
+"447","Cache County, Utah","Davis County, Utah",1,0.00253870188893623,112656,306479
+"717","Wayne County, Utah","Sevier County, Utah",1,0.00251979841612671,2778,20802
+"461","Cache County, Utah","Franklin County, Idaho",1,0.00246768924868627,112656,12786
+"271","Davis County, Utah","Utah County, Utah",1,0.00243083539165816,306479,516564
+"534","Sevier County, Utah","Salt Lake County, Utah",1,0.00235554273627536,20802,1029655
+"139","Summit County, Utah","Utah County, Utah",1,0.00220240061667217,36324,516564
+"1036","Iron County, Utah","Clark County, Nevada",1,0.00216623702965578,46163,1951269
+"357","Juab County, Utah","Tooele County, Utah",1,0.00214717938707788,10246,58218
+"1176","San Juan County, Utah","San Juan County, New Mexico",1,0.0018988200189882,14746,130044
+"133","Summit County, Utah","Weber County, Utah",1,0.00184451051646294,36324,231236
+"639","Garfield County, Utah","Iron County, Utah",1,0.00174013921113689,5172,46163
+"225","Salt Lake County, Utah","Tooele County, Utah",1,0.00163258567189981,1029655,58218
+"315","Utah County, Utah","Davis County, Utah",1,0.00157386112853393,516564,306479
+"1177","San Juan County, Utah","Apache County, Arizona",1,0.00155974501559745,14746,71518
+"974","Washington County, Utah","Salt Lake County, Utah",1,0.0015059913839916,138115,1029655
+"7","Weber County, Utah","Utah County, Utah",1,0.00149630680343891,231236,516564
+"221","Salt Lake County, Utah","Weber County, Utah",1,0.00149467540098382,1029655,231236
+"541","Sevier County, Utah","Piute County, Utah",1,0.00149024132294972,20802,1556
+"1524","Emery County, Utah","Grand County, Utah",1,0.00145772594752187,10976,9225
+"518","Sanpete County, Utah","Emery County, Utah",1,0.00143771116382719,27822,10976
+"519","Sanpete County, Utah","Carbon County, Utah",1,0.00132988282654015,27822,21403
+"837","Rich County, Utah","Weber County, Utah",1,0.00132508833922261,2264,231236
+"180","Tooele County, Utah","Summit County, Utah",1,0.00123673090796661,58218,36324
+"273","Davis County, Utah","Box Elder County, Utah",1,0.00112895173894459,306479,49975
+"138","Summit County, Utah","Davis County, Utah",1,0.00112873031604449,36324,306479
+"1247","Kane County, Utah","Garfield County, Utah",1,0.00112280701754386,7125,5172
+"673","Millard County, Utah","Sevier County, Utah",1,0.00111973126449652,12503,20802
+"1123","Beaver County, Utah","Washington County, Utah",1,0.00105596620908131,6629,138115
+"312","Utah County, Utah","Summit County, Utah",1,0.000973741879031446,516564,36324
+"642","Garfield County, Utah","San Juan County, Utah",1,0.000966744006187161,5172,14746
+"183","Tooele County, Utah","Utah County, Utah",1,0.000927548180974956,58218,516564
+"268","Davis County, Utah","Summit County, Utah",1,0.000913602563307763,306479,36324
+"536","Sevier County, Utah","Utah County, Utah",1,0.000913373714065955,20802,516564
+"1546","Carbon County, Utah","Salt Lake County, Utah",1,0.000841003597626501,21403,1029655
+"1","Weber County, Utah","Morgan County, Utah",1,0.000800048435364736,231236,9469
+"309","Utah County, Utah","Weber County, Utah",1,0.000782090892900009,516564,231236
+"313","Utah County, Utah","Tooele County, Utah",1,0.000762732207432187,516564,58218
+"10","Weber County, Utah","Cache County, Utah",1,0.000756802573993669,231236,112656
+"311","Utah County, Utah","Wasatch County, Utah",1,0.000735630047777236,516564,23530
+"177","Tooele County, Utah","Weber County, Utah",1,0.000704249544814319,58218,231236
+"1255","Kane County, Utah","Washington County, Utah",1,0.000701754385964912,7125,138115
+"134","Summit County, Utah","Morgan County, Utah",1,0.000660720185001652,36324,9469
+"1590","Uintah County, Utah","Salt Lake County, Utah",1,0.000644408984902418,32588,1029655
+"672","Millard County, Utah","Sanpete County, Utah",1,0.000639846436855155,12503,27822
+"1504","Emery County, Utah","Utah County, Utah",1,0.000637755102040816,10976,516564
+"640","Garfield County, Utah","Clark County, Nevada",1,0.000580046403712297,5172,1951269
+"316","Utah County, Utah","Juab County, Utah",1,0.000561401878566838,516564,10246
+"1502","Emery County, Utah","Salt Lake County, Utah",1,0.0005466472303207,10976,1029655
+"3","Weber County, Utah","Summit County, Utah",1,0.000540573267138335,231236,36324
+"668","Millard County, Utah","Utah County, Utah",1,0.000479884827641366,12503,516564
+"171","Summit County, Utah","Dallas County, Texas",1,0.000468010131042837,36324,2368139
+"1037","Iron County, Utah","Beaver County, Utah",1,0.000454909776227715,46163,6629
+"843","Rich County, Utah","Davis County, Utah",1,0.000441696113074206,2264,306479
+"1008","Washington County, Utah","Mohave County, Arizona",1,0.000434420591536039,138115,200186
+"552","Sevier County, Utah","Clark County, Nevada",1,0.000432650706662821,20802,1951269
+"669","Millard County, Utah","Juab County, Utah",1,0.000399904023034471,12503,10246
+"448","Cache County, Utah","Utah County, Utah",1,0.00039944610140605,112656,516564
+"173","Summit County, Utah","Queens County, New York",1,0.00038542010791763,36324,2230722
+"1634","Duchesne County, Utah","Salt Lake County, Utah",1,0.000376202504433815,18607,1029655
+"1018","Iron County, Utah","Salt Lake County, Utah",1,0.000346597924744926,46163,1029655
+"550","Sevier County, Utah","Washington County, Utah",1,0.000336506105182194,20802,138115
+"404","Box Elder County, Utah","Utah County, Utah",1,0.00032016008004002,49975,516564
+"269","Davis County, Utah","Tooele County, Utah",1,0.000303446565670079,306479,58218
+"1245","Kane County, Utah","Sevier County, Utah",1,0.000280701754385965,7125,20802
+"1548","Carbon County, Utah","Utah County, Utah",1,0.000280334532542167,21403,516564
+"185","Tooele County, Utah","Box Elder County, Utah",1,0.00024047545432684,58218,49975
+"223","Salt Lake County, Utah","Wasatch County, Utah",1,0.000238914976375582,1029655,23530
+"51","Morgan County, Utah","Utah County, Utah",1,0.000211215545464146,9469,516564
+"1173","San Juan County, Utah","Coconino County, Arizona",1,0.00020344500203445,14746,134421
+"332","Utah County, Utah","Clark County, Nevada",1,0.000203266197412131,516564,1951269
+"343","Utah County, Utah","Carbon County, Utah",1,0.000199394460318567,516564,21403
+"476","Cache County, Utah","Uintah County, Utah",1,0.000195284760687402,112656,32588
+"356","Juab County, Utah","Summit County, Utah",1,0.000195198126097989,10246,36324
+"155","Summit County, Utah","Iron County, Utah",1,0.000192710053958815,36324,46163
+"1582","Carbon County, Utah","Sweetwater County, Wyoming",1,0.000186889688361445,21403,43806
+"274","Davis County, Utah","Cache County, Utah",1,0.00018598337895908,306479,112656
+"526","Sanpete County, Utah","Sweetwater County, Wyoming",1,0.000179713895478398,27822,43806
+"976","Washington County, Utah","Utah County, Utah",1,0.000166527893422148,138115,516564
+"1631","Duchesne County, Utah","Wasatch County, Utah",1,0.00016122964475735,18607,23530
+"230","Salt Lake County, Utah","Cache County, Utah",1,0.000156363053644182,1029655,112656
+"22","Weber County, Utah","Washington County, Utah",1,0.000151360514798734,231236,138115
+"266","Davis County, Utah","Morgan County, Utah",1,0.000146828983388748,306479,9469
+"1276","Kane County, Utah","Los Angeles County, California",1,0.000140350877192983,7125,9818605
+"344","Utah County, Utah","Uintah County, Utah",1,0.000123895586994061,516564,32588
+"323","Utah County, Utah","Millard County, Utah",1,0.000116152112806932,516564,12503
+"256","Salt Lake County, Utah","Uintah County, Utah",1,0.000110716696369172,1029655,32588
+"996","Washington County, Utah","Kane County, Utah",1,0.00010860514788401,138115,7125
+"308","Davis County, Utah","Los Angeles County, California",1,9.78859889258318e-05,306479,9818605
+"363","Juab County, Utah","Sanpete County, Utah",1,9.75990630489947e-05,10246,27822
+"242","Salt Lake County, Utah","Washington County, Utah",1,9.61487100048074e-05,1029655,138115
+"264","Salt Lake County, Utah","Los Angeles County, California",1,9.42063118228921e-05,1029655,9818605
+"1040","Iron County, Utah","Kane County, Utah",1,8.66494811862315e-05,46163,7125
+"1027","Iron County, Utah","Garfield County, Utah",1,8.66494811862314e-05,46163,5172
+"352","Utah County, Utah","Los Angeles County, California",1,8.51782160584168e-05,516564,9818605
+"150","Summit County, Utah","Uinta County, Wyoming",1,8.25900231252064e-05,36324,21118
+"176","Summit County, Utah","Los Angeles County, California",1,8.25900231252064e-05,36324,9818605
+"244","Salt Lake County, Utah","Clark County, Nevada",1,8.15807236404427e-05,1029655,1951269
+"682","Millard County, Utah","Washington County, Utah",1,7.99808046068944e-05,12503,138115
+"459","Cache County, Utah","Rich County, Utah",1,7.988922028121e-05,112656,2264
+"983","Washington County, Utah","Garfield County, Utah",1,7.96437751149404e-05,138115,5172
+"4","Weber County, Utah","Tooele County, Utah",1,7.35179643308135e-05,231236,58218
+"319","Utah County, Utah","Sanpete County, Utah",1,6.58195305905948e-05,516564,27822
+"288","Davis County, Utah","Clark County, Nevada",1,5.87315933554991e-05,306479,1951269
+"330","Utah County, Utah","Washington County, Utah",1,5.8076056403466e-05,516564,138115
+"342","Utah County, Utah","Emery County, Utah",1,5.61401878566838e-05,516564,10976
+"174","Summit County, Utah","Sweetwater County, Wyoming",1,5.50600154168043e-05,36324,43806
+"551","Sevier County, Utah","Iron County, Utah",1,4.80723007403135e-05,20802,46163
+"1576","Carbon County, Utah","Uintah County, Utah",1,4.67224220903611e-05,21403,32588
+"229","Salt Lake County, Utah","Box Elder County, Utah",1,4.66175563659672e-05,1029655,49975
+"350","Utah County, Utah","Sweetwater County, Wyoming",1,4.45249765759906e-05,516564,43806
+"238","Salt Lake County, Utah","Uinta County, Wyoming",1,3.69055654563907e-05,1029655,21118
+"508","Sanpete County, Utah","Clark County, Nevada",1,3.59427790956796e-05,27822,1951269
+"257","Salt Lake County, Utah","Duchesne County, Utah",1,3.30207690925601e-05,1029655,18607
+"300","Davis County, Utah","Uintah County, Utah",1,3.26286629752773e-05,306479,32588
+"262","Salt Lake County, Utah","Sweetwater County, Wyoming",1,3.20495700016025e-05,1029655,43806
+"255","Salt Lake County, Utah","Carbon County, Utah",1,2.52511763648989e-05,1029655,21403
+"320","Utah County, Utah","Sevier County, Utah",1,2.51662911081686e-05,516564,20802
+"237","Salt Lake County, Utah","Elko County, Nevada",1,1.65103845462801e-05,1029655,48818
+"301","Davis County, Utah","Duchesne County, Utah",1,1.63143314876386e-05,306479,18607
+"37","Weber County, Utah","Duchesne County, Utah",1,1.297375841132e-05,231236,18607
+"18","Weber County, Utah","Uinta County, Wyoming",1,1.297375841132e-05,231236,21118
+"222","Salt Lake County, Utah","Morgan County, Utah",1,1.26255881824495e-05,1029655,9469
+"259","Salt Lake County, Utah","Dallas County, Texas",1,1.06831900005342e-05,1029655,2368139
+"282","Davis County, Utah","Uinta County, Wyoming",1,9.78859889258317e-06,306479,21118
+"12","Weber County, Utah","Sevier County, Utah",1,8.64917227421337e-06,231236,20802
+"228","Salt Lake County, Utah","Juab County, Utah",1,6.79839363670356e-06,1029655,10246
+"318","Utah County, Utah","Cache County, Utah",1,5.8076056403466e-06,516564,112656
+"336","Utah County, Utah","Kane County, Utah",1,3.8717370935644e-06,516564,7125
+"249","Salt Lake County, Utah","Coconino County, Arizona",1,2.91359727287296e-06,1029655,134421
+"236","Salt Lake County, Utah","Wayne County, Utah",1,2.91359727287295e-06,1029655,2778
+"2","Weber County, Utah","Wasatch County, Utah",1,0,231236,23530
+"8","Weber County, Utah","Juab County, Utah",1,0,231236,10246
+"11","Weber County, Utah","Sanpete County, Utah",1,0,231236,27822
+"13","Weber County, Utah","Piute County, Utah",1,0,231236,1556
+"14","Weber County, Utah","Garfield County, Utah",1,0,231236,5172
+"15","Weber County, Utah","Millard County, Utah",1,0,231236,12503
+"16","Weber County, Utah","Wayne County, Utah",1,0,231236,2778
+"17","Weber County, Utah","Elko County, Nevada",1,0,231236,48818
+"19","Weber County, Utah","Rich County, Utah",1,0,231236,2264
+"20","Weber County, Utah","Lincoln County, Wyoming",1,0,231236,18106
+"21","Weber County, Utah","Franklin County, Idaho",1,0,231236,12786
+"23","Weber County, Utah","Iron County, Utah",1,0,231236,46163
+"24","Weber County, Utah","Clark County, Nevada",1,0,231236,1951269
+"25","Weber County, Utah","Beaver County, Utah",1,0,231236,6629
+"26","Weber County, Utah","San Juan County, Utah",1,0,231236,14746
+"27","Weber County, Utah","Grand County, Utah",1,0,231236,9225
+"28","Weber County, Utah","Kane County, Utah",1,0,231236,7125
+"29","Weber County, Utah","Coconino County, Arizona",1,0,231236,134421
+"30","Weber County, Utah","Navajo County, Arizona",1,0,231236,107449
+"31","Weber County, Utah","Montezuma County, Colorado",1,0,231236,25535
+"32","Weber County, Utah","San Juan County, New Mexico",1,0,231236,130044
+"33","Weber County, Utah","Apache County, Arizona",1,0,231236,71518
+"34","Weber County, Utah","Emery County, Utah",1,0,231236,10976
+"35","Weber County, Utah","Carbon County, Utah",1,0,231236,21403
+"36","Weber County, Utah","Uintah County, Utah",1,0,231236,32588
+"38","Weber County, Utah","Rio Blanco County, Colorado",1,0,231236,6666
+"39","Weber County, Utah","Dallas County, Texas",1,0,231236,2368139
+"40","Weber County, Utah","Mohave County, Arizona",1,0,231236,200186
+"41","Weber County, Utah","Queens County, New York",1,0,231236,2230722
+"42","Weber County, Utah","Sweetwater County, Wyoming",1,0,231236,43806
+"43","Weber County, Utah","Daggett County, Utah",1,0,231236,1059
+"44","Weber County, Utah","Los Angeles County, California",1,0,231236,9818605
+"46","Morgan County, Utah","Wasatch County, Utah",1,0,9469,23530
+"48","Morgan County, Utah","Tooele County, Utah",1,0,9469,58218
+"52","Morgan County, Utah","Juab County, Utah",1,0,9469,10246
+"53","Morgan County, Utah","Box Elder County, Utah",1,0,9469,49975
+"54","Morgan County, Utah","Cache County, Utah",1,0,9469,112656
+"55","Morgan County, Utah","Sanpete County, Utah",1,0,9469,27822
+"56","Morgan County, Utah","Sevier County, Utah",1,0,9469,20802
+"57","Morgan County, Utah","Piute County, Utah",1,0,9469,1556
+"58","Morgan County, Utah","Garfield County, Utah",1,0,9469,5172
+"59","Morgan County, Utah","Millard County, Utah",1,0,9469,12503
+"60","Morgan County, Utah","Wayne County, Utah",1,0,9469,2778
+"61","Morgan County, Utah","Elko County, Nevada",1,0,9469,48818
+"62","Morgan County, Utah","Uinta County, Wyoming",1,0,9469,21118
+"63","Morgan County, Utah","Rich County, Utah",1,0,9469,2264
+"64","Morgan County, Utah","Lincoln County, Wyoming",1,0,9469,18106
+"65","Morgan County, Utah","Franklin County, Idaho",1,0,9469,12786
+"66","Morgan County, Utah","Washington County, Utah",1,0,9469,138115
+"67","Morgan County, Utah","Iron County, Utah",1,0,9469,46163
+"68","Morgan County, Utah","Clark County, Nevada",1,0,9469,1951269
+"69","Morgan County, Utah","Beaver County, Utah",1,0,9469,6629
+"70","Morgan County, Utah","San Juan County, Utah",1,0,9469,14746
+"71","Morgan County, Utah","Grand County, Utah",1,0,9469,9225
+"72","Morgan County, Utah","Kane County, Utah",1,0,9469,7125
+"73","Morgan County, Utah","Coconino County, Arizona",1,0,9469,134421
+"74","Morgan County, Utah","Navajo County, Arizona",1,0,9469,107449
+"75","Morgan County, Utah","Montezuma County, Colorado",1,0,9469,25535
+"76","Morgan County, Utah","San Juan County, New Mexico",1,0,9469,130044
+"77","Morgan County, Utah","Apache County, Arizona",1,0,9469,71518
+"78","Morgan County, Utah","Emery County, Utah",1,0,9469,10976
+"79","Morgan County, Utah","Carbon County, Utah",1,0,9469,21403
+"80","Morgan County, Utah","Uintah County, Utah",1,0,9469,32588
+"81","Morgan County, Utah","Duchesne County, Utah",1,0,9469,18607
+"82","Morgan County, Utah","Rio Blanco County, Colorado",1,0,9469,6666
+"83","Morgan County, Utah","Dallas County, Texas",1,0,9469,2368139
+"84","Morgan County, Utah","Mohave County, Arizona",1,0,9469,200186
+"85","Morgan County, Utah","Queens County, New York",1,0,9469,2230722
+"86","Morgan County, Utah","Sweetwater County, Wyoming",1,0,9469,43806
+"87","Morgan County, Utah","Daggett County, Utah",1,0,9469,1059
+"88","Morgan County, Utah","Los Angeles County, California",1,0,9469,9818605
+"89","Wasatch County, Utah","Weber County, Utah",1,0,23530,231236
+"90","Wasatch County, Utah","Morgan County, Utah",1,0,23530,9469
+"92","Wasatch County, Utah","Tooele County, Utah",1,0,23530,58218
+"94","Wasatch County, Utah","Davis County, Utah",1,0,23530,306479
+"96","Wasatch County, Utah","Juab County, Utah",1,0,23530,10246
+"97","Wasatch County, Utah","Box Elder County, Utah",1,0,23530,49975
+"98","Wasatch County, Utah","Cache County, Utah",1,0,23530,112656
+"99","Wasatch County, Utah","Sanpete County, Utah",1,0,23530,27822
+"100","Wasatch County, Utah","Sevier County, Utah",1,0,23530,20802
+"101","Wasatch County, Utah","Piute County, Utah",1,0,23530,1556
+"102","Wasatch County, Utah","Garfield County, Utah",1,0,23530,5172
+"103","Wasatch County, Utah","Millard County, Utah",1,0,23530,12503
+"104","Wasatch County, Utah","Wayne County, Utah",1,0,23530,2778
+"105","Wasatch County, Utah","Elko County, Nevada",1,0,23530,48818
+"106","Wasatch County, Utah","Uinta County, Wyoming",1,0,23530,21118
+"107","Wasatch County, Utah","Rich County, Utah",1,0,23530,2264
+"108","Wasatch County, Utah","Lincoln County, Wyoming",1,0,23530,18106
+"109","Wasatch County, Utah","Franklin County, Idaho",1,0,23530,12786
+"110","Wasatch County, Utah","Washington County, Utah",1,0,23530,138115
+"111","Wasatch County, Utah","Iron County, Utah",1,0,23530,46163
+"112","Wasatch County, Utah","Clark County, Nevada",1,0,23530,1951269
+"113","Wasatch County, Utah","Beaver County, Utah",1,0,23530,6629
+"114","Wasatch County, Utah","San Juan County, Utah",1,0,23530,14746
+"115","Wasatch County, Utah","Grand County, Utah",1,0,23530,9225
+"116","Wasatch County, Utah","Kane County, Utah",1,0,23530,7125
+"117","Wasatch County, Utah","Coconino County, Arizona",1,0,23530,134421
+"118","Wasatch County, Utah","Navajo County, Arizona",1,0,23530,107449
+"119","Wasatch County, Utah","Montezuma County, Colorado",1,0,23530,25535
+"120","Wasatch County, Utah","San Juan County, New Mexico",1,0,23530,130044
+"121","Wasatch County, Utah","Apache County, Arizona",1,0,23530,71518
+"122","Wasatch County, Utah","Emery County, Utah",1,0,23530,10976
+"123","Wasatch County, Utah","Carbon County, Utah",1,0,23530,21403
+"124","Wasatch County, Utah","Uintah County, Utah",1,0,23530,32588
+"125","Wasatch County, Utah","Duchesne County, Utah",1,0,23530,18607
+"126","Wasatch County, Utah","Rio Blanco County, Colorado",1,0,23530,6666
+"127","Wasatch County, Utah","Dallas County, Texas",1,0,23530,2368139
+"128","Wasatch County, Utah","Mohave County, Arizona",1,0,23530,200186
+"129","Wasatch County, Utah","Queens County, New York",1,0,23530,2230722
+"130","Wasatch County, Utah","Sweetwater County, Wyoming",1,0,23530,43806
+"131","Wasatch County, Utah","Daggett County, Utah",1,0,23530,1059
+"132","Wasatch County, Utah","Los Angeles County, California",1,0,23530,9818605
+"136","Summit County, Utah","Tooele County, Utah",1,0,36324,58218
+"140","Summit County, Utah","Juab County, Utah",1,0,36324,10246
+"141","Summit County, Utah","Box Elder County, Utah",1,0,36324,49975
+"142","Summit County, Utah","Cache County, Utah",1,0,36324,112656
+"143","Summit County, Utah","Sanpete County, Utah",1,0,36324,27822
+"144","Summit County, Utah","Sevier County, Utah",1,0,36324,20802
+"145","Summit County, Utah","Piute County, Utah",1,0,36324,1556
+"146","Summit County, Utah","Garfield County, Utah",1,0,36324,5172
+"147","Summit County, Utah","Millard County, Utah",1,0,36324,12503
+"148","Summit County, Utah","Wayne County, Utah",1,0,36324,2778
+"149","Summit County, Utah","Elko County, Nevada",1,0,36324,48818
+"151","Summit County, Utah","Rich County, Utah",1,0,36324,2264
+"152","Summit County, Utah","Lincoln County, Wyoming",1,0,36324,18106
+"153","Summit County, Utah","Franklin County, Idaho",1,0,36324,12786
+"154","Summit County, Utah","Washington County, Utah",1,0,36324,138115
+"156","Summit County, Utah","Clark County, Nevada",1,0,36324,1951269
+"157","Summit County, Utah","Beaver County, Utah",1,0,36324,6629
+"158","Summit County, Utah","San Juan County, Utah",1,0,36324,14746
+"159","Summit County, Utah","Grand County, Utah",1,0,36324,9225
+"160","Summit County, Utah","Kane County, Utah",1,0,36324,7125
+"161","Summit County, Utah","Coconino County, Arizona",1,0,36324,134421
+"162","Summit County, Utah","Navajo County, Arizona",1,0,36324,107449
+"163","Summit County, Utah","Montezuma County, Colorado",1,0,36324,25535
+"164","Summit County, Utah","San Juan County, New Mexico",1,0,36324,130044
+"165","Summit County, Utah","Apache County, Arizona",1,0,36324,71518
+"166","Summit County, Utah","Emery County, Utah",1,0,36324,10976
+"167","Summit County, Utah","Carbon County, Utah",1,0,36324,21403
+"168","Summit County, Utah","Uintah County, Utah",1,0,36324,32588
+"169","Summit County, Utah","Duchesne County, Utah",1,0,36324,18607
+"170","Summit County, Utah","Rio Blanco County, Colorado",1,0,36324,6666
+"172","Summit County, Utah","Mohave County, Arizona",1,0,36324,200186
+"175","Summit County, Utah","Daggett County, Utah",1,0,36324,1059
+"178","Tooele County, Utah","Morgan County, Utah",1,0,58218,9469
+"179","Tooele County, Utah","Wasatch County, Utah",1,0,58218,23530
+"184","Tooele County, Utah","Juab County, Utah",1,0,58218,10246
+"186","Tooele County, Utah","Cache County, Utah",1,0,58218,112656
+"187","Tooele County, Utah","Sanpete County, Utah",1,0,58218,27822
+"188","Tooele County, Utah","Sevier County, Utah",1,0,58218,20802
+"189","Tooele County, Utah","Piute County, Utah",1,0,58218,1556
+"190","Tooele County, Utah","Garfield County, Utah",1,0,58218,5172
+"191","Tooele County, Utah","Millard County, Utah",1,0,58218,12503
+"192","Tooele County, Utah","Wayne County, Utah",1,0,58218,2778
+"194","Tooele County, Utah","Uinta County, Wyoming",1,0,58218,21118
+"195","Tooele County, Utah","Rich County, Utah",1,0,58218,2264
+"196","Tooele County, Utah","Lincoln County, Wyoming",1,0,58218,18106
+"197","Tooele County, Utah","Franklin County, Idaho",1,0,58218,12786
+"198","Tooele County, Utah","Washington County, Utah",1,0,58218,138115
+"199","Tooele County, Utah","Iron County, Utah",1,0,58218,46163
+"200","Tooele County, Utah","Clark County, Nevada",1,0,58218,1951269
+"201","Tooele County, Utah","Beaver County, Utah",1,0,58218,6629
+"202","Tooele County, Utah","San Juan County, Utah",1,0,58218,14746
+"203","Tooele County, Utah","Grand County, Utah",1,0,58218,9225
+"204","Tooele County, Utah","Kane County, Utah",1,0,58218,7125
+"205","Tooele County, Utah","Coconino County, Arizona",1,0,58218,134421
+"206","Tooele County, Utah","Navajo County, Arizona",1,0,58218,107449
+"207","Tooele County, Utah","Montezuma County, Colorado",1,0,58218,25535
+"208","Tooele County, Utah","San Juan County, New Mexico",1,0,58218,130044
+"209","Tooele County, Utah","Apache County, Arizona",1,0,58218,71518
+"210","Tooele County, Utah","Emery County, Utah",1,0,58218,10976
+"211","Tooele County, Utah","Carbon County, Utah",1,0,58218,21403
+"212","Tooele County, Utah","Uintah County, Utah",1,0,58218,32588
+"213","Tooele County, Utah","Duchesne County, Utah",1,0,58218,18607
+"214","Tooele County, Utah","Rio Blanco County, Colorado",1,0,58218,6666
+"215","Tooele County, Utah","Dallas County, Texas",1,0,58218,2368139
+"216","Tooele County, Utah","Mohave County, Arizona",1,0,58218,200186
+"217","Tooele County, Utah","Queens County, New York",1,0,58218,2230722
+"218","Tooele County, Utah","Sweetwater County, Wyoming",1,0,58218,43806
+"219","Tooele County, Utah","Daggett County, Utah",1,0,58218,1059
+"220","Tooele County, Utah","Los Angeles County, California",1,0,58218,9818605
+"231","Salt Lake County, Utah","Sanpete County, Utah",1,0,1029655,27822
+"232","Salt Lake County, Utah","Sevier County, Utah",1,0,1029655,20802
+"233","Salt Lake County, Utah","Piute County, Utah",1,0,1029655,1556
+"234","Salt Lake County, Utah","Garfield County, Utah",1,0,1029655,5172
+"235","Salt Lake County, Utah","Millard County, Utah",1,0,1029655,12503
+"239","Salt Lake County, Utah","Rich County, Utah",1,0,1029655,2264
+"240","Salt Lake County, Utah","Lincoln County, Wyoming",1,0,1029655,18106
+"241","Salt Lake County, Utah","Franklin County, Idaho",1,0,1029655,12786
+"243","Salt Lake County, Utah","Iron County, Utah",1,0,1029655,46163
+"245","Salt Lake County, Utah","Beaver County, Utah",1,0,1029655,6629
+"246","Salt Lake County, Utah","San Juan County, Utah",1,0,1029655,14746
+"247","Salt Lake County, Utah","Grand County, Utah",1,0,1029655,9225
+"248","Salt Lake County, Utah","Kane County, Utah",1,0,1029655,7125
+"250","Salt Lake County, Utah","Navajo County, Arizona",1,0,1029655,107449
+"251","Salt Lake County, Utah","Montezuma County, Colorado",1,0,1029655,25535
+"252","Salt Lake County, Utah","San Juan County, New Mexico",1,0,1029655,130044
+"253","Salt Lake County, Utah","Apache County, Arizona",1,0,1029655,71518
+"254","Salt Lake County, Utah","Emery County, Utah",1,0,1029655,10976
+"258","Salt Lake County, Utah","Rio Blanco County, Colorado",1,0,1029655,6666
+"260","Salt Lake County, Utah","Mohave County, Arizona",1,0,1029655,200186
+"261","Salt Lake County, Utah","Queens County, New York",1,0,1029655,2230722
+"263","Salt Lake County, Utah","Daggett County, Utah",1,0,1029655,1059
+"267","Davis County, Utah","Wasatch County, Utah",1,0,306479,23530
+"272","Davis County, Utah","Juab County, Utah",1,0,306479,10246
+"275","Davis County, Utah","Sanpete County, Utah",1,0,306479,27822
+"276","Davis County, Utah","Sevier County, Utah",1,0,306479,20802
+"277","Davis County, Utah","Piute County, Utah",1,0,306479,1556
+"278","Davis County, Utah","Garfield County, Utah",1,0,306479,5172
+"279","Davis County, Utah","Millard County, Utah",1,0,306479,12503
+"280","Davis County, Utah","Wayne County, Utah",1,0,306479,2778
+"281","Davis County, Utah","Elko County, Nevada",1,0,306479,48818
+"283","Davis County, Utah","Rich County, Utah",1,0,306479,2264
+"284","Davis County, Utah","Lincoln County, Wyoming",1,0,306479,18106
+"285","Davis County, Utah","Franklin County, Idaho",1,0,306479,12786
+"286","Davis County, Utah","Washington County, Utah",1,0,306479,138115
+"287","Davis County, Utah","Iron County, Utah",1,0,306479,46163
+"289","Davis County, Utah","Beaver County, Utah",1,0,306479,6629
+"290","Davis County, Utah","San Juan County, Utah",1,0,306479,14746
+"291","Davis County, Utah","Grand County, Utah",1,0,306479,9225
+"292","Davis County, Utah","Kane County, Utah",1,0,306479,7125
+"293","Davis County, Utah","Coconino County, Arizona",1,0,306479,134421
+"294","Davis County, Utah","Navajo County, Arizona",1,0,306479,107449
+"295","Davis County, Utah","Montezuma County, Colorado",1,0,306479,25535
+"296","Davis County, Utah","San Juan County, New Mexico",1,0,306479,130044
+"297","Davis County, Utah","Apache County, Arizona",1,0,306479,71518
+"298","Davis County, Utah","Emery County, Utah",1,0,306479,10976
+"299","Davis County, Utah","Carbon County, Utah",1,0,306479,21403
+"302","Davis County, Utah","Rio Blanco County, Colorado",1,0,306479,6666
+"303","Davis County, Utah","Dallas County, Texas",1,0,306479,2368139
+"304","Davis County, Utah","Mohave County, Arizona",1,0,306479,200186
+"305","Davis County, Utah","Queens County, New York",1,0,306479,2230722
+"306","Davis County, Utah","Sweetwater County, Wyoming",1,0,306479,43806
+"307","Davis County, Utah","Daggett County, Utah",1,0,306479,1059
+"310","Utah County, Utah","Morgan County, Utah",1,0,516564,9469
+"317","Utah County, Utah","Box Elder County, Utah",1,0,516564,49975
+"321","Utah County, Utah","Piute County, Utah",1,0,516564,1556
+"322","Utah County, Utah","Garfield County, Utah",1,0,516564,5172
+"324","Utah County, Utah","Wayne County, Utah",1,0,516564,2778
+"325","Utah County, Utah","Elko County, Nevada",1,0,516564,48818
+"326","Utah County, Utah","Uinta County, Wyoming",1,0,516564,21118
+"327","Utah County, Utah","Rich County, Utah",1,0,516564,2264
+"328","Utah County, Utah","Lincoln County, Wyoming",1,0,516564,18106
+"329","Utah County, Utah","Franklin County, Idaho",1,0,516564,12786
+"331","Utah County, Utah","Iron County, Utah",1,0,516564,46163
+"333","Utah County, Utah","Beaver County, Utah",1,0,516564,6629
+"334","Utah County, Utah","San Juan County, Utah",1,0,516564,14746
+"335","Utah County, Utah","Grand County, Utah",1,0,516564,9225
+"337","Utah County, Utah","Coconino County, Arizona",1,0,516564,134421
+"338","Utah County, Utah","Navajo County, Arizona",1,0,516564,107449
+"339","Utah County, Utah","Montezuma County, Colorado",1,0,516564,25535
+"340","Utah County, Utah","San Juan County, New Mexico",1,0,516564,130044
+"341","Utah County, Utah","Apache County, Arizona",1,0,516564,71518
+"345","Utah County, Utah","Duchesne County, Utah",1,0,516564,18607
+"346","Utah County, Utah","Rio Blanco County, Colorado",1,0,516564,6666
+"347","Utah County, Utah","Dallas County, Texas",1,0,516564,2368139
+"348","Utah County, Utah","Mohave County, Arizona",1,0,516564,200186
+"349","Utah County, Utah","Queens County, New York",1,0,516564,2230722
+"351","Utah County, Utah","Daggett County, Utah",1,0,516564,1059
+"353","Juab County, Utah","Weber County, Utah",1,0,10246,231236
+"354","Juab County, Utah","Morgan County, Utah",1,0,10246,9469
+"355","Juab County, Utah","Wasatch County, Utah",1,0,10246,23530
+"359","Juab County, Utah","Davis County, Utah",1,0,10246,306479
+"361","Juab County, Utah","Box Elder County, Utah",1,0,10246,49975
+"362","Juab County, Utah","Cache County, Utah",1,0,10246,112656
+"364","Juab County, Utah","Sevier County, Utah",1,0,10246,20802
+"365","Juab County, Utah","Piute County, Utah",1,0,10246,1556
+"366","Juab County, Utah","Garfield County, Utah",1,0,10246,5172
+"368","Juab County, Utah","Wayne County, Utah",1,0,10246,2778
+"369","Juab County, Utah","Elko County, Nevada",1,0,10246,48818
+"370","Juab County, Utah","Uinta County, Wyoming",1,0,10246,21118
+"371","Juab County, Utah","Rich County, Utah",1,0,10246,2264
+"372","Juab County, Utah","Lincoln County, Wyoming",1,0,10246,18106
+"373","Juab County, Utah","Franklin County, Idaho",1,0,10246,12786
+"374","Juab County, Utah","Washington County, Utah",1,0,10246,138115
+"375","Juab County, Utah","Iron County, Utah",1,0,10246,46163
+"376","Juab County, Utah","Clark County, Nevada",1,0,10246,1951269
+"377","Juab County, Utah","Beaver County, Utah",1,0,10246,6629
+"378","Juab County, Utah","San Juan County, Utah",1,0,10246,14746
+"379","Juab County, Utah","Grand County, Utah",1,0,10246,9225
+"380","Juab County, Utah","Kane County, Utah",1,0,10246,7125
+"381","Juab County, Utah","Coconino County, Arizona",1,0,10246,134421
+"382","Juab County, Utah","Navajo County, Arizona",1,0,10246,107449
+"383","Juab County, Utah","Montezuma County, Colorado",1,0,10246,25535
+"384","Juab County, Utah","San Juan County, New Mexico",1,0,10246,130044
+"385","Juab County, Utah","Apache County, Arizona",1,0,10246,71518
+"386","Juab County, Utah","Emery County, Utah",1,0,10246,10976
+"387","Juab County, Utah","Carbon County, Utah",1,0,10246,21403
+"388","Juab County, Utah","Uintah County, Utah",1,0,10246,32588
+"389","Juab County, Utah","Duchesne County, Utah",1,0,10246,18607
+"390","Juab County, Utah","Rio Blanco County, Colorado",1,0,10246,6666
+"391","Juab County, Utah","Dallas County, Texas",1,0,10246,2368139
+"392","Juab County, Utah","Mohave County, Arizona",1,0,10246,200186
+"393","Juab County, Utah","Queens County, New York",1,0,10246,2230722
+"394","Juab County, Utah","Sweetwater County, Wyoming",1,0,10246,43806
+"395","Juab County, Utah","Daggett County, Utah",1,0,10246,1059
+"396","Juab County, Utah","Los Angeles County, California",1,0,10246,9818605
+"398","Box Elder County, Utah","Morgan County, Utah",1,0,49975,9469
+"399","Box Elder County, Utah","Wasatch County, Utah",1,0,49975,23530
+"400","Box Elder County, Utah","Summit County, Utah",1,0,49975,36324
+"401","Box Elder County, Utah","Tooele County, Utah",1,0,49975,58218
+"405","Box Elder County, Utah","Juab County, Utah",1,0,49975,10246
+"407","Box Elder County, Utah","Sanpete County, Utah",1,0,49975,27822
+"408","Box Elder County, Utah","Sevier County, Utah",1,0,49975,20802
+"409","Box Elder County, Utah","Piute County, Utah",1,0,49975,1556
+"410","Box Elder County, Utah","Garfield County, Utah",1,0,49975,5172
+"411","Box Elder County, Utah","Millard County, Utah",1,0,49975,12503
+"412","Box Elder County, Utah","Wayne County, Utah",1,0,49975,2778
+"413","Box Elder County, Utah","Elko County, Nevada",1,0,49975,48818
+"414","Box Elder County, Utah","Uinta County, Wyoming",1,0,49975,21118
+"415","Box Elder County, Utah","Rich County, Utah",1,0,49975,2264
+"416","Box Elder County, Utah","Lincoln County, Wyoming",1,0,49975,18106
+"417","Box Elder County, Utah","Franklin County, Idaho",1,0,49975,12786
+"418","Box Elder County, Utah","Washington County, Utah",1,0,49975,138115
+"419","Box Elder County, Utah","Iron County, Utah",1,0,49975,46163
+"420","Box Elder County, Utah","Clark County, Nevada",1,0,49975,1951269
+"421","Box Elder County, Utah","Beaver County, Utah",1,0,49975,6629
+"422","Box Elder County, Utah","San Juan County, Utah",1,0,49975,14746
+"423","Box Elder County, Utah","Grand County, Utah",1,0,49975,9225
+"424","Box Elder County, Utah","Kane County, Utah",1,0,49975,7125
+"425","Box Elder County, Utah","Coconino County, Arizona",1,0,49975,134421
+"426","Box Elder County, Utah","Navajo County, Arizona",1,0,49975,107449
+"427","Box Elder County, Utah","Montezuma County, Colorado",1,0,49975,25535
+"428","Box Elder County, Utah","San Juan County, New Mexico",1,0,49975,130044
+"429","Box Elder County, Utah","Apache County, Arizona",1,0,49975,71518
+"430","Box Elder County, Utah","Emery County, Utah",1,0,49975,10976
+"431","Box Elder County, Utah","Carbon County, Utah",1,0,49975,21403
+"432","Box Elder County, Utah","Uintah County, Utah",1,0,49975,32588
+"433","Box Elder County, Utah","Duchesne County, Utah",1,0,49975,18607
+"434","Box Elder County, Utah","Rio Blanco County, Colorado",1,0,49975,6666
+"435","Box Elder County, Utah","Dallas County, Texas",1,0,49975,2368139
+"436","Box Elder County, Utah","Mohave County, Arizona",1,0,49975,200186
+"437","Box Elder County, Utah","Queens County, New York",1,0,49975,2230722
+"438","Box Elder County, Utah","Sweetwater County, Wyoming",1,0,49975,43806
+"439","Box Elder County, Utah","Daggett County, Utah",1,0,49975,1059
+"440","Box Elder County, Utah","Los Angeles County, California",1,0,49975,9818605
+"442","Cache County, Utah","Morgan County, Utah",1,0,112656,9469
+"443","Cache County, Utah","Wasatch County, Utah",1,0,112656,23530
+"444","Cache County, Utah","Summit County, Utah",1,0,112656,36324
+"445","Cache County, Utah","Tooele County, Utah",1,0,112656,58218
+"449","Cache County, Utah","Juab County, Utah",1,0,112656,10246
+"451","Cache County, Utah","Sanpete County, Utah",1,0,112656,27822
+"452","Cache County, Utah","Sevier County, Utah",1,0,112656,20802
+"453","Cache County, Utah","Piute County, Utah",1,0,112656,1556
+"454","Cache County, Utah","Garfield County, Utah",1,0,112656,5172
+"455","Cache County, Utah","Millard County, Utah",1,0,112656,12503
+"456","Cache County, Utah","Wayne County, Utah",1,0,112656,2778
+"457","Cache County, Utah","Elko County, Nevada",1,0,112656,48818
+"458","Cache County, Utah","Uinta County, Wyoming",1,0,112656,21118
+"460","Cache County, Utah","Lincoln County, Wyoming",1,0,112656,18106
+"462","Cache County, Utah","Washington County, Utah",1,0,112656,138115
+"463","Cache County, Utah","Iron County, Utah",1,0,112656,46163
+"464","Cache County, Utah","Clark County, Nevada",1,0,112656,1951269
+"465","Cache County, Utah","Beaver County, Utah",1,0,112656,6629
+"466","Cache County, Utah","San Juan County, Utah",1,0,112656,14746
+"467","Cache County, Utah","Grand County, Utah",1,0,112656,9225
+"468","Cache County, Utah","Kane County, Utah",1,0,112656,7125
+"469","Cache County, Utah","Coconino County, Arizona",1,0,112656,134421
+"470","Cache County, Utah","Navajo County, Arizona",1,0,112656,107449
+"471","Cache County, Utah","Montezuma County, Colorado",1,0,112656,25535
+"472","Cache County, Utah","San Juan County, New Mexico",1,0,112656,130044
+"473","Cache County, Utah","Apache County, Arizona",1,0,112656,71518
+"474","Cache County, Utah","Emery County, Utah",1,0,112656,10976
+"475","Cache County, Utah","Carbon County, Utah",1,0,112656,21403
+"477","Cache County, Utah","Duchesne County, Utah",1,0,112656,18607
+"478","Cache County, Utah","Rio Blanco County, Colorado",1,0,112656,6666
+"479","Cache County, Utah","Dallas County, Texas",1,0,112656,2368139
+"480","Cache County, Utah","Mohave County, Arizona",1,0,112656,200186
+"481","Cache County, Utah","Queens County, New York",1,0,112656,2230722
+"482","Cache County, Utah","Sweetwater County, Wyoming",1,0,112656,43806
+"483","Cache County, Utah","Daggett County, Utah",1,0,112656,1059
+"484","Cache County, Utah","Los Angeles County, California",1,0,112656,9818605
+"485","Sanpete County, Utah","Weber County, Utah",1,0,27822,231236
+"486","Sanpete County, Utah","Morgan County, Utah",1,0,27822,9469
+"487","Sanpete County, Utah","Wasatch County, Utah",1,0,27822,23530
+"488","Sanpete County, Utah","Summit County, Utah",1,0,27822,36324
+"489","Sanpete County, Utah","Tooele County, Utah",1,0,27822,58218
+"491","Sanpete County, Utah","Davis County, Utah",1,0,27822,306479
+"494","Sanpete County, Utah","Box Elder County, Utah",1,0,27822,49975
+"495","Sanpete County, Utah","Cache County, Utah",1,0,27822,112656
+"497","Sanpete County, Utah","Piute County, Utah",1,0,27822,1556
+"498","Sanpete County, Utah","Garfield County, Utah",1,0,27822,5172
+"499","Sanpete County, Utah","Millard County, Utah",1,0,27822,12503
+"500","Sanpete County, Utah","Wayne County, Utah",1,0,27822,2778
+"501","Sanpete County, Utah","Elko County, Nevada",1,0,27822,48818
+"502","Sanpete County, Utah","Uinta County, Wyoming",1,0,27822,21118
+"503","Sanpete County, Utah","Rich County, Utah",1,0,27822,2264
+"504","Sanpete County, Utah","Lincoln County, Wyoming",1,0,27822,18106
+"505","Sanpete County, Utah","Franklin County, Idaho",1,0,27822,12786
+"506","Sanpete County, Utah","Washington County, Utah",1,0,27822,138115
+"507","Sanpete County, Utah","Iron County, Utah",1,0,27822,46163
+"509","Sanpete County, Utah","Beaver County, Utah",1,0,27822,6629
+"510","Sanpete County, Utah","San Juan County, Utah",1,0,27822,14746
+"511","Sanpete County, Utah","Grand County, Utah",1,0,27822,9225
+"512","Sanpete County, Utah","Kane County, Utah",1,0,27822,7125
+"513","Sanpete County, Utah","Coconino County, Arizona",1,0,27822,134421
+"514","Sanpete County, Utah","Navajo County, Arizona",1,0,27822,107449
+"515","Sanpete County, Utah","Montezuma County, Colorado",1,0,27822,25535
+"516","Sanpete County, Utah","San Juan County, New Mexico",1,0,27822,130044
+"517","Sanpete County, Utah","Apache County, Arizona",1,0,27822,71518
+"520","Sanpete County, Utah","Uintah County, Utah",1,0,27822,32588
+"521","Sanpete County, Utah","Duchesne County, Utah",1,0,27822,18607
+"522","Sanpete County, Utah","Rio Blanco County, Colorado",1,0,27822,6666
+"523","Sanpete County, Utah","Dallas County, Texas",1,0,27822,2368139
+"524","Sanpete County, Utah","Mohave County, Arizona",1,0,27822,200186
+"525","Sanpete County, Utah","Queens County, New York",1,0,27822,2230722
+"527","Sanpete County, Utah","Daggett County, Utah",1,0,27822,1059
+"528","Sanpete County, Utah","Los Angeles County, California",1,0,27822,9818605
+"529","Sevier County, Utah","Weber County, Utah",1,0,20802,231236
+"530","Sevier County, Utah","Morgan County, Utah",1,0,20802,9469
+"531","Sevier County, Utah","Wasatch County, Utah",1,0,20802,23530
+"532","Sevier County, Utah","Summit County, Utah",1,0,20802,36324
+"533","Sevier County, Utah","Tooele County, Utah",1,0,20802,58218
+"535","Sevier County, Utah","Davis County, Utah",1,0,20802,306479
+"537","Sevier County, Utah","Juab County, Utah",1,0,20802,10246
+"538","Sevier County, Utah","Box Elder County, Utah",1,0,20802,49975
+"539","Sevier County, Utah","Cache County, Utah",1,0,20802,112656
+"542","Sevier County, Utah","Garfield County, Utah",1,0,20802,5172
+"543","Sevier County, Utah","Millard County, Utah",1,0,20802,12503
+"544","Sevier County, Utah","Wayne County, Utah",1,0,20802,2778
+"545","Sevier County, Utah","Elko County, Nevada",1,0,20802,48818
+"546","Sevier County, Utah","Uinta County, Wyoming",1,0,20802,21118
+"547","Sevier County, Utah","Rich County, Utah",1,0,20802,2264
+"548","Sevier County, Utah","Lincoln County, Wyoming",1,0,20802,18106
+"549","Sevier County, Utah","Franklin County, Idaho",1,0,20802,12786
+"553","Sevier County, Utah","Beaver County, Utah",1,0,20802,6629
+"554","Sevier County, Utah","San Juan County, Utah",1,0,20802,14746
+"555","Sevier County, Utah","Grand County, Utah",1,0,20802,9225
+"556","Sevier County, Utah","Kane County, Utah",1,0,20802,7125
+"557","Sevier County, Utah","Coconino County, Arizona",1,0,20802,134421
+"558","Sevier County, Utah","Navajo County, Arizona",1,0,20802,107449
+"559","Sevier County, Utah","Montezuma County, Colorado",1,0,20802,25535
+"560","Sevier County, Utah","San Juan County, New Mexico",1,0,20802,130044
+"561","Sevier County, Utah","Apache County, Arizona",1,0,20802,71518
+"562","Sevier County, Utah","Emery County, Utah",1,0,20802,10976
+"563","Sevier County, Utah","Carbon County, Utah",1,0,20802,21403
+"564","Sevier County, Utah","Uintah County, Utah",1,0,20802,32588
+"565","Sevier County, Utah","Duchesne County, Utah",1,0,20802,18607
+"566","Sevier County, Utah","Rio Blanco County, Colorado",1,0,20802,6666
+"567","Sevier County, Utah","Dallas County, Texas",1,0,20802,2368139
+"568","Sevier County, Utah","Mohave County, Arizona",1,0,20802,200186
+"569","Sevier County, Utah","Queens County, New York",1,0,20802,2230722
+"570","Sevier County, Utah","Sweetwater County, Wyoming",1,0,20802,43806
+"571","Sevier County, Utah","Daggett County, Utah",1,0,20802,1059
+"572","Sevier County, Utah","Los Angeles County, California",1,0,20802,9818605
+"573","Piute County, Utah","Weber County, Utah",1,0,1556,231236
+"574","Piute County, Utah","Morgan County, Utah",1,0,1556,9469
+"575","Piute County, Utah","Wasatch County, Utah",1,0,1556,23530
+"576","Piute County, Utah","Summit County, Utah",1,0,1556,36324
+"577","Piute County, Utah","Tooele County, Utah",1,0,1556,58218
+"579","Piute County, Utah","Davis County, Utah",1,0,1556,306479
+"580","Piute County, Utah","Utah County, Utah",1,0,1556,516564
+"581","Piute County, Utah","Juab County, Utah",1,0,1556,10246
+"582","Piute County, Utah","Box Elder County, Utah",1,0,1556,49975
+"583","Piute County, Utah","Cache County, Utah",1,0,1556,112656
+"587","Piute County, Utah","Millard County, Utah",1,0,1556,12503
+"588","Piute County, Utah","Wayne County, Utah",1,0,1556,2778
+"589","Piute County, Utah","Elko County, Nevada",1,0,1556,48818
+"590","Piute County, Utah","Uinta County, Wyoming",1,0,1556,21118
+"591","Piute County, Utah","Rich County, Utah",1,0,1556,2264
+"592","Piute County, Utah","Lincoln County, Wyoming",1,0,1556,18106
+"593","Piute County, Utah","Franklin County, Idaho",1,0,1556,12786
+"594","Piute County, Utah","Washington County, Utah",1,0,1556,138115
+"595","Piute County, Utah","Iron County, Utah",1,0,1556,46163
+"596","Piute County, Utah","Clark County, Nevada",1,0,1556,1951269
+"597","Piute County, Utah","Beaver County, Utah",1,0,1556,6629
+"598","Piute County, Utah","San Juan County, Utah",1,0,1556,14746
+"599","Piute County, Utah","Grand County, Utah",1,0,1556,9225
+"600","Piute County, Utah","Kane County, Utah",1,0,1556,7125
+"601","Piute County, Utah","Coconino County, Arizona",1,0,1556,134421
+"602","Piute County, Utah","Navajo County, Arizona",1,0,1556,107449
+"603","Piute County, Utah","Montezuma County, Colorado",1,0,1556,25535
+"604","Piute County, Utah","San Juan County, New Mexico",1,0,1556,130044
+"605","Piute County, Utah","Apache County, Arizona",1,0,1556,71518
+"606","Piute County, Utah","Emery County, Utah",1,0,1556,10976
+"607","Piute County, Utah","Carbon County, Utah",1,0,1556,21403
+"608","Piute County, Utah","Uintah County, Utah",1,0,1556,32588
+"609","Piute County, Utah","Duchesne County, Utah",1,0,1556,18607
+"610","Piute County, Utah","Rio Blanco County, Colorado",1,0,1556,6666
+"611","Piute County, Utah","Dallas County, Texas",1,0,1556,2368139
+"612","Piute County, Utah","Mohave County, Arizona",1,0,1556,200186
+"613","Piute County, Utah","Queens County, New York",1,0,1556,2230722
+"614","Piute County, Utah","Sweetwater County, Wyoming",1,0,1556,43806
+"615","Piute County, Utah","Daggett County, Utah",1,0,1556,1059
+"616","Piute County, Utah","Los Angeles County, California",1,0,1556,9818605
+"617","Garfield County, Utah","Weber County, Utah",1,0,5172,231236
+"618","Garfield County, Utah","Morgan County, Utah",1,0,5172,9469
+"619","Garfield County, Utah","Wasatch County, Utah",1,0,5172,23530
+"620","Garfield County, Utah","Summit County, Utah",1,0,5172,36324
+"621","Garfield County, Utah","Tooele County, Utah",1,0,5172,58218
+"622","Garfield County, Utah","Salt Lake County, Utah",1,0,5172,1029655
+"623","Garfield County, Utah","Davis County, Utah",1,0,5172,306479
+"624","Garfield County, Utah","Utah County, Utah",1,0,5172,516564
+"625","Garfield County, Utah","Juab County, Utah",1,0,5172,10246
+"626","Garfield County, Utah","Box Elder County, Utah",1,0,5172,49975
+"627","Garfield County, Utah","Cache County, Utah",1,0,5172,112656
+"628","Garfield County, Utah","Sanpete County, Utah",1,0,5172,27822
+"629","Garfield County, Utah","Sevier County, Utah",1,0,5172,20802
+"630","Garfield County, Utah","Piute County, Utah",1,0,5172,1556
+"631","Garfield County, Utah","Millard County, Utah",1,0,5172,12503
+"632","Garfield County, Utah","Wayne County, Utah",1,0,5172,2778
+"633","Garfield County, Utah","Elko County, Nevada",1,0,5172,48818
+"634","Garfield County, Utah","Uinta County, Wyoming",1,0,5172,21118
+"635","Garfield County, Utah","Rich County, Utah",1,0,5172,2264
+"636","Garfield County, Utah","Lincoln County, Wyoming",1,0,5172,18106
+"637","Garfield County, Utah","Franklin County, Idaho",1,0,5172,12786
+"638","Garfield County, Utah","Washington County, Utah",1,0,5172,138115
+"641","Garfield County, Utah","Beaver County, Utah",1,0,5172,6629
+"643","Garfield County, Utah","Grand County, Utah",1,0,5172,9225
+"644","Garfield County, Utah","Kane County, Utah",1,0,5172,7125
+"645","Garfield County, Utah","Coconino County, Arizona",1,0,5172,134421
+"646","Garfield County, Utah","Navajo County, Arizona",1,0,5172,107449
+"647","Garfield County, Utah","Montezuma County, Colorado",1,0,5172,25535
+"648","Garfield County, Utah","San Juan County, New Mexico",1,0,5172,130044
+"649","Garfield County, Utah","Apache County, Arizona",1,0,5172,71518
+"650","Garfield County, Utah","Emery County, Utah",1,0,5172,10976
+"651","Garfield County, Utah","Carbon County, Utah",1,0,5172,21403
+"652","Garfield County, Utah","Uintah County, Utah",1,0,5172,32588
+"653","Garfield County, Utah","Duchesne County, Utah",1,0,5172,18607
+"654","Garfield County, Utah","Rio Blanco County, Colorado",1,0,5172,6666
+"655","Garfield County, Utah","Dallas County, Texas",1,0,5172,2368139
+"656","Garfield County, Utah","Mohave County, Arizona",1,0,5172,200186
+"657","Garfield County, Utah","Queens County, New York",1,0,5172,2230722
+"658","Garfield County, Utah","Sweetwater County, Wyoming",1,0,5172,43806
+"659","Garfield County, Utah","Daggett County, Utah",1,0,5172,1059
+"660","Garfield County, Utah","Los Angeles County, California",1,0,5172,9818605
+"661","Millard County, Utah","Weber County, Utah",1,0,12503,231236
+"662","Millard County, Utah","Morgan County, Utah",1,0,12503,9469
+"663","Millard County, Utah","Wasatch County, Utah",1,0,12503,23530
+"664","Millard County, Utah","Summit County, Utah",1,0,12503,36324
+"665","Millard County, Utah","Tooele County, Utah",1,0,12503,58218
+"667","Millard County, Utah","Davis County, Utah",1,0,12503,306479
+"670","Millard County, Utah","Box Elder County, Utah",1,0,12503,49975
+"671","Millard County, Utah","Cache County, Utah",1,0,12503,112656
+"674","Millard County, Utah","Piute County, Utah",1,0,12503,1556
+"675","Millard County, Utah","Garfield County, Utah",1,0,12503,5172
+"676","Millard County, Utah","Wayne County, Utah",1,0,12503,2778
+"677","Millard County, Utah","Elko County, Nevada",1,0,12503,48818
+"678","Millard County, Utah","Uinta County, Wyoming",1,0,12503,21118
+"679","Millard County, Utah","Rich County, Utah",1,0,12503,2264
+"680","Millard County, Utah","Lincoln County, Wyoming",1,0,12503,18106
+"681","Millard County, Utah","Franklin County, Idaho",1,0,12503,12786
+"683","Millard County, Utah","Iron County, Utah",1,0,12503,46163
+"684","Millard County, Utah","Clark County, Nevada",1,0,12503,1951269
+"685","Millard County, Utah","Beaver County, Utah",1,0,12503,6629
+"686","Millard County, Utah","San Juan County, Utah",1,0,12503,14746
+"687","Millard County, Utah","Grand County, Utah",1,0,12503,9225
+"688","Millard County, Utah","Kane County, Utah",1,0,12503,7125
+"689","Millard County, Utah","Coconino County, Arizona",1,0,12503,134421
+"690","Millard County, Utah","Navajo County, Arizona",1,0,12503,107449
+"691","Millard County, Utah","Montezuma County, Colorado",1,0,12503,25535
+"692","Millard County, Utah","San Juan County, New Mexico",1,0,12503,130044
+"693","Millard County, Utah","Apache County, Arizona",1,0,12503,71518
+"694","Millard County, Utah","Emery County, Utah",1,0,12503,10976
+"695","Millard County, Utah","Carbon County, Utah",1,0,12503,21403
+"696","Millard County, Utah","Uintah County, Utah",1,0,12503,32588
+"697","Millard County, Utah","Duchesne County, Utah",1,0,12503,18607
+"698","Millard County, Utah","Rio Blanco County, Colorado",1,0,12503,6666
+"699","Millard County, Utah","Dallas County, Texas",1,0,12503,2368139
+"700","Millard County, Utah","Mohave County, Arizona",1,0,12503,200186
+"701","Millard County, Utah","Queens County, New York",1,0,12503,2230722
+"702","Millard County, Utah","Sweetwater County, Wyoming",1,0,12503,43806
+"703","Millard County, Utah","Daggett County, Utah",1,0,12503,1059
+"704","Millard County, Utah","Los Angeles County, California",1,0,12503,9818605
+"705","Wayne County, Utah","Weber County, Utah",1,0,2778,231236
+"706","Wayne County, Utah","Morgan County, Utah",1,0,2778,9469
+"707","Wayne County, Utah","Wasatch County, Utah",1,0,2778,23530
+"708","Wayne County, Utah","Summit County, Utah",1,0,2778,36324
+"709","Wayne County, Utah","Tooele County, Utah",1,0,2778,58218
+"711","Wayne County, Utah","Davis County, Utah",1,0,2778,306479
+"712","Wayne County, Utah","Utah County, Utah",1,0,2778,516564
+"713","Wayne County, Utah","Juab County, Utah",1,0,2778,10246
+"714","Wayne County, Utah","Box Elder County, Utah",1,0,2778,49975
+"715","Wayne County, Utah","Cache County, Utah",1,0,2778,112656
+"716","Wayne County, Utah","Sanpete County, Utah",1,0,2778,27822
+"718","Wayne County, Utah","Piute County, Utah",1,0,2778,1556
+"719","Wayne County, Utah","Garfield County, Utah",1,0,2778,5172
+"720","Wayne County, Utah","Millard County, Utah",1,0,2778,12503
+"721","Wayne County, Utah","Elko County, Nevada",1,0,2778,48818
+"722","Wayne County, Utah","Uinta County, Wyoming",1,0,2778,21118
+"723","Wayne County, Utah","Rich County, Utah",1,0,2778,2264
+"724","Wayne County, Utah","Lincoln County, Wyoming",1,0,2778,18106
+"725","Wayne County, Utah","Franklin County, Idaho",1,0,2778,12786
+"726","Wayne County, Utah","Washington County, Utah",1,0,2778,138115
+"727","Wayne County, Utah","Iron County, Utah",1,0,2778,46163
+"728","Wayne County, Utah","Clark County, Nevada",1,0,2778,1951269
+"729","Wayne County, Utah","Beaver County, Utah",1,0,2778,6629
+"730","Wayne County, Utah","San Juan County, Utah",1,0,2778,14746
+"731","Wayne County, Utah","Grand County, Utah",1,0,2778,9225
+"732","Wayne County, Utah","Kane County, Utah",1,0,2778,7125
+"733","Wayne County, Utah","Coconino County, Arizona",1,0,2778,134421
+"734","Wayne County, Utah","Navajo County, Arizona",1,0,2778,107449
+"735","Wayne County, Utah","Montezuma County, Colorado",1,0,2778,25535
+"736","Wayne County, Utah","San Juan County, New Mexico",1,0,2778,130044
+"737","Wayne County, Utah","Apache County, Arizona",1,0,2778,71518
+"738","Wayne County, Utah","Emery County, Utah",1,0,2778,10976
+"739","Wayne County, Utah","Carbon County, Utah",1,0,2778,21403
+"740","Wayne County, Utah","Uintah County, Utah",1,0,2778,32588
+"741","Wayne County, Utah","Duchesne County, Utah",1,0,2778,18607
+"742","Wayne County, Utah","Rio Blanco County, Colorado",1,0,2778,6666
+"743","Wayne County, Utah","Dallas County, Texas",1,0,2778,2368139
+"744","Wayne County, Utah","Mohave County, Arizona",1,0,2778,200186
+"745","Wayne County, Utah","Queens County, New York",1,0,2778,2230722
+"746","Wayne County, Utah","Sweetwater County, Wyoming",1,0,2778,43806
+"747","Wayne County, Utah","Daggett County, Utah",1,0,2778,1059
+"748","Wayne County, Utah","Los Angeles County, California",1,0,2778,9818605
+"749","Elko County, Nevada","Weber County, Utah",1,0,48818,231236
+"750","Elko County, Nevada","Morgan County, Utah",1,0,48818,9469
+"751","Elko County, Nevada","Wasatch County, Utah",1,0,48818,23530
+"752","Elko County, Nevada","Summit County, Utah",1,0,48818,36324
+"753","Elko County, Nevada","Tooele County, Utah",1,0,48818,58218
+"754","Elko County, Nevada","Salt Lake County, Utah",1,0,48818,1029655
+"755","Elko County, Nevada","Davis County, Utah",1,0,48818,306479
+"756","Elko County, Nevada","Utah County, Utah",1,0,48818,516564
+"757","Elko County, Nevada","Juab County, Utah",1,0,48818,10246
+"758","Elko County, Nevada","Box Elder County, Utah",1,0,48818,49975
+"759","Elko County, Nevada","Cache County, Utah",1,0,48818,112656
+"760","Elko County, Nevada","Sanpete County, Utah",1,0,48818,27822
+"761","Elko County, Nevada","Sevier County, Utah",1,0,48818,20802
+"762","Elko County, Nevada","Piute County, Utah",1,0,48818,1556
+"763","Elko County, Nevada","Garfield County, Utah",1,0,48818,5172
+"764","Elko County, Nevada","Millard County, Utah",1,0,48818,12503
+"765","Elko County, Nevada","Wayne County, Utah",1,0,48818,2778
+"766","Elko County, Nevada","Uinta County, Wyoming",1,0,48818,21118
+"767","Elko County, Nevada","Rich County, Utah",1,0,48818,2264
+"768","Elko County, Nevada","Lincoln County, Wyoming",1,0,48818,18106
+"769","Elko County, Nevada","Franklin County, Idaho",1,0,48818,12786
+"770","Elko County, Nevada","Washington County, Utah",1,0,48818,138115
+"771","Elko County, Nevada","Iron County, Utah",1,0,48818,46163
+"772","Elko County, Nevada","Clark County, Nevada",1,0,48818,1951269
+"773","Elko County, Nevada","Beaver County, Utah",1,0,48818,6629
+"774","Elko County, Nevada","San Juan County, Utah",1,0,48818,14746
+"775","Elko County, Nevada","Grand County, Utah",1,0,48818,9225
+"776","Elko County, Nevada","Kane County, Utah",1,0,48818,7125
+"777","Elko County, Nevada","Coconino County, Arizona",1,0,48818,134421
+"778","Elko County, Nevada","Navajo County, Arizona",1,0,48818,107449
+"779","Elko County, Nevada","Montezuma County, Colorado",1,0,48818,25535
+"780","Elko County, Nevada","San Juan County, New Mexico",1,0,48818,130044
+"781","Elko County, Nevada","Apache County, Arizona",1,0,48818,71518
+"782","Elko County, Nevada","Emery County, Utah",1,0,48818,10976
+"783","Elko County, Nevada","Carbon County, Utah",1,0,48818,21403
+"784","Elko County, Nevada","Uintah County, Utah",1,0,48818,32588
+"785","Elko County, Nevada","Duchesne County, Utah",1,0,48818,18607
+"786","Elko County, Nevada","Rio Blanco County, Colorado",1,0,48818,6666
+"787","Elko County, Nevada","Dallas County, Texas",1,0,48818,2368139
+"788","Elko County, Nevada","Mohave County, Arizona",1,0,48818,200186
+"789","Elko County, Nevada","Queens County, New York",1,0,48818,2230722
+"790","Elko County, Nevada","Sweetwater County, Wyoming",1,0,48818,43806
+"791","Elko County, Nevada","Daggett County, Utah",1,0,48818,1059
+"792","Elko County, Nevada","Los Angeles County, California",1,0,48818,9818605
+"793","Uinta County, Wyoming","Weber County, Utah",1,0,21118,231236
+"794","Uinta County, Wyoming","Morgan County, Utah",1,0,21118,9469
+"795","Uinta County, Wyoming","Wasatch County, Utah",1,0,21118,23530
+"796","Uinta County, Wyoming","Summit County, Utah",1,0,21118,36324
+"797","Uinta County, Wyoming","Tooele County, Utah",1,0,21118,58218
+"798","Uinta County, Wyoming","Salt Lake County, Utah",1,0,21118,1029655
+"799","Uinta County, Wyoming","Davis County, Utah",1,0,21118,306479
+"800","Uinta County, Wyoming","Utah County, Utah",1,0,21118,516564
+"801","Uinta County, Wyoming","Juab County, Utah",1,0,21118,10246
+"802","Uinta County, Wyoming","Box Elder County, Utah",1,0,21118,49975
+"803","Uinta County, Wyoming","Cache County, Utah",1,0,21118,112656
+"804","Uinta County, Wyoming","Sanpete County, Utah",1,0,21118,27822
+"805","Uinta County, Wyoming","Sevier County, Utah",1,0,21118,20802
+"806","Uinta County, Wyoming","Piute County, Utah",1,0,21118,1556
+"807","Uinta County, Wyoming","Garfield County, Utah",1,0,21118,5172
+"808","Uinta County, Wyoming","Millard County, Utah",1,0,21118,12503
+"809","Uinta County, Wyoming","Wayne County, Utah",1,0,21118,2778
+"810","Uinta County, Wyoming","Elko County, Nevada",1,0,21118,48818
+"811","Uinta County, Wyoming","Rich County, Utah",1,0,21118,2264
+"812","Uinta County, Wyoming","Lincoln County, Wyoming",1,0,21118,18106
+"813","Uinta County, Wyoming","Franklin County, Idaho",1,0,21118,12786
+"814","Uinta County, Wyoming","Washington County, Utah",1,0,21118,138115
+"815","Uinta County, Wyoming","Iron County, Utah",1,0,21118,46163
+"816","Uinta County, Wyoming","Clark County, Nevada",1,0,21118,1951269
+"817","Uinta County, Wyoming","Beaver County, Utah",1,0,21118,6629
+"818","Uinta County, Wyoming","San Juan County, Utah",1,0,21118,14746
+"819","Uinta County, Wyoming","Grand County, Utah",1,0,21118,9225
+"820","Uinta County, Wyoming","Kane County, Utah",1,0,21118,7125
+"821","Uinta County, Wyoming","Coconino County, Arizona",1,0,21118,134421
+"822","Uinta County, Wyoming","Navajo County, Arizona",1,0,21118,107449
+"823","Uinta County, Wyoming","Montezuma County, Colorado",1,0,21118,25535
+"824","Uinta County, Wyoming","San Juan County, New Mexico",1,0,21118,130044
+"825","Uinta County, Wyoming","Apache County, Arizona",1,0,21118,71518
+"826","Uinta County, Wyoming","Emery County, Utah",1,0,21118,10976
+"827","Uinta County, Wyoming","Carbon County, Utah",1,0,21118,21403
+"828","Uinta County, Wyoming","Uintah County, Utah",1,0,21118,32588
+"829","Uinta County, Wyoming","Duchesne County, Utah",1,0,21118,18607
+"830","Uinta County, Wyoming","Rio Blanco County, Colorado",1,0,21118,6666
+"831","Uinta County, Wyoming","Dallas County, Texas",1,0,21118,2368139
+"832","Uinta County, Wyoming","Mohave County, Arizona",1,0,21118,200186
+"833","Uinta County, Wyoming","Queens County, New York",1,0,21118,2230722
+"834","Uinta County, Wyoming","Sweetwater County, Wyoming",1,0,21118,43806
+"835","Uinta County, Wyoming","Daggett County, Utah",1,0,21118,1059
+"836","Uinta County, Wyoming","Los Angeles County, California",1,0,21118,9818605
+"838","Rich County, Utah","Morgan County, Utah",1,0,2264,9469
+"839","Rich County, Utah","Wasatch County, Utah",1,0,2264,23530
+"840","Rich County, Utah","Summit County, Utah",1,0,2264,36324
+"841","Rich County, Utah","Tooele County, Utah",1,0,2264,58218
+"842","Rich County, Utah","Salt Lake County, Utah",1,0,2264,1029655
+"844","Rich County, Utah","Utah County, Utah",1,0,2264,516564
+"845","Rich County, Utah","Juab County, Utah",1,0,2264,10246
+"846","Rich County, Utah","Box Elder County, Utah",1,0,2264,49975
+"848","Rich County, Utah","Sanpete County, Utah",1,0,2264,27822
+"849","Rich County, Utah","Sevier County, Utah",1,0,2264,20802
+"850","Rich County, Utah","Piute County, Utah",1,0,2264,1556
+"851","Rich County, Utah","Garfield County, Utah",1,0,2264,5172
+"852","Rich County, Utah","Millard County, Utah",1,0,2264,12503
+"853","Rich County, Utah","Wayne County, Utah",1,0,2264,2778
+"854","Rich County, Utah","Elko County, Nevada",1,0,2264,48818
+"857","Rich County, Utah","Franklin County, Idaho",1,0,2264,12786
+"858","Rich County, Utah","Washington County, Utah",1,0,2264,138115
+"859","Rich County, Utah","Iron County, Utah",1,0,2264,46163
+"860","Rich County, Utah","Clark County, Nevada",1,0,2264,1951269
+"861","Rich County, Utah","Beaver County, Utah",1,0,2264,6629
+"862","Rich County, Utah","San Juan County, Utah",1,0,2264,14746
+"863","Rich County, Utah","Grand County, Utah",1,0,2264,9225
+"864","Rich County, Utah","Kane County, Utah",1,0,2264,7125
+"865","Rich County, Utah","Coconino County, Arizona",1,0,2264,134421
+"866","Rich County, Utah","Navajo County, Arizona",1,0,2264,107449
+"867","Rich County, Utah","Montezuma County, Colorado",1,0,2264,25535
+"868","Rich County, Utah","San Juan County, New Mexico",1,0,2264,130044
+"869","Rich County, Utah","Apache County, Arizona",1,0,2264,71518
+"870","Rich County, Utah","Emery County, Utah",1,0,2264,10976
+"871","Rich County, Utah","Carbon County, Utah",1,0,2264,21403
+"872","Rich County, Utah","Uintah County, Utah",1,0,2264,32588
+"873","Rich County, Utah","Duchesne County, Utah",1,0,2264,18607
+"874","Rich County, Utah","Rio Blanco County, Colorado",1,0,2264,6666
+"875","Rich County, Utah","Dallas County, Texas",1,0,2264,2368139
+"876","Rich County, Utah","Mohave County, Arizona",1,0,2264,200186
+"877","Rich County, Utah","Queens County, New York",1,0,2264,2230722
+"878","Rich County, Utah","Sweetwater County, Wyoming",1,0,2264,43806
+"879","Rich County, Utah","Daggett County, Utah",1,0,2264,1059
+"880","Rich County, Utah","Los Angeles County, California",1,0,2264,9818605
+"881","Lincoln County, Wyoming","Weber County, Utah",1,0,18106,231236
+"882","Lincoln County, Wyoming","Morgan County, Utah",1,0,18106,9469
+"883","Lincoln County, Wyoming","Wasatch County, Utah",1,0,18106,23530
+"884","Lincoln County, Wyoming","Summit County, Utah",1,0,18106,36324
+"885","Lincoln County, Wyoming","Tooele County, Utah",1,0,18106,58218
+"886","Lincoln County, Wyoming","Salt Lake County, Utah",1,0,18106,1029655
+"887","Lincoln County, Wyoming","Davis County, Utah",1,0,18106,306479
+"888","Lincoln County, Wyoming","Utah County, Utah",1,0,18106,516564
+"889","Lincoln County, Wyoming","Juab County, Utah",1,0,18106,10246
+"890","Lincoln County, Wyoming","Box Elder County, Utah",1,0,18106,49975
+"891","Lincoln County, Wyoming","Cache County, Utah",1,0,18106,112656
+"892","Lincoln County, Wyoming","Sanpete County, Utah",1,0,18106,27822
+"893","Lincoln County, Wyoming","Sevier County, Utah",1,0,18106,20802
+"894","Lincoln County, Wyoming","Piute County, Utah",1,0,18106,1556
+"895","Lincoln County, Wyoming","Garfield County, Utah",1,0,18106,5172
+"896","Lincoln County, Wyoming","Millard County, Utah",1,0,18106,12503
+"897","Lincoln County, Wyoming","Wayne County, Utah",1,0,18106,2778
+"898","Lincoln County, Wyoming","Elko County, Nevada",1,0,18106,48818
+"899","Lincoln County, Wyoming","Uinta County, Wyoming",1,0,18106,21118
+"900","Lincoln County, Wyoming","Rich County, Utah",1,0,18106,2264
+"901","Lincoln County, Wyoming","Franklin County, Idaho",1,0,18106,12786
+"902","Lincoln County, Wyoming","Washington County, Utah",1,0,18106,138115
+"903","Lincoln County, Wyoming","Iron County, Utah",1,0,18106,46163
+"904","Lincoln County, Wyoming","Clark County, Nevada",1,0,18106,1951269
+"905","Lincoln County, Wyoming","Beaver County, Utah",1,0,18106,6629
+"906","Lincoln County, Wyoming","San Juan County, Utah",1,0,18106,14746
+"907","Lincoln County, Wyoming","Grand County, Utah",1,0,18106,9225
+"908","Lincoln County, Wyoming","Kane County, Utah",1,0,18106,7125
+"909","Lincoln County, Wyoming","Coconino County, Arizona",1,0,18106,134421
+"910","Lincoln County, Wyoming","Navajo County, Arizona",1,0,18106,107449
+"911","Lincoln County, Wyoming","Montezuma County, Colorado",1,0,18106,25535
+"912","Lincoln County, Wyoming","San Juan County, New Mexico",1,0,18106,130044
+"913","Lincoln County, Wyoming","Apache County, Arizona",1,0,18106,71518
+"914","Lincoln County, Wyoming","Emery County, Utah",1,0,18106,10976
+"915","Lincoln County, Wyoming","Carbon County, Utah",1,0,18106,21403
+"916","Lincoln County, Wyoming","Uintah County, Utah",1,0,18106,32588
+"917","Lincoln County, Wyoming","Duchesne County, Utah",1,0,18106,18607
+"918","Lincoln County, Wyoming","Rio Blanco County, Colorado",1,0,18106,6666
+"919","Lincoln County, Wyoming","Dallas County, Texas",1,0,18106,2368139
+"920","Lincoln County, Wyoming","Mohave County, Arizona",1,0,18106,200186
+"921","Lincoln County, Wyoming","Queens County, New York",1,0,18106,2230722
+"922","Lincoln County, Wyoming","Sweetwater County, Wyoming",1,0,18106,43806
+"923","Lincoln County, Wyoming","Daggett County, Utah",1,0,18106,1059
+"924","Lincoln County, Wyoming","Los Angeles County, California",1,0,18106,9818605
+"925","Franklin County, Idaho","Weber County, Utah",1,0,12786,231236
+"926","Franklin County, Idaho","Morgan County, Utah",1,0,12786,9469
+"927","Franklin County, Idaho","Wasatch County, Utah",1,0,12786,23530
+"928","Franklin County, Idaho","Summit County, Utah",1,0,12786,36324
+"929","Franklin County, Idaho","Tooele County, Utah",1,0,12786,58218
+"930","Franklin County, Idaho","Salt Lake County, Utah",1,0,12786,1029655
+"931","Franklin County, Idaho","Davis County, Utah",1,0,12786,306479
+"932","Franklin County, Idaho","Utah County, Utah",1,0,12786,516564
+"933","Franklin County, Idaho","Juab County, Utah",1,0,12786,10246
+"934","Franklin County, Idaho","Box Elder County, Utah",1,0,12786,49975
+"935","Franklin County, Idaho","Cache County, Utah",1,0,12786,112656
+"936","Franklin County, Idaho","Sanpete County, Utah",1,0,12786,27822
+"937","Franklin County, Idaho","Sevier County, Utah",1,0,12786,20802
+"938","Franklin County, Idaho","Piute County, Utah",1,0,12786,1556
+"939","Franklin County, Idaho","Garfield County, Utah",1,0,12786,5172
+"940","Franklin County, Idaho","Millard County, Utah",1,0,12786,12503
+"941","Franklin County, Idaho","Wayne County, Utah",1,0,12786,2778
+"942","Franklin County, Idaho","Elko County, Nevada",1,0,12786,48818
+"943","Franklin County, Idaho","Uinta County, Wyoming",1,0,12786,21118
+"944","Franklin County, Idaho","Rich County, Utah",1,0,12786,2264
+"945","Franklin County, Idaho","Lincoln County, Wyoming",1,0,12786,18106
+"946","Franklin County, Idaho","Washington County, Utah",1,0,12786,138115
+"947","Franklin County, Idaho","Iron County, Utah",1,0,12786,46163
+"948","Franklin County, Idaho","Clark County, Nevada",1,0,12786,1951269
+"949","Franklin County, Idaho","Beaver County, Utah",1,0,12786,6629
+"950","Franklin County, Idaho","San Juan County, Utah",1,0,12786,14746
+"951","Franklin County, Idaho","Grand County, Utah",1,0,12786,9225
+"952","Franklin County, Idaho","Kane County, Utah",1,0,12786,7125
+"953","Franklin County, Idaho","Coconino County, Arizona",1,0,12786,134421
+"954","Franklin County, Idaho","Navajo County, Arizona",1,0,12786,107449
+"955","Franklin County, Idaho","Montezuma County, Colorado",1,0,12786,25535
+"956","Franklin County, Idaho","San Juan County, New Mexico",1,0,12786,130044
+"957","Franklin County, Idaho","Apache County, Arizona",1,0,12786,71518
+"958","Franklin County, Idaho","Emery County, Utah",1,0,12786,10976
+"959","Franklin County, Idaho","Carbon County, Utah",1,0,12786,21403
+"960","Franklin County, Idaho","Uintah County, Utah",1,0,12786,32588
+"961","Franklin County, Idaho","Duchesne County, Utah",1,0,12786,18607
+"962","Franklin County, Idaho","Rio Blanco County, Colorado",1,0,12786,6666
+"963","Franklin County, Idaho","Dallas County, Texas",1,0,12786,2368139
+"964","Franklin County, Idaho","Mohave County, Arizona",1,0,12786,200186
+"965","Franklin County, Idaho","Queens County, New York",1,0,12786,2230722
+"966","Franklin County, Idaho","Sweetwater County, Wyoming",1,0,12786,43806
+"967","Franklin County, Idaho","Daggett County, Utah",1,0,12786,1059
+"968","Franklin County, Idaho","Los Angeles County, California",1,0,12786,9818605
+"969","Washington County, Utah","Weber County, Utah",1,0,138115,231236
+"970","Washington County, Utah","Morgan County, Utah",1,0,138115,9469
+"971","Washington County, Utah","Wasatch County, Utah",1,0,138115,23530
+"972","Washington County, Utah","Summit County, Utah",1,0,138115,36324
+"973","Washington County, Utah","Tooele County, Utah",1,0,138115,58218
+"975","Washington County, Utah","Davis County, Utah",1,0,138115,306479
+"977","Washington County, Utah","Juab County, Utah",1,0,138115,10246
+"978","Washington County, Utah","Box Elder County, Utah",1,0,138115,49975
+"979","Washington County, Utah","Cache County, Utah",1,0,138115,112656
+"980","Washington County, Utah","Sanpete County, Utah",1,0,138115,27822
+"981","Washington County, Utah","Sevier County, Utah",1,0,138115,20802
+"982","Washington County, Utah","Piute County, Utah",1,0,138115,1556
+"984","Washington County, Utah","Millard County, Utah",1,0,138115,12503
+"985","Washington County, Utah","Wayne County, Utah",1,0,138115,2778
+"986","Washington County, Utah","Elko County, Nevada",1,0,138115,48818
+"987","Washington County, Utah","Uinta County, Wyoming",1,0,138115,21118
+"988","Washington County, Utah","Rich County, Utah",1,0,138115,2264
+"989","Washington County, Utah","Lincoln County, Wyoming",1,0,138115,18106
+"990","Washington County, Utah","Franklin County, Idaho",1,0,138115,12786
+"993","Washington County, Utah","Beaver County, Utah",1,0,138115,6629
+"994","Washington County, Utah","San Juan County, Utah",1,0,138115,14746
+"995","Washington County, Utah","Grand County, Utah",1,0,138115,9225
+"997","Washington County, Utah","Coconino County, Arizona",1,0,138115,134421
+"998","Washington County, Utah","Navajo County, Arizona",1,0,138115,107449
+"999","Washington County, Utah","Montezuma County, Colorado",1,0,138115,25535
+"1000","Washington County, Utah","San Juan County, New Mexico",1,0,138115,130044
+"1001","Washington County, Utah","Apache County, Arizona",1,0,138115,71518
+"1002","Washington County, Utah","Emery County, Utah",1,0,138115,10976
+"1003","Washington County, Utah","Carbon County, Utah",1,0,138115,21403
+"1004","Washington County, Utah","Uintah County, Utah",1,0,138115,32588
+"1005","Washington County, Utah","Duchesne County, Utah",1,0,138115,18607
+"1006","Washington County, Utah","Rio Blanco County, Colorado",1,0,138115,6666
+"1007","Washington County, Utah","Dallas County, Texas",1,0,138115,2368139
+"1009","Washington County, Utah","Queens County, New York",1,0,138115,2230722
+"1010","Washington County, Utah","Sweetwater County, Wyoming",1,0,138115,43806
+"1011","Washington County, Utah","Daggett County, Utah",1,0,138115,1059
+"1012","Washington County, Utah","Los Angeles County, California",1,0,138115,9818605
+"1013","Iron County, Utah","Weber County, Utah",1,0,46163,231236
+"1014","Iron County, Utah","Morgan County, Utah",1,0,46163,9469
+"1015","Iron County, Utah","Wasatch County, Utah",1,0,46163,23530
+"1016","Iron County, Utah","Summit County, Utah",1,0,46163,36324
+"1017","Iron County, Utah","Tooele County, Utah",1,0,46163,58218
+"1019","Iron County, Utah","Davis County, Utah",1,0,46163,306479
+"1020","Iron County, Utah","Utah County, Utah",1,0,46163,516564
+"1021","Iron County, Utah","Juab County, Utah",1,0,46163,10246
+"1022","Iron County, Utah","Box Elder County, Utah",1,0,46163,49975
+"1023","Iron County, Utah","Cache County, Utah",1,0,46163,112656
+"1024","Iron County, Utah","Sanpete County, Utah",1,0,46163,27822
+"1025","Iron County, Utah","Sevier County, Utah",1,0,46163,20802
+"1026","Iron County, Utah","Piute County, Utah",1,0,46163,1556
+"1028","Iron County, Utah","Millard County, Utah",1,0,46163,12503
+"1029","Iron County, Utah","Wayne County, Utah",1,0,46163,2778
+"1030","Iron County, Utah","Elko County, Nevada",1,0,46163,48818
+"1031","Iron County, Utah","Uinta County, Wyoming",1,0,46163,21118
+"1032","Iron County, Utah","Rich County, Utah",1,0,46163,2264
+"1033","Iron County, Utah","Lincoln County, Wyoming",1,0,46163,18106
+"1034","Iron County, Utah","Franklin County, Idaho",1,0,46163,12786
+"1038","Iron County, Utah","San Juan County, Utah",1,0,46163,14746
+"1039","Iron County, Utah","Grand County, Utah",1,0,46163,9225
+"1041","Iron County, Utah","Coconino County, Arizona",1,0,46163,134421
+"1042","Iron County, Utah","Navajo County, Arizona",1,0,46163,107449
+"1043","Iron County, Utah","Montezuma County, Colorado",1,0,46163,25535
+"1044","Iron County, Utah","San Juan County, New Mexico",1,0,46163,130044
+"1045","Iron County, Utah","Apache County, Arizona",1,0,46163,71518
+"1046","Iron County, Utah","Emery County, Utah",1,0,46163,10976
+"1047","Iron County, Utah","Carbon County, Utah",1,0,46163,21403
+"1048","Iron County, Utah","Uintah County, Utah",1,0,46163,32588
+"1049","Iron County, Utah","Duchesne County, Utah",1,0,46163,18607
+"1050","Iron County, Utah","Rio Blanco County, Colorado",1,0,46163,6666
+"1051","Iron County, Utah","Dallas County, Texas",1,0,46163,2368139
+"1052","Iron County, Utah","Mohave County, Arizona",1,0,46163,200186
+"1053","Iron County, Utah","Queens County, New York",1,0,46163,2230722
+"1054","Iron County, Utah","Sweetwater County, Wyoming",1,0,46163,43806
+"1055","Iron County, Utah","Daggett County, Utah",1,0,46163,1059
+"1056","Iron County, Utah","Los Angeles County, California",1,0,46163,9818605
+"1057","Clark County, Nevada","Weber County, Utah",1,0,1951269,231236
+"1058","Clark County, Nevada","Morgan County, Utah",1,0,1951269,9469
+"1059","Clark County, Nevada","Wasatch County, Utah",1,0,1951269,23530
+"1060","Clark County, Nevada","Summit County, Utah",1,0,1951269,36324
+"1061","Clark County, Nevada","Tooele County, Utah",1,0,1951269,58218
+"1062","Clark County, Nevada","Salt Lake County, Utah",1,0,1951269,1029655
+"1063","Clark County, Nevada","Davis County, Utah",1,0,1951269,306479
+"1064","Clark County, Nevada","Utah County, Utah",1,0,1951269,516564
+"1065","Clark County, Nevada","Juab County, Utah",1,0,1951269,10246
+"1066","Clark County, Nevada","Box Elder County, Utah",1,0,1951269,49975
+"1067","Clark County, Nevada","Cache County, Utah",1,0,1951269,112656
+"1068","Clark County, Nevada","Sanpete County, Utah",1,0,1951269,27822
+"1069","Clark County, Nevada","Sevier County, Utah",1,0,1951269,20802
+"1070","Clark County, Nevada","Piute County, Utah",1,0,1951269,1556
+"1071","Clark County, Nevada","Garfield County, Utah",1,0,1951269,5172
+"1072","Clark County, Nevada","Millard County, Utah",1,0,1951269,12503
+"1073","Clark County, Nevada","Wayne County, Utah",1,0,1951269,2778
+"1074","Clark County, Nevada","Elko County, Nevada",1,0,1951269,48818
+"1075","Clark County, Nevada","Uinta County, Wyoming",1,0,1951269,21118
+"1076","Clark County, Nevada","Rich County, Utah",1,0,1951269,2264
+"1077","Clark County, Nevada","Lincoln County, Wyoming",1,0,1951269,18106
+"1078","Clark County, Nevada","Franklin County, Idaho",1,0,1951269,12786
+"1079","Clark County, Nevada","Washington County, Utah",1,0,1951269,138115
+"1080","Clark County, Nevada","Iron County, Utah",1,0,1951269,46163
+"1081","Clark County, Nevada","Beaver County, Utah",1,0,1951269,6629
+"1082","Clark County, Nevada","San Juan County, Utah",1,0,1951269,14746
+"1083","Clark County, Nevada","Grand County, Utah",1,0,1951269,9225
+"1084","Clark County, Nevada","Kane County, Utah",1,0,1951269,7125
+"1085","Clark County, Nevada","Coconino County, Arizona",1,0,1951269,134421
+"1086","Clark County, Nevada","Navajo County, Arizona",1,0,1951269,107449
+"1087","Clark County, Nevada","Montezuma County, Colorado",1,0,1951269,25535
+"1088","Clark County, Nevada","San Juan County, New Mexico",1,0,1951269,130044
+"1089","Clark County, Nevada","Apache County, Arizona",1,0,1951269,71518
+"1090","Clark County, Nevada","Emery County, Utah",1,0,1951269,10976
+"1091","Clark County, Nevada","Carbon County, Utah",1,0,1951269,21403
+"1092","Clark County, Nevada","Uintah County, Utah",1,0,1951269,32588
+"1093","Clark County, Nevada","Duchesne County, Utah",1,0,1951269,18607
+"1094","Clark County, Nevada","Rio Blanco County, Colorado",1,0,1951269,6666
+"1095","Clark County, Nevada","Dallas County, Texas",1,0,1951269,2368139
+"1096","Clark County, Nevada","Mohave County, Arizona",1,0,1951269,200186
+"1097","Clark County, Nevada","Queens County, New York",1,0,1951269,2230722
+"1098","Clark County, Nevada","Sweetwater County, Wyoming",1,0,1951269,43806
+"1099","Clark County, Nevada","Daggett County, Utah",1,0,1951269,1059
+"1100","Clark County, Nevada","Los Angeles County, California",1,0,1951269,9818605
+"1101","Beaver County, Utah","Weber County, Utah",1,0,6629,231236
+"1102","Beaver County, Utah","Morgan County, Utah",1,0,6629,9469
+"1103","Beaver County, Utah","Wasatch County, Utah",1,0,6629,23530
+"1104","Beaver County, Utah","Summit County, Utah",1,0,6629,36324
+"1105","Beaver County, Utah","Tooele County, Utah",1,0,6629,58218
+"1106","Beaver County, Utah","Salt Lake County, Utah",1,0,6629,1029655
+"1107","Beaver County, Utah","Davis County, Utah",1,0,6629,306479
+"1108","Beaver County, Utah","Utah County, Utah",1,0,6629,516564
+"1109","Beaver County, Utah","Juab County, Utah",1,0,6629,10246
+"1110","Beaver County, Utah","Box Elder County, Utah",1,0,6629,49975
+"1111","Beaver County, Utah","Cache County, Utah",1,0,6629,112656
+"1112","Beaver County, Utah","Sanpete County, Utah",1,0,6629,27822
+"1113","Beaver County, Utah","Sevier County, Utah",1,0,6629,20802
+"1114","Beaver County, Utah","Piute County, Utah",1,0,6629,1556
+"1115","Beaver County, Utah","Garfield County, Utah",1,0,6629,5172
+"1116","Beaver County, Utah","Millard County, Utah",1,0,6629,12503
+"1117","Beaver County, Utah","Wayne County, Utah",1,0,6629,2778
+"1118","Beaver County, Utah","Elko County, Nevada",1,0,6629,48818
+"1119","Beaver County, Utah","Uinta County, Wyoming",1,0,6629,21118
+"1120","Beaver County, Utah","Rich County, Utah",1,0,6629,2264
+"1121","Beaver County, Utah","Lincoln County, Wyoming",1,0,6629,18106
+"1122","Beaver County, Utah","Franklin County, Idaho",1,0,6629,12786
+"1125","Beaver County, Utah","Clark County, Nevada",1,0,6629,1951269
+"1126","Beaver County, Utah","San Juan County, Utah",1,0,6629,14746
+"1127","Beaver County, Utah","Grand County, Utah",1,0,6629,9225
+"1128","Beaver County, Utah","Kane County, Utah",1,0,6629,7125
+"1129","Beaver County, Utah","Coconino County, Arizona",1,0,6629,134421
+"1130","Beaver County, Utah","Navajo County, Arizona",1,0,6629,107449
+"1131","Beaver County, Utah","Montezuma County, Colorado",1,0,6629,25535
+"1132","Beaver County, Utah","San Juan County, New Mexico",1,0,6629,130044
+"1133","Beaver County, Utah","Apache County, Arizona",1,0,6629,71518
+"1134","Beaver County, Utah","Emery County, Utah",1,0,6629,10976
+"1135","Beaver County, Utah","Carbon County, Utah",1,0,6629,21403
+"1136","Beaver County, Utah","Uintah County, Utah",1,0,6629,32588
+"1137","Beaver County, Utah","Duchesne County, Utah",1,0,6629,18607
+"1138","Beaver County, Utah","Rio Blanco County, Colorado",1,0,6629,6666
+"1139","Beaver County, Utah","Dallas County, Texas",1,0,6629,2368139
+"1140","Beaver County, Utah","Mohave County, Arizona",1,0,6629,200186
+"1141","Beaver County, Utah","Queens County, New York",1,0,6629,2230722
+"1142","Beaver County, Utah","Sweetwater County, Wyoming",1,0,6629,43806
+"1143","Beaver County, Utah","Daggett County, Utah",1,0,6629,1059
+"1144","Beaver County, Utah","Los Angeles County, California",1,0,6629,9818605
+"1145","San Juan County, Utah","Weber County, Utah",1,0,14746,231236
+"1146","San Juan County, Utah","Morgan County, Utah",1,0,14746,9469
+"1147","San Juan County, Utah","Wasatch County, Utah",1,0,14746,23530
+"1148","San Juan County, Utah","Summit County, Utah",1,0,14746,36324
+"1149","San Juan County, Utah","Tooele County, Utah",1,0,14746,58218
+"1150","San Juan County, Utah","Salt Lake County, Utah",1,0,14746,1029655
+"1151","San Juan County, Utah","Davis County, Utah",1,0,14746,306479
+"1152","San Juan County, Utah","Utah County, Utah",1,0,14746,516564
+"1153","San Juan County, Utah","Juab County, Utah",1,0,14746,10246
+"1154","San Juan County, Utah","Box Elder County, Utah",1,0,14746,49975
+"1155","San Juan County, Utah","Cache County, Utah",1,0,14746,112656
+"1156","San Juan County, Utah","Sanpete County, Utah",1,0,14746,27822
+"1157","San Juan County, Utah","Sevier County, Utah",1,0,14746,20802
+"1158","San Juan County, Utah","Piute County, Utah",1,0,14746,1556
+"1159","San Juan County, Utah","Garfield County, Utah",1,0,14746,5172
+"1160","San Juan County, Utah","Millard County, Utah",1,0,14746,12503
+"1161","San Juan County, Utah","Wayne County, Utah",1,0,14746,2778
+"1162","San Juan County, Utah","Elko County, Nevada",1,0,14746,48818
+"1163","San Juan County, Utah","Uinta County, Wyoming",1,0,14746,21118
+"1164","San Juan County, Utah","Rich County, Utah",1,0,14746,2264
+"1165","San Juan County, Utah","Lincoln County, Wyoming",1,0,14746,18106
+"1166","San Juan County, Utah","Franklin County, Idaho",1,0,14746,12786
+"1167","San Juan County, Utah","Washington County, Utah",1,0,14746,138115
+"1168","San Juan County, Utah","Iron County, Utah",1,0,14746,46163
+"1169","San Juan County, Utah","Clark County, Nevada",1,0,14746,1951269
+"1170","San Juan County, Utah","Beaver County, Utah",1,0,14746,6629
+"1172","San Juan County, Utah","Kane County, Utah",1,0,14746,7125
+"1178","San Juan County, Utah","Emery County, Utah",1,0,14746,10976
+"1179","San Juan County, Utah","Carbon County, Utah",1,0,14746,21403
+"1180","San Juan County, Utah","Uintah County, Utah",1,0,14746,32588
+"1181","San Juan County, Utah","Duchesne County, Utah",1,0,14746,18607
+"1182","San Juan County, Utah","Rio Blanco County, Colorado",1,0,14746,6666
+"1183","San Juan County, Utah","Dallas County, Texas",1,0,14746,2368139
+"1184","San Juan County, Utah","Mohave County, Arizona",1,0,14746,200186
+"1185","San Juan County, Utah","Queens County, New York",1,0,14746,2230722
+"1186","San Juan County, Utah","Sweetwater County, Wyoming",1,0,14746,43806
+"1187","San Juan County, Utah","Daggett County, Utah",1,0,14746,1059
+"1188","San Juan County, Utah","Los Angeles County, California",1,0,14746,9818605
+"1189","Grand County, Utah","Weber County, Utah",1,0,9225,231236
+"1190","Grand County, Utah","Morgan County, Utah",1,0,9225,9469
+"1191","Grand County, Utah","Wasatch County, Utah",1,0,9225,23530
+"1192","Grand County, Utah","Summit County, Utah",1,0,9225,36324
+"1193","Grand County, Utah","Tooele County, Utah",1,0,9225,58218
+"1194","Grand County, Utah","Salt Lake County, Utah",1,0,9225,1029655
+"1195","Grand County, Utah","Davis County, Utah",1,0,9225,306479
+"1196","Grand County, Utah","Utah County, Utah",1,0,9225,516564
+"1197","Grand County, Utah","Juab County, Utah",1,0,9225,10246
+"1198","Grand County, Utah","Box Elder County, Utah",1,0,9225,49975
+"1199","Grand County, Utah","Cache County, Utah",1,0,9225,112656
+"1200","Grand County, Utah","Sanpete County, Utah",1,0,9225,27822
+"1201","Grand County, Utah","Sevier County, Utah",1,0,9225,20802
+"1202","Grand County, Utah","Piute County, Utah",1,0,9225,1556
+"1203","Grand County, Utah","Garfield County, Utah",1,0,9225,5172
+"1204","Grand County, Utah","Millard County, Utah",1,0,9225,12503
+"1205","Grand County, Utah","Wayne County, Utah",1,0,9225,2778
+"1206","Grand County, Utah","Elko County, Nevada",1,0,9225,48818
+"1207","Grand County, Utah","Uinta County, Wyoming",1,0,9225,21118
+"1208","Grand County, Utah","Rich County, Utah",1,0,9225,2264
+"1209","Grand County, Utah","Lincoln County, Wyoming",1,0,9225,18106
+"1210","Grand County, Utah","Franklin County, Idaho",1,0,9225,12786
+"1211","Grand County, Utah","Washington County, Utah",1,0,9225,138115
+"1212","Grand County, Utah","Iron County, Utah",1,0,9225,46163
+"1213","Grand County, Utah","Clark County, Nevada",1,0,9225,1951269
+"1214","Grand County, Utah","Beaver County, Utah",1,0,9225,6629
+"1216","Grand County, Utah","Kane County, Utah",1,0,9225,7125
+"1217","Grand County, Utah","Coconino County, Arizona",1,0,9225,134421
+"1218","Grand County, Utah","Navajo County, Arizona",1,0,9225,107449
+"1219","Grand County, Utah","Montezuma County, Colorado",1,0,9225,25535
+"1220","Grand County, Utah","San Juan County, New Mexico",1,0,9225,130044
+"1221","Grand County, Utah","Apache County, Arizona",1,0,9225,71518
+"1222","Grand County, Utah","Emery County, Utah",1,0,9225,10976
+"1223","Grand County, Utah","Carbon County, Utah",1,0,9225,21403
+"1224","Grand County, Utah","Uintah County, Utah",1,0,9225,32588
+"1225","Grand County, Utah","Duchesne County, Utah",1,0,9225,18607
+"1226","Grand County, Utah","Rio Blanco County, Colorado",1,0,9225,6666
+"1227","Grand County, Utah","Dallas County, Texas",1,0,9225,2368139
+"1228","Grand County, Utah","Mohave County, Arizona",1,0,9225,200186
+"1229","Grand County, Utah","Queens County, New York",1,0,9225,2230722
+"1230","Grand County, Utah","Sweetwater County, Wyoming",1,0,9225,43806
+"1231","Grand County, Utah","Daggett County, Utah",1,0,9225,1059
+"1232","Grand County, Utah","Los Angeles County, California",1,0,9225,9818605
+"1233","Kane County, Utah","Weber County, Utah",1,0,7125,231236
+"1234","Kane County, Utah","Morgan County, Utah",1,0,7125,9469
+"1235","Kane County, Utah","Wasatch County, Utah",1,0,7125,23530
+"1236","Kane County, Utah","Summit County, Utah",1,0,7125,36324
+"1237","Kane County, Utah","Tooele County, Utah",1,0,7125,58218
+"1238","Kane County, Utah","Salt Lake County, Utah",1,0,7125,1029655
+"1239","Kane County, Utah","Davis County, Utah",1,0,7125,306479
+"1240","Kane County, Utah","Utah County, Utah",1,0,7125,516564
+"1241","Kane County, Utah","Juab County, Utah",1,0,7125,10246
+"1242","Kane County, Utah","Box Elder County, Utah",1,0,7125,49975
+"1243","Kane County, Utah","Cache County, Utah",1,0,7125,112656
+"1244","Kane County, Utah","Sanpete County, Utah",1,0,7125,27822
+"1246","Kane County, Utah","Piute County, Utah",1,0,7125,1556
+"1248","Kane County, Utah","Millard County, Utah",1,0,7125,12503
+"1249","Kane County, Utah","Wayne County, Utah",1,0,7125,2778
+"1250","Kane County, Utah","Elko County, Nevada",1,0,7125,48818
+"1251","Kane County, Utah","Uinta County, Wyoming",1,0,7125,21118
+"1252","Kane County, Utah","Rich County, Utah",1,0,7125,2264
+"1253","Kane County, Utah","Lincoln County, Wyoming",1,0,7125,18106
+"1254","Kane County, Utah","Franklin County, Idaho",1,0,7125,12786
+"1256","Kane County, Utah","Iron County, Utah",1,0,7125,46163
+"1257","Kane County, Utah","Clark County, Nevada",1,0,7125,1951269
+"1258","Kane County, Utah","Beaver County, Utah",1,0,7125,6629
+"1260","Kane County, Utah","Grand County, Utah",1,0,7125,9225
+"1262","Kane County, Utah","Navajo County, Arizona",1,0,7125,107449
+"1263","Kane County, Utah","Montezuma County, Colorado",1,0,7125,25535
+"1264","Kane County, Utah","San Juan County, New Mexico",1,0,7125,130044
+"1265","Kane County, Utah","Apache County, Arizona",1,0,7125,71518
+"1266","Kane County, Utah","Emery County, Utah",1,0,7125,10976
+"1267","Kane County, Utah","Carbon County, Utah",1,0,7125,21403
+"1268","Kane County, Utah","Uintah County, Utah",1,0,7125,32588
+"1269","Kane County, Utah","Duchesne County, Utah",1,0,7125,18607
+"1270","Kane County, Utah","Rio Blanco County, Colorado",1,0,7125,6666
+"1271","Kane County, Utah","Dallas County, Texas",1,0,7125,2368139
+"1272","Kane County, Utah","Mohave County, Arizona",1,0,7125,200186
+"1273","Kane County, Utah","Queens County, New York",1,0,7125,2230722
+"1274","Kane County, Utah","Sweetwater County, Wyoming",1,0,7125,43806
+"1275","Kane County, Utah","Daggett County, Utah",1,0,7125,1059
+"1277","Coconino County, Arizona","Weber County, Utah",1,0,134421,231236
+"1278","Coconino County, Arizona","Morgan County, Utah",1,0,134421,9469
+"1279","Coconino County, Arizona","Wasatch County, Utah",1,0,134421,23530
+"1280","Coconino County, Arizona","Summit County, Utah",1,0,134421,36324
+"1281","Coconino County, Arizona","Tooele County, Utah",1,0,134421,58218
+"1282","Coconino County, Arizona","Salt Lake County, Utah",1,0,134421,1029655
+"1283","Coconino County, Arizona","Davis County, Utah",1,0,134421,306479
+"1284","Coconino County, Arizona","Utah County, Utah",1,0,134421,516564
+"1285","Coconino County, Arizona","Juab County, Utah",1,0,134421,10246
+"1286","Coconino County, Arizona","Box Elder County, Utah",1,0,134421,49975
+"1287","Coconino County, Arizona","Cache County, Utah",1,0,134421,112656
+"1288","Coconino County, Arizona","Sanpete County, Utah",1,0,134421,27822
+"1289","Coconino County, Arizona","Sevier County, Utah",1,0,134421,20802
+"1290","Coconino County, Arizona","Piute County, Utah",1,0,134421,1556
+"1291","Coconino County, Arizona","Garfield County, Utah",1,0,134421,5172
+"1292","Coconino County, Arizona","Millard County, Utah",1,0,134421,12503
+"1293","Coconino County, Arizona","Wayne County, Utah",1,0,134421,2778
+"1294","Coconino County, Arizona","Elko County, Nevada",1,0,134421,48818
+"1295","Coconino County, Arizona","Uinta County, Wyoming",1,0,134421,21118
+"1296","Coconino County, Arizona","Rich County, Utah",1,0,134421,2264
+"1297","Coconino County, Arizona","Lincoln County, Wyoming",1,0,134421,18106
+"1298","Coconino County, Arizona","Franklin County, Idaho",1,0,134421,12786
+"1299","Coconino County, Arizona","Washington County, Utah",1,0,134421,138115
+"1300","Coconino County, Arizona","Iron County, Utah",1,0,134421,46163
+"1301","Coconino County, Arizona","Clark County, Nevada",1,0,134421,1951269
+"1302","Coconino County, Arizona","Beaver County, Utah",1,0,134421,6629
+"1303","Coconino County, Arizona","San Juan County, Utah",1,0,134421,14746
+"1304","Coconino County, Arizona","Grand County, Utah",1,0,134421,9225
+"1305","Coconino County, Arizona","Kane County, Utah",1,0,134421,7125
+"1306","Coconino County, Arizona","Navajo County, Arizona",1,0,134421,107449
+"1307","Coconino County, Arizona","Montezuma County, Colorado",1,0,134421,25535
+"1308","Coconino County, Arizona","San Juan County, New Mexico",1,0,134421,130044
+"1309","Coconino County, Arizona","Apache County, Arizona",1,0,134421,71518
+"1310","Coconino County, Arizona","Emery County, Utah",1,0,134421,10976
+"1311","Coconino County, Arizona","Carbon County, Utah",1,0,134421,21403
+"1312","Coconino County, Arizona","Uintah County, Utah",1,0,134421,32588
+"1313","Coconino County, Arizona","Duchesne County, Utah",1,0,134421,18607
+"1314","Coconino County, Arizona","Rio Blanco County, Colorado",1,0,134421,6666
+"1315","Coconino County, Arizona","Dallas County, Texas",1,0,134421,2368139
+"1316","Coconino County, Arizona","Mohave County, Arizona",1,0,134421,200186
+"1317","Coconino County, Arizona","Queens County, New York",1,0,134421,2230722
+"1318","Coconino County, Arizona","Sweetwater County, Wyoming",1,0,134421,43806
+"1319","Coconino County, Arizona","Daggett County, Utah",1,0,134421,1059
+"1320","Coconino County, Arizona","Los Angeles County, California",1,0,134421,9818605
+"1321","Navajo County, Arizona","Weber County, Utah",1,0,107449,231236
+"1322","Navajo County, Arizona","Morgan County, Utah",1,0,107449,9469
+"1323","Navajo County, Arizona","Wasatch County, Utah",1,0,107449,23530
+"1324","Navajo County, Arizona","Summit County, Utah",1,0,107449,36324
+"1325","Navajo County, Arizona","Tooele County, Utah",1,0,107449,58218
+"1326","Navajo County, Arizona","Salt Lake County, Utah",1,0,107449,1029655
+"1327","Navajo County, Arizona","Davis County, Utah",1,0,107449,306479
+"1328","Navajo County, Arizona","Utah County, Utah",1,0,107449,516564
+"1329","Navajo County, Arizona","Juab County, Utah",1,0,107449,10246
+"1330","Navajo County, Arizona","Box Elder County, Utah",1,0,107449,49975
+"1331","Navajo County, Arizona","Cache County, Utah",1,0,107449,112656
+"1332","Navajo County, Arizona","Sanpete County, Utah",1,0,107449,27822
+"1333","Navajo County, Arizona","Sevier County, Utah",1,0,107449,20802
+"1334","Navajo County, Arizona","Piute County, Utah",1,0,107449,1556
+"1335","Navajo County, Arizona","Garfield County, Utah",1,0,107449,5172
+"1336","Navajo County, Arizona","Millard County, Utah",1,0,107449,12503
+"1337","Navajo County, Arizona","Wayne County, Utah",1,0,107449,2778
+"1338","Navajo County, Arizona","Elko County, Nevada",1,0,107449,48818
+"1339","Navajo County, Arizona","Uinta County, Wyoming",1,0,107449,21118
+"1340","Navajo County, Arizona","Rich County, Utah",1,0,107449,2264
+"1341","Navajo County, Arizona","Lincoln County, Wyoming",1,0,107449,18106
+"1342","Navajo County, Arizona","Franklin County, Idaho",1,0,107449,12786
+"1343","Navajo County, Arizona","Washington County, Utah",1,0,107449,138115
+"1344","Navajo County, Arizona","Iron County, Utah",1,0,107449,46163
+"1345","Navajo County, Arizona","Clark County, Nevada",1,0,107449,1951269
+"1346","Navajo County, Arizona","Beaver County, Utah",1,0,107449,6629
+"1347","Navajo County, Arizona","San Juan County, Utah",1,0,107449,14746
+"1348","Navajo County, Arizona","Grand County, Utah",1,0,107449,9225
+"1349","Navajo County, Arizona","Kane County, Utah",1,0,107449,7125
+"1350","Navajo County, Arizona","Coconino County, Arizona",1,0,107449,134421
+"1351","Navajo County, Arizona","Montezuma County, Colorado",1,0,107449,25535
+"1352","Navajo County, Arizona","San Juan County, New Mexico",1,0,107449,130044
+"1353","Navajo County, Arizona","Apache County, Arizona",1,0,107449,71518
+"1354","Navajo County, Arizona","Emery County, Utah",1,0,107449,10976
+"1355","Navajo County, Arizona","Carbon County, Utah",1,0,107449,21403
+"1356","Navajo County, Arizona","Uintah County, Utah",1,0,107449,32588
+"1357","Navajo County, Arizona","Duchesne County, Utah",1,0,107449,18607
+"1358","Navajo County, Arizona","Rio Blanco County, Colorado",1,0,107449,6666
+"1359","Navajo County, Arizona","Dallas County, Texas",1,0,107449,2368139
+"1360","Navajo County, Arizona","Mohave County, Arizona",1,0,107449,200186
+"1361","Navajo County, Arizona","Queens County, New York",1,0,107449,2230722
+"1362","Navajo County, Arizona","Sweetwater County, Wyoming",1,0,107449,43806
+"1363","Navajo County, Arizona","Daggett County, Utah",1,0,107449,1059
+"1364","Navajo County, Arizona","Los Angeles County, California",1,0,107449,9818605
+"1365","Montezuma County, Colorado","Weber County, Utah",1,0,25535,231236
+"1366","Montezuma County, Colorado","Morgan County, Utah",1,0,25535,9469
+"1367","Montezuma County, Colorado","Wasatch County, Utah",1,0,25535,23530
+"1368","Montezuma County, Colorado","Summit County, Utah",1,0,25535,36324
+"1369","Montezuma County, Colorado","Tooele County, Utah",1,0,25535,58218
+"1370","Montezuma County, Colorado","Salt Lake County, Utah",1,0,25535,1029655
+"1371","Montezuma County, Colorado","Davis County, Utah",1,0,25535,306479
+"1372","Montezuma County, Colorado","Utah County, Utah",1,0,25535,516564
+"1373","Montezuma County, Colorado","Juab County, Utah",1,0,25535,10246
+"1374","Montezuma County, Colorado","Box Elder County, Utah",1,0,25535,49975
+"1375","Montezuma County, Colorado","Cache County, Utah",1,0,25535,112656
+"1376","Montezuma County, Colorado","Sanpete County, Utah",1,0,25535,27822
+"1377","Montezuma County, Colorado","Sevier County, Utah",1,0,25535,20802
+"1378","Montezuma County, Colorado","Piute County, Utah",1,0,25535,1556
+"1379","Montezuma County, Colorado","Garfield County, Utah",1,0,25535,5172
+"1380","Montezuma County, Colorado","Millard County, Utah",1,0,25535,12503
+"1381","Montezuma County, Colorado","Wayne County, Utah",1,0,25535,2778
+"1382","Montezuma County, Colorado","Elko County, Nevada",1,0,25535,48818
+"1383","Montezuma County, Colorado","Uinta County, Wyoming",1,0,25535,21118
+"1384","Montezuma County, Colorado","Rich County, Utah",1,0,25535,2264
+"1385","Montezuma County, Colorado","Lincoln County, Wyoming",1,0,25535,18106
+"1386","Montezuma County, Colorado","Franklin County, Idaho",1,0,25535,12786
+"1387","Montezuma County, Colorado","Washington County, Utah",1,0,25535,138115
+"1388","Montezuma County, Colorado","Iron County, Utah",1,0,25535,46163
+"1389","Montezuma County, Colorado","Clark County, Nevada",1,0,25535,1951269
+"1390","Montezuma County, Colorado","Beaver County, Utah",1,0,25535,6629
+"1391","Montezuma County, Colorado","San Juan County, Utah",1,0,25535,14746
+"1392","Montezuma County, Colorado","Grand County, Utah",1,0,25535,9225
+"1393","Montezuma County, Colorado","Kane County, Utah",1,0,25535,7125
+"1394","Montezuma County, Colorado","Coconino County, Arizona",1,0,25535,134421
+"1395","Montezuma County, Colorado","Navajo County, Arizona",1,0,25535,107449
+"1396","Montezuma County, Colorado","San Juan County, New Mexico",1,0,25535,130044
+"1397","Montezuma County, Colorado","Apache County, Arizona",1,0,25535,71518
+"1398","Montezuma County, Colorado","Emery County, Utah",1,0,25535,10976
+"1399","Montezuma County, Colorado","Carbon County, Utah",1,0,25535,21403
+"1400","Montezuma County, Colorado","Uintah County, Utah",1,0,25535,32588
+"1401","Montezuma County, Colorado","Duchesne County, Utah",1,0,25535,18607
+"1402","Montezuma County, Colorado","Rio Blanco County, Colorado",1,0,25535,6666
+"1403","Montezuma County, Colorado","Dallas County, Texas",1,0,25535,2368139
+"1404","Montezuma County, Colorado","Mohave County, Arizona",1,0,25535,200186
+"1405","Montezuma County, Colorado","Queens County, New York",1,0,25535,2230722
+"1406","Montezuma County, Colorado","Sweetwater County, Wyoming",1,0,25535,43806
+"1407","Montezuma County, Colorado","Daggett County, Utah",1,0,25535,1059
+"1408","Montezuma County, Colorado","Los Angeles County, California",1,0,25535,9818605
+"1409","San Juan County, New Mexico","Weber County, Utah",1,0,130044,231236
+"1410","San Juan County, New Mexico","Morgan County, Utah",1,0,130044,9469
+"1411","San Juan County, New Mexico","Wasatch County, Utah",1,0,130044,23530
+"1412","San Juan County, New Mexico","Summit County, Utah",1,0,130044,36324
+"1413","San Juan County, New Mexico","Tooele County, Utah",1,0,130044,58218
+"1414","San Juan County, New Mexico","Salt Lake County, Utah",1,0,130044,1029655
+"1415","San Juan County, New Mexico","Davis County, Utah",1,0,130044,306479
+"1416","San Juan County, New Mexico","Utah County, Utah",1,0,130044,516564
+"1417","San Juan County, New Mexico","Juab County, Utah",1,0,130044,10246
+"1418","San Juan County, New Mexico","Box Elder County, Utah",1,0,130044,49975
+"1419","San Juan County, New Mexico","Cache County, Utah",1,0,130044,112656
+"1420","San Juan County, New Mexico","Sanpete County, Utah",1,0,130044,27822
+"1421","San Juan County, New Mexico","Sevier County, Utah",1,0,130044,20802
+"1422","San Juan County, New Mexico","Piute County, Utah",1,0,130044,1556
+"1423","San Juan County, New Mexico","Garfield County, Utah",1,0,130044,5172
+"1424","San Juan County, New Mexico","Millard County, Utah",1,0,130044,12503
+"1425","San Juan County, New Mexico","Wayne County, Utah",1,0,130044,2778
+"1426","San Juan County, New Mexico","Elko County, Nevada",1,0,130044,48818
+"1427","San Juan County, New Mexico","Uinta County, Wyoming",1,0,130044,21118
+"1428","San Juan County, New Mexico","Rich County, Utah",1,0,130044,2264
+"1429","San Juan County, New Mexico","Lincoln County, Wyoming",1,0,130044,18106
+"1430","San Juan County, New Mexico","Franklin County, Idaho",1,0,130044,12786
+"1431","San Juan County, New Mexico","Washington County, Utah",1,0,130044,138115
+"1432","San Juan County, New Mexico","Iron County, Utah",1,0,130044,46163
+"1433","San Juan County, New Mexico","Clark County, Nevada",1,0,130044,1951269
+"1434","San Juan County, New Mexico","Beaver County, Utah",1,0,130044,6629
+"1435","San Juan County, New Mexico","San Juan County, Utah",1,0,130044,14746
+"1436","San Juan County, New Mexico","Grand County, Utah",1,0,130044,9225
+"1437","San Juan County, New Mexico","Kane County, Utah",1,0,130044,7125
+"1438","San Juan County, New Mexico","Coconino County, Arizona",1,0,130044,134421
+"1439","San Juan County, New Mexico","Navajo County, Arizona",1,0,130044,107449
+"1440","San Juan County, New Mexico","Montezuma County, Colorado",1,0,130044,25535
+"1441","San Juan County, New Mexico","Apache County, Arizona",1,0,130044,71518
+"1442","San Juan County, New Mexico","Emery County, Utah",1,0,130044,10976
+"1443","San Juan County, New Mexico","Carbon County, Utah",1,0,130044,21403
+"1444","San Juan County, New Mexico","Uintah County, Utah",1,0,130044,32588
+"1445","San Juan County, New Mexico","Duchesne County, Utah",1,0,130044,18607
+"1446","San Juan County, New Mexico","Rio Blanco County, Colorado",1,0,130044,6666
+"1447","San Juan County, New Mexico","Dallas County, Texas",1,0,130044,2368139
+"1448","San Juan County, New Mexico","Mohave County, Arizona",1,0,130044,200186
+"1449","San Juan County, New Mexico","Queens County, New York",1,0,130044,2230722
+"1450","San Juan County, New Mexico","Sweetwater County, Wyoming",1,0,130044,43806
+"1451","San Juan County, New Mexico","Daggett County, Utah",1,0,130044,1059
+"1452","San Juan County, New Mexico","Los Angeles County, California",1,0,130044,9818605
+"1453","Apache County, Arizona","Weber County, Utah",1,0,71518,231236
+"1454","Apache County, Arizona","Morgan County, Utah",1,0,71518,9469
+"1455","Apache County, Arizona","Wasatch County, Utah",1,0,71518,23530
+"1456","Apache County, Arizona","Summit County, Utah",1,0,71518,36324
+"1457","Apache County, Arizona","Tooele County, Utah",1,0,71518,58218
+"1458","Apache County, Arizona","Salt Lake County, Utah",1,0,71518,1029655
+"1459","Apache County, Arizona","Davis County, Utah",1,0,71518,306479
+"1460","Apache County, Arizona","Utah County, Utah",1,0,71518,516564
+"1461","Apache County, Arizona","Juab County, Utah",1,0,71518,10246
+"1462","Apache County, Arizona","Box Elder County, Utah",1,0,71518,49975
+"1463","Apache County, Arizona","Cache County, Utah",1,0,71518,112656
+"1464","Apache County, Arizona","Sanpete County, Utah",1,0,71518,27822
+"1465","Apache County, Arizona","Sevier County, Utah",1,0,71518,20802
+"1466","Apache County, Arizona","Piute County, Utah",1,0,71518,1556
+"1467","Apache County, Arizona","Garfield County, Utah",1,0,71518,5172
+"1468","Apache County, Arizona","Millard County, Utah",1,0,71518,12503
+"1469","Apache County, Arizona","Wayne County, Utah",1,0,71518,2778
+"1470","Apache County, Arizona","Elko County, Nevada",1,0,71518,48818
+"1471","Apache County, Arizona","Uinta County, Wyoming",1,0,71518,21118
+"1472","Apache County, Arizona","Rich County, Utah",1,0,71518,2264
+"1473","Apache County, Arizona","Lincoln County, Wyoming",1,0,71518,18106
+"1474","Apache County, Arizona","Franklin County, Idaho",1,0,71518,12786
+"1475","Apache County, Arizona","Washington County, Utah",1,0,71518,138115
+"1476","Apache County, Arizona","Iron County, Utah",1,0,71518,46163
+"1477","Apache County, Arizona","Clark County, Nevada",1,0,71518,1951269
+"1478","Apache County, Arizona","Beaver County, Utah",1,0,71518,6629
+"1479","Apache County, Arizona","San Juan County, Utah",1,0,71518,14746
+"1480","Apache County, Arizona","Grand County, Utah",1,0,71518,9225
+"1481","Apache County, Arizona","Kane County, Utah",1,0,71518,7125
+"1482","Apache County, Arizona","Coconino County, Arizona",1,0,71518,134421
+"1483","Apache County, Arizona","Navajo County, Arizona",1,0,71518,107449
+"1484","Apache County, Arizona","Montezuma County, Colorado",1,0,71518,25535
+"1485","Apache County, Arizona","San Juan County, New Mexico",1,0,71518,130044
+"1486","Apache County, Arizona","Emery County, Utah",1,0,71518,10976
+"1487","Apache County, Arizona","Carbon County, Utah",1,0,71518,21403
+"1488","Apache County, Arizona","Uintah County, Utah",1,0,71518,32588
+"1489","Apache County, Arizona","Duchesne County, Utah",1,0,71518,18607
+"1490","Apache County, Arizona","Rio Blanco County, Colorado",1,0,71518,6666
+"1491","Apache County, Arizona","Dallas County, Texas",1,0,71518,2368139
+"1492","Apache County, Arizona","Mohave County, Arizona",1,0,71518,200186
+"1493","Apache County, Arizona","Queens County, New York",1,0,71518,2230722
+"1494","Apache County, Arizona","Sweetwater County, Wyoming",1,0,71518,43806
+"1495","Apache County, Arizona","Daggett County, Utah",1,0,71518,1059
+"1496","Apache County, Arizona","Los Angeles County, California",1,0,71518,9818605
+"1497","Emery County, Utah","Weber County, Utah",1,0,10976,231236
+"1498","Emery County, Utah","Morgan County, Utah",1,0,10976,9469
+"1499","Emery County, Utah","Wasatch County, Utah",1,0,10976,23530
+"1500","Emery County, Utah","Summit County, Utah",1,0,10976,36324
+"1501","Emery County, Utah","Tooele County, Utah",1,0,10976,58218
+"1503","Emery County, Utah","Davis County, Utah",1,0,10976,306479
+"1505","Emery County, Utah","Juab County, Utah",1,0,10976,10246
+"1506","Emery County, Utah","Box Elder County, Utah",1,0,10976,49975
+"1507","Emery County, Utah","Cache County, Utah",1,0,10976,112656
+"1508","Emery County, Utah","Sanpete County, Utah",1,0,10976,27822
+"1509","Emery County, Utah","Sevier County, Utah",1,0,10976,20802
+"1510","Emery County, Utah","Piute County, Utah",1,0,10976,1556
+"1511","Emery County, Utah","Garfield County, Utah",1,0,10976,5172
+"1512","Emery County, Utah","Millard County, Utah",1,0,10976,12503
+"1513","Emery County, Utah","Wayne County, Utah",1,0,10976,2778
+"1514","Emery County, Utah","Elko County, Nevada",1,0,10976,48818
+"1515","Emery County, Utah","Uinta County, Wyoming",1,0,10976,21118
+"1516","Emery County, Utah","Rich County, Utah",1,0,10976,2264
+"1517","Emery County, Utah","Lincoln County, Wyoming",1,0,10976,18106
+"1518","Emery County, Utah","Franklin County, Idaho",1,0,10976,12786
+"1519","Emery County, Utah","Washington County, Utah",1,0,10976,138115
+"1520","Emery County, Utah","Iron County, Utah",1,0,10976,46163
+"1521","Emery County, Utah","Clark County, Nevada",1,0,10976,1951269
+"1522","Emery County, Utah","Beaver County, Utah",1,0,10976,6629
+"1523","Emery County, Utah","San Juan County, Utah",1,0,10976,14746
+"1525","Emery County, Utah","Kane County, Utah",1,0,10976,7125
+"1526","Emery County, Utah","Coconino County, Arizona",1,0,10976,134421
+"1527","Emery County, Utah","Navajo County, Arizona",1,0,10976,107449
+"1528","Emery County, Utah","Montezuma County, Colorado",1,0,10976,25535
+"1529","Emery County, Utah","San Juan County, New Mexico",1,0,10976,130044
+"1530","Emery County, Utah","Apache County, Arizona",1,0,10976,71518
+"1532","Emery County, Utah","Uintah County, Utah",1,0,10976,32588
+"1533","Emery County, Utah","Duchesne County, Utah",1,0,10976,18607
+"1534","Emery County, Utah","Rio Blanco County, Colorado",1,0,10976,6666
+"1535","Emery County, Utah","Dallas County, Texas",1,0,10976,2368139
+"1536","Emery County, Utah","Mohave County, Arizona",1,0,10976,200186
+"1537","Emery County, Utah","Queens County, New York",1,0,10976,2230722
+"1538","Emery County, Utah","Sweetwater County, Wyoming",1,0,10976,43806
+"1539","Emery County, Utah","Daggett County, Utah",1,0,10976,1059
+"1540","Emery County, Utah","Los Angeles County, California",1,0,10976,9818605
+"1541","Carbon County, Utah","Weber County, Utah",1,0,21403,231236
+"1542","Carbon County, Utah","Morgan County, Utah",1,0,21403,9469
+"1543","Carbon County, Utah","Wasatch County, Utah",1,0,21403,23530
+"1544","Carbon County, Utah","Summit County, Utah",1,0,21403,36324
+"1545","Carbon County, Utah","Tooele County, Utah",1,0,21403,58218
+"1547","Carbon County, Utah","Davis County, Utah",1,0,21403,306479
+"1549","Carbon County, Utah","Juab County, Utah",1,0,21403,10246
+"1550","Carbon County, Utah","Box Elder County, Utah",1,0,21403,49975
+"1551","Carbon County, Utah","Cache County, Utah",1,0,21403,112656
+"1552","Carbon County, Utah","Sanpete County, Utah",1,0,21403,27822
+"1553","Carbon County, Utah","Sevier County, Utah",1,0,21403,20802
+"1554","Carbon County, Utah","Piute County, Utah",1,0,21403,1556
+"1555","Carbon County, Utah","Garfield County, Utah",1,0,21403,5172
+"1556","Carbon County, Utah","Millard County, Utah",1,0,21403,12503
+"1557","Carbon County, Utah","Wayne County, Utah",1,0,21403,2778
+"1558","Carbon County, Utah","Elko County, Nevada",1,0,21403,48818
+"1559","Carbon County, Utah","Uinta County, Wyoming",1,0,21403,21118
+"1560","Carbon County, Utah","Rich County, Utah",1,0,21403,2264
+"1561","Carbon County, Utah","Lincoln County, Wyoming",1,0,21403,18106
+"1562","Carbon County, Utah","Franklin County, Idaho",1,0,21403,12786
+"1563","Carbon County, Utah","Washington County, Utah",1,0,21403,138115
+"1564","Carbon County, Utah","Iron County, Utah",1,0,21403,46163
+"1565","Carbon County, Utah","Clark County, Nevada",1,0,21403,1951269
+"1566","Carbon County, Utah","Beaver County, Utah",1,0,21403,6629
+"1567","Carbon County, Utah","San Juan County, Utah",1,0,21403,14746
+"1568","Carbon County, Utah","Grand County, Utah",1,0,21403,9225
+"1569","Carbon County, Utah","Kane County, Utah",1,0,21403,7125
+"1570","Carbon County, Utah","Coconino County, Arizona",1,0,21403,134421
+"1571","Carbon County, Utah","Navajo County, Arizona",1,0,21403,107449
+"1572","Carbon County, Utah","Montezuma County, Colorado",1,0,21403,25535
+"1573","Carbon County, Utah","San Juan County, New Mexico",1,0,21403,130044
+"1574","Carbon County, Utah","Apache County, Arizona",1,0,21403,71518
+"1577","Carbon County, Utah","Duchesne County, Utah",1,0,21403,18607
+"1578","Carbon County, Utah","Rio Blanco County, Colorado",1,0,21403,6666
+"1579","Carbon County, Utah","Dallas County, Texas",1,0,21403,2368139
+"1580","Carbon County, Utah","Mohave County, Arizona",1,0,21403,200186
+"1581","Carbon County, Utah","Queens County, New York",1,0,21403,2230722
+"1583","Carbon County, Utah","Daggett County, Utah",1,0,21403,1059
+"1584","Carbon County, Utah","Los Angeles County, California",1,0,21403,9818605
+"1585","Uintah County, Utah","Weber County, Utah",1,0,32588,231236
+"1586","Uintah County, Utah","Morgan County, Utah",1,0,32588,9469
+"1587","Uintah County, Utah","Wasatch County, Utah",1,0,32588,23530
+"1588","Uintah County, Utah","Summit County, Utah",1,0,32588,36324
+"1589","Uintah County, Utah","Tooele County, Utah",1,0,32588,58218
+"1591","Uintah County, Utah","Davis County, Utah",1,0,32588,306479
+"1592","Uintah County, Utah","Utah County, Utah",1,0,32588,516564
+"1593","Uintah County, Utah","Juab County, Utah",1,0,32588,10246
+"1594","Uintah County, Utah","Box Elder County, Utah",1,0,32588,49975
+"1595","Uintah County, Utah","Cache County, Utah",1,0,32588,112656
+"1596","Uintah County, Utah","Sanpete County, Utah",1,0,32588,27822
+"1597","Uintah County, Utah","Sevier County, Utah",1,0,32588,20802
+"1598","Uintah County, Utah","Piute County, Utah",1,0,32588,1556
+"1599","Uintah County, Utah","Garfield County, Utah",1,0,32588,5172
+"1600","Uintah County, Utah","Millard County, Utah",1,0,32588,12503
+"1601","Uintah County, Utah","Wayne County, Utah",1,0,32588,2778
+"1602","Uintah County, Utah","Elko County, Nevada",1,0,32588,48818
+"1603","Uintah County, Utah","Uinta County, Wyoming",1,0,32588,21118
+"1604","Uintah County, Utah","Rich County, Utah",1,0,32588,2264
+"1605","Uintah County, Utah","Lincoln County, Wyoming",1,0,32588,18106
+"1606","Uintah County, Utah","Franklin County, Idaho",1,0,32588,12786
+"1607","Uintah County, Utah","Washington County, Utah",1,0,32588,138115
+"1608","Uintah County, Utah","Iron County, Utah",1,0,32588,46163
+"1609","Uintah County, Utah","Clark County, Nevada",1,0,32588,1951269
+"1610","Uintah County, Utah","Beaver County, Utah",1,0,32588,6629
+"1611","Uintah County, Utah","San Juan County, Utah",1,0,32588,14746
+"1612","Uintah County, Utah","Grand County, Utah",1,0,32588,9225
+"1613","Uintah County, Utah","Kane County, Utah",1,0,32588,7125
+"1614","Uintah County, Utah","Coconino County, Arizona",1,0,32588,134421
+"1615","Uintah County, Utah","Navajo County, Arizona",1,0,32588,107449
+"1616","Uintah County, Utah","Montezuma County, Colorado",1,0,32588,25535
+"1617","Uintah County, Utah","San Juan County, New Mexico",1,0,32588,130044
+"1618","Uintah County, Utah","Apache County, Arizona",1,0,32588,71518
+"1619","Uintah County, Utah","Emery County, Utah",1,0,32588,10976
+"1620","Uintah County, Utah","Carbon County, Utah",1,0,32588,21403
+"1623","Uintah County, Utah","Dallas County, Texas",1,0,32588,2368139
+"1624","Uintah County, Utah","Mohave County, Arizona",1,0,32588,200186
+"1625","Uintah County, Utah","Queens County, New York",1,0,32588,2230722
+"1626","Uintah County, Utah","Sweetwater County, Wyoming",1,0,32588,43806
+"1627","Uintah County, Utah","Daggett County, Utah",1,0,32588,1059
+"1628","Uintah County, Utah","Los Angeles County, California",1,0,32588,9818605
+"1629","Duchesne County, Utah","Weber County, Utah",1,0,18607,231236
+"1630","Duchesne County, Utah","Morgan County, Utah",1,0,18607,9469
+"1632","Duchesne County, Utah","Summit County, Utah",1,0,18607,36324
+"1633","Duchesne County, Utah","Tooele County, Utah",1,0,18607,58218
+"1635","Duchesne County, Utah","Davis County, Utah",1,0,18607,306479
+"1636","Duchesne County, Utah","Utah County, Utah",1,0,18607,516564
+"1637","Duchesne County, Utah","Juab County, Utah",1,0,18607,10246
+"1638","Duchesne County, Utah","Box Elder County, Utah",1,0,18607,49975
+"1639","Duchesne County, Utah","Cache County, Utah",1,0,18607,112656
+"1640","Duchesne County, Utah","Sanpete County, Utah",1,0,18607,27822
+"1641","Duchesne County, Utah","Sevier County, Utah",1,0,18607,20802
+"1642","Duchesne County, Utah","Piute County, Utah",1,0,18607,1556
+"1643","Duchesne County, Utah","Garfield County, Utah",1,0,18607,5172
+"1644","Duchesne County, Utah","Millard County, Utah",1,0,18607,12503
+"1645","Duchesne County, Utah","Wayne County, Utah",1,0,18607,2778
+"1646","Duchesne County, Utah","Elko County, Nevada",1,0,18607,48818
+"1647","Duchesne County, Utah","Uinta County, Wyoming",1,0,18607,21118
+"1648","Duchesne County, Utah","Rich County, Utah",1,0,18607,2264
+"1649","Duchesne County, Utah","Lincoln County, Wyoming",1,0,18607,18106
+"1650","Duchesne County, Utah","Franklin County, Idaho",1,0,18607,12786
+"1651","Duchesne County, Utah","Washington County, Utah",1,0,18607,138115
+"1652","Duchesne County, Utah","Iron County, Utah",1,0,18607,46163
+"1653","Duchesne County, Utah","Clark County, Nevada",1,0,18607,1951269
+"1654","Duchesne County, Utah","Beaver County, Utah",1,0,18607,6629
+"1655","Duchesne County, Utah","San Juan County, Utah",1,0,18607,14746
+"1656","Duchesne County, Utah","Grand County, Utah",1,0,18607,9225
+"1657","Duchesne County, Utah","Kane County, Utah",1,0,18607,7125
+"1658","Duchesne County, Utah","Coconino County, Arizona",1,0,18607,134421
+"1659","Duchesne County, Utah","Navajo County, Arizona",1,0,18607,107449
+"1660","Duchesne County, Utah","Montezuma County, Colorado",1,0,18607,25535
+"1661","Duchesne County, Utah","San Juan County, New Mexico",1,0,18607,130044
+"1662","Duchesne County, Utah","Apache County, Arizona",1,0,18607,71518
+"1663","Duchesne County, Utah","Emery County, Utah",1,0,18607,10976
+"1664","Duchesne County, Utah","Carbon County, Utah",1,0,18607,21403
+"1666","Duchesne County, Utah","Rio Blanco County, Colorado",1,0,18607,6666
+"1667","Duchesne County, Utah","Dallas County, Texas",1,0,18607,2368139
+"1668","Duchesne County, Utah","Mohave County, Arizona",1,0,18607,200186
+"1669","Duchesne County, Utah","Queens County, New York",1,0,18607,2230722
+"1670","Duchesne County, Utah","Sweetwater County, Wyoming",1,0,18607,43806
+"1671","Duchesne County, Utah","Daggett County, Utah",1,0,18607,1059
+"1672","Duchesne County, Utah","Los Angeles County, California",1,0,18607,9818605
+"1673","Rio Blanco County, Colorado","Weber County, Utah",1,0,6666,231236
+"1674","Rio Blanco County, Colorado","Morgan County, Utah",1,0,6666,9469
+"1675","Rio Blanco County, Colorado","Wasatch County, Utah",1,0,6666,23530
+"1676","Rio Blanco County, Colorado","Summit County, Utah",1,0,6666,36324
+"1677","Rio Blanco County, Colorado","Tooele County, Utah",1,0,6666,58218
+"1678","Rio Blanco County, Colorado","Salt Lake County, Utah",1,0,6666,1029655
+"1679","Rio Blanco County, Colorado","Davis County, Utah",1,0,6666,306479
+"1680","Rio Blanco County, Colorado","Utah County, Utah",1,0,6666,516564
+"1681","Rio Blanco County, Colorado","Juab County, Utah",1,0,6666,10246
+"1682","Rio Blanco County, Colorado","Box Elder County, Utah",1,0,6666,49975
+"1683","Rio Blanco County, Colorado","Cache County, Utah",1,0,6666,112656
+"1684","Rio Blanco County, Colorado","Sanpete County, Utah",1,0,6666,27822
+"1685","Rio Blanco County, Colorado","Sevier County, Utah",1,0,6666,20802
+"1686","Rio Blanco County, Colorado","Piute County, Utah",1,0,6666,1556
+"1687","Rio Blanco County, Colorado","Garfield County, Utah",1,0,6666,5172
+"1688","Rio Blanco County, Colorado","Millard County, Utah",1,0,6666,12503
+"1689","Rio Blanco County, Colorado","Wayne County, Utah",1,0,6666,2778
+"1690","Rio Blanco County, Colorado","Elko County, Nevada",1,0,6666,48818
+"1691","Rio Blanco County, Colorado","Uinta County, Wyoming",1,0,6666,21118
+"1692","Rio Blanco County, Colorado","Rich County, Utah",1,0,6666,2264
+"1693","Rio Blanco County, Colorado","Lincoln County, Wyoming",1,0,6666,18106
+"1694","Rio Blanco County, Colorado","Franklin County, Idaho",1,0,6666,12786
+"1695","Rio Blanco County, Colorado","Washington County, Utah",1,0,6666,138115
+"1696","Rio Blanco County, Colorado","Iron County, Utah",1,0,6666,46163
+"1697","Rio Blanco County, Colorado","Clark County, Nevada",1,0,6666,1951269
+"1698","Rio Blanco County, Colorado","Beaver County, Utah",1,0,6666,6629
+"1699","Rio Blanco County, Colorado","San Juan County, Utah",1,0,6666,14746
+"1700","Rio Blanco County, Colorado","Grand County, Utah",1,0,6666,9225
+"1701","Rio Blanco County, Colorado","Kane County, Utah",1,0,6666,7125
+"1702","Rio Blanco County, Colorado","Coconino County, Arizona",1,0,6666,134421
+"1703","Rio Blanco County, Colorado","Navajo County, Arizona",1,0,6666,107449
+"1704","Rio Blanco County, Colorado","Montezuma County, Colorado",1,0,6666,25535
+"1705","Rio Blanco County, Colorado","San Juan County, New Mexico",1,0,6666,130044
+"1706","Rio Blanco County, Colorado","Apache County, Arizona",1,0,6666,71518
+"1707","Rio Blanco County, Colorado","Emery County, Utah",1,0,6666,10976
+"1708","Rio Blanco County, Colorado","Carbon County, Utah",1,0,6666,21403
+"1709","Rio Blanco County, Colorado","Uintah County, Utah",1,0,6666,32588
+"1710","Rio Blanco County, Colorado","Duchesne County, Utah",1,0,6666,18607
+"1711","Rio Blanco County, Colorado","Dallas County, Texas",1,0,6666,2368139
+"1712","Rio Blanco County, Colorado","Mohave County, Arizona",1,0,6666,200186
+"1713","Rio Blanco County, Colorado","Queens County, New York",1,0,6666,2230722
+"1714","Rio Blanco County, Colorado","Sweetwater County, Wyoming",1,0,6666,43806
+"1715","Rio Blanco County, Colorado","Daggett County, Utah",1,0,6666,1059
+"1716","Rio Blanco County, Colorado","Los Angeles County, California",1,0,6666,9818605
+"1717","Dallas County, Texas","Weber County, Utah",1,0,2368139,231236
+"1718","Dallas County, Texas","Morgan County, Utah",1,0,2368139,9469
+"1719","Dallas County, Texas","Wasatch County, Utah",1,0,2368139,23530
+"1720","Dallas County, Texas","Summit County, Utah",1,0,2368139,36324
+"1721","Dallas County, Texas","Tooele County, Utah",1,0,2368139,58218
+"1722","Dallas County, Texas","Salt Lake County, Utah",1,0,2368139,1029655
+"1723","Dallas County, Texas","Davis County, Utah",1,0,2368139,306479
+"1724","Dallas County, Texas","Utah County, Utah",1,0,2368139,516564
+"1725","Dallas County, Texas","Juab County, Utah",1,0,2368139,10246
+"1726","Dallas County, Texas","Box Elder County, Utah",1,0,2368139,49975
+"1727","Dallas County, Texas","Cache County, Utah",1,0,2368139,112656
+"1728","Dallas County, Texas","Sanpete County, Utah",1,0,2368139,27822
+"1729","Dallas County, Texas","Sevier County, Utah",1,0,2368139,20802
+"1730","Dallas County, Texas","Piute County, Utah",1,0,2368139,1556
+"1731","Dallas County, Texas","Garfield County, Utah",1,0,2368139,5172
+"1732","Dallas County, Texas","Millard County, Utah",1,0,2368139,12503
+"1733","Dallas County, Texas","Wayne County, Utah",1,0,2368139,2778
+"1734","Dallas County, Texas","Elko County, Nevada",1,0,2368139,48818
+"1735","Dallas County, Texas","Uinta County, Wyoming",1,0,2368139,21118
+"1736","Dallas County, Texas","Rich County, Utah",1,0,2368139,2264
+"1737","Dallas County, Texas","Lincoln County, Wyoming",1,0,2368139,18106
+"1738","Dallas County, Texas","Franklin County, Idaho",1,0,2368139,12786
+"1739","Dallas County, Texas","Washington County, Utah",1,0,2368139,138115
+"1740","Dallas County, Texas","Iron County, Utah",1,0,2368139,46163
+"1741","Dallas County, Texas","Clark County, Nevada",1,0,2368139,1951269
+"1742","Dallas County, Texas","Beaver County, Utah",1,0,2368139,6629
+"1743","Dallas County, Texas","San Juan County, Utah",1,0,2368139,14746
+"1744","Dallas County, Texas","Grand County, Utah",1,0,2368139,9225
+"1745","Dallas County, Texas","Kane County, Utah",1,0,2368139,7125
+"1746","Dallas County, Texas","Coconino County, Arizona",1,0,2368139,134421
+"1747","Dallas County, Texas","Navajo County, Arizona",1,0,2368139,107449
+"1748","Dallas County, Texas","Montezuma County, Colorado",1,0,2368139,25535
+"1749","Dallas County, Texas","San Juan County, New Mexico",1,0,2368139,130044
+"1750","Dallas County, Texas","Apache County, Arizona",1,0,2368139,71518
+"1751","Dallas County, Texas","Emery County, Utah",1,0,2368139,10976
+"1752","Dallas County, Texas","Carbon County, Utah",1,0,2368139,21403
+"1753","Dallas County, Texas","Uintah County, Utah",1,0,2368139,32588
+"1754","Dallas County, Texas","Duchesne County, Utah",1,0,2368139,18607
+"1755","Dallas County, Texas","Rio Blanco County, Colorado",1,0,2368139,6666
+"1756","Dallas County, Texas","Mohave County, Arizona",1,0,2368139,200186
+"1757","Dallas County, Texas","Queens County, New York",1,0,2368139,2230722
+"1758","Dallas County, Texas","Sweetwater County, Wyoming",1,0,2368139,43806
+"1759","Dallas County, Texas","Daggett County, Utah",1,0,2368139,1059
+"1760","Dallas County, Texas","Los Angeles County, California",1,0,2368139,9818605
+"1761","Mohave County, Arizona","Weber County, Utah",1,0,200186,231236
+"1762","Mohave County, Arizona","Morgan County, Utah",1,0,200186,9469
+"1763","Mohave County, Arizona","Wasatch County, Utah",1,0,200186,23530
+"1764","Mohave County, Arizona","Summit County, Utah",1,0,200186,36324
+"1765","Mohave County, Arizona","Tooele County, Utah",1,0,200186,58218
+"1766","Mohave County, Arizona","Salt Lake County, Utah",1,0,200186,1029655
+"1767","Mohave County, Arizona","Davis County, Utah",1,0,200186,306479
+"1768","Mohave County, Arizona","Utah County, Utah",1,0,200186,516564
+"1769","Mohave County, Arizona","Juab County, Utah",1,0,200186,10246
+"1770","Mohave County, Arizona","Box Elder County, Utah",1,0,200186,49975
+"1771","Mohave County, Arizona","Cache County, Utah",1,0,200186,112656
+"1772","Mohave County, Arizona","Sanpete County, Utah",1,0,200186,27822
+"1773","Mohave County, Arizona","Sevier County, Utah",1,0,200186,20802
+"1774","Mohave County, Arizona","Piute County, Utah",1,0,200186,1556
+"1775","Mohave County, Arizona","Garfield County, Utah",1,0,200186,5172
+"1776","Mohave County, Arizona","Millard County, Utah",1,0,200186,12503
+"1777","Mohave County, Arizona","Wayne County, Utah",1,0,200186,2778
+"1778","Mohave County, Arizona","Elko County, Nevada",1,0,200186,48818
+"1779","Mohave County, Arizona","Uinta County, Wyoming",1,0,200186,21118
+"1780","Mohave County, Arizona","Rich County, Utah",1,0,200186,2264
+"1781","Mohave County, Arizona","Lincoln County, Wyoming",1,0,200186,18106
+"1782","Mohave County, Arizona","Franklin County, Idaho",1,0,200186,12786
+"1783","Mohave County, Arizona","Washington County, Utah",1,0,200186,138115
+"1784","Mohave County, Arizona","Iron County, Utah",1,0,200186,46163
+"1785","Mohave County, Arizona","Clark County, Nevada",1,0,200186,1951269
+"1786","Mohave County, Arizona","Beaver County, Utah",1,0,200186,6629
+"1787","Mohave County, Arizona","San Juan County, Utah",1,0,200186,14746
+"1788","Mohave County, Arizona","Grand County, Utah",1,0,200186,9225
+"1789","Mohave County, Arizona","Kane County, Utah",1,0,200186,7125
+"1790","Mohave County, Arizona","Coconino County, Arizona",1,0,200186,134421
+"1791","Mohave County, Arizona","Navajo County, Arizona",1,0,200186,107449
+"1792","Mohave County, Arizona","Montezuma County, Colorado",1,0,200186,25535
+"1793","Mohave County, Arizona","San Juan County, New Mexico",1,0,200186,130044
+"1794","Mohave County, Arizona","Apache County, Arizona",1,0,200186,71518
+"1795","Mohave County, Arizona","Emery County, Utah",1,0,200186,10976
+"1796","Mohave County, Arizona","Carbon County, Utah",1,0,200186,21403
+"1797","Mohave County, Arizona","Uintah County, Utah",1,0,200186,32588
+"1798","Mohave County, Arizona","Duchesne County, Utah",1,0,200186,18607
+"1799","Mohave County, Arizona","Rio Blanco County, Colorado",1,0,200186,6666
+"1800","Mohave County, Arizona","Dallas County, Texas",1,0,200186,2368139
+"1801","Mohave County, Arizona","Queens County, New York",1,0,200186,2230722
+"1802","Mohave County, Arizona","Sweetwater County, Wyoming",1,0,200186,43806
+"1803","Mohave County, Arizona","Daggett County, Utah",1,0,200186,1059
+"1804","Mohave County, Arizona","Los Angeles County, California",1,0,200186,9818605
+"1805","Queens County, New York","Weber County, Utah",1,0,2230722,231236
+"1806","Queens County, New York","Morgan County, Utah",1,0,2230722,9469
+"1807","Queens County, New York","Wasatch County, Utah",1,0,2230722,23530
+"1808","Queens County, New York","Summit County, Utah",1,0,2230722,36324
+"1809","Queens County, New York","Tooele County, Utah",1,0,2230722,58218
+"1810","Queens County, New York","Salt Lake County, Utah",1,0,2230722,1029655
+"1811","Queens County, New York","Davis County, Utah",1,0,2230722,306479
+"1812","Queens County, New York","Utah County, Utah",1,0,2230722,516564
+"1813","Queens County, New York","Juab County, Utah",1,0,2230722,10246
+"1814","Queens County, New York","Box Elder County, Utah",1,0,2230722,49975
+"1815","Queens County, New York","Cache County, Utah",1,0,2230722,112656
+"1816","Queens County, New York","Sanpete County, Utah",1,0,2230722,27822
+"1817","Queens County, New York","Sevier County, Utah",1,0,2230722,20802
+"1818","Queens County, New York","Piute County, Utah",1,0,2230722,1556
+"1819","Queens County, New York","Garfield County, Utah",1,0,2230722,5172
+"1820","Queens County, New York","Millard County, Utah",1,0,2230722,12503
+"1821","Queens County, New York","Wayne County, Utah",1,0,2230722,2778
+"1822","Queens County, New York","Elko County, Nevada",1,0,2230722,48818
+"1823","Queens County, New York","Uinta County, Wyoming",1,0,2230722,21118
+"1824","Queens County, New York","Rich County, Utah",1,0,2230722,2264
+"1825","Queens County, New York","Lincoln County, Wyoming",1,0,2230722,18106
+"1826","Queens County, New York","Franklin County, Idaho",1,0,2230722,12786
+"1827","Queens County, New York","Washington County, Utah",1,0,2230722,138115
+"1828","Queens County, New York","Iron County, Utah",1,0,2230722,46163
+"1829","Queens County, New York","Clark County, Nevada",1,0,2230722,1951269
+"1830","Queens County, New York","Beaver County, Utah",1,0,2230722,6629
+"1831","Queens County, New York","San Juan County, Utah",1,0,2230722,14746
+"1832","Queens County, New York","Grand County, Utah",1,0,2230722,9225
+"1833","Queens County, New York","Kane County, Utah",1,0,2230722,7125
+"1834","Queens County, New York","Coconino County, Arizona",1,0,2230722,134421
+"1835","Queens County, New York","Navajo County, Arizona",1,0,2230722,107449
+"1836","Queens County, New York","Montezuma County, Colorado",1,0,2230722,25535
+"1837","Queens County, New York","San Juan County, New Mexico",1,0,2230722,130044
+"1838","Queens County, New York","Apache County, Arizona",1,0,2230722,71518
+"1839","Queens County, New York","Emery County, Utah",1,0,2230722,10976
+"1840","Queens County, New York","Carbon County, Utah",1,0,2230722,21403
+"1841","Queens County, New York","Uintah County, Utah",1,0,2230722,32588
+"1842","Queens County, New York","Duchesne County, Utah",1,0,2230722,18607
+"1843","Queens County, New York","Rio Blanco County, Colorado",1,0,2230722,6666
+"1844","Queens County, New York","Dallas County, Texas",1,0,2230722,2368139
+"1845","Queens County, New York","Mohave County, Arizona",1,0,2230722,200186
+"1846","Queens County, New York","Sweetwater County, Wyoming",1,0,2230722,43806
+"1847","Queens County, New York","Daggett County, Utah",1,0,2230722,1059
+"1848","Queens County, New York","Los Angeles County, California",1,0,2230722,9818605
+"1849","Sweetwater County, Wyoming","Weber County, Utah",1,0,43806,231236
+"1850","Sweetwater County, Wyoming","Morgan County, Utah",1,0,43806,9469
+"1851","Sweetwater County, Wyoming","Wasatch County, Utah",1,0,43806,23530
+"1852","Sweetwater County, Wyoming","Summit County, Utah",1,0,43806,36324
+"1853","Sweetwater County, Wyoming","Tooele County, Utah",1,0,43806,58218
+"1854","Sweetwater County, Wyoming","Salt Lake County, Utah",1,0,43806,1029655
+"1855","Sweetwater County, Wyoming","Davis County, Utah",1,0,43806,306479
+"1856","Sweetwater County, Wyoming","Utah County, Utah",1,0,43806,516564
+"1857","Sweetwater County, Wyoming","Juab County, Utah",1,0,43806,10246
+"1858","Sweetwater County, Wyoming","Box Elder County, Utah",1,0,43806,49975
+"1859","Sweetwater County, Wyoming","Cache County, Utah",1,0,43806,112656
+"1860","Sweetwater County, Wyoming","Sanpete County, Utah",1,0,43806,27822
+"1861","Sweetwater County, Wyoming","Sevier County, Utah",1,0,43806,20802
+"1862","Sweetwater County, Wyoming","Piute County, Utah",1,0,43806,1556
+"1863","Sweetwater County, Wyoming","Garfield County, Utah",1,0,43806,5172
+"1864","Sweetwater County, Wyoming","Millard County, Utah",1,0,43806,12503
+"1865","Sweetwater County, Wyoming","Wayne County, Utah",1,0,43806,2778
+"1866","Sweetwater County, Wyoming","Elko County, Nevada",1,0,43806,48818
+"1867","Sweetwater County, Wyoming","Uinta County, Wyoming",1,0,43806,21118
+"1868","Sweetwater County, Wyoming","Rich County, Utah",1,0,43806,2264
+"1869","Sweetwater County, Wyoming","Lincoln County, Wyoming",1,0,43806,18106
+"1870","Sweetwater County, Wyoming","Franklin County, Idaho",1,0,43806,12786
+"1871","Sweetwater County, Wyoming","Washington County, Utah",1,0,43806,138115
+"1872","Sweetwater County, Wyoming","Iron County, Utah",1,0,43806,46163
+"1873","Sweetwater County, Wyoming","Clark County, Nevada",1,0,43806,1951269
+"1874","Sweetwater County, Wyoming","Beaver County, Utah",1,0,43806,6629
+"1875","Sweetwater County, Wyoming","San Juan County, Utah",1,0,43806,14746
+"1876","Sweetwater County, Wyoming","Grand County, Utah",1,0,43806,9225
+"1877","Sweetwater County, Wyoming","Kane County, Utah",1,0,43806,7125
+"1878","Sweetwater County, Wyoming","Coconino County, Arizona",1,0,43806,134421
+"1879","Sweetwater County, Wyoming","Navajo County, Arizona",1,0,43806,107449
+"1880","Sweetwater County, Wyoming","Montezuma County, Colorado",1,0,43806,25535
+"1881","Sweetwater County, Wyoming","San Juan County, New Mexico",1,0,43806,130044
+"1882","Sweetwater County, Wyoming","Apache County, Arizona",1,0,43806,71518
+"1883","Sweetwater County, Wyoming","Emery County, Utah",1,0,43806,10976
+"1884","Sweetwater County, Wyoming","Carbon County, Utah",1,0,43806,21403
+"1885","Sweetwater County, Wyoming","Uintah County, Utah",1,0,43806,32588
+"1886","Sweetwater County, Wyoming","Duchesne County, Utah",1,0,43806,18607
+"1887","Sweetwater County, Wyoming","Rio Blanco County, Colorado",1,0,43806,6666
+"1888","Sweetwater County, Wyoming","Dallas County, Texas",1,0,43806,2368139
+"1889","Sweetwater County, Wyoming","Mohave County, Arizona",1,0,43806,200186
+"1890","Sweetwater County, Wyoming","Queens County, New York",1,0,43806,2230722
+"1891","Sweetwater County, Wyoming","Daggett County, Utah",1,0,43806,1059
+"1892","Sweetwater County, Wyoming","Los Angeles County, California",1,0,43806,9818605
+"1893","Daggett County, Utah","Weber County, Utah",1,0,1059,231236
+"1894","Daggett County, Utah","Morgan County, Utah",1,0,1059,9469
+"1895","Daggett County, Utah","Wasatch County, Utah",1,0,1059,23530
+"1896","Daggett County, Utah","Summit County, Utah",1,0,1059,36324
+"1897","Daggett County, Utah","Tooele County, Utah",1,0,1059,58218
+"1898","Daggett County, Utah","Salt Lake County, Utah",1,0,1059,1029655
+"1899","Daggett County, Utah","Davis County, Utah",1,0,1059,306479
+"1900","Daggett County, Utah","Utah County, Utah",1,0,1059,516564
+"1901","Daggett County, Utah","Juab County, Utah",1,0,1059,10246
+"1902","Daggett County, Utah","Box Elder County, Utah",1,0,1059,49975
+"1903","Daggett County, Utah","Cache County, Utah",1,0,1059,112656
+"1904","Daggett County, Utah","Sanpete County, Utah",1,0,1059,27822
+"1905","Daggett County, Utah","Sevier County, Utah",1,0,1059,20802
+"1906","Daggett County, Utah","Piute County, Utah",1,0,1059,1556
+"1907","Daggett County, Utah","Garfield County, Utah",1,0,1059,5172
+"1908","Daggett County, Utah","Millard County, Utah",1,0,1059,12503
+"1909","Daggett County, Utah","Wayne County, Utah",1,0,1059,2778
+"1910","Daggett County, Utah","Elko County, Nevada",1,0,1059,48818
+"1911","Daggett County, Utah","Uinta County, Wyoming",1,0,1059,21118
+"1912","Daggett County, Utah","Rich County, Utah",1,0,1059,2264
+"1913","Daggett County, Utah","Lincoln County, Wyoming",1,0,1059,18106
+"1914","Daggett County, Utah","Franklin County, Idaho",1,0,1059,12786
+"1915","Daggett County, Utah","Washington County, Utah",1,0,1059,138115
+"1916","Daggett County, Utah","Iron County, Utah",1,0,1059,46163
+"1917","Daggett County, Utah","Clark County, Nevada",1,0,1059,1951269
+"1918","Daggett County, Utah","Beaver County, Utah",1,0,1059,6629
+"1919","Daggett County, Utah","San Juan County, Utah",1,0,1059,14746
+"1920","Daggett County, Utah","Grand County, Utah",1,0,1059,9225
+"1921","Daggett County, Utah","Kane County, Utah",1,0,1059,7125
+"1922","Daggett County, Utah","Coconino County, Arizona",1,0,1059,134421
+"1923","Daggett County, Utah","Navajo County, Arizona",1,0,1059,107449
+"1924","Daggett County, Utah","Montezuma County, Colorado",1,0,1059,25535
+"1925","Daggett County, Utah","San Juan County, New Mexico",1,0,1059,130044
+"1926","Daggett County, Utah","Apache County, Arizona",1,0,1059,71518
+"1927","Daggett County, Utah","Emery County, Utah",1,0,1059,10976
+"1928","Daggett County, Utah","Carbon County, Utah",1,0,1059,21403
+"1929","Daggett County, Utah","Uintah County, Utah",1,0,1059,32588
+"1930","Daggett County, Utah","Duchesne County, Utah",1,0,1059,18607
+"1931","Daggett County, Utah","Rio Blanco County, Colorado",1,0,1059,6666
+"1932","Daggett County, Utah","Dallas County, Texas",1,0,1059,2368139
+"1933","Daggett County, Utah","Mohave County, Arizona",1,0,1059,200186
+"1934","Daggett County, Utah","Queens County, New York",1,0,1059,2230722
+"1936","Daggett County, Utah","Los Angeles County, California",1,0,1059,9818605
+"1937","Los Angeles County, California","Weber County, Utah",1,0,9818605,231236
+"1938","Los Angeles County, California","Morgan County, Utah",1,0,9818605,9469
+"1939","Los Angeles County, California","Wasatch County, Utah",1,0,9818605,23530
+"1940","Los Angeles County, California","Summit County, Utah",1,0,9818605,36324
+"1941","Los Angeles County, California","Tooele County, Utah",1,0,9818605,58218
+"1942","Los Angeles County, California","Salt Lake County, Utah",1,0,9818605,1029655
+"1943","Los Angeles County, California","Davis County, Utah",1,0,9818605,306479
+"1944","Los Angeles County, California","Utah County, Utah",1,0,9818605,516564
+"1945","Los Angeles County, California","Juab County, Utah",1,0,9818605,10246
+"1946","Los Angeles County, California","Box Elder County, Utah",1,0,9818605,49975
+"1947","Los Angeles County, California","Cache County, Utah",1,0,9818605,112656
+"1948","Los Angeles County, California","Sanpete County, Utah",1,0,9818605,27822
+"1949","Los Angeles County, California","Sevier County, Utah",1,0,9818605,20802
+"1950","Los Angeles County, California","Piute County, Utah",1,0,9818605,1556
+"1951","Los Angeles County, California","Garfield County, Utah",1,0,9818605,5172
+"1952","Los Angeles County, California","Millard County, Utah",1,0,9818605,12503
+"1953","Los Angeles County, California","Wayne County, Utah",1,0,9818605,2778
+"1954","Los Angeles County, California","Elko County, Nevada",1,0,9818605,48818
+"1955","Los Angeles County, California","Uinta County, Wyoming",1,0,9818605,21118
+"1956","Los Angeles County, California","Rich County, Utah",1,0,9818605,2264
+"1957","Los Angeles County, California","Lincoln County, Wyoming",1,0,9818605,18106
+"1958","Los Angeles County, California","Franklin County, Idaho",1,0,9818605,12786
+"1959","Los Angeles County, California","Washington County, Utah",1,0,9818605,138115
+"1960","Los Angeles County, California","Iron County, Utah",1,0,9818605,46163
+"1961","Los Angeles County, California","Clark County, Nevada",1,0,9818605,1951269
+"1962","Los Angeles County, California","Beaver County, Utah",1,0,9818605,6629
+"1963","Los Angeles County, California","San Juan County, Utah",1,0,9818605,14746
+"1964","Los Angeles County, California","Grand County, Utah",1,0,9818605,9225
+"1965","Los Angeles County, California","Kane County, Utah",1,0,9818605,7125
+"1966","Los Angeles County, California","Coconino County, Arizona",1,0,9818605,134421
+"1967","Los Angeles County, California","Navajo County, Arizona",1,0,9818605,107449
+"1968","Los Angeles County, California","Montezuma County, Colorado",1,0,9818605,25535
+"1969","Los Angeles County, California","San Juan County, New Mexico",1,0,9818605,130044
+"1970","Los Angeles County, California","Apache County, Arizona",1,0,9818605,71518
+"1971","Los Angeles County, California","Emery County, Utah",1,0,9818605,10976
+"1972","Los Angeles County, California","Carbon County, Utah",1,0,9818605,21403
+"1973","Los Angeles County, California","Uintah County, Utah",1,0,9818605,32588
+"1974","Los Angeles County, California","Duchesne County, Utah",1,0,9818605,18607
+"1975","Los Angeles County, California","Rio Blanco County, Colorado",1,0,9818605,6666
+"1976","Los Angeles County, California","Dallas County, Texas",1,0,9818605,2368139
+"1977","Los Angeles County, California","Mohave County, Arizona",1,0,9818605,200186
+"1978","Los Angeles County, California","Queens County, New York",1,0,9818605,2230722
+"1979","Los Angeles County, California","Sweetwater County, Wyoming",1,0,9818605,43806
+"1980","Los Angeles County, California","Daggett County, Utah",1,0,9818605,1059

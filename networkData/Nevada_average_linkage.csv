@@ -1,0 +1,1407 @@
+"","source","target","cluster","pct","srcpop","tarpop"
+"342","Storey County, Nevada","Washoe County, Nevada",1,0.187531172069825,4010,421407
+"419","Douglas County, Nevada","Carson City, Nevada",1,0.0852820392791029,46997,55274
+"382","Lyon County, Nevada","Carson City, Nevada",1,0.0673528280107734,51980,55274
+"379","Lyon County, Nevada","Washoe County, Nevada",1,0.0632358599461331,51980,421407
+"1103","Nye County, Nevada","Clark County, Nevada",1,0.0498793974423156,43946,1951269
+"228","Elko County, Nevada","Eureka County, Nevada",1,0.0496538162153304,48818,1987
+"115","Lander County, Nevada","Humboldt County, Nevada",1,0.0451948051948052,5775,16528
+"453","Carson City, Nevada","Washoe County, Nevada",1,0.0358577269602345,55274,421407
+"343","Storey County, Nevada","Lyon County, Nevada",1,0.0319201995012469,4010,51980
+"456","Carson City, Nevada","Douglas County, Nevada",1,0.0314614466114267,55274,46997
+"345","Storey County, Nevada","Carson City, Nevada",1,0.0266832917705736,4010,55274
+"1178","Lincoln County, Nevada","Clark County, Nevada",1,0.0233863423760524,5345,1951269
+"116","Lander County, Nevada","Eureka County, Nevada",1,0.0221645021645022,5775,1987
+"78","Pershing County, Nevada","Humboldt County, Nevada",1,0.0192507033910854,6753,16528
+"416","Douglas County, Nevada","Washoe County, Nevada",1,0.0172989765304168,46997,421407
+"421","Douglas County, Nevada","El Dorado County, California",1,0.0148945677383663,46997,181058
+"490","Churchill County, Nevada","Washoe County, Nevada",1,0.0139888250190939,24877,421407
+"492","Churchill County, Nevada","Lyon County, Nevada",1,0.0125015074164891,24877,51980
+"455","Carson City, Nevada","Lyon County, Nevada",1,0.00929912798060571,55274,51980
+"117","Lander County, Nevada","Elko County, Nevada",1,0.00865800865800866,5775,48818
+"381","Lyon County, Nevada","Douglas County, Nevada",1,0.00777222008464794,51980,46997
+"308","Washoe County, Nevada","Carson City, Nevada",1,0.00750343492158412,421407,55274
+"383","Lyon County, Nevada","Churchill County, Nevada",1,0.00652173913043478,51980,24877
+"1214","Esmeralda County, Nevada","Nye County, Nevada",1,0.00638569604086846,783,43946
+"152","Humboldt County, Nevada","Lander County, Nevada",1,0.00477976766698935,16528,5775
+"418","Douglas County, Nevada","Lyon County, Nevada",1,0.00321297104070473,46997,51980
+"311","Washoe County, Nevada","Nevada County, California",1,0.00228994772274784,421407,98764
+"423","Douglas County, Nevada","Mono County, California",1,0.00208523948337128,46997,14202
+"424","Douglas County, Nevada","Alpine County, California",1,0.00202140562163542,46997,1175
+"1106","Nye County, Nevada","Inyo County, California",1,0.00179766076548491,43946,18546
+"156","Humboldt County, Nevada","Washoe County, Nevada",1,0.00163359148112294,16528,421407
+"314","Washoe County, Nevada","Placer County, California",1,0.00162550693272774,421407,348432
+"306","Washoe County, Nevada","Lyon County, Nevada",1,0.00151872180576023,421407,51980
+"224","Elko County, Nevada","Tooele County, Utah",1,0.0015158343234053,48818,58218
+"458","Carson City, Nevada","El Dorado County, California",1,0.00142924340557948,55274,181058
+"186","Eureka County, Nevada","White Pine County, Nevada",1,0.00100654252642174,1987,10030
+"307","Washoe County, Nevada","Douglas County, Nevada",1,0.000999034187851649,421407,46997
+"500","Churchill County, Nevada","Mineral County, Nevada",1,0.000803955460867468,24877,4772
+"1144","Clark County, Nevada","Los Angeles County, California",1,0.000771805425084906,1951269,9818605
+"454","Carson City, Nevada","Storey County, Nevada",1,0.000723667547128849,55274,4010
+"226","Elko County, Nevada","Lander County, Nevada",1,0.000594043180793969,48818,5775
+"316","Washoe County, Nevada","Lassen County, California",1,0.000574266682803086,421407,34895
+"1140","Clark County, Nevada","Nye County, Nevada",1,0.000534011456134444,1951269,43946
+"191","Eureka County, Nevada","Elko County, Nevada",1,0.000503271263210871,1987,48818
+"154","Humboldt County, Nevada","Elko County, Nevada",1,0.000484027105517909,16528,48818
+"385","Lyon County, Nevada","Nevada County, California",1,0.000461716044632551,51980,98764
+"309","Washoe County, Nevada","Churchill County, Nevada",1,0.000429513510691564,421407,24877
+"1145","Clark County, Nevada","Mohave County, Arizona",1,0.00034490375237858,1951269,200186
+"326","Washoe County, Nevada","Clark County, Nevada",1,0.000313236372438047,421407,1951269
+"229","Elko County, Nevada","Salt Lake County, Utah",1,0.000307263714203777,48818,1029655
+"317","Washoe County, Nevada","Sacramento County, California",1,0.000253911301900538,421407,1418788
+"318","Washoe County, Nevada","Santa Clara County, California",1,0.000244419290614537,421407,1781642
+"1139","Clark County, Nevada","San Bernardino County, California",1,0.000233181585932027,1951269,2035210
+"386","Lyon County, Nevada","Mono County, California",1,0.000230858022316276,51980,14202
+"223","Elko County, Nevada","White Pine County, Nevada",1,0.000225326723749437,48818,10030
+"319","Washoe County, Nevada","San Francisco County, California",1,0.00019933223700603,421407,805235
+"1146","Clark County, Nevada","Orange County, California",1,0.000149133717596087,1951269,3010232
+"1147","Clark County, Nevada","Maricopa County, Arizona",1,0.000145546308581749,1951269,3817117
+"1138","Clark County, Nevada","San Diego County, California",1,0.000143496360573555,1951269,3095313
+"230","Elko County, Nevada","Washoe County, Nevada",1,0.000122905485681511,48818,421407
+"172","Humboldt County, Nevada","Fairbanks North Star Borough, Alaska",1,0.000121006776379477,16528,97581
+"305","Washoe County, Nevada","Storey County, Nevada",1,0.000118650141075018,421407,4010
+"321","Washoe County, Nevada","San Mateo County, California",1,0.000116277138253517,421407,718451
+"462","Carson City, Nevada","Placer County, California",1,0.000108550132069327,55274,348432
+"322","Washoe County, Nevada","Plumas County, California",1,0.000106785126967516,421407,20007
+"310","Washoe County, Nevada","El Dorado County, California",1,9.49201128600142e-05,421407,181058
+"330","Washoe County, Nevada","Los Angeles County, California",1,8.54281015740128e-05,421407,9818605
+"428","Douglas County, Nevada","Sacramento County, California",1,8.51118156478072e-05,46997,1418788
+"299","Washoe County, Nevada","Pershing County, Nevada",1,7.59360902880113e-05,421407,6753
+"1132","Clark County, Nevada","Sacramento County, California",1,5.58610832232768e-05,1951269,1418788
+"1119","Clark County, Nevada","Washoe County, Nevada",1,4.97112391986958e-05,1951269,421407
+"333","Washoe County, Nevada","Maricopa County, Arizona",1,4.74600564300071e-05,421407,3817117
+"1134","Clark County, Nevada","San Francisco County, California",1,4.56113431823085e-05,1951269,805235
+"1077","Nye County, Nevada","Lander County, Nevada",1,4.55103991262003e-05,43946,5775
+"441","Douglas County, Nevada","Los Angeles County, California",1,4.25559078239036e-05,46997,9818605
+"1133","Clark County, Nevada","Santa Clara County, California",1,2.97242461188078e-05,1951269,1781642
+"301","Washoe County, Nevada","Humboldt County, Nevada",1,2.61030310365039e-05,421407,16528
+"1136","Clark County, Nevada","San Mateo County, California",1,2.35744020942269e-05,1951269,718451
+"323","Washoe County, Nevada","San Diego County, California",1,1.89840225720028e-05,421407,3095313
+"1118","Clark County, Nevada","Salt Lake County, Utah",1,1.48621230594039e-05,1951269,1029655
+"300","Washoe County, Nevada","Lander County, Nevada",1,1.42380169290021e-05,421407,5775
+"303","Washoe County, Nevada","Elko County, Nevada",1,9.49201128600141e-06,421407,48818
+"1129","Clark County, Nevada","Placer County, California",1,6.14984402458093e-06,1951269,348432
+"1141","Clark County, Nevada","Lincoln County, Nevada",1,1.02497400409682e-06,1951269,5345
+"1","White Pine County, Nevada","Tooele County, Utah",1,0,10030,58218
+"2","White Pine County, Nevada","Pershing County, Nevada",1,0,10030,6753
+"3","White Pine County, Nevada","Lander County, Nevada",1,0,10030,5775
+"4","White Pine County, Nevada","Humboldt County, Nevada",1,0,10030,16528
+"5","White Pine County, Nevada","Eureka County, Nevada",1,0,10030,1987
+"6","White Pine County, Nevada","Elko County, Nevada",1,0,10030,48818
+"7","White Pine County, Nevada","Salt Lake County, Utah",1,0,10030,1029655
+"8","White Pine County, Nevada","Washoe County, Nevada",1,0,10030,421407
+"9","White Pine County, Nevada","Storey County, Nevada",1,0,10030,4010
+"10","White Pine County, Nevada","Lyon County, Nevada",1,0,10030,51980
+"11","White Pine County, Nevada","Douglas County, Nevada",1,0,10030,46997
+"12","White Pine County, Nevada","Carson City, Nevada",1,0,10030,55274
+"13","White Pine County, Nevada","Churchill County, Nevada",1,0,10030,24877
+"14","White Pine County, Nevada","El Dorado County, California",1,0,10030,181058
+"15","White Pine County, Nevada","Nevada County, California",1,0,10030,98764
+"16","White Pine County, Nevada","Mono County, California",1,0,10030,14202
+"17","White Pine County, Nevada","Alpine County, California",1,0,10030,1175
+"18","White Pine County, Nevada","Placer County, California",1,0,10030,348432
+"19","White Pine County, Nevada","Mineral County, Nevada",1,0,10030,4772
+"20","White Pine County, Nevada","Lassen County, California",1,0,10030,34895
+"21","White Pine County, Nevada","Sacramento County, California",1,0,10030,1418788
+"22","White Pine County, Nevada","Santa Clara County, California",1,0,10030,1781642
+"23","White Pine County, Nevada","San Francisco County, California",1,0,10030,805235
+"24","White Pine County, Nevada","Fairbanks North Star Borough, Alaska",1,0,10030,97581
+"25","White Pine County, Nevada","San Mateo County, California",1,0,10030,718451
+"26","White Pine County, Nevada","Plumas County, California",1,0,10030,20007
+"27","White Pine County, Nevada","San Diego County, California",1,0,10030,3095313
+"28","White Pine County, Nevada","San Bernardino County, California",1,0,10030,2035210
+"29","White Pine County, Nevada","Nye County, Nevada",1,0,10030,43946
+"30","White Pine County, Nevada","Clark County, Nevada",1,0,10030,1951269
+"31","White Pine County, Nevada","Lincoln County, Nevada",1,0,10030,5345
+"32","White Pine County, Nevada","Esmeralda County, Nevada",1,0,10030,783
+"33","White Pine County, Nevada","Inyo County, California",1,0,10030,18546
+"34","White Pine County, Nevada","Los Angeles County, California",1,0,10030,9818605
+"35","White Pine County, Nevada","Mohave County, Arizona",1,0,10030,200186
+"36","White Pine County, Nevada","Orange County, California",1,0,10030,3010232
+"37","White Pine County, Nevada","Maricopa County, Arizona",1,0,10030,3817117
+"38","Tooele County, Utah","White Pine County, Nevada",1,0,58218,10030
+"39","Tooele County, Utah","Pershing County, Nevada",1,0,58218,6753
+"40","Tooele County, Utah","Lander County, Nevada",1,0,58218,5775
+"41","Tooele County, Utah","Humboldt County, Nevada",1,0,58218,16528
+"42","Tooele County, Utah","Eureka County, Nevada",1,0,58218,1987
+"43","Tooele County, Utah","Elko County, Nevada",1,0,58218,48818
+"44","Tooele County, Utah","Salt Lake County, Utah",1,0,58218,1029655
+"45","Tooele County, Utah","Washoe County, Nevada",1,0,58218,421407
+"46","Tooele County, Utah","Storey County, Nevada",1,0,58218,4010
+"47","Tooele County, Utah","Lyon County, Nevada",1,0,58218,51980
+"48","Tooele County, Utah","Douglas County, Nevada",1,0,58218,46997
+"49","Tooele County, Utah","Carson City, Nevada",1,0,58218,55274
+"50","Tooele County, Utah","Churchill County, Nevada",1,0,58218,24877
+"51","Tooele County, Utah","El Dorado County, California",1,0,58218,181058
+"52","Tooele County, Utah","Nevada County, California",1,0,58218,98764
+"53","Tooele County, Utah","Mono County, California",1,0,58218,14202
+"54","Tooele County, Utah","Alpine County, California",1,0,58218,1175
+"55","Tooele County, Utah","Placer County, California",1,0,58218,348432
+"56","Tooele County, Utah","Mineral County, Nevada",1,0,58218,4772
+"57","Tooele County, Utah","Lassen County, California",1,0,58218,34895
+"58","Tooele County, Utah","Sacramento County, California",1,0,58218,1418788
+"59","Tooele County, Utah","Santa Clara County, California",1,0,58218,1781642
+"60","Tooele County, Utah","San Francisco County, California",1,0,58218,805235
+"61","Tooele County, Utah","Fairbanks North Star Borough, Alaska",1,0,58218,97581
+"62","Tooele County, Utah","San Mateo County, California",1,0,58218,718451
+"63","Tooele County, Utah","Plumas County, California",1,0,58218,20007
+"64","Tooele County, Utah","San Diego County, California",1,0,58218,3095313
+"65","Tooele County, Utah","San Bernardino County, California",1,0,58218,2035210
+"66","Tooele County, Utah","Nye County, Nevada",1,0,58218,43946
+"67","Tooele County, Utah","Clark County, Nevada",1,0,58218,1951269
+"68","Tooele County, Utah","Lincoln County, Nevada",1,0,58218,5345
+"69","Tooele County, Utah","Esmeralda County, Nevada",1,0,58218,783
+"70","Tooele County, Utah","Inyo County, California",1,0,58218,18546
+"71","Tooele County, Utah","Los Angeles County, California",1,0,58218,9818605
+"72","Tooele County, Utah","Mohave County, Arizona",1,0,58218,200186
+"73","Tooele County, Utah","Orange County, California",1,0,58218,3010232
+"74","Tooele County, Utah","Maricopa County, Arizona",1,0,58218,3817117
+"75","Pershing County, Nevada","White Pine County, Nevada",1,0,6753,10030
+"76","Pershing County, Nevada","Tooele County, Utah",1,0,6753,58218
+"77","Pershing County, Nevada","Lander County, Nevada",1,0,6753,5775
+"79","Pershing County, Nevada","Eureka County, Nevada",1,0,6753,1987
+"80","Pershing County, Nevada","Elko County, Nevada",1,0,6753,48818
+"81","Pershing County, Nevada","Salt Lake County, Utah",1,0,6753,1029655
+"82","Pershing County, Nevada","Washoe County, Nevada",1,0,6753,421407
+"83","Pershing County, Nevada","Storey County, Nevada",1,0,6753,4010
+"84","Pershing County, Nevada","Lyon County, Nevada",1,0,6753,51980
+"85","Pershing County, Nevada","Douglas County, Nevada",1,0,6753,46997
+"86","Pershing County, Nevada","Carson City, Nevada",1,0,6753,55274
+"87","Pershing County, Nevada","Churchill County, Nevada",1,0,6753,24877
+"88","Pershing County, Nevada","El Dorado County, California",1,0,6753,181058
+"89","Pershing County, Nevada","Nevada County, California",1,0,6753,98764
+"90","Pershing County, Nevada","Mono County, California",1,0,6753,14202
+"91","Pershing County, Nevada","Alpine County, California",1,0,6753,1175
+"92","Pershing County, Nevada","Placer County, California",1,0,6753,348432
+"93","Pershing County, Nevada","Mineral County, Nevada",1,0,6753,4772
+"94","Pershing County, Nevada","Lassen County, California",1,0,6753,34895
+"95","Pershing County, Nevada","Sacramento County, California",1,0,6753,1418788
+"96","Pershing County, Nevada","Santa Clara County, California",1,0,6753,1781642
+"97","Pershing County, Nevada","San Francisco County, California",1,0,6753,805235
+"98","Pershing County, Nevada","Fairbanks North Star Borough, Alaska",1,0,6753,97581
+"99","Pershing County, Nevada","San Mateo County, California",1,0,6753,718451
+"100","Pershing County, Nevada","Plumas County, California",1,0,6753,20007
+"101","Pershing County, Nevada","San Diego County, California",1,0,6753,3095313
+"102","Pershing County, Nevada","San Bernardino County, California",1,0,6753,2035210
+"103","Pershing County, Nevada","Nye County, Nevada",1,0,6753,43946
+"104","Pershing County, Nevada","Clark County, Nevada",1,0,6753,1951269
+"105","Pershing County, Nevada","Lincoln County, Nevada",1,0,6753,5345
+"106","Pershing County, Nevada","Esmeralda County, Nevada",1,0,6753,783
+"107","Pershing County, Nevada","Inyo County, California",1,0,6753,18546
+"108","Pershing County, Nevada","Los Angeles County, California",1,0,6753,9818605
+"109","Pershing County, Nevada","Mohave County, Arizona",1,0,6753,200186
+"110","Pershing County, Nevada","Orange County, California",1,0,6753,3010232
+"111","Pershing County, Nevada","Maricopa County, Arizona",1,0,6753,3817117
+"112","Lander County, Nevada","White Pine County, Nevada",1,0,5775,10030
+"113","Lander County, Nevada","Tooele County, Utah",1,0,5775,58218
+"114","Lander County, Nevada","Pershing County, Nevada",1,0,5775,6753
+"118","Lander County, Nevada","Salt Lake County, Utah",1,0,5775,1029655
+"119","Lander County, Nevada","Washoe County, Nevada",1,0,5775,421407
+"120","Lander County, Nevada","Storey County, Nevada",1,0,5775,4010
+"121","Lander County, Nevada","Lyon County, Nevada",1,0,5775,51980
+"122","Lander County, Nevada","Douglas County, Nevada",1,0,5775,46997
+"123","Lander County, Nevada","Carson City, Nevada",1,0,5775,55274
+"124","Lander County, Nevada","Churchill County, Nevada",1,0,5775,24877
+"125","Lander County, Nevada","El Dorado County, California",1,0,5775,181058
+"126","Lander County, Nevada","Nevada County, California",1,0,5775,98764
+"127","Lander County, Nevada","Mono County, California",1,0,5775,14202
+"128","Lander County, Nevada","Alpine County, California",1,0,5775,1175
+"129","Lander County, Nevada","Placer County, California",1,0,5775,348432
+"130","Lander County, Nevada","Mineral County, Nevada",1,0,5775,4772
+"131","Lander County, Nevada","Lassen County, California",1,0,5775,34895
+"132","Lander County, Nevada","Sacramento County, California",1,0,5775,1418788
+"133","Lander County, Nevada","Santa Clara County, California",1,0,5775,1781642
+"134","Lander County, Nevada","San Francisco County, California",1,0,5775,805235
+"135","Lander County, Nevada","Fairbanks North Star Borough, Alaska",1,0,5775,97581
+"136","Lander County, Nevada","San Mateo County, California",1,0,5775,718451
+"137","Lander County, Nevada","Plumas County, California",1,0,5775,20007
+"138","Lander County, Nevada","San Diego County, California",1,0,5775,3095313
+"139","Lander County, Nevada","San Bernardino County, California",1,0,5775,2035210
+"140","Lander County, Nevada","Nye County, Nevada",1,0,5775,43946
+"141","Lander County, Nevada","Clark County, Nevada",1,0,5775,1951269
+"142","Lander County, Nevada","Lincoln County, Nevada",1,0,5775,5345
+"143","Lander County, Nevada","Esmeralda County, Nevada",1,0,5775,783
+"144","Lander County, Nevada","Inyo County, California",1,0,5775,18546
+"145","Lander County, Nevada","Los Angeles County, California",1,0,5775,9818605
+"146","Lander County, Nevada","Mohave County, Arizona",1,0,5775,200186
+"147","Lander County, Nevada","Orange County, California",1,0,5775,3010232
+"148","Lander County, Nevada","Maricopa County, Arizona",1,0,5775,3817117
+"149","Humboldt County, Nevada","White Pine County, Nevada",1,0,16528,10030
+"150","Humboldt County, Nevada","Tooele County, Utah",1,0,16528,58218
+"151","Humboldt County, Nevada","Pershing County, Nevada",1,0,16528,6753
+"153","Humboldt County, Nevada","Eureka County, Nevada",1,0,16528,1987
+"155","Humboldt County, Nevada","Salt Lake County, Utah",1,0,16528,1029655
+"157","Humboldt County, Nevada","Storey County, Nevada",1,0,16528,4010
+"158","Humboldt County, Nevada","Lyon County, Nevada",1,0,16528,51980
+"159","Humboldt County, Nevada","Douglas County, Nevada",1,0,16528,46997
+"160","Humboldt County, Nevada","Carson City, Nevada",1,0,16528,55274
+"161","Humboldt County, Nevada","Churchill County, Nevada",1,0,16528,24877
+"162","Humboldt County, Nevada","El Dorado County, California",1,0,16528,181058
+"163","Humboldt County, Nevada","Nevada County, California",1,0,16528,98764
+"164","Humboldt County, Nevada","Mono County, California",1,0,16528,14202
+"165","Humboldt County, Nevada","Alpine County, California",1,0,16528,1175
+"166","Humboldt County, Nevada","Placer County, California",1,0,16528,348432
+"167","Humboldt County, Nevada","Mineral County, Nevada",1,0,16528,4772
+"168","Humboldt County, Nevada","Lassen County, California",1,0,16528,34895
+"169","Humboldt County, Nevada","Sacramento County, California",1,0,16528,1418788
+"170","Humboldt County, Nevada","Santa Clara County, California",1,0,16528,1781642
+"171","Humboldt County, Nevada","San Francisco County, California",1,0,16528,805235
+"173","Humboldt County, Nevada","San Mateo County, California",1,0,16528,718451
+"174","Humboldt County, Nevada","Plumas County, California",1,0,16528,20007
+"175","Humboldt County, Nevada","San Diego County, California",1,0,16528,3095313
+"176","Humboldt County, Nevada","San Bernardino County, California",1,0,16528,2035210
+"177","Humboldt County, Nevada","Nye County, Nevada",1,0,16528,43946
+"178","Humboldt County, Nevada","Clark County, Nevada",1,0,16528,1951269
+"179","Humboldt County, Nevada","Lincoln County, Nevada",1,0,16528,5345
+"180","Humboldt County, Nevada","Esmeralda County, Nevada",1,0,16528,783
+"181","Humboldt County, Nevada","Inyo County, California",1,0,16528,18546
+"182","Humboldt County, Nevada","Los Angeles County, California",1,0,16528,9818605
+"183","Humboldt County, Nevada","Mohave County, Arizona",1,0,16528,200186
+"184","Humboldt County, Nevada","Orange County, California",1,0,16528,3010232
+"185","Humboldt County, Nevada","Maricopa County, Arizona",1,0,16528,3817117
+"187","Eureka County, Nevada","Tooele County, Utah",1,0,1987,58218
+"188","Eureka County, Nevada","Pershing County, Nevada",1,0,1987,6753
+"189","Eureka County, Nevada","Lander County, Nevada",1,0,1987,5775
+"190","Eureka County, Nevada","Humboldt County, Nevada",1,0,1987,16528
+"192","Eureka County, Nevada","Salt Lake County, Utah",1,0,1987,1029655
+"193","Eureka County, Nevada","Washoe County, Nevada",1,0,1987,421407
+"194","Eureka County, Nevada","Storey County, Nevada",1,0,1987,4010
+"195","Eureka County, Nevada","Lyon County, Nevada",1,0,1987,51980
+"196","Eureka County, Nevada","Douglas County, Nevada",1,0,1987,46997
+"197","Eureka County, Nevada","Carson City, Nevada",1,0,1987,55274
+"198","Eureka County, Nevada","Churchill County, Nevada",1,0,1987,24877
+"199","Eureka County, Nevada","El Dorado County, California",1,0,1987,181058
+"200","Eureka County, Nevada","Nevada County, California",1,0,1987,98764
+"201","Eureka County, Nevada","Mono County, California",1,0,1987,14202
+"202","Eureka County, Nevada","Alpine County, California",1,0,1987,1175
+"203","Eureka County, Nevada","Placer County, California",1,0,1987,348432
+"204","Eureka County, Nevada","Mineral County, Nevada",1,0,1987,4772
+"205","Eureka County, Nevada","Lassen County, California",1,0,1987,34895
+"206","Eureka County, Nevada","Sacramento County, California",1,0,1987,1418788
+"207","Eureka County, Nevada","Santa Clara County, California",1,0,1987,1781642
+"208","Eureka County, Nevada","San Francisco County, California",1,0,1987,805235
+"209","Eureka County, Nevada","Fairbanks North Star Borough, Alaska",1,0,1987,97581
+"210","Eureka County, Nevada","San Mateo County, California",1,0,1987,718451
+"211","Eureka County, Nevada","Plumas County, California",1,0,1987,20007
+"212","Eureka County, Nevada","San Diego County, California",1,0,1987,3095313
+"213","Eureka County, Nevada","San Bernardino County, California",1,0,1987,2035210
+"214","Eureka County, Nevada","Nye County, Nevada",1,0,1987,43946
+"215","Eureka County, Nevada","Clark County, Nevada",1,0,1987,1951269
+"216","Eureka County, Nevada","Lincoln County, Nevada",1,0,1987,5345
+"217","Eureka County, Nevada","Esmeralda County, Nevada",1,0,1987,783
+"218","Eureka County, Nevada","Inyo County, California",1,0,1987,18546
+"219","Eureka County, Nevada","Los Angeles County, California",1,0,1987,9818605
+"220","Eureka County, Nevada","Mohave County, Arizona",1,0,1987,200186
+"221","Eureka County, Nevada","Orange County, California",1,0,1987,3010232
+"222","Eureka County, Nevada","Maricopa County, Arizona",1,0,1987,3817117
+"225","Elko County, Nevada","Pershing County, Nevada",1,0,48818,6753
+"227","Elko County, Nevada","Humboldt County, Nevada",1,0,48818,16528
+"231","Elko County, Nevada","Storey County, Nevada",1,0,48818,4010
+"232","Elko County, Nevada","Lyon County, Nevada",1,0,48818,51980
+"233","Elko County, Nevada","Douglas County, Nevada",1,0,48818,46997
+"234","Elko County, Nevada","Carson City, Nevada",1,0,48818,55274
+"235","Elko County, Nevada","Churchill County, Nevada",1,0,48818,24877
+"236","Elko County, Nevada","El Dorado County, California",1,0,48818,181058
+"237","Elko County, Nevada","Nevada County, California",1,0,48818,98764
+"238","Elko County, Nevada","Mono County, California",1,0,48818,14202
+"239","Elko County, Nevada","Alpine County, California",1,0,48818,1175
+"240","Elko County, Nevada","Placer County, California",1,0,48818,348432
+"241","Elko County, Nevada","Mineral County, Nevada",1,0,48818,4772
+"242","Elko County, Nevada","Lassen County, California",1,0,48818,34895
+"243","Elko County, Nevada","Sacramento County, California",1,0,48818,1418788
+"244","Elko County, Nevada","Santa Clara County, California",1,0,48818,1781642
+"245","Elko County, Nevada","San Francisco County, California",1,0,48818,805235
+"246","Elko County, Nevada","Fairbanks North Star Borough, Alaska",1,0,48818,97581
+"247","Elko County, Nevada","San Mateo County, California",1,0,48818,718451
+"248","Elko County, Nevada","Plumas County, California",1,0,48818,20007
+"249","Elko County, Nevada","San Diego County, California",1,0,48818,3095313
+"250","Elko County, Nevada","San Bernardino County, California",1,0,48818,2035210
+"251","Elko County, Nevada","Nye County, Nevada",1,0,48818,43946
+"252","Elko County, Nevada","Clark County, Nevada",1,0,48818,1951269
+"253","Elko County, Nevada","Lincoln County, Nevada",1,0,48818,5345
+"254","Elko County, Nevada","Esmeralda County, Nevada",1,0,48818,783
+"255","Elko County, Nevada","Inyo County, California",1,0,48818,18546
+"256","Elko County, Nevada","Los Angeles County, California",1,0,48818,9818605
+"257","Elko County, Nevada","Mohave County, Arizona",1,0,48818,200186
+"258","Elko County, Nevada","Orange County, California",1,0,48818,3010232
+"259","Elko County, Nevada","Maricopa County, Arizona",1,0,48818,3817117
+"260","Salt Lake County, Utah","White Pine County, Nevada",1,0,1029655,10030
+"261","Salt Lake County, Utah","Tooele County, Utah",1,0,1029655,58218
+"262","Salt Lake County, Utah","Pershing County, Nevada",1,0,1029655,6753
+"263","Salt Lake County, Utah","Lander County, Nevada",1,0,1029655,5775
+"264","Salt Lake County, Utah","Humboldt County, Nevada",1,0,1029655,16528
+"265","Salt Lake County, Utah","Eureka County, Nevada",1,0,1029655,1987
+"266","Salt Lake County, Utah","Elko County, Nevada",1,0,1029655,48818
+"267","Salt Lake County, Utah","Washoe County, Nevada",1,0,1029655,421407
+"268","Salt Lake County, Utah","Storey County, Nevada",1,0,1029655,4010
+"269","Salt Lake County, Utah","Lyon County, Nevada",1,0,1029655,51980
+"270","Salt Lake County, Utah","Douglas County, Nevada",1,0,1029655,46997
+"271","Salt Lake County, Utah","Carson City, Nevada",1,0,1029655,55274
+"272","Salt Lake County, Utah","Churchill County, Nevada",1,0,1029655,24877
+"273","Salt Lake County, Utah","El Dorado County, California",1,0,1029655,181058
+"274","Salt Lake County, Utah","Nevada County, California",1,0,1029655,98764
+"275","Salt Lake County, Utah","Mono County, California",1,0,1029655,14202
+"276","Salt Lake County, Utah","Alpine County, California",1,0,1029655,1175
+"277","Salt Lake County, Utah","Placer County, California",1,0,1029655,348432
+"278","Salt Lake County, Utah","Mineral County, Nevada",1,0,1029655,4772
+"279","Salt Lake County, Utah","Lassen County, California",1,0,1029655,34895
+"280","Salt Lake County, Utah","Sacramento County, California",1,0,1029655,1418788
+"281","Salt Lake County, Utah","Santa Clara County, California",1,0,1029655,1781642
+"282","Salt Lake County, Utah","San Francisco County, California",1,0,1029655,805235
+"283","Salt Lake County, Utah","Fairbanks North Star Borough, Alaska",1,0,1029655,97581
+"284","Salt Lake County, Utah","San Mateo County, California",1,0,1029655,718451
+"285","Salt Lake County, Utah","Plumas County, California",1,0,1029655,20007
+"286","Salt Lake County, Utah","San Diego County, California",1,0,1029655,3095313
+"287","Salt Lake County, Utah","San Bernardino County, California",1,0,1029655,2035210
+"288","Salt Lake County, Utah","Nye County, Nevada",1,0,1029655,43946
+"289","Salt Lake County, Utah","Clark County, Nevada",1,0,1029655,1951269
+"290","Salt Lake County, Utah","Lincoln County, Nevada",1,0,1029655,5345
+"291","Salt Lake County, Utah","Esmeralda County, Nevada",1,0,1029655,783
+"292","Salt Lake County, Utah","Inyo County, California",1,0,1029655,18546
+"293","Salt Lake County, Utah","Los Angeles County, California",1,0,1029655,9818605
+"294","Salt Lake County, Utah","Mohave County, Arizona",1,0,1029655,200186
+"295","Salt Lake County, Utah","Orange County, California",1,0,1029655,3010232
+"296","Salt Lake County, Utah","Maricopa County, Arizona",1,0,1029655,3817117
+"297","Washoe County, Nevada","White Pine County, Nevada",1,0,421407,10030
+"298","Washoe County, Nevada","Tooele County, Utah",1,0,421407,58218
+"302","Washoe County, Nevada","Eureka County, Nevada",1,0,421407,1987
+"304","Washoe County, Nevada","Salt Lake County, Utah",1,0,421407,1029655
+"312","Washoe County, Nevada","Mono County, California",1,0,421407,14202
+"313","Washoe County, Nevada","Alpine County, California",1,0,421407,1175
+"315","Washoe County, Nevada","Mineral County, Nevada",1,0,421407,4772
+"320","Washoe County, Nevada","Fairbanks North Star Borough, Alaska",1,0,421407,97581
+"324","Washoe County, Nevada","San Bernardino County, California",1,0,421407,2035210
+"325","Washoe County, Nevada","Nye County, Nevada",1,0,421407,43946
+"327","Washoe County, Nevada","Lincoln County, Nevada",1,0,421407,5345
+"328","Washoe County, Nevada","Esmeralda County, Nevada",1,0,421407,783
+"329","Washoe County, Nevada","Inyo County, California",1,0,421407,18546
+"331","Washoe County, Nevada","Mohave County, Arizona",1,0,421407,200186
+"332","Washoe County, Nevada","Orange County, California",1,0,421407,3010232
+"334","Storey County, Nevada","White Pine County, Nevada",1,0,4010,10030
+"335","Storey County, Nevada","Tooele County, Utah",1,0,4010,58218
+"336","Storey County, Nevada","Pershing County, Nevada",1,0,4010,6753
+"337","Storey County, Nevada","Lander County, Nevada",1,0,4010,5775
+"338","Storey County, Nevada","Humboldt County, Nevada",1,0,4010,16528
+"339","Storey County, Nevada","Eureka County, Nevada",1,0,4010,1987
+"340","Storey County, Nevada","Elko County, Nevada",1,0,4010,48818
+"341","Storey County, Nevada","Salt Lake County, Utah",1,0,4010,1029655
+"344","Storey County, Nevada","Douglas County, Nevada",1,0,4010,46997
+"346","Storey County, Nevada","Churchill County, Nevada",1,0,4010,24877
+"347","Storey County, Nevada","El Dorado County, California",1,0,4010,181058
+"348","Storey County, Nevada","Nevada County, California",1,0,4010,98764
+"349","Storey County, Nevada","Mono County, California",1,0,4010,14202
+"350","Storey County, Nevada","Alpine County, California",1,0,4010,1175
+"351","Storey County, Nevada","Placer County, California",1,0,4010,348432
+"352","Storey County, Nevada","Mineral County, Nevada",1,0,4010,4772
+"353","Storey County, Nevada","Lassen County, California",1,0,4010,34895
+"354","Storey County, Nevada","Sacramento County, California",1,0,4010,1418788
+"355","Storey County, Nevada","Santa Clara County, California",1,0,4010,1781642
+"356","Storey County, Nevada","San Francisco County, California",1,0,4010,805235
+"357","Storey County, Nevada","Fairbanks North Star Borough, Alaska",1,0,4010,97581
+"358","Storey County, Nevada","San Mateo County, California",1,0,4010,718451
+"359","Storey County, Nevada","Plumas County, California",1,0,4010,20007
+"360","Storey County, Nevada","San Diego County, California",1,0,4010,3095313
+"361","Storey County, Nevada","San Bernardino County, California",1,0,4010,2035210
+"362","Storey County, Nevada","Nye County, Nevada",1,0,4010,43946
+"363","Storey County, Nevada","Clark County, Nevada",1,0,4010,1951269
+"364","Storey County, Nevada","Lincoln County, Nevada",1,0,4010,5345
+"365","Storey County, Nevada","Esmeralda County, Nevada",1,0,4010,783
+"366","Storey County, Nevada","Inyo County, California",1,0,4010,18546
+"367","Storey County, Nevada","Los Angeles County, California",1,0,4010,9818605
+"368","Storey County, Nevada","Mohave County, Arizona",1,0,4010,200186
+"369","Storey County, Nevada","Orange County, California",1,0,4010,3010232
+"370","Storey County, Nevada","Maricopa County, Arizona",1,0,4010,3817117
+"371","Lyon County, Nevada","White Pine County, Nevada",1,0,51980,10030
+"372","Lyon County, Nevada","Tooele County, Utah",1,0,51980,58218
+"373","Lyon County, Nevada","Pershing County, Nevada",1,0,51980,6753
+"374","Lyon County, Nevada","Lander County, Nevada",1,0,51980,5775
+"375","Lyon County, Nevada","Humboldt County, Nevada",1,0,51980,16528
+"376","Lyon County, Nevada","Eureka County, Nevada",1,0,51980,1987
+"377","Lyon County, Nevada","Elko County, Nevada",1,0,51980,48818
+"378","Lyon County, Nevada","Salt Lake County, Utah",1,0,51980,1029655
+"380","Lyon County, Nevada","Storey County, Nevada",1,0,51980,4010
+"384","Lyon County, Nevada","El Dorado County, California",1,0,51980,181058
+"387","Lyon County, Nevada","Alpine County, California",1,0,51980,1175
+"388","Lyon County, Nevada","Placer County, California",1,0,51980,348432
+"389","Lyon County, Nevada","Mineral County, Nevada",1,0,51980,4772
+"390","Lyon County, Nevada","Lassen County, California",1,0,51980,34895
+"391","Lyon County, Nevada","Sacramento County, California",1,0,51980,1418788
+"392","Lyon County, Nevada","Santa Clara County, California",1,0,51980,1781642
+"393","Lyon County, Nevada","San Francisco County, California",1,0,51980,805235
+"394","Lyon County, Nevada","Fairbanks North Star Borough, Alaska",1,0,51980,97581
+"395","Lyon County, Nevada","San Mateo County, California",1,0,51980,718451
+"396","Lyon County, Nevada","Plumas County, California",1,0,51980,20007
+"397","Lyon County, Nevada","San Diego County, California",1,0,51980,3095313
+"398","Lyon County, Nevada","San Bernardino County, California",1,0,51980,2035210
+"399","Lyon County, Nevada","Nye County, Nevada",1,0,51980,43946
+"400","Lyon County, Nevada","Clark County, Nevada",1,0,51980,1951269
+"401","Lyon County, Nevada","Lincoln County, Nevada",1,0,51980,5345
+"402","Lyon County, Nevada","Esmeralda County, Nevada",1,0,51980,783
+"403","Lyon County, Nevada","Inyo County, California",1,0,51980,18546
+"404","Lyon County, Nevada","Los Angeles County, California",1,0,51980,9818605
+"405","Lyon County, Nevada","Mohave County, Arizona",1,0,51980,200186
+"406","Lyon County, Nevada","Orange County, California",1,0,51980,3010232
+"407","Lyon County, Nevada","Maricopa County, Arizona",1,0,51980,3817117
+"408","Douglas County, Nevada","White Pine County, Nevada",1,0,46997,10030
+"409","Douglas County, Nevada","Tooele County, Utah",1,0,46997,58218
+"410","Douglas County, Nevada","Pershing County, Nevada",1,0,46997,6753
+"411","Douglas County, Nevada","Lander County, Nevada",1,0,46997,5775
+"412","Douglas County, Nevada","Humboldt County, Nevada",1,0,46997,16528
+"413","Douglas County, Nevada","Eureka County, Nevada",1,0,46997,1987
+"414","Douglas County, Nevada","Elko County, Nevada",1,0,46997,48818
+"415","Douglas County, Nevada","Salt Lake County, Utah",1,0,46997,1029655
+"417","Douglas County, Nevada","Storey County, Nevada",1,0,46997,4010
+"420","Douglas County, Nevada","Churchill County, Nevada",1,0,46997,24877
+"422","Douglas County, Nevada","Nevada County, California",1,0,46997,98764
+"425","Douglas County, Nevada","Placer County, California",1,0,46997,348432
+"426","Douglas County, Nevada","Mineral County, Nevada",1,0,46997,4772
+"427","Douglas County, Nevada","Lassen County, California",1,0,46997,34895
+"429","Douglas County, Nevada","Santa Clara County, California",1,0,46997,1781642
+"430","Douglas County, Nevada","San Francisco County, California",1,0,46997,805235
+"431","Douglas County, Nevada","Fairbanks North Star Borough, Alaska",1,0,46997,97581
+"432","Douglas County, Nevada","San Mateo County, California",1,0,46997,718451
+"433","Douglas County, Nevada","Plumas County, California",1,0,46997,20007
+"434","Douglas County, Nevada","San Diego County, California",1,0,46997,3095313
+"435","Douglas County, Nevada","San Bernardino County, California",1,0,46997,2035210
+"436","Douglas County, Nevada","Nye County, Nevada",1,0,46997,43946
+"437","Douglas County, Nevada","Clark County, Nevada",1,0,46997,1951269
+"438","Douglas County, Nevada","Lincoln County, Nevada",1,0,46997,5345
+"439","Douglas County, Nevada","Esmeralda County, Nevada",1,0,46997,783
+"440","Douglas County, Nevada","Inyo County, California",1,0,46997,18546
+"442","Douglas County, Nevada","Mohave County, Arizona",1,0,46997,200186
+"443","Douglas County, Nevada","Orange County, California",1,0,46997,3010232
+"444","Douglas County, Nevada","Maricopa County, Arizona",1,0,46997,3817117
+"445","Carson City, Nevada","White Pine County, Nevada",1,0,55274,10030
+"446","Carson City, Nevada","Tooele County, Utah",1,0,55274,58218
+"447","Carson City, Nevada","Pershing County, Nevada",1,0,55274,6753
+"448","Carson City, Nevada","Lander County, Nevada",1,0,55274,5775
+"449","Carson City, Nevada","Humboldt County, Nevada",1,0,55274,16528
+"450","Carson City, Nevada","Eureka County, Nevada",1,0,55274,1987
+"451","Carson City, Nevada","Elko County, Nevada",1,0,55274,48818
+"452","Carson City, Nevada","Salt Lake County, Utah",1,0,55274,1029655
+"457","Carson City, Nevada","Churchill County, Nevada",1,0,55274,24877
+"459","Carson City, Nevada","Nevada County, California",1,0,55274,98764
+"460","Carson City, Nevada","Mono County, California",1,0,55274,14202
+"461","Carson City, Nevada","Alpine County, California",1,0,55274,1175
+"463","Carson City, Nevada","Mineral County, Nevada",1,0,55274,4772
+"464","Carson City, Nevada","Lassen County, California",1,0,55274,34895
+"465","Carson City, Nevada","Sacramento County, California",1,0,55274,1418788
+"466","Carson City, Nevada","Santa Clara County, California",1,0,55274,1781642
+"467","Carson City, Nevada","San Francisco County, California",1,0,55274,805235
+"468","Carson City, Nevada","Fairbanks North Star Borough, Alaska",1,0,55274,97581
+"469","Carson City, Nevada","San Mateo County, California",1,0,55274,718451
+"470","Carson City, Nevada","Plumas County, California",1,0,55274,20007
+"471","Carson City, Nevada","San Diego County, California",1,0,55274,3095313
+"472","Carson City, Nevada","San Bernardino County, California",1,0,55274,2035210
+"473","Carson City, Nevada","Nye County, Nevada",1,0,55274,43946
+"474","Carson City, Nevada","Clark County, Nevada",1,0,55274,1951269
+"475","Carson City, Nevada","Lincoln County, Nevada",1,0,55274,5345
+"476","Carson City, Nevada","Esmeralda County, Nevada",1,0,55274,783
+"477","Carson City, Nevada","Inyo County, California",1,0,55274,18546
+"478","Carson City, Nevada","Los Angeles County, California",1,0,55274,9818605
+"479","Carson City, Nevada","Mohave County, Arizona",1,0,55274,200186
+"480","Carson City, Nevada","Orange County, California",1,0,55274,3010232
+"481","Carson City, Nevada","Maricopa County, Arizona",1,0,55274,3817117
+"482","Churchill County, Nevada","White Pine County, Nevada",1,0,24877,10030
+"483","Churchill County, Nevada","Tooele County, Utah",1,0,24877,58218
+"484","Churchill County, Nevada","Pershing County, Nevada",1,0,24877,6753
+"485","Churchill County, Nevada","Lander County, Nevada",1,0,24877,5775
+"486","Churchill County, Nevada","Humboldt County, Nevada",1,0,24877,16528
+"487","Churchill County, Nevada","Eureka County, Nevada",1,0,24877,1987
+"488","Churchill County, Nevada","Elko County, Nevada",1,0,24877,48818
+"489","Churchill County, Nevada","Salt Lake County, Utah",1,0,24877,1029655
+"491","Churchill County, Nevada","Storey County, Nevada",1,0,24877,4010
+"493","Churchill County, Nevada","Douglas County, Nevada",1,0,24877,46997
+"494","Churchill County, Nevada","Carson City, Nevada",1,0,24877,55274
+"495","Churchill County, Nevada","El Dorado County, California",1,0,24877,181058
+"496","Churchill County, Nevada","Nevada County, California",1,0,24877,98764
+"497","Churchill County, Nevada","Mono County, California",1,0,24877,14202
+"498","Churchill County, Nevada","Alpine County, California",1,0,24877,1175
+"499","Churchill County, Nevada","Placer County, California",1,0,24877,348432
+"501","Churchill County, Nevada","Lassen County, California",1,0,24877,34895
+"502","Churchill County, Nevada","Sacramento County, California",1,0,24877,1418788
+"503","Churchill County, Nevada","Santa Clara County, California",1,0,24877,1781642
+"504","Churchill County, Nevada","San Francisco County, California",1,0,24877,805235
+"505","Churchill County, Nevada","Fairbanks North Star Borough, Alaska",1,0,24877,97581
+"506","Churchill County, Nevada","San Mateo County, California",1,0,24877,718451
+"507","Churchill County, Nevada","Plumas County, California",1,0,24877,20007
+"508","Churchill County, Nevada","San Diego County, California",1,0,24877,3095313
+"509","Churchill County, Nevada","San Bernardino County, California",1,0,24877,2035210
+"510","Churchill County, Nevada","Nye County, Nevada",1,0,24877,43946
+"511","Churchill County, Nevada","Clark County, Nevada",1,0,24877,1951269
+"512","Churchill County, Nevada","Lincoln County, Nevada",1,0,24877,5345
+"513","Churchill County, Nevada","Esmeralda County, Nevada",1,0,24877,783
+"514","Churchill County, Nevada","Inyo County, California",1,0,24877,18546
+"515","Churchill County, Nevada","Los Angeles County, California",1,0,24877,9818605
+"516","Churchill County, Nevada","Mohave County, Arizona",1,0,24877,200186
+"517","Churchill County, Nevada","Orange County, California",1,0,24877,3010232
+"518","Churchill County, Nevada","Maricopa County, Arizona",1,0,24877,3817117
+"519","El Dorado County, California","White Pine County, Nevada",1,0,181058,10030
+"520","El Dorado County, California","Tooele County, Utah",1,0,181058,58218
+"521","El Dorado County, California","Pershing County, Nevada",1,0,181058,6753
+"522","El Dorado County, California","Lander County, Nevada",1,0,181058,5775
+"523","El Dorado County, California","Humboldt County, Nevada",1,0,181058,16528
+"524","El Dorado County, California","Eureka County, Nevada",1,0,181058,1987
+"525","El Dorado County, California","Elko County, Nevada",1,0,181058,48818
+"526","El Dorado County, California","Salt Lake County, Utah",1,0,181058,1029655
+"527","El Dorado County, California","Washoe County, Nevada",1,0,181058,421407
+"528","El Dorado County, California","Storey County, Nevada",1,0,181058,4010
+"529","El Dorado County, California","Lyon County, Nevada",1,0,181058,51980
+"530","El Dorado County, California","Douglas County, Nevada",1,0,181058,46997
+"531","El Dorado County, California","Carson City, Nevada",1,0,181058,55274
+"532","El Dorado County, California","Churchill County, Nevada",1,0,181058,24877
+"533","El Dorado County, California","Nevada County, California",1,0,181058,98764
+"534","El Dorado County, California","Mono County, California",1,0,181058,14202
+"535","El Dorado County, California","Alpine County, California",1,0,181058,1175
+"536","El Dorado County, California","Placer County, California",1,0,181058,348432
+"537","El Dorado County, California","Mineral County, Nevada",1,0,181058,4772
+"538","El Dorado County, California","Lassen County, California",1,0,181058,34895
+"539","El Dorado County, California","Sacramento County, California",1,0,181058,1418788
+"540","El Dorado County, California","Santa Clara County, California",1,0,181058,1781642
+"541","El Dorado County, California","San Francisco County, California",1,0,181058,805235
+"542","El Dorado County, California","Fairbanks North Star Borough, Alaska",1,0,181058,97581
+"543","El Dorado County, California","San Mateo County, California",1,0,181058,718451
+"544","El Dorado County, California","Plumas County, California",1,0,181058,20007
+"545","El Dorado County, California","San Diego County, California",1,0,181058,3095313
+"546","El Dorado County, California","San Bernardino County, California",1,0,181058,2035210
+"547","El Dorado County, California","Nye County, Nevada",1,0,181058,43946
+"548","El Dorado County, California","Clark County, Nevada",1,0,181058,1951269
+"549","El Dorado County, California","Lincoln County, Nevada",1,0,181058,5345
+"550","El Dorado County, California","Esmeralda County, Nevada",1,0,181058,783
+"551","El Dorado County, California","Inyo County, California",1,0,181058,18546
+"552","El Dorado County, California","Los Angeles County, California",1,0,181058,9818605
+"553","El Dorado County, California","Mohave County, Arizona",1,0,181058,200186
+"554","El Dorado County, California","Orange County, California",1,0,181058,3010232
+"555","El Dorado County, California","Maricopa County, Arizona",1,0,181058,3817117
+"556","Nevada County, California","White Pine County, Nevada",1,0,98764,10030
+"557","Nevada County, California","Tooele County, Utah",1,0,98764,58218
+"558","Nevada County, California","Pershing County, Nevada",1,0,98764,6753
+"559","Nevada County, California","Lander County, Nevada",1,0,98764,5775
+"560","Nevada County, California","Humboldt County, Nevada",1,0,98764,16528
+"561","Nevada County, California","Eureka County, Nevada",1,0,98764,1987
+"562","Nevada County, California","Elko County, Nevada",1,0,98764,48818
+"563","Nevada County, California","Salt Lake County, Utah",1,0,98764,1029655
+"564","Nevada County, California","Washoe County, Nevada",1,0,98764,421407
+"565","Nevada County, California","Storey County, Nevada",1,0,98764,4010
+"566","Nevada County, California","Lyon County, Nevada",1,0,98764,51980
+"567","Nevada County, California","Douglas County, Nevada",1,0,98764,46997
+"568","Nevada County, California","Carson City, Nevada",1,0,98764,55274
+"569","Nevada County, California","Churchill County, Nevada",1,0,98764,24877
+"570","Nevada County, California","El Dorado County, California",1,0,98764,181058
+"571","Nevada County, California","Mono County, California",1,0,98764,14202
+"572","Nevada County, California","Alpine County, California",1,0,98764,1175
+"573","Nevada County, California","Placer County, California",1,0,98764,348432
+"574","Nevada County, California","Mineral County, Nevada",1,0,98764,4772
+"575","Nevada County, California","Lassen County, California",1,0,98764,34895
+"576","Nevada County, California","Sacramento County, California",1,0,98764,1418788
+"577","Nevada County, California","Santa Clara County, California",1,0,98764,1781642
+"578","Nevada County, California","San Francisco County, California",1,0,98764,805235
+"579","Nevada County, California","Fairbanks North Star Borough, Alaska",1,0,98764,97581
+"580","Nevada County, California","San Mateo County, California",1,0,98764,718451
+"581","Nevada County, California","Plumas County, California",1,0,98764,20007
+"582","Nevada County, California","San Diego County, California",1,0,98764,3095313
+"583","Nevada County, California","San Bernardino County, California",1,0,98764,2035210
+"584","Nevada County, California","Nye County, Nevada",1,0,98764,43946
+"585","Nevada County, California","Clark County, Nevada",1,0,98764,1951269
+"586","Nevada County, California","Lincoln County, Nevada",1,0,98764,5345
+"587","Nevada County, California","Esmeralda County, Nevada",1,0,98764,783
+"588","Nevada County, California","Inyo County, California",1,0,98764,18546
+"589","Nevada County, California","Los Angeles County, California",1,0,98764,9818605
+"590","Nevada County, California","Mohave County, Arizona",1,0,98764,200186
+"591","Nevada County, California","Orange County, California",1,0,98764,3010232
+"592","Nevada County, California","Maricopa County, Arizona",1,0,98764,3817117
+"593","Mono County, California","White Pine County, Nevada",1,0,14202,10030
+"594","Mono County, California","Tooele County, Utah",1,0,14202,58218
+"595","Mono County, California","Pershing County, Nevada",1,0,14202,6753
+"596","Mono County, California","Lander County, Nevada",1,0,14202,5775
+"597","Mono County, California","Humboldt County, Nevada",1,0,14202,16528
+"598","Mono County, California","Eureka County, Nevada",1,0,14202,1987
+"599","Mono County, California","Elko County, Nevada",1,0,14202,48818
+"600","Mono County, California","Salt Lake County, Utah",1,0,14202,1029655
+"601","Mono County, California","Washoe County, Nevada",1,0,14202,421407
+"602","Mono County, California","Storey County, Nevada",1,0,14202,4010
+"603","Mono County, California","Lyon County, Nevada",1,0,14202,51980
+"604","Mono County, California","Douglas County, Nevada",1,0,14202,46997
+"605","Mono County, California","Carson City, Nevada",1,0,14202,55274
+"606","Mono County, California","Churchill County, Nevada",1,0,14202,24877
+"607","Mono County, California","El Dorado County, California",1,0,14202,181058
+"608","Mono County, California","Nevada County, California",1,0,14202,98764
+"609","Mono County, California","Alpine County, California",1,0,14202,1175
+"610","Mono County, California","Placer County, California",1,0,14202,348432
+"611","Mono County, California","Mineral County, Nevada",1,0,14202,4772
+"612","Mono County, California","Lassen County, California",1,0,14202,34895
+"613","Mono County, California","Sacramento County, California",1,0,14202,1418788
+"614","Mono County, California","Santa Clara County, California",1,0,14202,1781642
+"615","Mono County, California","San Francisco County, California",1,0,14202,805235
+"616","Mono County, California","Fairbanks North Star Borough, Alaska",1,0,14202,97581
+"617","Mono County, California","San Mateo County, California",1,0,14202,718451
+"618","Mono County, California","Plumas County, California",1,0,14202,20007
+"619","Mono County, California","San Diego County, California",1,0,14202,3095313
+"620","Mono County, California","San Bernardino County, California",1,0,14202,2035210
+"621","Mono County, California","Nye County, Nevada",1,0,14202,43946
+"622","Mono County, California","Clark County, Nevada",1,0,14202,1951269
+"623","Mono County, California","Lincoln County, Nevada",1,0,14202,5345
+"624","Mono County, California","Esmeralda County, Nevada",1,0,14202,783
+"625","Mono County, California","Inyo County, California",1,0,14202,18546
+"626","Mono County, California","Los Angeles County, California",1,0,14202,9818605
+"627","Mono County, California","Mohave County, Arizona",1,0,14202,200186
+"628","Mono County, California","Orange County, California",1,0,14202,3010232
+"629","Mono County, California","Maricopa County, Arizona",1,0,14202,3817117
+"630","Alpine County, California","White Pine County, Nevada",1,0,1175,10030
+"631","Alpine County, California","Tooele County, Utah",1,0,1175,58218
+"632","Alpine County, California","Pershing County, Nevada",1,0,1175,6753
+"633","Alpine County, California","Lander County, Nevada",1,0,1175,5775
+"634","Alpine County, California","Humboldt County, Nevada",1,0,1175,16528
+"635","Alpine County, California","Eureka County, Nevada",1,0,1175,1987
+"636","Alpine County, California","Elko County, Nevada",1,0,1175,48818
+"637","Alpine County, California","Salt Lake County, Utah",1,0,1175,1029655
+"638","Alpine County, California","Washoe County, Nevada",1,0,1175,421407
+"639","Alpine County, California","Storey County, Nevada",1,0,1175,4010
+"640","Alpine County, California","Lyon County, Nevada",1,0,1175,51980
+"641","Alpine County, California","Douglas County, Nevada",1,0,1175,46997
+"642","Alpine County, California","Carson City, Nevada",1,0,1175,55274
+"643","Alpine County, California","Churchill County, Nevada",1,0,1175,24877
+"644","Alpine County, California","El Dorado County, California",1,0,1175,181058
+"645","Alpine County, California","Nevada County, California",1,0,1175,98764
+"646","Alpine County, California","Mono County, California",1,0,1175,14202
+"647","Alpine County, California","Placer County, California",1,0,1175,348432
+"648","Alpine County, California","Mineral County, Nevada",1,0,1175,4772
+"649","Alpine County, California","Lassen County, California",1,0,1175,34895
+"650","Alpine County, California","Sacramento County, California",1,0,1175,1418788
+"651","Alpine County, California","Santa Clara County, California",1,0,1175,1781642
+"652","Alpine County, California","San Francisco County, California",1,0,1175,805235
+"653","Alpine County, California","Fairbanks North Star Borough, Alaska",1,0,1175,97581
+"654","Alpine County, California","San Mateo County, California",1,0,1175,718451
+"655","Alpine County, California","Plumas County, California",1,0,1175,20007
+"656","Alpine County, California","San Diego County, California",1,0,1175,3095313
+"657","Alpine County, California","San Bernardino County, California",1,0,1175,2035210
+"658","Alpine County, California","Nye County, Nevada",1,0,1175,43946
+"659","Alpine County, California","Clark County, Nevada",1,0,1175,1951269
+"660","Alpine County, California","Lincoln County, Nevada",1,0,1175,5345
+"661","Alpine County, California","Esmeralda County, Nevada",1,0,1175,783
+"662","Alpine County, California","Inyo County, California",1,0,1175,18546
+"663","Alpine County, California","Los Angeles County, California",1,0,1175,9818605
+"664","Alpine County, California","Mohave County, Arizona",1,0,1175,200186
+"665","Alpine County, California","Orange County, California",1,0,1175,3010232
+"666","Alpine County, California","Maricopa County, Arizona",1,0,1175,3817117
+"667","Placer County, California","White Pine County, Nevada",1,0,348432,10030
+"668","Placer County, California","Tooele County, Utah",1,0,348432,58218
+"669","Placer County, California","Pershing County, Nevada",1,0,348432,6753
+"670","Placer County, California","Lander County, Nevada",1,0,348432,5775
+"671","Placer County, California","Humboldt County, Nevada",1,0,348432,16528
+"672","Placer County, California","Eureka County, Nevada",1,0,348432,1987
+"673","Placer County, California","Elko County, Nevada",1,0,348432,48818
+"674","Placer County, California","Salt Lake County, Utah",1,0,348432,1029655
+"675","Placer County, California","Washoe County, Nevada",1,0,348432,421407
+"676","Placer County, California","Storey County, Nevada",1,0,348432,4010
+"677","Placer County, California","Lyon County, Nevada",1,0,348432,51980
+"678","Placer County, California","Douglas County, Nevada",1,0,348432,46997
+"679","Placer County, California","Carson City, Nevada",1,0,348432,55274
+"680","Placer County, California","Churchill County, Nevada",1,0,348432,24877
+"681","Placer County, California","El Dorado County, California",1,0,348432,181058
+"682","Placer County, California","Nevada County, California",1,0,348432,98764
+"683","Placer County, California","Mono County, California",1,0,348432,14202
+"684","Placer County, California","Alpine County, California",1,0,348432,1175
+"685","Placer County, California","Mineral County, Nevada",1,0,348432,4772
+"686","Placer County, California","Lassen County, California",1,0,348432,34895
+"687","Placer County, California","Sacramento County, California",1,0,348432,1418788
+"688","Placer County, California","Santa Clara County, California",1,0,348432,1781642
+"689","Placer County, California","San Francisco County, California",1,0,348432,805235
+"690","Placer County, California","Fairbanks North Star Borough, Alaska",1,0,348432,97581
+"691","Placer County, California","San Mateo County, California",1,0,348432,718451
+"692","Placer County, California","Plumas County, California",1,0,348432,20007
+"693","Placer County, California","San Diego County, California",1,0,348432,3095313
+"694","Placer County, California","San Bernardino County, California",1,0,348432,2035210
+"695","Placer County, California","Nye County, Nevada",1,0,348432,43946
+"696","Placer County, California","Clark County, Nevada",1,0,348432,1951269
+"697","Placer County, California","Lincoln County, Nevada",1,0,348432,5345
+"698","Placer County, California","Esmeralda County, Nevada",1,0,348432,783
+"699","Placer County, California","Inyo County, California",1,0,348432,18546
+"700","Placer County, California","Los Angeles County, California",1,0,348432,9818605
+"701","Placer County, California","Mohave County, Arizona",1,0,348432,200186
+"702","Placer County, California","Orange County, California",1,0,348432,3010232
+"703","Placer County, California","Maricopa County, Arizona",1,0,348432,3817117
+"704","Mineral County, Nevada","White Pine County, Nevada",1,0,4772,10030
+"705","Mineral County, Nevada","Tooele County, Utah",1,0,4772,58218
+"706","Mineral County, Nevada","Pershing County, Nevada",1,0,4772,6753
+"707","Mineral County, Nevada","Lander County, Nevada",1,0,4772,5775
+"708","Mineral County, Nevada","Humboldt County, Nevada",1,0,4772,16528
+"709","Mineral County, Nevada","Eureka County, Nevada",1,0,4772,1987
+"710","Mineral County, Nevada","Elko County, Nevada",1,0,4772,48818
+"711","Mineral County, Nevada","Salt Lake County, Utah",1,0,4772,1029655
+"712","Mineral County, Nevada","Washoe County, Nevada",1,0,4772,421407
+"713","Mineral County, Nevada","Storey County, Nevada",1,0,4772,4010
+"714","Mineral County, Nevada","Lyon County, Nevada",1,0,4772,51980
+"715","Mineral County, Nevada","Douglas County, Nevada",1,0,4772,46997
+"716","Mineral County, Nevada","Carson City, Nevada",1,0,4772,55274
+"717","Mineral County, Nevada","Churchill County, Nevada",1,0,4772,24877
+"718","Mineral County, Nevada","El Dorado County, California",1,0,4772,181058
+"719","Mineral County, Nevada","Nevada County, California",1,0,4772,98764
+"720","Mineral County, Nevada","Mono County, California",1,0,4772,14202
+"721","Mineral County, Nevada","Alpine County, California",1,0,4772,1175
+"722","Mineral County, Nevada","Placer County, California",1,0,4772,348432
+"723","Mineral County, Nevada","Lassen County, California",1,0,4772,34895
+"724","Mineral County, Nevada","Sacramento County, California",1,0,4772,1418788
+"725","Mineral County, Nevada","Santa Clara County, California",1,0,4772,1781642
+"726","Mineral County, Nevada","San Francisco County, California",1,0,4772,805235
+"727","Mineral County, Nevada","Fairbanks North Star Borough, Alaska",1,0,4772,97581
+"728","Mineral County, Nevada","San Mateo County, California",1,0,4772,718451
+"729","Mineral County, Nevada","Plumas County, California",1,0,4772,20007
+"730","Mineral County, Nevada","San Diego County, California",1,0,4772,3095313
+"731","Mineral County, Nevada","San Bernardino County, California",1,0,4772,2035210
+"732","Mineral County, Nevada","Nye County, Nevada",1,0,4772,43946
+"733","Mineral County, Nevada","Clark County, Nevada",1,0,4772,1951269
+"734","Mineral County, Nevada","Lincoln County, Nevada",1,0,4772,5345
+"735","Mineral County, Nevada","Esmeralda County, Nevada",1,0,4772,783
+"736","Mineral County, Nevada","Inyo County, California",1,0,4772,18546
+"737","Mineral County, Nevada","Los Angeles County, California",1,0,4772,9818605
+"738","Mineral County, Nevada","Mohave County, Arizona",1,0,4772,200186
+"739","Mineral County, Nevada","Orange County, California",1,0,4772,3010232
+"740","Mineral County, Nevada","Maricopa County, Arizona",1,0,4772,3817117
+"741","Lassen County, California","White Pine County, Nevada",1,0,34895,10030
+"742","Lassen County, California","Tooele County, Utah",1,0,34895,58218
+"743","Lassen County, California","Pershing County, Nevada",1,0,34895,6753
+"744","Lassen County, California","Lander County, Nevada",1,0,34895,5775
+"745","Lassen County, California","Humboldt County, Nevada",1,0,34895,16528
+"746","Lassen County, California","Eureka County, Nevada",1,0,34895,1987
+"747","Lassen County, California","Elko County, Nevada",1,0,34895,48818
+"748","Lassen County, California","Salt Lake County, Utah",1,0,34895,1029655
+"749","Lassen County, California","Washoe County, Nevada",1,0,34895,421407
+"750","Lassen County, California","Storey County, Nevada",1,0,34895,4010
+"751","Lassen County, California","Lyon County, Nevada",1,0,34895,51980
+"752","Lassen County, California","Douglas County, Nevada",1,0,34895,46997
+"753","Lassen County, California","Carson City, Nevada",1,0,34895,55274
+"754","Lassen County, California","Churchill County, Nevada",1,0,34895,24877
+"755","Lassen County, California","El Dorado County, California",1,0,34895,181058
+"756","Lassen County, California","Nevada County, California",1,0,34895,98764
+"757","Lassen County, California","Mono County, California",1,0,34895,14202
+"758","Lassen County, California","Alpine County, California",1,0,34895,1175
+"759","Lassen County, California","Placer County, California",1,0,34895,348432
+"760","Lassen County, California","Mineral County, Nevada",1,0,34895,4772
+"761","Lassen County, California","Sacramento County, California",1,0,34895,1418788
+"762","Lassen County, California","Santa Clara County, California",1,0,34895,1781642
+"763","Lassen County, California","San Francisco County, California",1,0,34895,805235
+"764","Lassen County, California","Fairbanks North Star Borough, Alaska",1,0,34895,97581
+"765","Lassen County, California","San Mateo County, California",1,0,34895,718451
+"766","Lassen County, California","Plumas County, California",1,0,34895,20007
+"767","Lassen County, California","San Diego County, California",1,0,34895,3095313
+"768","Lassen County, California","San Bernardino County, California",1,0,34895,2035210
+"769","Lassen County, California","Nye County, Nevada",1,0,34895,43946
+"770","Lassen County, California","Clark County, Nevada",1,0,34895,1951269
+"771","Lassen County, California","Lincoln County, Nevada",1,0,34895,5345
+"772","Lassen County, California","Esmeralda County, Nevada",1,0,34895,783
+"773","Lassen County, California","Inyo County, California",1,0,34895,18546
+"774","Lassen County, California","Los Angeles County, California",1,0,34895,9818605
+"775","Lassen County, California","Mohave County, Arizona",1,0,34895,200186
+"776","Lassen County, California","Orange County, California",1,0,34895,3010232
+"777","Lassen County, California","Maricopa County, Arizona",1,0,34895,3817117
+"778","Sacramento County, California","White Pine County, Nevada",1,0,1418788,10030
+"779","Sacramento County, California","Tooele County, Utah",1,0,1418788,58218
+"780","Sacramento County, California","Pershing County, Nevada",1,0,1418788,6753
+"781","Sacramento County, California","Lander County, Nevada",1,0,1418788,5775
+"782","Sacramento County, California","Humboldt County, Nevada",1,0,1418788,16528
+"783","Sacramento County, California","Eureka County, Nevada",1,0,1418788,1987
+"784","Sacramento County, California","Elko County, Nevada",1,0,1418788,48818
+"785","Sacramento County, California","Salt Lake County, Utah",1,0,1418788,1029655
+"786","Sacramento County, California","Washoe County, Nevada",1,0,1418788,421407
+"787","Sacramento County, California","Storey County, Nevada",1,0,1418788,4010
+"788","Sacramento County, California","Lyon County, Nevada",1,0,1418788,51980
+"789","Sacramento County, California","Douglas County, Nevada",1,0,1418788,46997
+"790","Sacramento County, California","Carson City, Nevada",1,0,1418788,55274
+"791","Sacramento County, California","Churchill County, Nevada",1,0,1418788,24877
+"792","Sacramento County, California","El Dorado County, California",1,0,1418788,181058
+"793","Sacramento County, California","Nevada County, California",1,0,1418788,98764
+"794","Sacramento County, California","Mono County, California",1,0,1418788,14202
+"795","Sacramento County, California","Alpine County, California",1,0,1418788,1175
+"796","Sacramento County, California","Placer County, California",1,0,1418788,348432
+"797","Sacramento County, California","Mineral County, Nevada",1,0,1418788,4772
+"798","Sacramento County, California","Lassen County, California",1,0,1418788,34895
+"799","Sacramento County, California","Santa Clara County, California",1,0,1418788,1781642
+"800","Sacramento County, California","San Francisco County, California",1,0,1418788,805235
+"801","Sacramento County, California","Fairbanks North Star Borough, Alaska",1,0,1418788,97581
+"802","Sacramento County, California","San Mateo County, California",1,0,1418788,718451
+"803","Sacramento County, California","Plumas County, California",1,0,1418788,20007
+"804","Sacramento County, California","San Diego County, California",1,0,1418788,3095313
+"805","Sacramento County, California","San Bernardino County, California",1,0,1418788,2035210
+"806","Sacramento County, California","Nye County, Nevada",1,0,1418788,43946
+"807","Sacramento County, California","Clark County, Nevada",1,0,1418788,1951269
+"808","Sacramento County, California","Lincoln County, Nevada",1,0,1418788,5345
+"809","Sacramento County, California","Esmeralda County, Nevada",1,0,1418788,783
+"810","Sacramento County, California","Inyo County, California",1,0,1418788,18546
+"811","Sacramento County, California","Los Angeles County, California",1,0,1418788,9818605
+"812","Sacramento County, California","Mohave County, Arizona",1,0,1418788,200186
+"813","Sacramento County, California","Orange County, California",1,0,1418788,3010232
+"814","Sacramento County, California","Maricopa County, Arizona",1,0,1418788,3817117
+"815","Santa Clara County, California","White Pine County, Nevada",1,0,1781642,10030
+"816","Santa Clara County, California","Tooele County, Utah",1,0,1781642,58218
+"817","Santa Clara County, California","Pershing County, Nevada",1,0,1781642,6753
+"818","Santa Clara County, California","Lander County, Nevada",1,0,1781642,5775
+"819","Santa Clara County, California","Humboldt County, Nevada",1,0,1781642,16528
+"820","Santa Clara County, California","Eureka County, Nevada",1,0,1781642,1987
+"821","Santa Clara County, California","Elko County, Nevada",1,0,1781642,48818
+"822","Santa Clara County, California","Salt Lake County, Utah",1,0,1781642,1029655
+"823","Santa Clara County, California","Washoe County, Nevada",1,0,1781642,421407
+"824","Santa Clara County, California","Storey County, Nevada",1,0,1781642,4010
+"825","Santa Clara County, California","Lyon County, Nevada",1,0,1781642,51980
+"826","Santa Clara County, California","Douglas County, Nevada",1,0,1781642,46997
+"827","Santa Clara County, California","Carson City, Nevada",1,0,1781642,55274
+"828","Santa Clara County, California","Churchill County, Nevada",1,0,1781642,24877
+"829","Santa Clara County, California","El Dorado County, California",1,0,1781642,181058
+"830","Santa Clara County, California","Nevada County, California",1,0,1781642,98764
+"831","Santa Clara County, California","Mono County, California",1,0,1781642,14202
+"832","Santa Clara County, California","Alpine County, California",1,0,1781642,1175
+"833","Santa Clara County, California","Placer County, California",1,0,1781642,348432
+"834","Santa Clara County, California","Mineral County, Nevada",1,0,1781642,4772
+"835","Santa Clara County, California","Lassen County, California",1,0,1781642,34895
+"836","Santa Clara County, California","Sacramento County, California",1,0,1781642,1418788
+"837","Santa Clara County, California","San Francisco County, California",1,0,1781642,805235
+"838","Santa Clara County, California","Fairbanks North Star Borough, Alaska",1,0,1781642,97581
+"839","Santa Clara County, California","San Mateo County, California",1,0,1781642,718451
+"840","Santa Clara County, California","Plumas County, California",1,0,1781642,20007
+"841","Santa Clara County, California","San Diego County, California",1,0,1781642,3095313
+"842","Santa Clara County, California","San Bernardino County, California",1,0,1781642,2035210
+"843","Santa Clara County, California","Nye County, Nevada",1,0,1781642,43946
+"844","Santa Clara County, California","Clark County, Nevada",1,0,1781642,1951269
+"845","Santa Clara County, California","Lincoln County, Nevada",1,0,1781642,5345
+"846","Santa Clara County, California","Esmeralda County, Nevada",1,0,1781642,783
+"847","Santa Clara County, California","Inyo County, California",1,0,1781642,18546
+"848","Santa Clara County, California","Los Angeles County, California",1,0,1781642,9818605
+"849","Santa Clara County, California","Mohave County, Arizona",1,0,1781642,200186
+"850","Santa Clara County, California","Orange County, California",1,0,1781642,3010232
+"851","Santa Clara County, California","Maricopa County, Arizona",1,0,1781642,3817117
+"852","San Francisco County, California","White Pine County, Nevada",1,0,805235,10030
+"853","San Francisco County, California","Tooele County, Utah",1,0,805235,58218
+"854","San Francisco County, California","Pershing County, Nevada",1,0,805235,6753
+"855","San Francisco County, California","Lander County, Nevada",1,0,805235,5775
+"856","San Francisco County, California","Humboldt County, Nevada",1,0,805235,16528
+"857","San Francisco County, California","Eureka County, Nevada",1,0,805235,1987
+"858","San Francisco County, California","Elko County, Nevada",1,0,805235,48818
+"859","San Francisco County, California","Salt Lake County, Utah",1,0,805235,1029655
+"860","San Francisco County, California","Washoe County, Nevada",1,0,805235,421407
+"861","San Francisco County, California","Storey County, Nevada",1,0,805235,4010
+"862","San Francisco County, California","Lyon County, Nevada",1,0,805235,51980
+"863","San Francisco County, California","Douglas County, Nevada",1,0,805235,46997
+"864","San Francisco County, California","Carson City, Nevada",1,0,805235,55274
+"865","San Francisco County, California","Churchill County, Nevada",1,0,805235,24877
+"866","San Francisco County, California","El Dorado County, California",1,0,805235,181058
+"867","San Francisco County, California","Nevada County, California",1,0,805235,98764
+"868","San Francisco County, California","Mono County, California",1,0,805235,14202
+"869","San Francisco County, California","Alpine County, California",1,0,805235,1175
+"870","San Francisco County, California","Placer County, California",1,0,805235,348432
+"871","San Francisco County, California","Mineral County, Nevada",1,0,805235,4772
+"872","San Francisco County, California","Lassen County, California",1,0,805235,34895
+"873","San Francisco County, California","Sacramento County, California",1,0,805235,1418788
+"874","San Francisco County, California","Santa Clara County, California",1,0,805235,1781642
+"875","San Francisco County, California","Fairbanks North Star Borough, Alaska",1,0,805235,97581
+"876","San Francisco County, California","San Mateo County, California",1,0,805235,718451
+"877","San Francisco County, California","Plumas County, California",1,0,805235,20007
+"878","San Francisco County, California","San Diego County, California",1,0,805235,3095313
+"879","San Francisco County, California","San Bernardino County, California",1,0,805235,2035210
+"880","San Francisco County, California","Nye County, Nevada",1,0,805235,43946
+"881","San Francisco County, California","Clark County, Nevada",1,0,805235,1951269
+"882","San Francisco County, California","Lincoln County, Nevada",1,0,805235,5345
+"883","San Francisco County, California","Esmeralda County, Nevada",1,0,805235,783
+"884","San Francisco County, California","Inyo County, California",1,0,805235,18546
+"885","San Francisco County, California","Los Angeles County, California",1,0,805235,9818605
+"886","San Francisco County, California","Mohave County, Arizona",1,0,805235,200186
+"887","San Francisco County, California","Orange County, California",1,0,805235,3010232
+"888","San Francisco County, California","Maricopa County, Arizona",1,0,805235,3817117
+"889","Fairbanks North Star Borough, Alaska","White Pine County, Nevada",1,0,97581,10030
+"890","Fairbanks North Star Borough, Alaska","Tooele County, Utah",1,0,97581,58218
+"891","Fairbanks North Star Borough, Alaska","Pershing County, Nevada",1,0,97581,6753
+"892","Fairbanks North Star Borough, Alaska","Lander County, Nevada",1,0,97581,5775
+"893","Fairbanks North Star Borough, Alaska","Humboldt County, Nevada",1,0,97581,16528
+"894","Fairbanks North Star Borough, Alaska","Eureka County, Nevada",1,0,97581,1987
+"895","Fairbanks North Star Borough, Alaska","Elko County, Nevada",1,0,97581,48818
+"896","Fairbanks North Star Borough, Alaska","Salt Lake County, Utah",1,0,97581,1029655
+"897","Fairbanks North Star Borough, Alaska","Washoe County, Nevada",1,0,97581,421407
+"898","Fairbanks North Star Borough, Alaska","Storey County, Nevada",1,0,97581,4010
+"899","Fairbanks North Star Borough, Alaska","Lyon County, Nevada",1,0,97581,51980
+"900","Fairbanks North Star Borough, Alaska","Douglas County, Nevada",1,0,97581,46997
+"901","Fairbanks North Star Borough, Alaska","Carson City, Nevada",1,0,97581,55274
+"902","Fairbanks North Star Borough, Alaska","Churchill County, Nevada",1,0,97581,24877
+"903","Fairbanks North Star Borough, Alaska","El Dorado County, California",1,0,97581,181058
+"904","Fairbanks North Star Borough, Alaska","Nevada County, California",1,0,97581,98764
+"905","Fairbanks North Star Borough, Alaska","Mono County, California",1,0,97581,14202
+"906","Fairbanks North Star Borough, Alaska","Alpine County, California",1,0,97581,1175
+"907","Fairbanks North Star Borough, Alaska","Placer County, California",1,0,97581,348432
+"908","Fairbanks North Star Borough, Alaska","Mineral County, Nevada",1,0,97581,4772
+"909","Fairbanks North Star Borough, Alaska","Lassen County, California",1,0,97581,34895
+"910","Fairbanks North Star Borough, Alaska","Sacramento County, California",1,0,97581,1418788
+"911","Fairbanks North Star Borough, Alaska","Santa Clara County, California",1,0,97581,1781642
+"912","Fairbanks North Star Borough, Alaska","San Francisco County, California",1,0,97581,805235
+"913","Fairbanks North Star Borough, Alaska","San Mateo County, California",1,0,97581,718451
+"914","Fairbanks North Star Borough, Alaska","Plumas County, California",1,0,97581,20007
+"915","Fairbanks North Star Borough, Alaska","San Diego County, California",1,0,97581,3095313
+"916","Fairbanks North Star Borough, Alaska","San Bernardino County, California",1,0,97581,2035210
+"917","Fairbanks North Star Borough, Alaska","Nye County, Nevada",1,0,97581,43946
+"918","Fairbanks North Star Borough, Alaska","Clark County, Nevada",1,0,97581,1951269
+"919","Fairbanks North Star Borough, Alaska","Lincoln County, Nevada",1,0,97581,5345
+"920","Fairbanks North Star Borough, Alaska","Esmeralda County, Nevada",1,0,97581,783
+"921","Fairbanks North Star Borough, Alaska","Inyo County, California",1,0,97581,18546
+"922","Fairbanks North Star Borough, Alaska","Los Angeles County, California",1,0,97581,9818605
+"923","Fairbanks North Star Borough, Alaska","Mohave County, Arizona",1,0,97581,200186
+"924","Fairbanks North Star Borough, Alaska","Orange County, California",1,0,97581,3010232
+"925","Fairbanks North Star Borough, Alaska","Maricopa County, Arizona",1,0,97581,3817117
+"926","San Mateo County, California","White Pine County, Nevada",1,0,718451,10030
+"927","San Mateo County, California","Tooele County, Utah",1,0,718451,58218
+"928","San Mateo County, California","Pershing County, Nevada",1,0,718451,6753
+"929","San Mateo County, California","Lander County, Nevada",1,0,718451,5775
+"930","San Mateo County, California","Humboldt County, Nevada",1,0,718451,16528
+"931","San Mateo County, California","Eureka County, Nevada",1,0,718451,1987
+"932","San Mateo County, California","Elko County, Nevada",1,0,718451,48818
+"933","San Mateo County, California","Salt Lake County, Utah",1,0,718451,1029655
+"934","San Mateo County, California","Washoe County, Nevada",1,0,718451,421407
+"935","San Mateo County, California","Storey County, Nevada",1,0,718451,4010
+"936","San Mateo County, California","Lyon County, Nevada",1,0,718451,51980
+"937","San Mateo County, California","Douglas County, Nevada",1,0,718451,46997
+"938","San Mateo County, California","Carson City, Nevada",1,0,718451,55274
+"939","San Mateo County, California","Churchill County, Nevada",1,0,718451,24877
+"940","San Mateo County, California","El Dorado County, California",1,0,718451,181058
+"941","San Mateo County, California","Nevada County, California",1,0,718451,98764
+"942","San Mateo County, California","Mono County, California",1,0,718451,14202
+"943","San Mateo County, California","Alpine County, California",1,0,718451,1175
+"944","San Mateo County, California","Placer County, California",1,0,718451,348432
+"945","San Mateo County, California","Mineral County, Nevada",1,0,718451,4772
+"946","San Mateo County, California","Lassen County, California",1,0,718451,34895
+"947","San Mateo County, California","Sacramento County, California",1,0,718451,1418788
+"948","San Mateo County, California","Santa Clara County, California",1,0,718451,1781642
+"949","San Mateo County, California","San Francisco County, California",1,0,718451,805235
+"950","San Mateo County, California","Fairbanks North Star Borough, Alaska",1,0,718451,97581
+"951","San Mateo County, California","Plumas County, California",1,0,718451,20007
+"952","San Mateo County, California","San Diego County, California",1,0,718451,3095313
+"953","San Mateo County, California","San Bernardino County, California",1,0,718451,2035210
+"954","San Mateo County, California","Nye County, Nevada",1,0,718451,43946
+"955","San Mateo County, California","Clark County, Nevada",1,0,718451,1951269
+"956","San Mateo County, California","Lincoln County, Nevada",1,0,718451,5345
+"957","San Mateo County, California","Esmeralda County, Nevada",1,0,718451,783
+"958","San Mateo County, California","Inyo County, California",1,0,718451,18546
+"959","San Mateo County, California","Los Angeles County, California",1,0,718451,9818605
+"960","San Mateo County, California","Mohave County, Arizona",1,0,718451,200186
+"961","San Mateo County, California","Orange County, California",1,0,718451,3010232
+"962","San Mateo County, California","Maricopa County, Arizona",1,0,718451,3817117
+"963","Plumas County, California","White Pine County, Nevada",1,0,20007,10030
+"964","Plumas County, California","Tooele County, Utah",1,0,20007,58218
+"965","Plumas County, California","Pershing County, Nevada",1,0,20007,6753
+"966","Plumas County, California","Lander County, Nevada",1,0,20007,5775
+"967","Plumas County, California","Humboldt County, Nevada",1,0,20007,16528
+"968","Plumas County, California","Eureka County, Nevada",1,0,20007,1987
+"969","Plumas County, California","Elko County, Nevada",1,0,20007,48818
+"970","Plumas County, California","Salt Lake County, Utah",1,0,20007,1029655
+"971","Plumas County, California","Washoe County, Nevada",1,0,20007,421407
+"972","Plumas County, California","Storey County, Nevada",1,0,20007,4010
+"973","Plumas County, California","Lyon County, Nevada",1,0,20007,51980
+"974","Plumas County, California","Douglas County, Nevada",1,0,20007,46997
+"975","Plumas County, California","Carson City, Nevada",1,0,20007,55274
+"976","Plumas County, California","Churchill County, Nevada",1,0,20007,24877
+"977","Plumas County, California","El Dorado County, California",1,0,20007,181058
+"978","Plumas County, California","Nevada County, California",1,0,20007,98764
+"979","Plumas County, California","Mono County, California",1,0,20007,14202
+"980","Plumas County, California","Alpine County, California",1,0,20007,1175
+"981","Plumas County, California","Placer County, California",1,0,20007,348432
+"982","Plumas County, California","Mineral County, Nevada",1,0,20007,4772
+"983","Plumas County, California","Lassen County, California",1,0,20007,34895
+"984","Plumas County, California","Sacramento County, California",1,0,20007,1418788
+"985","Plumas County, California","Santa Clara County, California",1,0,20007,1781642
+"986","Plumas County, California","San Francisco County, California",1,0,20007,805235
+"987","Plumas County, California","Fairbanks North Star Borough, Alaska",1,0,20007,97581
+"988","Plumas County, California","San Mateo County, California",1,0,20007,718451
+"989","Plumas County, California","San Diego County, California",1,0,20007,3095313
+"990","Plumas County, California","San Bernardino County, California",1,0,20007,2035210
+"991","Plumas County, California","Nye County, Nevada",1,0,20007,43946
+"992","Plumas County, California","Clark County, Nevada",1,0,20007,1951269
+"993","Plumas County, California","Lincoln County, Nevada",1,0,20007,5345
+"994","Plumas County, California","Esmeralda County, Nevada",1,0,20007,783
+"995","Plumas County, California","Inyo County, California",1,0,20007,18546
+"996","Plumas County, California","Los Angeles County, California",1,0,20007,9818605
+"997","Plumas County, California","Mohave County, Arizona",1,0,20007,200186
+"998","Plumas County, California","Orange County, California",1,0,20007,3010232
+"999","Plumas County, California","Maricopa County, Arizona",1,0,20007,3817117
+"1000","San Diego County, California","White Pine County, Nevada",1,0,3095313,10030
+"1001","San Diego County, California","Tooele County, Utah",1,0,3095313,58218
+"1002","San Diego County, California","Pershing County, Nevada",1,0,3095313,6753
+"1003","San Diego County, California","Lander County, Nevada",1,0,3095313,5775
+"1004","San Diego County, California","Humboldt County, Nevada",1,0,3095313,16528
+"1005","San Diego County, California","Eureka County, Nevada",1,0,3095313,1987
+"1006","San Diego County, California","Elko County, Nevada",1,0,3095313,48818
+"1007","San Diego County, California","Salt Lake County, Utah",1,0,3095313,1029655
+"1008","San Diego County, California","Washoe County, Nevada",1,0,3095313,421407
+"1009","San Diego County, California","Storey County, Nevada",1,0,3095313,4010
+"1010","San Diego County, California","Lyon County, Nevada",1,0,3095313,51980
+"1011","San Diego County, California","Douglas County, Nevada",1,0,3095313,46997
+"1012","San Diego County, California","Carson City, Nevada",1,0,3095313,55274
+"1013","San Diego County, California","Churchill County, Nevada",1,0,3095313,24877
+"1014","San Diego County, California","El Dorado County, California",1,0,3095313,181058
+"1015","San Diego County, California","Nevada County, California",1,0,3095313,98764
+"1016","San Diego County, California","Mono County, California",1,0,3095313,14202
+"1017","San Diego County, California","Alpine County, California",1,0,3095313,1175
+"1018","San Diego County, California","Placer County, California",1,0,3095313,348432
+"1019","San Diego County, California","Mineral County, Nevada",1,0,3095313,4772
+"1020","San Diego County, California","Lassen County, California",1,0,3095313,34895
+"1021","San Diego County, California","Sacramento County, California",1,0,3095313,1418788
+"1022","San Diego County, California","Santa Clara County, California",1,0,3095313,1781642
+"1023","San Diego County, California","San Francisco County, California",1,0,3095313,805235
+"1024","San Diego County, California","Fairbanks North Star Borough, Alaska",1,0,3095313,97581
+"1025","San Diego County, California","San Mateo County, California",1,0,3095313,718451
+"1026","San Diego County, California","Plumas County, California",1,0,3095313,20007
+"1027","San Diego County, California","San Bernardino County, California",1,0,3095313,2035210
+"1028","San Diego County, California","Nye County, Nevada",1,0,3095313,43946
+"1029","San Diego County, California","Clark County, Nevada",1,0,3095313,1951269
+"1030","San Diego County, California","Lincoln County, Nevada",1,0,3095313,5345
+"1031","San Diego County, California","Esmeralda County, Nevada",1,0,3095313,783
+"1032","San Diego County, California","Inyo County, California",1,0,3095313,18546
+"1033","San Diego County, California","Los Angeles County, California",1,0,3095313,9818605
+"1034","San Diego County, California","Mohave County, Arizona",1,0,3095313,200186
+"1035","San Diego County, California","Orange County, California",1,0,3095313,3010232
+"1036","San Diego County, California","Maricopa County, Arizona",1,0,3095313,3817117
+"1037","San Bernardino County, California","White Pine County, Nevada",1,0,2035210,10030
+"1038","San Bernardino County, California","Tooele County, Utah",1,0,2035210,58218
+"1039","San Bernardino County, California","Pershing County, Nevada",1,0,2035210,6753
+"1040","San Bernardino County, California","Lander County, Nevada",1,0,2035210,5775
+"1041","San Bernardino County, California","Humboldt County, Nevada",1,0,2035210,16528
+"1042","San Bernardino County, California","Eureka County, Nevada",1,0,2035210,1987
+"1043","San Bernardino County, California","Elko County, Nevada",1,0,2035210,48818
+"1044","San Bernardino County, California","Salt Lake County, Utah",1,0,2035210,1029655
+"1045","San Bernardino County, California","Washoe County, Nevada",1,0,2035210,421407
+"1046","San Bernardino County, California","Storey County, Nevada",1,0,2035210,4010
+"1047","San Bernardino County, California","Lyon County, Nevada",1,0,2035210,51980
+"1048","San Bernardino County, California","Douglas County, Nevada",1,0,2035210,46997
+"1049","San Bernardino County, California","Carson City, Nevada",1,0,2035210,55274
+"1050","San Bernardino County, California","Churchill County, Nevada",1,0,2035210,24877
+"1051","San Bernardino County, California","El Dorado County, California",1,0,2035210,181058
+"1052","San Bernardino County, California","Nevada County, California",1,0,2035210,98764
+"1053","San Bernardino County, California","Mono County, California",1,0,2035210,14202
+"1054","San Bernardino County, California","Alpine County, California",1,0,2035210,1175
+"1055","San Bernardino County, California","Placer County, California",1,0,2035210,348432
+"1056","San Bernardino County, California","Mineral County, Nevada",1,0,2035210,4772
+"1057","San Bernardino County, California","Lassen County, California",1,0,2035210,34895
+"1058","San Bernardino County, California","Sacramento County, California",1,0,2035210,1418788
+"1059","San Bernardino County, California","Santa Clara County, California",1,0,2035210,1781642
+"1060","San Bernardino County, California","San Francisco County, California",1,0,2035210,805235
+"1061","San Bernardino County, California","Fairbanks North Star Borough, Alaska",1,0,2035210,97581
+"1062","San Bernardino County, California","San Mateo County, California",1,0,2035210,718451
+"1063","San Bernardino County, California","Plumas County, California",1,0,2035210,20007
+"1064","San Bernardino County, California","San Diego County, California",1,0,2035210,3095313
+"1065","San Bernardino County, California","Nye County, Nevada",1,0,2035210,43946
+"1066","San Bernardino County, California","Clark County, Nevada",1,0,2035210,1951269
+"1067","San Bernardino County, California","Lincoln County, Nevada",1,0,2035210,5345
+"1068","San Bernardino County, California","Esmeralda County, Nevada",1,0,2035210,783
+"1069","San Bernardino County, California","Inyo County, California",1,0,2035210,18546
+"1070","San Bernardino County, California","Los Angeles County, California",1,0,2035210,9818605
+"1071","San Bernardino County, California","Mohave County, Arizona",1,0,2035210,200186
+"1072","San Bernardino County, California","Orange County, California",1,0,2035210,3010232
+"1073","San Bernardino County, California","Maricopa County, Arizona",1,0,2035210,3817117
+"1074","Nye County, Nevada","White Pine County, Nevada",1,0,43946,10030
+"1075","Nye County, Nevada","Tooele County, Utah",1,0,43946,58218
+"1076","Nye County, Nevada","Pershing County, Nevada",1,0,43946,6753
+"1078","Nye County, Nevada","Humboldt County, Nevada",1,0,43946,16528
+"1079","Nye County, Nevada","Eureka County, Nevada",1,0,43946,1987
+"1080","Nye County, Nevada","Elko County, Nevada",1,0,43946,48818
+"1081","Nye County, Nevada","Salt Lake County, Utah",1,0,43946,1029655
+"1082","Nye County, Nevada","Washoe County, Nevada",1,0,43946,421407
+"1083","Nye County, Nevada","Storey County, Nevada",1,0,43946,4010
+"1084","Nye County, Nevada","Lyon County, Nevada",1,0,43946,51980
+"1085","Nye County, Nevada","Douglas County, Nevada",1,0,43946,46997
+"1086","Nye County, Nevada","Carson City, Nevada",1,0,43946,55274
+"1087","Nye County, Nevada","Churchill County, Nevada",1,0,43946,24877
+"1088","Nye County, Nevada","El Dorado County, California",1,0,43946,181058
+"1089","Nye County, Nevada","Nevada County, California",1,0,43946,98764
+"1090","Nye County, Nevada","Mono County, California",1,0,43946,14202
+"1091","Nye County, Nevada","Alpine County, California",1,0,43946,1175
+"1092","Nye County, Nevada","Placer County, California",1,0,43946,348432
+"1093","Nye County, Nevada","Mineral County, Nevada",1,0,43946,4772
+"1094","Nye County, Nevada","Lassen County, California",1,0,43946,34895
+"1095","Nye County, Nevada","Sacramento County, California",1,0,43946,1418788
+"1096","Nye County, Nevada","Santa Clara County, California",1,0,43946,1781642
+"1097","Nye County, Nevada","San Francisco County, California",1,0,43946,805235
+"1098","Nye County, Nevada","Fairbanks North Star Borough, Alaska",1,0,43946,97581
+"1099","Nye County, Nevada","San Mateo County, California",1,0,43946,718451
+"1100","Nye County, Nevada","Plumas County, California",1,0,43946,20007
+"1101","Nye County, Nevada","San Diego County, California",1,0,43946,3095313
+"1102","Nye County, Nevada","San Bernardino County, California",1,0,43946,2035210
+"1104","Nye County, Nevada","Lincoln County, Nevada",1,0,43946,5345
+"1105","Nye County, Nevada","Esmeralda County, Nevada",1,0,43946,783
+"1107","Nye County, Nevada","Los Angeles County, California",1,0,43946,9818605
+"1108","Nye County, Nevada","Mohave County, Arizona",1,0,43946,200186
+"1109","Nye County, Nevada","Orange County, California",1,0,43946,3010232
+"1110","Nye County, Nevada","Maricopa County, Arizona",1,0,43946,3817117
+"1111","Clark County, Nevada","White Pine County, Nevada",1,0,1951269,10030
+"1112","Clark County, Nevada","Tooele County, Utah",1,0,1951269,58218
+"1113","Clark County, Nevada","Pershing County, Nevada",1,0,1951269,6753
+"1114","Clark County, Nevada","Lander County, Nevada",1,0,1951269,5775
+"1115","Clark County, Nevada","Humboldt County, Nevada",1,0,1951269,16528
+"1116","Clark County, Nevada","Eureka County, Nevada",1,0,1951269,1987
+"1117","Clark County, Nevada","Elko County, Nevada",1,0,1951269,48818
+"1120","Clark County, Nevada","Storey County, Nevada",1,0,1951269,4010
+"1121","Clark County, Nevada","Lyon County, Nevada",1,0,1951269,51980
+"1122","Clark County, Nevada","Douglas County, Nevada",1,0,1951269,46997
+"1123","Clark County, Nevada","Carson City, Nevada",1,0,1951269,55274
+"1124","Clark County, Nevada","Churchill County, Nevada",1,0,1951269,24877
+"1125","Clark County, Nevada","El Dorado County, California",1,0,1951269,181058
+"1126","Clark County, Nevada","Nevada County, California",1,0,1951269,98764
+"1127","Clark County, Nevada","Mono County, California",1,0,1951269,14202
+"1128","Clark County, Nevada","Alpine County, California",1,0,1951269,1175
+"1130","Clark County, Nevada","Mineral County, Nevada",1,0,1951269,4772
+"1131","Clark County, Nevada","Lassen County, California",1,0,1951269,34895
+"1135","Clark County, Nevada","Fairbanks North Star Borough, Alaska",1,0,1951269,97581
+"1137","Clark County, Nevada","Plumas County, California",1,0,1951269,20007
+"1142","Clark County, Nevada","Esmeralda County, Nevada",1,0,1951269,783
+"1143","Clark County, Nevada","Inyo County, California",1,0,1951269,18546
+"1148","Lincoln County, Nevada","White Pine County, Nevada",1,0,5345,10030
+"1149","Lincoln County, Nevada","Tooele County, Utah",1,0,5345,58218
+"1150","Lincoln County, Nevada","Pershing County, Nevada",1,0,5345,6753
+"1151","Lincoln County, Nevada","Lander County, Nevada",1,0,5345,5775
+"1152","Lincoln County, Nevada","Humboldt County, Nevada",1,0,5345,16528
+"1153","Lincoln County, Nevada","Eureka County, Nevada",1,0,5345,1987
+"1154","Lincoln County, Nevada","Elko County, Nevada",1,0,5345,48818
+"1155","Lincoln County, Nevada","Salt Lake County, Utah",1,0,5345,1029655
+"1156","Lincoln County, Nevada","Washoe County, Nevada",1,0,5345,421407
+"1157","Lincoln County, Nevada","Storey County, Nevada",1,0,5345,4010
+"1158","Lincoln County, Nevada","Lyon County, Nevada",1,0,5345,51980
+"1159","Lincoln County, Nevada","Douglas County, Nevada",1,0,5345,46997
+"1160","Lincoln County, Nevada","Carson City, Nevada",1,0,5345,55274
+"1161","Lincoln County, Nevada","Churchill County, Nevada",1,0,5345,24877
+"1162","Lincoln County, Nevada","El Dorado County, California",1,0,5345,181058
+"1163","Lincoln County, Nevada","Nevada County, California",1,0,5345,98764
+"1164","Lincoln County, Nevada","Mono County, California",1,0,5345,14202
+"1165","Lincoln County, Nevada","Alpine County, California",1,0,5345,1175
+"1166","Lincoln County, Nevada","Placer County, California",1,0,5345,348432
+"1167","Lincoln County, Nevada","Mineral County, Nevada",1,0,5345,4772
+"1168","Lincoln County, Nevada","Lassen County, California",1,0,5345,34895
+"1169","Lincoln County, Nevada","Sacramento County, California",1,0,5345,1418788
+"1170","Lincoln County, Nevada","Santa Clara County, California",1,0,5345,1781642
+"1171","Lincoln County, Nevada","San Francisco County, California",1,0,5345,805235
+"1172","Lincoln County, Nevada","Fairbanks North Star Borough, Alaska",1,0,5345,97581
+"1173","Lincoln County, Nevada","San Mateo County, California",1,0,5345,718451
+"1174","Lincoln County, Nevada","Plumas County, California",1,0,5345,20007
+"1175","Lincoln County, Nevada","San Diego County, California",1,0,5345,3095313
+"1176","Lincoln County, Nevada","San Bernardino County, California",1,0,5345,2035210
+"1177","Lincoln County, Nevada","Nye County, Nevada",1,0,5345,43946
+"1179","Lincoln County, Nevada","Esmeralda County, Nevada",1,0,5345,783
+"1180","Lincoln County, Nevada","Inyo County, California",1,0,5345,18546
+"1181","Lincoln County, Nevada","Los Angeles County, California",1,0,5345,9818605
+"1182","Lincoln County, Nevada","Mohave County, Arizona",1,0,5345,200186
+"1183","Lincoln County, Nevada","Orange County, California",1,0,5345,3010232
+"1184","Lincoln County, Nevada","Maricopa County, Arizona",1,0,5345,3817117
+"1185","Esmeralda County, Nevada","White Pine County, Nevada",1,0,783,10030
+"1186","Esmeralda County, Nevada","Tooele County, Utah",1,0,783,58218
+"1187","Esmeralda County, Nevada","Pershing County, Nevada",1,0,783,6753
+"1188","Esmeralda County, Nevada","Lander County, Nevada",1,0,783,5775
+"1189","Esmeralda County, Nevada","Humboldt County, Nevada",1,0,783,16528
+"1190","Esmeralda County, Nevada","Eureka County, Nevada",1,0,783,1987
+"1191","Esmeralda County, Nevada","Elko County, Nevada",1,0,783,48818
+"1192","Esmeralda County, Nevada","Salt Lake County, Utah",1,0,783,1029655
+"1193","Esmeralda County, Nevada","Washoe County, Nevada",1,0,783,421407
+"1194","Esmeralda County, Nevada","Storey County, Nevada",1,0,783,4010
+"1195","Esmeralda County, Nevada","Lyon County, Nevada",1,0,783,51980
+"1196","Esmeralda County, Nevada","Douglas County, Nevada",1,0,783,46997
+"1197","Esmeralda County, Nevada","Carson City, Nevada",1,0,783,55274
+"1198","Esmeralda County, Nevada","Churchill County, Nevada",1,0,783,24877
+"1199","Esmeralda County, Nevada","El Dorado County, California",1,0,783,181058
+"1200","Esmeralda County, Nevada","Nevada County, California",1,0,783,98764
+"1201","Esmeralda County, Nevada","Mono County, California",1,0,783,14202
+"1202","Esmeralda County, Nevada","Alpine County, California",1,0,783,1175
+"1203","Esmeralda County, Nevada","Placer County, California",1,0,783,348432
+"1204","Esmeralda County, Nevada","Mineral County, Nevada",1,0,783,4772
+"1205","Esmeralda County, Nevada","Lassen County, California",1,0,783,34895
+"1206","Esmeralda County, Nevada","Sacramento County, California",1,0,783,1418788
+"1207","Esmeralda County, Nevada","Santa Clara County, California",1,0,783,1781642
+"1208","Esmeralda County, Nevada","San Francisco County, California",1,0,783,805235
+"1209","Esmeralda County, Nevada","Fairbanks North Star Borough, Alaska",1,0,783,97581
+"1210","Esmeralda County, Nevada","San Mateo County, California",1,0,783,718451
+"1211","Esmeralda County, Nevada","Plumas County, California",1,0,783,20007
+"1212","Esmeralda County, Nevada","San Diego County, California",1,0,783,3095313
+"1213","Esmeralda County, Nevada","San Bernardino County, California",1,0,783,2035210
+"1215","Esmeralda County, Nevada","Clark County, Nevada",1,0,783,1951269
+"1216","Esmeralda County, Nevada","Lincoln County, Nevada",1,0,783,5345
+"1217","Esmeralda County, Nevada","Inyo County, California",1,0,783,18546
+"1218","Esmeralda County, Nevada","Los Angeles County, California",1,0,783,9818605
+"1219","Esmeralda County, Nevada","Mohave County, Arizona",1,0,783,200186
+"1220","Esmeralda County, Nevada","Orange County, California",1,0,783,3010232
+"1221","Esmeralda County, Nevada","Maricopa County, Arizona",1,0,783,3817117
+"1222","Inyo County, California","White Pine County, Nevada",1,0,18546,10030
+"1223","Inyo County, California","Tooele County, Utah",1,0,18546,58218
+"1224","Inyo County, California","Pershing County, Nevada",1,0,18546,6753
+"1225","Inyo County, California","Lander County, Nevada",1,0,18546,5775
+"1226","Inyo County, California","Humboldt County, Nevada",1,0,18546,16528
+"1227","Inyo County, California","Eureka County, Nevada",1,0,18546,1987
+"1228","Inyo County, California","Elko County, Nevada",1,0,18546,48818
+"1229","Inyo County, California","Salt Lake County, Utah",1,0,18546,1029655
+"1230","Inyo County, California","Washoe County, Nevada",1,0,18546,421407
+"1231","Inyo County, California","Storey County, Nevada",1,0,18546,4010
+"1232","Inyo County, California","Lyon County, Nevada",1,0,18546,51980
+"1233","Inyo County, California","Douglas County, Nevada",1,0,18546,46997
+"1234","Inyo County, California","Carson City, Nevada",1,0,18546,55274
+"1235","Inyo County, California","Churchill County, Nevada",1,0,18546,24877
+"1236","Inyo County, California","El Dorado County, California",1,0,18546,181058
+"1237","Inyo County, California","Nevada County, California",1,0,18546,98764
+"1238","Inyo County, California","Mono County, California",1,0,18546,14202
+"1239","Inyo County, California","Alpine County, California",1,0,18546,1175
+"1240","Inyo County, California","Placer County, California",1,0,18546,348432
+"1241","Inyo County, California","Mineral County, Nevada",1,0,18546,4772
+"1242","Inyo County, California","Lassen County, California",1,0,18546,34895
+"1243","Inyo County, California","Sacramento County, California",1,0,18546,1418788
+"1244","Inyo County, California","Santa Clara County, California",1,0,18546,1781642
+"1245","Inyo County, California","San Francisco County, California",1,0,18546,805235
+"1246","Inyo County, California","Fairbanks North Star Borough, Alaska",1,0,18546,97581
+"1247","Inyo County, California","San Mateo County, California",1,0,18546,718451
+"1248","Inyo County, California","Plumas County, California",1,0,18546,20007
+"1249","Inyo County, California","San Diego County, California",1,0,18546,3095313
+"1250","Inyo County, California","San Bernardino County, California",1,0,18546,2035210
+"1251","Inyo County, California","Nye County, Nevada",1,0,18546,43946
+"1252","Inyo County, California","Clark County, Nevada",1,0,18546,1951269
+"1253","Inyo County, California","Lincoln County, Nevada",1,0,18546,5345
+"1254","Inyo County, California","Esmeralda County, Nevada",1,0,18546,783
+"1255","Inyo County, California","Los Angeles County, California",1,0,18546,9818605
+"1256","Inyo County, California","Mohave County, Arizona",1,0,18546,200186
+"1257","Inyo County, California","Orange County, California",1,0,18546,3010232
+"1258","Inyo County, California","Maricopa County, Arizona",1,0,18546,3817117
+"1259","Los Angeles County, California","White Pine County, Nevada",1,0,9818605,10030
+"1260","Los Angeles County, California","Tooele County, Utah",1,0,9818605,58218
+"1261","Los Angeles County, California","Pershing County, Nevada",1,0,9818605,6753
+"1262","Los Angeles County, California","Lander County, Nevada",1,0,9818605,5775
+"1263","Los Angeles County, California","Humboldt County, Nevada",1,0,9818605,16528
+"1264","Los Angeles County, California","Eureka County, Nevada",1,0,9818605,1987
+"1265","Los Angeles County, California","Elko County, Nevada",1,0,9818605,48818
+"1266","Los Angeles County, California","Salt Lake County, Utah",1,0,9818605,1029655
+"1267","Los Angeles County, California","Washoe County, Nevada",1,0,9818605,421407
+"1268","Los Angeles County, California","Storey County, Nevada",1,0,9818605,4010
+"1269","Los Angeles County, California","Lyon County, Nevada",1,0,9818605,51980
+"1270","Los Angeles County, California","Douglas County, Nevada",1,0,9818605,46997
+"1271","Los Angeles County, California","Carson City, Nevada",1,0,9818605,55274
+"1272","Los Angeles County, California","Churchill County, Nevada",1,0,9818605,24877
+"1273","Los Angeles County, California","El Dorado County, California",1,0,9818605,181058
+"1274","Los Angeles County, California","Nevada County, California",1,0,9818605,98764
+"1275","Los Angeles County, California","Mono County, California",1,0,9818605,14202
+"1276","Los Angeles County, California","Alpine County, California",1,0,9818605,1175
+"1277","Los Angeles County, California","Placer County, California",1,0,9818605,348432
+"1278","Los Angeles County, California","Mineral County, Nevada",1,0,9818605,4772
+"1279","Los Angeles County, California","Lassen County, California",1,0,9818605,34895
+"1280","Los Angeles County, California","Sacramento County, California",1,0,9818605,1418788
+"1281","Los Angeles County, California","Santa Clara County, California",1,0,9818605,1781642
+"1282","Los Angeles County, California","San Francisco County, California",1,0,9818605,805235
+"1283","Los Angeles County, California","Fairbanks North Star Borough, Alaska",1,0,9818605,97581
+"1284","Los Angeles County, California","San Mateo County, California",1,0,9818605,718451
+"1285","Los Angeles County, California","Plumas County, California",1,0,9818605,20007
+"1286","Los Angeles County, California","San Diego County, California",1,0,9818605,3095313
+"1287","Los Angeles County, California","San Bernardino County, California",1,0,9818605,2035210
+"1288","Los Angeles County, California","Nye County, Nevada",1,0,9818605,43946
+"1289","Los Angeles County, California","Clark County, Nevada",1,0,9818605,1951269
+"1290","Los Angeles County, California","Lincoln County, Nevada",1,0,9818605,5345
+"1291","Los Angeles County, California","Esmeralda County, Nevada",1,0,9818605,783
+"1292","Los Angeles County, California","Inyo County, California",1,0,9818605,18546
+"1293","Los Angeles County, California","Mohave County, Arizona",1,0,9818605,200186
+"1294","Los Angeles County, California","Orange County, California",1,0,9818605,3010232
+"1295","Los Angeles County, California","Maricopa County, Arizona",1,0,9818605,3817117
+"1296","Mohave County, Arizona","White Pine County, Nevada",1,0,200186,10030
+"1297","Mohave County, Arizona","Tooele County, Utah",1,0,200186,58218
+"1298","Mohave County, Arizona","Pershing County, Nevada",1,0,200186,6753
+"1299","Mohave County, Arizona","Lander County, Nevada",1,0,200186,5775
+"1300","Mohave County, Arizona","Humboldt County, Nevada",1,0,200186,16528
+"1301","Mohave County, Arizona","Eureka County, Nevada",1,0,200186,1987
+"1302","Mohave County, Arizona","Elko County, Nevada",1,0,200186,48818
+"1303","Mohave County, Arizona","Salt Lake County, Utah",1,0,200186,1029655
+"1304","Mohave County, Arizona","Washoe County, Nevada",1,0,200186,421407
+"1305","Mohave County, Arizona","Storey County, Nevada",1,0,200186,4010
+"1306","Mohave County, Arizona","Lyon County, Nevada",1,0,200186,51980
+"1307","Mohave County, Arizona","Douglas County, Nevada",1,0,200186,46997
+"1308","Mohave County, Arizona","Carson City, Nevada",1,0,200186,55274
+"1309","Mohave County, Arizona","Churchill County, Nevada",1,0,200186,24877
+"1310","Mohave County, Arizona","El Dorado County, California",1,0,200186,181058
+"1311","Mohave County, Arizona","Nevada County, California",1,0,200186,98764
+"1312","Mohave County, Arizona","Mono County, California",1,0,200186,14202
+"1313","Mohave County, Arizona","Alpine County, California",1,0,200186,1175
+"1314","Mohave County, Arizona","Placer County, California",1,0,200186,348432
+"1315","Mohave County, Arizona","Mineral County, Nevada",1,0,200186,4772
+"1316","Mohave County, Arizona","Lassen County, California",1,0,200186,34895
+"1317","Mohave County, Arizona","Sacramento County, California",1,0,200186,1418788
+"1318","Mohave County, Arizona","Santa Clara County, California",1,0,200186,1781642
+"1319","Mohave County, Arizona","San Francisco County, California",1,0,200186,805235
+"1320","Mohave County, Arizona","Fairbanks North Star Borough, Alaska",1,0,200186,97581
+"1321","Mohave County, Arizona","San Mateo County, California",1,0,200186,718451
+"1322","Mohave County, Arizona","Plumas County, California",1,0,200186,20007
+"1323","Mohave County, Arizona","San Diego County, California",1,0,200186,3095313
+"1324","Mohave County, Arizona","San Bernardino County, California",1,0,200186,2035210
+"1325","Mohave County, Arizona","Nye County, Nevada",1,0,200186,43946
+"1326","Mohave County, Arizona","Clark County, Nevada",1,0,200186,1951269
+"1327","Mohave County, Arizona","Lincoln County, Nevada",1,0,200186,5345
+"1328","Mohave County, Arizona","Esmeralda County, Nevada",1,0,200186,783
+"1329","Mohave County, Arizona","Inyo County, California",1,0,200186,18546
+"1330","Mohave County, Arizona","Los Angeles County, California",1,0,200186,9818605
+"1331","Mohave County, Arizona","Orange County, California",1,0,200186,3010232
+"1332","Mohave County, Arizona","Maricopa County, Arizona",1,0,200186,3817117
+"1333","Orange County, California","White Pine County, Nevada",1,0,3010232,10030
+"1334","Orange County, California","Tooele County, Utah",1,0,3010232,58218
+"1335","Orange County, California","Pershing County, Nevada",1,0,3010232,6753
+"1336","Orange County, California","Lander County, Nevada",1,0,3010232,5775
+"1337","Orange County, California","Humboldt County, Nevada",1,0,3010232,16528
+"1338","Orange County, California","Eureka County, Nevada",1,0,3010232,1987
+"1339","Orange County, California","Elko County, Nevada",1,0,3010232,48818
+"1340","Orange County, California","Salt Lake County, Utah",1,0,3010232,1029655
+"1341","Orange County, California","Washoe County, Nevada",1,0,3010232,421407
+"1342","Orange County, California","Storey County, Nevada",1,0,3010232,4010
+"1343","Orange County, California","Lyon County, Nevada",1,0,3010232,51980
+"1344","Orange County, California","Douglas County, Nevada",1,0,3010232,46997
+"1345","Orange County, California","Carson City, Nevada",1,0,3010232,55274
+"1346","Orange County, California","Churchill County, Nevada",1,0,3010232,24877
+"1347","Orange County, California","El Dorado County, California",1,0,3010232,181058
+"1348","Orange County, California","Nevada County, California",1,0,3010232,98764
+"1349","Orange County, California","Mono County, California",1,0,3010232,14202
+"1350","Orange County, California","Alpine County, California",1,0,3010232,1175
+"1351","Orange County, California","Placer County, California",1,0,3010232,348432
+"1352","Orange County, California","Mineral County, Nevada",1,0,3010232,4772
+"1353","Orange County, California","Lassen County, California",1,0,3010232,34895
+"1354","Orange County, California","Sacramento County, California",1,0,3010232,1418788
+"1355","Orange County, California","Santa Clara County, California",1,0,3010232,1781642
+"1356","Orange County, California","San Francisco County, California",1,0,3010232,805235
+"1357","Orange County, California","Fairbanks North Star Borough, Alaska",1,0,3010232,97581
+"1358","Orange County, California","San Mateo County, California",1,0,3010232,718451
+"1359","Orange County, California","Plumas County, California",1,0,3010232,20007
+"1360","Orange County, California","San Diego County, California",1,0,3010232,3095313
+"1361","Orange County, California","San Bernardino County, California",1,0,3010232,2035210
+"1362","Orange County, California","Nye County, Nevada",1,0,3010232,43946
+"1363","Orange County, California","Clark County, Nevada",1,0,3010232,1951269
+"1364","Orange County, California","Lincoln County, Nevada",1,0,3010232,5345
+"1365","Orange County, California","Esmeralda County, Nevada",1,0,3010232,783
+"1366","Orange County, California","Inyo County, California",1,0,3010232,18546
+"1367","Orange County, California","Los Angeles County, California",1,0,3010232,9818605
+"1368","Orange County, California","Mohave County, Arizona",1,0,3010232,200186
+"1369","Orange County, California","Maricopa County, Arizona",1,0,3010232,3817117
+"1370","Maricopa County, Arizona","White Pine County, Nevada",1,0,3817117,10030
+"1371","Maricopa County, Arizona","Tooele County, Utah",1,0,3817117,58218
+"1372","Maricopa County, Arizona","Pershing County, Nevada",1,0,3817117,6753
+"1373","Maricopa County, Arizona","Lander County, Nevada",1,0,3817117,5775
+"1374","Maricopa County, Arizona","Humboldt County, Nevada",1,0,3817117,16528
+"1375","Maricopa County, Arizona","Eureka County, Nevada",1,0,3817117,1987
+"1376","Maricopa County, Arizona","Elko County, Nevada",1,0,3817117,48818
+"1377","Maricopa County, Arizona","Salt Lake County, Utah",1,0,3817117,1029655
+"1378","Maricopa County, Arizona","Washoe County, Nevada",1,0,3817117,421407
+"1379","Maricopa County, Arizona","Storey County, Nevada",1,0,3817117,4010
+"1380","Maricopa County, Arizona","Lyon County, Nevada",1,0,3817117,51980
+"1381","Maricopa County, Arizona","Douglas County, Nevada",1,0,3817117,46997
+"1382","Maricopa County, Arizona","Carson City, Nevada",1,0,3817117,55274
+"1383","Maricopa County, Arizona","Churchill County, Nevada",1,0,3817117,24877
+"1384","Maricopa County, Arizona","El Dorado County, California",1,0,3817117,181058
+"1385","Maricopa County, Arizona","Nevada County, California",1,0,3817117,98764
+"1386","Maricopa County, Arizona","Mono County, California",1,0,3817117,14202
+"1387","Maricopa County, Arizona","Alpine County, California",1,0,3817117,1175
+"1388","Maricopa County, Arizona","Placer County, California",1,0,3817117,348432
+"1389","Maricopa County, Arizona","Mineral County, Nevada",1,0,3817117,4772
+"1390","Maricopa County, Arizona","Lassen County, California",1,0,3817117,34895
+"1391","Maricopa County, Arizona","Sacramento County, California",1,0,3817117,1418788
+"1392","Maricopa County, Arizona","Santa Clara County, California",1,0,3817117,1781642
+"1393","Maricopa County, Arizona","San Francisco County, California",1,0,3817117,805235
+"1394","Maricopa County, Arizona","Fairbanks North Star Borough, Alaska",1,0,3817117,97581
+"1395","Maricopa County, Arizona","San Mateo County, California",1,0,3817117,718451
+"1396","Maricopa County, Arizona","Plumas County, California",1,0,3817117,20007
+"1397","Maricopa County, Arizona","San Diego County, California",1,0,3817117,3095313
+"1398","Maricopa County, Arizona","San Bernardino County, California",1,0,3817117,2035210
+"1399","Maricopa County, Arizona","Nye County, Nevada",1,0,3817117,43946
+"1400","Maricopa County, Arizona","Clark County, Nevada",1,0,3817117,1951269
+"1401","Maricopa County, Arizona","Lincoln County, Nevada",1,0,3817117,5345
+"1402","Maricopa County, Arizona","Esmeralda County, Nevada",1,0,3817117,783
+"1403","Maricopa County, Arizona","Inyo County, California",1,0,3817117,18546
+"1404","Maricopa County, Arizona","Los Angeles County, California",1,0,3817117,9818605
+"1405","Maricopa County, Arizona","Mohave County, Arizona",1,0,3817117,200186
+"1406","Maricopa County, Arizona","Orange County, California",1,0,3817117,3010232

@@ -1,0 +1,421 @@
+"","source","target","cluster","pct","srcpop","tarpop"
+"63","Kent County, Rhode Island","Providence County, Rhode Island",1,0.164861156248872,166158,626667
+"83","Bristol County, Rhode Island","Providence County, Rhode Island",1,0.145022556390977,49875,626667
+"22","Washington County, Rhode Island","Providence County, Rhode Island",1,0.069570558911316,126979,626667
+"23","Washington County, Rhode Island","Kent County, Rhode Island",1,0.0558517550146087,126979,166158
+"85","Bristol County, Rhode Island","Newport County, Rhode Island",1,0.0482406015037594,49875,82888
+"103","Newport County, Rhode Island","Providence County, Rhode Island",1,0.0391009555062253,82888,626667
+"62","Kent County, Rhode Island","Washington County, Rhode Island",1,0.0386018127324595,166158,126979
+"26","Washington County, Rhode Island","New London County, Connecticut",1,0.037754274328826,126979,274055
+"107","Newport County, Rhode Island","Bristol County, Massachusetts",1,0.0361089663159927,82888,548285
+"43","Providence County, Rhode Island","Kent County, Rhode Island",1,0.0341840243701998,626667,166158
+"87","Bristol County, Rhode Island","Bristol County, Massachusetts",1,0.0313984962406015,49875,548285
+"47","Providence County, Rhode Island","Bristol County, Massachusetts",1,0.0255861566031082,626667,548285
+"25","Washington County, Rhode Island","Newport County, Rhode Island",1,0.0226179131982454,126979,82888
+"48","Providence County, Rhode Island","Norfolk County, Massachusetts",1,0.0181037137746203,626667,670850
+"84","Bristol County, Rhode Island","Kent County, Rhode Island",1,0.0164411027568922,49875,166158
+"105","Newport County, Rhode Island","Bristol County, Rhode Island",1,0.0138620789499083,82888,49875
+"102","Newport County, Rhode Island","Washington County, Rhode Island",1,0.0134518868835055,82888,126979
+"67","Kent County, Rhode Island","Bristol County, Massachusetts",1,0.00813081524813731,166158,548285
+"42","Providence County, Rhode Island","Washington County, Rhode Island",1,0.00757659171457887,626667,126979
+"65","Kent County, Rhode Island","Newport County, Rhode Island",1,0.00736648250460405,166158,82888
+"104","Newport County, Rhode Island","Kent County, Rhode Island",1,0.0072990058874626,82888,166158
+"49","Providence County, Rhode Island","Suffolk County, Massachusetts",1,0.00637340086521231,626667,722023
+"41","Providence County, Rhode Island","Worcester County, Massachusetts",1,0.00632872003791487,626667,798552
+"50","Providence County, Rhode Island","Middlesex County, Massachusetts",1,0.00565850762845339,626667,1503085
+"66","Kent County, Rhode Island","New London County, Connecticut",1,0.00530820062831763,166158,274055
+"68","Kent County, Rhode Island","Norfolk County, Massachusetts",1,0.00453183114866573,166158,670850
+"88","Bristol County, Rhode Island","Norfolk County, Massachusetts",1,0.00388972431077694,49875,670850
+"44","Providence County, Rhode Island","Bristol County, Rhode Island",1,0.00355850874547407,626667,49875
+"89","Bristol County, Rhode Island","Suffolk County, Massachusetts",1,0.00304761904761905,49875,722023
+"90","Bristol County, Rhode Island","Middlesex County, Massachusetts",1,0.00260651629072682,49875,1503085
+"82","Bristol County, Rhode Island","Washington County, Rhode Island",1,0.00256641604010025,49875,126979
+"110","Newport County, Rhode Island","Middlesex County, Massachusetts",1,0.00232844320046328,82888,1503085
+"45","Providence County, Rhode Island","Newport County, Rhode Island",1,0.00217340309925367,626667,82888
+"69","Kent County, Rhode Island","Suffolk County, Massachusetts",1,0.00214855739717618,166158,722023
+"70","Kent County, Rhode Island","Middlesex County, Massachusetts",1,0.00207031861240506,166158,1503085
+"27","Washington County, Rhode Island","Bristol County, Massachusetts",1,0.00196095417352476,126979,548285
+"64","Kent County, Rhode Island","Bristol County, Rhode Island",1,0.00181754715391374,166158,49875
+"108","Newport County, Rhode Island","Norfolk County, Massachusetts",1,0.00161663932052891,82888,670850
+"91","Bristol County, Rhode Island","Plymouth County, Massachusetts",1,0.00148370927318296,49875,494919
+"46","Providence County, Rhode Island","New London County, Connecticut",1,0.00132925461209861,626667,274055
+"111","Newport County, Rhode Island","Plymouth County, Massachusetts",1,0.00131502750699739,82888,494919
+"29","Washington County, Rhode Island","Suffolk County, Massachusetts",1,0.00130730278234984,126979,722023
+"51","Providence County, Rhode Island","Plymouth County, Massachusetts",1,0.00128297804096913,626667,494919
+"28","Washington County, Rhode Island","Norfolk County, Massachusetts",1,0.00126005087455406,126979,670850
+"109","Newport County, Rhode Island","Suffolk County, Massachusetts",1,0.00125470514429109,82888,722023
+"24","Washington County, Rhode Island","Bristol County, Rhode Island",1,0.000937162837949582,126979,49875
+"52","Providence County, Rhode Island","Windham County, Connecticut",1,0.000935105885581976,626667,118428
+"61","Kent County, Rhode Island","Worcester County, Massachusetts",1,0.000902755208897555,166158,798552
+"72","Kent County, Rhode Island","Windham County, Connecticut",1,0.000776369479651898,166158,118428
+"33","Washington County, Rhode Island","Hartford County, Connecticut",1,0.000582773529481253,126979,894014
+"106","Newport County, Rhode Island","New London County, Connecticut",1,0.000530836791815462,82888,274055
+"34","Washington County, Rhode Island","New Haven County, Connecticut",1,0.000472519077957773,126979,862477
+"35","Washington County, Rhode Island","Middlesex County, Connecticut",1,0.000417391852196032,126979,165676
+"30","Washington County, Rhode Island","Middlesex County, Massachusetts",1,0.000401641216264107,126979,1503085
+"81","Bristol County, Rhode Island","Worcester County, Massachusetts",1,0.000360902255639098,49875,798552
+"36","Washington County, Rhode Island","New York County, New York",1,0.000354389308468329,126979,1585873
+"53","Providence County, Rhode Island","Hartford County, Connecticut",1,0.000299999840425617,626667,894014
+"32","Washington County, Rhode Island","Windham County, Connecticut",1,0.000291386764740626,126979,118428
+"21","Washington County, Rhode Island","Worcester County, Massachusetts",1,0.000236259538978886,126979,798552
+"76","Kent County, Rhode Island","New York County, New York",1,0.000204624514016779,166158,1585873
+"37","Washington County, Rhode Island","Fairfield County, Connecticut",1,0.000189007631183109,126979,916829
+"58","Providence County, Rhode Island","Essex County, Massachusetts",1,0.000183510540685883,626667,743159
+"56","Providence County, Rhode Island","New York County, New York",1,0.00016595735853332,626667,1585873
+"59","Providence County, Rhode Island","Hampden County, Massachusetts",1,0.00015159566404486,626667,463490
+"71","Kent County, Rhode Island","Plymouth County, Massachusetts",1,0.000132404097304975,166158,494919
+"116","Newport County, Rhode Island","New York County, New York",1,0.000120644725412605,82888,1585873
+"60","Providence County, Rhode Island","Barnstable County, Massachusetts",1,0.000105319092915376,626667,215888
+"39","Washington County, Rhode Island","Hampden County, Massachusetts",1,7.87531796596288e-05,126979,463490
+"54","Providence County, Rhode Island","New Haven County, Connecticut",1,6.06382656179438e-05,626667,862477
+"73","Kent County, Rhode Island","Hartford County, Connecticut",1,5.41653125338533e-05,166158,894014
+"74","Kent County, Rhode Island","New Haven County, Connecticut",1,5.41653125338533e-05,166158,862477
+"57","Providence County, Rhode Island","Fairfield County, Connecticut",1,2.39361574807673e-05,626667,916829
+"86","Bristol County, Rhode Island","New London County, Connecticut",1,2.00501253132832e-05,49875,274055
+"1","Worcester County, Massachusetts","Washington County, Rhode Island",1,0,798552,126979
+"2","Worcester County, Massachusetts","Providence County, Rhode Island",1,0,798552,626667
+"3","Worcester County, Massachusetts","Kent County, Rhode Island",1,0,798552,166158
+"4","Worcester County, Massachusetts","Bristol County, Rhode Island",1,0,798552,49875
+"5","Worcester County, Massachusetts","Newport County, Rhode Island",1,0,798552,82888
+"6","Worcester County, Massachusetts","New London County, Connecticut",1,0,798552,274055
+"7","Worcester County, Massachusetts","Bristol County, Massachusetts",1,0,798552,548285
+"8","Worcester County, Massachusetts","Norfolk County, Massachusetts",1,0,798552,670850
+"9","Worcester County, Massachusetts","Suffolk County, Massachusetts",1,0,798552,722023
+"10","Worcester County, Massachusetts","Middlesex County, Massachusetts",1,0,798552,1503085
+"11","Worcester County, Massachusetts","Plymouth County, Massachusetts",1,0,798552,494919
+"12","Worcester County, Massachusetts","Windham County, Connecticut",1,0,798552,118428
+"13","Worcester County, Massachusetts","Hartford County, Connecticut",1,0,798552,894014
+"14","Worcester County, Massachusetts","New Haven County, Connecticut",1,0,798552,862477
+"15","Worcester County, Massachusetts","Middlesex County, Connecticut",1,0,798552,165676
+"16","Worcester County, Massachusetts","New York County, New York",1,0,798552,1585873
+"17","Worcester County, Massachusetts","Fairfield County, Connecticut",1,0,798552,916829
+"18","Worcester County, Massachusetts","Essex County, Massachusetts",1,0,798552,743159
+"19","Worcester County, Massachusetts","Hampden County, Massachusetts",1,0,798552,463490
+"20","Worcester County, Massachusetts","Barnstable County, Massachusetts",1,0,798552,215888
+"31","Washington County, Rhode Island","Plymouth County, Massachusetts",1,0,126979,494919
+"38","Washington County, Rhode Island","Essex County, Massachusetts",1,0,126979,743159
+"40","Washington County, Rhode Island","Barnstable County, Massachusetts",1,0,126979,215888
+"55","Providence County, Rhode Island","Middlesex County, Connecticut",1,0,626667,165676
+"75","Kent County, Rhode Island","Middlesex County, Connecticut",1,0,166158,165676
+"77","Kent County, Rhode Island","Fairfield County, Connecticut",1,0,166158,916829
+"78","Kent County, Rhode Island","Essex County, Massachusetts",1,0,166158,743159
+"79","Kent County, Rhode Island","Hampden County, Massachusetts",1,0,166158,463490
+"80","Kent County, Rhode Island","Barnstable County, Massachusetts",1,0,166158,215888
+"92","Bristol County, Rhode Island","Windham County, Connecticut",1,0,49875,118428
+"93","Bristol County, Rhode Island","Hartford County, Connecticut",1,0,49875,894014
+"94","Bristol County, Rhode Island","New Haven County, Connecticut",1,0,49875,862477
+"95","Bristol County, Rhode Island","Middlesex County, Connecticut",1,0,49875,165676
+"96","Bristol County, Rhode Island","New York County, New York",1,0,49875,1585873
+"97","Bristol County, Rhode Island","Fairfield County, Connecticut",1,0,49875,916829
+"98","Bristol County, Rhode Island","Essex County, Massachusetts",1,0,49875,743159
+"99","Bristol County, Rhode Island","Hampden County, Massachusetts",1,0,49875,463490
+"100","Bristol County, Rhode Island","Barnstable County, Massachusetts",1,0,49875,215888
+"101","Newport County, Rhode Island","Worcester County, Massachusetts",1,0,82888,798552
+"112","Newport County, Rhode Island","Windham County, Connecticut",1,0,82888,118428
+"113","Newport County, Rhode Island","Hartford County, Connecticut",1,0,82888,894014
+"114","Newport County, Rhode Island","New Haven County, Connecticut",1,0,82888,862477
+"115","Newport County, Rhode Island","Middlesex County, Connecticut",1,0,82888,165676
+"117","Newport County, Rhode Island","Fairfield County, Connecticut",1,0,82888,916829
+"118","Newport County, Rhode Island","Essex County, Massachusetts",1,0,82888,743159
+"119","Newport County, Rhode Island","Hampden County, Massachusetts",1,0,82888,463490
+"120","Newport County, Rhode Island","Barnstable County, Massachusetts",1,0,82888,215888
+"121","New London County, Connecticut","Worcester County, Massachusetts",1,0,274055,798552
+"122","New London County, Connecticut","Washington County, Rhode Island",1,0,274055,126979
+"123","New London County, Connecticut","Providence County, Rhode Island",1,0,274055,626667
+"124","New London County, Connecticut","Kent County, Rhode Island",1,0,274055,166158
+"125","New London County, Connecticut","Bristol County, Rhode Island",1,0,274055,49875
+"126","New London County, Connecticut","Newport County, Rhode Island",1,0,274055,82888
+"127","New London County, Connecticut","Bristol County, Massachusetts",1,0,274055,548285
+"128","New London County, Connecticut","Norfolk County, Massachusetts",1,0,274055,670850
+"129","New London County, Connecticut","Suffolk County, Massachusetts",1,0,274055,722023
+"130","New London County, Connecticut","Middlesex County, Massachusetts",1,0,274055,1503085
+"131","New London County, Connecticut","Plymouth County, Massachusetts",1,0,274055,494919
+"132","New London County, Connecticut","Windham County, Connecticut",1,0,274055,118428
+"133","New London County, Connecticut","Hartford County, Connecticut",1,0,274055,894014
+"134","New London County, Connecticut","New Haven County, Connecticut",1,0,274055,862477
+"135","New London County, Connecticut","Middlesex County, Connecticut",1,0,274055,165676
+"136","New London County, Connecticut","New York County, New York",1,0,274055,1585873
+"137","New London County, Connecticut","Fairfield County, Connecticut",1,0,274055,916829
+"138","New London County, Connecticut","Essex County, Massachusetts",1,0,274055,743159
+"139","New London County, Connecticut","Hampden County, Massachusetts",1,0,274055,463490
+"140","New London County, Connecticut","Barnstable County, Massachusetts",1,0,274055,215888
+"141","Bristol County, Massachusetts","Worcester County, Massachusetts",1,0,548285,798552
+"142","Bristol County, Massachusetts","Washington County, Rhode Island",1,0,548285,126979
+"143","Bristol County, Massachusetts","Providence County, Rhode Island",1,0,548285,626667
+"144","Bristol County, Massachusetts","Kent County, Rhode Island",1,0,548285,166158
+"145","Bristol County, Massachusetts","Bristol County, Rhode Island",1,0,548285,49875
+"146","Bristol County, Massachusetts","Newport County, Rhode Island",1,0,548285,82888
+"147","Bristol County, Massachusetts","New London County, Connecticut",1,0,548285,274055
+"148","Bristol County, Massachusetts","Norfolk County, Massachusetts",1,0,548285,670850
+"149","Bristol County, Massachusetts","Suffolk County, Massachusetts",1,0,548285,722023
+"150","Bristol County, Massachusetts","Middlesex County, Massachusetts",1,0,548285,1503085
+"151","Bristol County, Massachusetts","Plymouth County, Massachusetts",1,0,548285,494919
+"152","Bristol County, Massachusetts","Windham County, Connecticut",1,0,548285,118428
+"153","Bristol County, Massachusetts","Hartford County, Connecticut",1,0,548285,894014
+"154","Bristol County, Massachusetts","New Haven County, Connecticut",1,0,548285,862477
+"155","Bristol County, Massachusetts","Middlesex County, Connecticut",1,0,548285,165676
+"156","Bristol County, Massachusetts","New York County, New York",1,0,548285,1585873
+"157","Bristol County, Massachusetts","Fairfield County, Connecticut",1,0,548285,916829
+"158","Bristol County, Massachusetts","Essex County, Massachusetts",1,0,548285,743159
+"159","Bristol County, Massachusetts","Hampden County, Massachusetts",1,0,548285,463490
+"160","Bristol County, Massachusetts","Barnstable County, Massachusetts",1,0,548285,215888
+"161","Norfolk County, Massachusetts","Worcester County, Massachusetts",1,0,670850,798552
+"162","Norfolk County, Massachusetts","Washington County, Rhode Island",1,0,670850,126979
+"163","Norfolk County, Massachusetts","Providence County, Rhode Island",1,0,670850,626667
+"164","Norfolk County, Massachusetts","Kent County, Rhode Island",1,0,670850,166158
+"165","Norfolk County, Massachusetts","Bristol County, Rhode Island",1,0,670850,49875
+"166","Norfolk County, Massachusetts","Newport County, Rhode Island",1,0,670850,82888
+"167","Norfolk County, Massachusetts","New London County, Connecticut",1,0,670850,274055
+"168","Norfolk County, Massachusetts","Bristol County, Massachusetts",1,0,670850,548285
+"169","Norfolk County, Massachusetts","Suffolk County, Massachusetts",1,0,670850,722023
+"170","Norfolk County, Massachusetts","Middlesex County, Massachusetts",1,0,670850,1503085
+"171","Norfolk County, Massachusetts","Plymouth County, Massachusetts",1,0,670850,494919
+"172","Norfolk County, Massachusetts","Windham County, Connecticut",1,0,670850,118428
+"173","Norfolk County, Massachusetts","Hartford County, Connecticut",1,0,670850,894014
+"174","Norfolk County, Massachusetts","New Haven County, Connecticut",1,0,670850,862477
+"175","Norfolk County, Massachusetts","Middlesex County, Connecticut",1,0,670850,165676
+"176","Norfolk County, Massachusetts","New York County, New York",1,0,670850,1585873
+"177","Norfolk County, Massachusetts","Fairfield County, Connecticut",1,0,670850,916829
+"178","Norfolk County, Massachusetts","Essex County, Massachusetts",1,0,670850,743159
+"179","Norfolk County, Massachusetts","Hampden County, Massachusetts",1,0,670850,463490
+"180","Norfolk County, Massachusetts","Barnstable County, Massachusetts",1,0,670850,215888
+"181","Suffolk County, Massachusetts","Worcester County, Massachusetts",1,0,722023,798552
+"182","Suffolk County, Massachusetts","Washington County, Rhode Island",1,0,722023,126979
+"183","Suffolk County, Massachusetts","Providence County, Rhode Island",1,0,722023,626667
+"184","Suffolk County, Massachusetts","Kent County, Rhode Island",1,0,722023,166158
+"185","Suffolk County, Massachusetts","Bristol County, Rhode Island",1,0,722023,49875
+"186","Suffolk County, Massachusetts","Newport County, Rhode Island",1,0,722023,82888
+"187","Suffolk County, Massachusetts","New London County, Connecticut",1,0,722023,274055
+"188","Suffolk County, Massachusetts","Bristol County, Massachusetts",1,0,722023,548285
+"189","Suffolk County, Massachusetts","Norfolk County, Massachusetts",1,0,722023,670850
+"190","Suffolk County, Massachusetts","Middlesex County, Massachusetts",1,0,722023,1503085
+"191","Suffolk County, Massachusetts","Plymouth County, Massachusetts",1,0,722023,494919
+"192","Suffolk County, Massachusetts","Windham County, Connecticut",1,0,722023,118428
+"193","Suffolk County, Massachusetts","Hartford County, Connecticut",1,0,722023,894014
+"194","Suffolk County, Massachusetts","New Haven County, Connecticut",1,0,722023,862477
+"195","Suffolk County, Massachusetts","Middlesex County, Connecticut",1,0,722023,165676
+"196","Suffolk County, Massachusetts","New York County, New York",1,0,722023,1585873
+"197","Suffolk County, Massachusetts","Fairfield County, Connecticut",1,0,722023,916829
+"198","Suffolk County, Massachusetts","Essex County, Massachusetts",1,0,722023,743159
+"199","Suffolk County, Massachusetts","Hampden County, Massachusetts",1,0,722023,463490
+"200","Suffolk County, Massachusetts","Barnstable County, Massachusetts",1,0,722023,215888
+"201","Middlesex County, Massachusetts","Worcester County, Massachusetts",1,0,1503085,798552
+"202","Middlesex County, Massachusetts","Washington County, Rhode Island",1,0,1503085,126979
+"203","Middlesex County, Massachusetts","Providence County, Rhode Island",1,0,1503085,626667
+"204","Middlesex County, Massachusetts","Kent County, Rhode Island",1,0,1503085,166158
+"205","Middlesex County, Massachusetts","Bristol County, Rhode Island",1,0,1503085,49875
+"206","Middlesex County, Massachusetts","Newport County, Rhode Island",1,0,1503085,82888
+"207","Middlesex County, Massachusetts","New London County, Connecticut",1,0,1503085,274055
+"208","Middlesex County, Massachusetts","Bristol County, Massachusetts",1,0,1503085,548285
+"209","Middlesex County, Massachusetts","Norfolk County, Massachusetts",1,0,1503085,670850
+"210","Middlesex County, Massachusetts","Suffolk County, Massachusetts",1,0,1503085,722023
+"211","Middlesex County, Massachusetts","Plymouth County, Massachusetts",1,0,1503085,494919
+"212","Middlesex County, Massachusetts","Windham County, Connecticut",1,0,1503085,118428
+"213","Middlesex County, Massachusetts","Hartford County, Connecticut",1,0,1503085,894014
+"214","Middlesex County, Massachusetts","New Haven County, Connecticut",1,0,1503085,862477
+"215","Middlesex County, Massachusetts","Middlesex County, Connecticut",1,0,1503085,165676
+"216","Middlesex County, Massachusetts","New York County, New York",1,0,1503085,1585873
+"217","Middlesex County, Massachusetts","Fairfield County, Connecticut",1,0,1503085,916829
+"218","Middlesex County, Massachusetts","Essex County, Massachusetts",1,0,1503085,743159
+"219","Middlesex County, Massachusetts","Hampden County, Massachusetts",1,0,1503085,463490
+"220","Middlesex County, Massachusetts","Barnstable County, Massachusetts",1,0,1503085,215888
+"221","Plymouth County, Massachusetts","Worcester County, Massachusetts",1,0,494919,798552
+"222","Plymouth County, Massachusetts","Washington County, Rhode Island",1,0,494919,126979
+"223","Plymouth County, Massachusetts","Providence County, Rhode Island",1,0,494919,626667
+"224","Plymouth County, Massachusetts","Kent County, Rhode Island",1,0,494919,166158
+"225","Plymouth County, Massachusetts","Bristol County, Rhode Island",1,0,494919,49875
+"226","Plymouth County, Massachusetts","Newport County, Rhode Island",1,0,494919,82888
+"227","Plymouth County, Massachusetts","New London County, Connecticut",1,0,494919,274055
+"228","Plymouth County, Massachusetts","Bristol County, Massachusetts",1,0,494919,548285
+"229","Plymouth County, Massachusetts","Norfolk County, Massachusetts",1,0,494919,670850
+"230","Plymouth County, Massachusetts","Suffolk County, Massachusetts",1,0,494919,722023
+"231","Plymouth County, Massachusetts","Middlesex County, Massachusetts",1,0,494919,1503085
+"232","Plymouth County, Massachusetts","Windham County, Connecticut",1,0,494919,118428
+"233","Plymouth County, Massachusetts","Hartford County, Connecticut",1,0,494919,894014
+"234","Plymouth County, Massachusetts","New Haven County, Connecticut",1,0,494919,862477
+"235","Plymouth County, Massachusetts","Middlesex County, Connecticut",1,0,494919,165676
+"236","Plymouth County, Massachusetts","New York County, New York",1,0,494919,1585873
+"237","Plymouth County, Massachusetts","Fairfield County, Connecticut",1,0,494919,916829
+"238","Plymouth County, Massachusetts","Essex County, Massachusetts",1,0,494919,743159
+"239","Plymouth County, Massachusetts","Hampden County, Massachusetts",1,0,494919,463490
+"240","Plymouth County, Massachusetts","Barnstable County, Massachusetts",1,0,494919,215888
+"241","Windham County, Connecticut","Worcester County, Massachusetts",1,0,118428,798552
+"242","Windham County, Connecticut","Washington County, Rhode Island",1,0,118428,126979
+"243","Windham County, Connecticut","Providence County, Rhode Island",1,0,118428,626667
+"244","Windham County, Connecticut","Kent County, Rhode Island",1,0,118428,166158
+"245","Windham County, Connecticut","Bristol County, Rhode Island",1,0,118428,49875
+"246","Windham County, Connecticut","Newport County, Rhode Island",1,0,118428,82888
+"247","Windham County, Connecticut","New London County, Connecticut",1,0,118428,274055
+"248","Windham County, Connecticut","Bristol County, Massachusetts",1,0,118428,548285
+"249","Windham County, Connecticut","Norfolk County, Massachusetts",1,0,118428,670850
+"250","Windham County, Connecticut","Suffolk County, Massachusetts",1,0,118428,722023
+"251","Windham County, Connecticut","Middlesex County, Massachusetts",1,0,118428,1503085
+"252","Windham County, Connecticut","Plymouth County, Massachusetts",1,0,118428,494919
+"253","Windham County, Connecticut","Hartford County, Connecticut",1,0,118428,894014
+"254","Windham County, Connecticut","New Haven County, Connecticut",1,0,118428,862477
+"255","Windham County, Connecticut","Middlesex County, Connecticut",1,0,118428,165676
+"256","Windham County, Connecticut","New York County, New York",1,0,118428,1585873
+"257","Windham County, Connecticut","Fairfield County, Connecticut",1,0,118428,916829
+"258","Windham County, Connecticut","Essex County, Massachusetts",1,0,118428,743159
+"259","Windham County, Connecticut","Hampden County, Massachusetts",1,0,118428,463490
+"260","Windham County, Connecticut","Barnstable County, Massachusetts",1,0,118428,215888
+"261","Hartford County, Connecticut","Worcester County, Massachusetts",1,0,894014,798552
+"262","Hartford County, Connecticut","Washington County, Rhode Island",1,0,894014,126979
+"263","Hartford County, Connecticut","Providence County, Rhode Island",1,0,894014,626667
+"264","Hartford County, Connecticut","Kent County, Rhode Island",1,0,894014,166158
+"265","Hartford County, Connecticut","Bristol County, Rhode Island",1,0,894014,49875
+"266","Hartford County, Connecticut","Newport County, Rhode Island",1,0,894014,82888
+"267","Hartford County, Connecticut","New London County, Connecticut",1,0,894014,274055
+"268","Hartford County, Connecticut","Bristol County, Massachusetts",1,0,894014,548285
+"269","Hartford County, Connecticut","Norfolk County, Massachusetts",1,0,894014,670850
+"270","Hartford County, Connecticut","Suffolk County, Massachusetts",1,0,894014,722023
+"271","Hartford County, Connecticut","Middlesex County, Massachusetts",1,0,894014,1503085
+"272","Hartford County, Connecticut","Plymouth County, Massachusetts",1,0,894014,494919
+"273","Hartford County, Connecticut","Windham County, Connecticut",1,0,894014,118428
+"274","Hartford County, Connecticut","New Haven County, Connecticut",1,0,894014,862477
+"275","Hartford County, Connecticut","Middlesex County, Connecticut",1,0,894014,165676
+"276","Hartford County, Connecticut","New York County, New York",1,0,894014,1585873
+"277","Hartford County, Connecticut","Fairfield County, Connecticut",1,0,894014,916829
+"278","Hartford County, Connecticut","Essex County, Massachusetts",1,0,894014,743159
+"279","Hartford County, Connecticut","Hampden County, Massachusetts",1,0,894014,463490
+"280","Hartford County, Connecticut","Barnstable County, Massachusetts",1,0,894014,215888
+"281","New Haven County, Connecticut","Worcester County, Massachusetts",1,0,862477,798552
+"282","New Haven County, Connecticut","Washington County, Rhode Island",1,0,862477,126979
+"283","New Haven County, Connecticut","Providence County, Rhode Island",1,0,862477,626667
+"284","New Haven County, Connecticut","Kent County, Rhode Island",1,0,862477,166158
+"285","New Haven County, Connecticut","Bristol County, Rhode Island",1,0,862477,49875
+"286","New Haven County, Connecticut","Newport County, Rhode Island",1,0,862477,82888
+"287","New Haven County, Connecticut","New London County, Connecticut",1,0,862477,274055
+"288","New Haven County, Connecticut","Bristol County, Massachusetts",1,0,862477,548285
+"289","New Haven County, Connecticut","Norfolk County, Massachusetts",1,0,862477,670850
+"290","New Haven County, Connecticut","Suffolk County, Massachusetts",1,0,862477,722023
+"291","New Haven County, Connecticut","Middlesex County, Massachusetts",1,0,862477,1503085
+"292","New Haven County, Connecticut","Plymouth County, Massachusetts",1,0,862477,494919
+"293","New Haven County, Connecticut","Windham County, Connecticut",1,0,862477,118428
+"294","New Haven County, Connecticut","Hartford County, Connecticut",1,0,862477,894014
+"295","New Haven County, Connecticut","Middlesex County, Connecticut",1,0,862477,165676
+"296","New Haven County, Connecticut","New York County, New York",1,0,862477,1585873
+"297","New Haven County, Connecticut","Fairfield County, Connecticut",1,0,862477,916829
+"298","New Haven County, Connecticut","Essex County, Massachusetts",1,0,862477,743159
+"299","New Haven County, Connecticut","Hampden County, Massachusetts",1,0,862477,463490
+"300","New Haven County, Connecticut","Barnstable County, Massachusetts",1,0,862477,215888
+"301","Middlesex County, Connecticut","Worcester County, Massachusetts",1,0,165676,798552
+"302","Middlesex County, Connecticut","Washington County, Rhode Island",1,0,165676,126979
+"303","Middlesex County, Connecticut","Providence County, Rhode Island",1,0,165676,626667
+"304","Middlesex County, Connecticut","Kent County, Rhode Island",1,0,165676,166158
+"305","Middlesex County, Connecticut","Bristol County, Rhode Island",1,0,165676,49875
+"306","Middlesex County, Connecticut","Newport County, Rhode Island",1,0,165676,82888
+"307","Middlesex County, Connecticut","New London County, Connecticut",1,0,165676,274055
+"308","Middlesex County, Connecticut","Bristol County, Massachusetts",1,0,165676,548285
+"309","Middlesex County, Connecticut","Norfolk County, Massachusetts",1,0,165676,670850
+"310","Middlesex County, Connecticut","Suffolk County, Massachusetts",1,0,165676,722023
+"311","Middlesex County, Connecticut","Middlesex County, Massachusetts",1,0,165676,1503085
+"312","Middlesex County, Connecticut","Plymouth County, Massachusetts",1,0,165676,494919
+"313","Middlesex County, Connecticut","Windham County, Connecticut",1,0,165676,118428
+"314","Middlesex County, Connecticut","Hartford County, Connecticut",1,0,165676,894014
+"315","Middlesex County, Connecticut","New Haven County, Connecticut",1,0,165676,862477
+"316","Middlesex County, Connecticut","New York County, New York",1,0,165676,1585873
+"317","Middlesex County, Connecticut","Fairfield County, Connecticut",1,0,165676,916829
+"318","Middlesex County, Connecticut","Essex County, Massachusetts",1,0,165676,743159
+"319","Middlesex County, Connecticut","Hampden County, Massachusetts",1,0,165676,463490
+"320","Middlesex County, Connecticut","Barnstable County, Massachusetts",1,0,165676,215888
+"321","New York County, New York","Worcester County, Massachusetts",1,0,1585873,798552
+"322","New York County, New York","Washington County, Rhode Island",1,0,1585873,126979
+"323","New York County, New York","Providence County, Rhode Island",1,0,1585873,626667
+"324","New York County, New York","Kent County, Rhode Island",1,0,1585873,166158
+"325","New York County, New York","Bristol County, Rhode Island",1,0,1585873,49875
+"326","New York County, New York","Newport County, Rhode Island",1,0,1585873,82888
+"327","New York County, New York","New London County, Connecticut",1,0,1585873,274055
+"328","New York County, New York","Bristol County, Massachusetts",1,0,1585873,548285
+"329","New York County, New York","Norfolk County, Massachusetts",1,0,1585873,670850
+"330","New York County, New York","Suffolk County, Massachusetts",1,0,1585873,722023
+"331","New York County, New York","Middlesex County, Massachusetts",1,0,1585873,1503085
+"332","New York County, New York","Plymouth County, Massachusetts",1,0,1585873,494919
+"333","New York County, New York","Windham County, Connecticut",1,0,1585873,118428
+"334","New York County, New York","Hartford County, Connecticut",1,0,1585873,894014
+"335","New York County, New York","New Haven County, Connecticut",1,0,1585873,862477
+"336","New York County, New York","Middlesex County, Connecticut",1,0,1585873,165676
+"337","New York County, New York","Fairfield County, Connecticut",1,0,1585873,916829
+"338","New York County, New York","Essex County, Massachusetts",1,0,1585873,743159
+"339","New York County, New York","Hampden County, Massachusetts",1,0,1585873,463490
+"340","New York County, New York","Barnstable County, Massachusetts",1,0,1585873,215888
+"341","Fairfield County, Connecticut","Worcester County, Massachusetts",1,0,916829,798552
+"342","Fairfield County, Connecticut","Washington County, Rhode Island",1,0,916829,126979
+"343","Fairfield County, Connecticut","Providence County, Rhode Island",1,0,916829,626667
+"344","Fairfield County, Connecticut","Kent County, Rhode Island",1,0,916829,166158
+"345","Fairfield County, Connecticut","Bristol County, Rhode Island",1,0,916829,49875
+"346","Fairfield County, Connecticut","Newport County, Rhode Island",1,0,916829,82888
+"347","Fairfield County, Connecticut","New London County, Connecticut",1,0,916829,274055
+"348","Fairfield County, Connecticut","Bristol County, Massachusetts",1,0,916829,548285
+"349","Fairfield County, Connecticut","Norfolk County, Massachusetts",1,0,916829,670850
+"350","Fairfield County, Connecticut","Suffolk County, Massachusetts",1,0,916829,722023
+"351","Fairfield County, Connecticut","Middlesex County, Massachusetts",1,0,916829,1503085
+"352","Fairfield County, Connecticut","Plymouth County, Massachusetts",1,0,916829,494919
+"353","Fairfield County, Connecticut","Windham County, Connecticut",1,0,916829,118428
+"354","Fairfield County, Connecticut","Hartford County, Connecticut",1,0,916829,894014
+"355","Fairfield County, Connecticut","New Haven County, Connecticut",1,0,916829,862477
+"356","Fairfield County, Connecticut","Middlesex County, Connecticut",1,0,916829,165676
+"357","Fairfield County, Connecticut","New York County, New York",1,0,916829,1585873
+"358","Fairfield County, Connecticut","Essex County, Massachusetts",1,0,916829,743159
+"359","Fairfield County, Connecticut","Hampden County, Massachusetts",1,0,916829,463490
+"360","Fairfield County, Connecticut","Barnstable County, Massachusetts",1,0,916829,215888
+"361","Essex County, Massachusetts","Worcester County, Massachusetts",1,0,743159,798552
+"362","Essex County, Massachusetts","Washington County, Rhode Island",1,0,743159,126979
+"363","Essex County, Massachusetts","Providence County, Rhode Island",1,0,743159,626667
+"364","Essex County, Massachusetts","Kent County, Rhode Island",1,0,743159,166158
+"365","Essex County, Massachusetts","Bristol County, Rhode Island",1,0,743159,49875
+"366","Essex County, Massachusetts","Newport County, Rhode Island",1,0,743159,82888
+"367","Essex County, Massachusetts","New London County, Connecticut",1,0,743159,274055
+"368","Essex County, Massachusetts","Bristol County, Massachusetts",1,0,743159,548285
+"369","Essex County, Massachusetts","Norfolk County, Massachusetts",1,0,743159,670850
+"370","Essex County, Massachusetts","Suffolk County, Massachusetts",1,0,743159,722023
+"371","Essex County, Massachusetts","Middlesex County, Massachusetts",1,0,743159,1503085
+"372","Essex County, Massachusetts","Plymouth County, Massachusetts",1,0,743159,494919
+"373","Essex County, Massachusetts","Windham County, Connecticut",1,0,743159,118428
+"374","Essex County, Massachusetts","Hartford County, Connecticut",1,0,743159,894014
+"375","Essex County, Massachusetts","New Haven County, Connecticut",1,0,743159,862477
+"376","Essex County, Massachusetts","Middlesex County, Connecticut",1,0,743159,165676
+"377","Essex County, Massachusetts","New York County, New York",1,0,743159,1585873
+"378","Essex County, Massachusetts","Fairfield County, Connecticut",1,0,743159,916829
+"379","Essex County, Massachusetts","Hampden County, Massachusetts",1,0,743159,463490
+"380","Essex County, Massachusetts","Barnstable County, Massachusetts",1,0,743159,215888
+"381","Hampden County, Massachusetts","Worcester County, Massachusetts",1,0,463490,798552
+"382","Hampden County, Massachusetts","Washington County, Rhode Island",1,0,463490,126979
+"383","Hampden County, Massachusetts","Providence County, Rhode Island",1,0,463490,626667
+"384","Hampden County, Massachusetts","Kent County, Rhode Island",1,0,463490,166158
+"385","Hampden County, Massachusetts","Bristol County, Rhode Island",1,0,463490,49875
+"386","Hampden County, Massachusetts","Newport County, Rhode Island",1,0,463490,82888
+"387","Hampden County, Massachusetts","New London County, Connecticut",1,0,463490,274055
+"388","Hampden County, Massachusetts","Bristol County, Massachusetts",1,0,463490,548285
+"389","Hampden County, Massachusetts","Norfolk County, Massachusetts",1,0,463490,670850
+"390","Hampden County, Massachusetts","Suffolk County, Massachusetts",1,0,463490,722023
+"391","Hampden County, Massachusetts","Middlesex County, Massachusetts",1,0,463490,1503085
+"392","Hampden County, Massachusetts","Plymouth County, Massachusetts",1,0,463490,494919
+"393","Hampden County, Massachusetts","Windham County, Connecticut",1,0,463490,118428
+"394","Hampden County, Massachusetts","Hartford County, Connecticut",1,0,463490,894014
+"395","Hampden County, Massachusetts","New Haven County, Connecticut",1,0,463490,862477
+"396","Hampden County, Massachusetts","Middlesex County, Connecticut",1,0,463490,165676
+"397","Hampden County, Massachusetts","New York County, New York",1,0,463490,1585873
+"398","Hampden County, Massachusetts","Fairfield County, Connecticut",1,0,463490,916829
+"399","Hampden County, Massachusetts","Essex County, Massachusetts",1,0,463490,743159
+"400","Hampden County, Massachusetts","Barnstable County, Massachusetts",1,0,463490,215888
+"401","Barnstable County, Massachusetts","Worcester County, Massachusetts",1,0,215888,798552
+"402","Barnstable County, Massachusetts","Washington County, Rhode Island",1,0,215888,126979
+"403","Barnstable County, Massachusetts","Providence County, Rhode Island",1,0,215888,626667
+"404","Barnstable County, Massachusetts","Kent County, Rhode Island",1,0,215888,166158
+"405","Barnstable County, Massachusetts","Bristol County, Rhode Island",1,0,215888,49875
+"406","Barnstable County, Massachusetts","Newport County, Rhode Island",1,0,215888,82888
+"407","Barnstable County, Massachusetts","New London County, Connecticut",1,0,215888,274055
+"408","Barnstable County, Massachusetts","Bristol County, Massachusetts",1,0,215888,548285
+"409","Barnstable County, Massachusetts","Norfolk County, Massachusetts",1,0,215888,670850
+"410","Barnstable County, Massachusetts","Suffolk County, Massachusetts",1,0,215888,722023
+"411","Barnstable County, Massachusetts","Middlesex County, Massachusetts",1,0,215888,1503085
+"412","Barnstable County, Massachusetts","Plymouth County, Massachusetts",1,0,215888,494919
+"413","Barnstable County, Massachusetts","Windham County, Connecticut",1,0,215888,118428
+"414","Barnstable County, Massachusetts","Hartford County, Connecticut",1,0,215888,894014
+"415","Barnstable County, Massachusetts","New Haven County, Connecticut",1,0,215888,862477
+"416","Barnstable County, Massachusetts","Middlesex County, Connecticut",1,0,215888,165676
+"417","Barnstable County, Massachusetts","New York County, New York",1,0,215888,1585873
+"418","Barnstable County, Massachusetts","Fairfield County, Connecticut",1,0,215888,916829
+"419","Barnstable County, Massachusetts","Essex County, Massachusetts",1,0,215888,743159
+"420","Barnstable County, Massachusetts","Hampden County, Massachusetts",1,0,215888,463490

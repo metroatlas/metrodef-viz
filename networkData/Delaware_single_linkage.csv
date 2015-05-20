@@ -1,0 +1,1407 @@
+"","source","target","cluster","pct","srcpop","tarpop"
+"152","Kent County, Delaware","New Castle County, Delaware",1,0.050200234119894,162310,538479
+"151","Kent County, Delaware","Sussex County, Delaware",1,0.0309654365103814,162310,197145
+"78","Sussex County, Delaware","Kent County, Delaware",1,0.0288873671662989,197145,162310
+"76","Sussex County, Delaware","Wicomico County, Maryland",1,0.0175454614623754,197145,98733
+"116","New Castle County, Delaware","Delaware County, Pennsylvania",1,0.0153376454792109,538479,558979
+"117","New Castle County, Delaware","Philadelphia County, Pennsylvania",1,0.0131815725404333,538479,1526006
+"118","New Castle County, Delaware","Chester County, Pennsylvania",1,0.0113727740543271,538479,498886
+"75","Sussex County, Delaware","Worcester County, Maryland",1,0.0104035101067742,197145,51454
+"119","New Castle County, Delaware","Cecil County, Maryland",1,0.00740418846417409,538479,101108
+"77","Sussex County, Delaware","New Castle County, Delaware",1,0.00613761444621979,197145,538479
+"115","New Castle County, Delaware","Kent County, Delaware",1,0.00588138070379718,538479,162310
+"120","New Castle County, Delaware","Montgomery County, Pennsylvania",1,0.0031291842393111,538479,799874
+"84","Sussex County, Delaware","Caroline County, Maryland",1,0.00274924547921581,197145,33066
+"122","New Castle County, Delaware","Salem County, New Jersey",1,0.00227864039266155,538479,66083
+"86","Sussex County, Delaware","Dorchester County, Maryland",1,0.00179563265616678,197145,32618
+"158","Kent County, Delaware","Caroline County, Maryland",1,0.00165116135789539,162310,33066
+"87","Sussex County, Delaware","Talbot County, Maryland",1,0.001567374267671,197145,37782
+"125","New Castle County, Delaware","Gloucester County, New Jersey",1,0.00153766442145376,538479,288288
+"156","Kent County, Delaware","Cecil County, Maryland",1,0.00150945721150884,162310,101108
+"154","Kent County, Delaware","Philadelphia County, Pennsylvania",1,0.00134310886575072,162310,1526006
+"126","New Castle County, Delaware","Camden County, New Jersey",1,0.00121824620830153,538479,513657
+"164","Kent County, Delaware","Queen Anne's County, Maryland",1,0.00104121742344896,162310,47798
+"161","Kent County, Delaware","Talbot County, Maryland",1,0.00101657322407738,162310,37782
+"91","Sussex County, Delaware","District of Columbia, District of Columbia",1,0.000953612823049025,197145,601723
+"92","Sussex County, Delaware","Montgomery County, Maryland",1,0.000862309467650714,197145,971777
+"167","Kent County, Delaware","Kent County, Maryland",1,0.000788614379890333,162310,20197
+"114","New Castle County, Delaware","Sussex County, Delaware",1,0.000737261805938579,538479,197145
+"131","New Castle County, Delaware","Harford County, Maryland",1,0.000709405566419489,538479,244826
+"132","New Castle County, Delaware","Burlington County, New Jersey",1,0.000581266864631675,538479,448734
+"96","Sussex County, Delaware","Baltimore city, Maryland",1,0.000568109766922823,197145,620961
+"97","Sussex County, Delaware","Fairfax County, Virginia",1,0.000552892541023105,197145,1081726
+"172","Kent County, Delaware","Anne Arundel County, Maryland",1,0.000542172386174604,162310,537656
+"153","Kent County, Delaware","Delaware County, Pennsylvania",1,0.000536011336331711,162310,558979
+"80","Sussex County, Delaware","Philadelphia County, Pennsylvania",1,0.000532602906490147,197145,1526006
+"133","New Castle County, Delaware","Baltimore city, Maryland",1,0.000529268550862708,538479,620961
+"150","Kent County, Delaware","Wicomico County, Maryland",1,0.000492883987431458,162310,98733
+"99","Sussex County, Delaware","Baltimore County, Maryland",1,0.000481878820157752,197145,805029
+"137","New Castle County, Delaware","Bucks County, Pennsylvania",1,0.000462413576016892,538479,625249
+"101","Sussex County, Delaware","Prince George's County, Maryland",1,0.000451444368358315,197145,863420
+"98","Sussex County, Delaware","Anne Arundel County, Maryland",1,0.000446371959725075,197145,537656
+"139","New Castle County, Delaware","New York County, New York",1,0.000324989461056049,538479,1585873
+"175","Kent County, Delaware","Prince George's County, Maryland",1,0.000314213541987555,162310,863420
+"155","Kent County, Delaware","Chester County, Pennsylvania",1,0.000308052492144661,162310,498886
+"135","New Castle County, Delaware","Anne Arundel County, Maryland",1,0.000293419056267747,538479,537656
+"103","Sussex County, Delaware","Arlington County, Virginia",1,0.000273910066194933,197145,207627
+"128","New Castle County, Delaware","District of Columbia, District of Columbia",1,0.000246991990402597,538479,601723
+"83","Sussex County, Delaware","Montgomery County, Pennsylvania",1,0.000238403205762256,197145,799874
+"79","Sussex County, Delaware","Delaware County, Pennsylvania",1,0.000233330797129017,197145,558979
+"170","Kent County, Delaware","Baltimore city, Maryland",1,0.000215636744501263,162310,620961
+"165","Kent County, Delaware","District of Columbia, District of Columbia",1,0.000197153594972583,162310,601723
+"104","Sussex County, Delaware","Somerset County, Maryland",1,0.000187679119429861,197145,26470
+"142","New Castle County, Delaware","Middlesex County, New Jersey",1,0.000183851180825993,538479,809858
+"168","Kent County, Delaware","Harford County, Maryland",1,0.000147865196229437,162310,244826
+"106","Sussex County, Delaware","Howard County, Maryland",1,0.000147099850363945,197145,287085
+"136","New Castle County, Delaware","Baltimore County, Maryland",1,0.000144852445499267,538479,805029
+"144","New Castle County, Delaware","Atlantic County, New Jersey",1,0.000142995362864661,538479,274549
+"182","Kent County, Delaware","Queens County, New York",1,0.000141704146386544,162310,2230722
+"146","New Castle County, Delaware","Cumberland County, New Jersey",1,0.000131852867057025,538479,156898
+"149","Kent County, Delaware","Worcester County, Maryland",1,0.000117059947014971,162310,51454
+"184","Kent County, Delaware","Mercer County, New Jersey",1,0.000104737847329185,162310,366513
+"185","Kent County, Delaware","Monmouth County, New Jersey",1,0.000104737847329185,162310,630380
+"134","New Castle County, Delaware","Fairfax County, Virginia",1,0.000103996627537936,538479,1081726
+"147","New Castle County, Delaware","Mercer County, New Jersey",1,0.00010213954490333,538479,366513
+"145","New Castle County, Delaware","Queens County, New York",1,8.72828838264816e-05,538479,2230722
+"157","Kent County, Delaware","Montgomery County, Pennsylvania",1,8.62546978005052e-05,162310,799874
+"90","Sussex County, Delaware","Queen Anne's County, Maryland",1,7.60861294985924e-05,197145,47798
+"130","New Castle County, Delaware","Kent County, Maryland",1,7.42833053842397e-05,538479,20197
+"162","Kent County, Delaware","Gloucester County, New Jersey",1,6.77715482718255e-05,162310,288288
+"89","Sussex County, Delaware","Camden County, New Jersey",1,6.59413122321134e-05,197145,513657
+"81","Sussex County, Delaware","Chester County, Pennsylvania",1,6.08689035988739e-05,197145,498886
+"169","Kent County, Delaware","Burlington County, New Jersey",1,5.54494485860391e-05,162310,448734
+"129","New Castle County, Delaware","Montgomery County, Maryland",1,4.45699832305438e-05,538479,971777
+"163","Kent County, Delaware","Camden County, New Jersey",1,4.31273489002526e-05,162310,513657
+"176","Kent County, Delaware","New York County, New York",1,3.69662990573594e-05,162310,1585873
+"94","Sussex County, Delaware","Harford County, Maryland",1,3.55068604326765e-05,197145,244826
+"159","Kent County, Delaware","Salem County, New Jersey",1,2.46441993715729e-05,162310,66083
+"148","New Castle County, Delaware","Monmouth County, New Jersey",1,2.41420742498779e-05,538479,630380
+"143","New Castle County, Delaware","Howard County, Maryland",1,2.04279089806659e-05,538479,287085
+"82","Sussex County, Delaware","Cecil County, Maryland",1,1.0144817266479e-05,197145,101108
+"102","Sussex County, Delaware","New York County, New York",1,1.0144817266479e-05,197145,1585873
+"140","New Castle County, Delaware","Arlington County, Virginia",1,5.57124790381798e-06,538479,207627
+"85","Sussex County, Delaware","Salem County, New Jersey",1,5.0724086332395e-06,197145,66083
+"1","Worcester County, Maryland","Wicomico County, Maryland",1,0,51454,98733
+"2","Worcester County, Maryland","Sussex County, Delaware",1,0,51454,197145
+"3","Worcester County, Maryland","New Castle County, Delaware",1,0,51454,538479
+"4","Worcester County, Maryland","Kent County, Delaware",1,0,51454,162310
+"5","Worcester County, Maryland","Delaware County, Pennsylvania",1,0,51454,558979
+"6","Worcester County, Maryland","Philadelphia County, Pennsylvania",1,0,51454,1526006
+"7","Worcester County, Maryland","Chester County, Pennsylvania",1,0,51454,498886
+"8","Worcester County, Maryland","Cecil County, Maryland",1,0,51454,101108
+"9","Worcester County, Maryland","Montgomery County, Pennsylvania",1,0,51454,799874
+"10","Worcester County, Maryland","Caroline County, Maryland",1,0,51454,33066
+"11","Worcester County, Maryland","Salem County, New Jersey",1,0,51454,66083
+"12","Worcester County, Maryland","Dorchester County, Maryland",1,0,51454,32618
+"13","Worcester County, Maryland","Talbot County, Maryland",1,0,51454,37782
+"14","Worcester County, Maryland","Gloucester County, New Jersey",1,0,51454,288288
+"15","Worcester County, Maryland","Camden County, New Jersey",1,0,51454,513657
+"16","Worcester County, Maryland","Queen Anne's County, Maryland",1,0,51454,47798
+"17","Worcester County, Maryland","District of Columbia, District of Columbia",1,0,51454,601723
+"18","Worcester County, Maryland","Montgomery County, Maryland",1,0,51454,971777
+"19","Worcester County, Maryland","Kent County, Maryland",1,0,51454,20197
+"20","Worcester County, Maryland","Harford County, Maryland",1,0,51454,244826
+"21","Worcester County, Maryland","Burlington County, New Jersey",1,0,51454,448734
+"22","Worcester County, Maryland","Baltimore city, Maryland",1,0,51454,620961
+"23","Worcester County, Maryland","Fairfax County, Virginia",1,0,51454,1081726
+"24","Worcester County, Maryland","Anne Arundel County, Maryland",1,0,51454,537656
+"25","Worcester County, Maryland","Baltimore County, Maryland",1,0,51454,805029
+"26","Worcester County, Maryland","Bucks County, Pennsylvania",1,0,51454,625249
+"27","Worcester County, Maryland","Prince George's County, Maryland",1,0,51454,863420
+"28","Worcester County, Maryland","New York County, New York",1,0,51454,1585873
+"29","Worcester County, Maryland","Arlington County, Virginia",1,0,51454,207627
+"30","Worcester County, Maryland","Somerset County, Maryland",1,0,51454,26470
+"31","Worcester County, Maryland","Middlesex County, New Jersey",1,0,51454,809858
+"32","Worcester County, Maryland","Howard County, Maryland",1,0,51454,287085
+"33","Worcester County, Maryland","Atlantic County, New Jersey",1,0,51454,274549
+"34","Worcester County, Maryland","Queens County, New York",1,0,51454,2230722
+"35","Worcester County, Maryland","Cumberland County, New Jersey",1,0,51454,156898
+"36","Worcester County, Maryland","Mercer County, New Jersey",1,0,51454,366513
+"37","Worcester County, Maryland","Monmouth County, New Jersey",1,0,51454,630380
+"38","Wicomico County, Maryland","Worcester County, Maryland",1,0,98733,51454
+"39","Wicomico County, Maryland","Sussex County, Delaware",1,0,98733,197145
+"40","Wicomico County, Maryland","New Castle County, Delaware",1,0,98733,538479
+"41","Wicomico County, Maryland","Kent County, Delaware",1,0,98733,162310
+"42","Wicomico County, Maryland","Delaware County, Pennsylvania",1,0,98733,558979
+"43","Wicomico County, Maryland","Philadelphia County, Pennsylvania",1,0,98733,1526006
+"44","Wicomico County, Maryland","Chester County, Pennsylvania",1,0,98733,498886
+"45","Wicomico County, Maryland","Cecil County, Maryland",1,0,98733,101108
+"46","Wicomico County, Maryland","Montgomery County, Pennsylvania",1,0,98733,799874
+"47","Wicomico County, Maryland","Caroline County, Maryland",1,0,98733,33066
+"48","Wicomico County, Maryland","Salem County, New Jersey",1,0,98733,66083
+"49","Wicomico County, Maryland","Dorchester County, Maryland",1,0,98733,32618
+"50","Wicomico County, Maryland","Talbot County, Maryland",1,0,98733,37782
+"51","Wicomico County, Maryland","Gloucester County, New Jersey",1,0,98733,288288
+"52","Wicomico County, Maryland","Camden County, New Jersey",1,0,98733,513657
+"53","Wicomico County, Maryland","Queen Anne's County, Maryland",1,0,98733,47798
+"54","Wicomico County, Maryland","District of Columbia, District of Columbia",1,0,98733,601723
+"55","Wicomico County, Maryland","Montgomery County, Maryland",1,0,98733,971777
+"56","Wicomico County, Maryland","Kent County, Maryland",1,0,98733,20197
+"57","Wicomico County, Maryland","Harford County, Maryland",1,0,98733,244826
+"58","Wicomico County, Maryland","Burlington County, New Jersey",1,0,98733,448734
+"59","Wicomico County, Maryland","Baltimore city, Maryland",1,0,98733,620961
+"60","Wicomico County, Maryland","Fairfax County, Virginia",1,0,98733,1081726
+"61","Wicomico County, Maryland","Anne Arundel County, Maryland",1,0,98733,537656
+"62","Wicomico County, Maryland","Baltimore County, Maryland",1,0,98733,805029
+"63","Wicomico County, Maryland","Bucks County, Pennsylvania",1,0,98733,625249
+"64","Wicomico County, Maryland","Prince George's County, Maryland",1,0,98733,863420
+"65","Wicomico County, Maryland","New York County, New York",1,0,98733,1585873
+"66","Wicomico County, Maryland","Arlington County, Virginia",1,0,98733,207627
+"67","Wicomico County, Maryland","Somerset County, Maryland",1,0,98733,26470
+"68","Wicomico County, Maryland","Middlesex County, New Jersey",1,0,98733,809858
+"69","Wicomico County, Maryland","Howard County, Maryland",1,0,98733,287085
+"70","Wicomico County, Maryland","Atlantic County, New Jersey",1,0,98733,274549
+"71","Wicomico County, Maryland","Queens County, New York",1,0,98733,2230722
+"72","Wicomico County, Maryland","Cumberland County, New Jersey",1,0,98733,156898
+"73","Wicomico County, Maryland","Mercer County, New Jersey",1,0,98733,366513
+"74","Wicomico County, Maryland","Monmouth County, New Jersey",1,0,98733,630380
+"88","Sussex County, Delaware","Gloucester County, New Jersey",1,0,197145,288288
+"93","Sussex County, Delaware","Kent County, Maryland",1,0,197145,20197
+"95","Sussex County, Delaware","Burlington County, New Jersey",1,0,197145,448734
+"100","Sussex County, Delaware","Bucks County, Pennsylvania",1,0,197145,625249
+"105","Sussex County, Delaware","Middlesex County, New Jersey",1,0,197145,809858
+"107","Sussex County, Delaware","Atlantic County, New Jersey",1,0,197145,274549
+"108","Sussex County, Delaware","Queens County, New York",1,0,197145,2230722
+"109","Sussex County, Delaware","Cumberland County, New Jersey",1,0,197145,156898
+"110","Sussex County, Delaware","Mercer County, New Jersey",1,0,197145,366513
+"111","Sussex County, Delaware","Monmouth County, New Jersey",1,0,197145,630380
+"112","New Castle County, Delaware","Worcester County, Maryland",1,0,538479,51454
+"113","New Castle County, Delaware","Wicomico County, Maryland",1,0,538479,98733
+"121","New Castle County, Delaware","Caroline County, Maryland",1,0,538479,33066
+"123","New Castle County, Delaware","Dorchester County, Maryland",1,0,538479,32618
+"124","New Castle County, Delaware","Talbot County, Maryland",1,0,538479,37782
+"127","New Castle County, Delaware","Queen Anne's County, Maryland",1,0,538479,47798
+"138","New Castle County, Delaware","Prince George's County, Maryland",1,0,538479,863420
+"141","New Castle County, Delaware","Somerset County, Maryland",1,0,538479,26470
+"160","Kent County, Delaware","Dorchester County, Maryland",1,0,162310,32618
+"166","Kent County, Delaware","Montgomery County, Maryland",1,0,162310,971777
+"171","Kent County, Delaware","Fairfax County, Virginia",1,0,162310,1081726
+"173","Kent County, Delaware","Baltimore County, Maryland",1,0,162310,805029
+"174","Kent County, Delaware","Bucks County, Pennsylvania",1,0,162310,625249
+"177","Kent County, Delaware","Arlington County, Virginia",1,0,162310,207627
+"178","Kent County, Delaware","Somerset County, Maryland",1,0,162310,26470
+"179","Kent County, Delaware","Middlesex County, New Jersey",1,0,162310,809858
+"180","Kent County, Delaware","Howard County, Maryland",1,0,162310,287085
+"181","Kent County, Delaware","Atlantic County, New Jersey",1,0,162310,274549
+"183","Kent County, Delaware","Cumberland County, New Jersey",1,0,162310,156898
+"186","Delaware County, Pennsylvania","Worcester County, Maryland",1,0,558979,51454
+"187","Delaware County, Pennsylvania","Wicomico County, Maryland",1,0,558979,98733
+"188","Delaware County, Pennsylvania","Sussex County, Delaware",1,0,558979,197145
+"189","Delaware County, Pennsylvania","New Castle County, Delaware",1,0,558979,538479
+"190","Delaware County, Pennsylvania","Kent County, Delaware",1,0,558979,162310
+"191","Delaware County, Pennsylvania","Philadelphia County, Pennsylvania",1,0,558979,1526006
+"192","Delaware County, Pennsylvania","Chester County, Pennsylvania",1,0,558979,498886
+"193","Delaware County, Pennsylvania","Cecil County, Maryland",1,0,558979,101108
+"194","Delaware County, Pennsylvania","Montgomery County, Pennsylvania",1,0,558979,799874
+"195","Delaware County, Pennsylvania","Caroline County, Maryland",1,0,558979,33066
+"196","Delaware County, Pennsylvania","Salem County, New Jersey",1,0,558979,66083
+"197","Delaware County, Pennsylvania","Dorchester County, Maryland",1,0,558979,32618
+"198","Delaware County, Pennsylvania","Talbot County, Maryland",1,0,558979,37782
+"199","Delaware County, Pennsylvania","Gloucester County, New Jersey",1,0,558979,288288
+"200","Delaware County, Pennsylvania","Camden County, New Jersey",1,0,558979,513657
+"201","Delaware County, Pennsylvania","Queen Anne's County, Maryland",1,0,558979,47798
+"202","Delaware County, Pennsylvania","District of Columbia, District of Columbia",1,0,558979,601723
+"203","Delaware County, Pennsylvania","Montgomery County, Maryland",1,0,558979,971777
+"204","Delaware County, Pennsylvania","Kent County, Maryland",1,0,558979,20197
+"205","Delaware County, Pennsylvania","Harford County, Maryland",1,0,558979,244826
+"206","Delaware County, Pennsylvania","Burlington County, New Jersey",1,0,558979,448734
+"207","Delaware County, Pennsylvania","Baltimore city, Maryland",1,0,558979,620961
+"208","Delaware County, Pennsylvania","Fairfax County, Virginia",1,0,558979,1081726
+"209","Delaware County, Pennsylvania","Anne Arundel County, Maryland",1,0,558979,537656
+"210","Delaware County, Pennsylvania","Baltimore County, Maryland",1,0,558979,805029
+"211","Delaware County, Pennsylvania","Bucks County, Pennsylvania",1,0,558979,625249
+"212","Delaware County, Pennsylvania","Prince George's County, Maryland",1,0,558979,863420
+"213","Delaware County, Pennsylvania","New York County, New York",1,0,558979,1585873
+"214","Delaware County, Pennsylvania","Arlington County, Virginia",1,0,558979,207627
+"215","Delaware County, Pennsylvania","Somerset County, Maryland",1,0,558979,26470
+"216","Delaware County, Pennsylvania","Middlesex County, New Jersey",1,0,558979,809858
+"217","Delaware County, Pennsylvania","Howard County, Maryland",1,0,558979,287085
+"218","Delaware County, Pennsylvania","Atlantic County, New Jersey",1,0,558979,274549
+"219","Delaware County, Pennsylvania","Queens County, New York",1,0,558979,2230722
+"220","Delaware County, Pennsylvania","Cumberland County, New Jersey",1,0,558979,156898
+"221","Delaware County, Pennsylvania","Mercer County, New Jersey",1,0,558979,366513
+"222","Delaware County, Pennsylvania","Monmouth County, New Jersey",1,0,558979,630380
+"223","Philadelphia County, Pennsylvania","Worcester County, Maryland",1,0,1526006,51454
+"224","Philadelphia County, Pennsylvania","Wicomico County, Maryland",1,0,1526006,98733
+"225","Philadelphia County, Pennsylvania","Sussex County, Delaware",1,0,1526006,197145
+"226","Philadelphia County, Pennsylvania","New Castle County, Delaware",1,0,1526006,538479
+"227","Philadelphia County, Pennsylvania","Kent County, Delaware",1,0,1526006,162310
+"228","Philadelphia County, Pennsylvania","Delaware County, Pennsylvania",1,0,1526006,558979
+"229","Philadelphia County, Pennsylvania","Chester County, Pennsylvania",1,0,1526006,498886
+"230","Philadelphia County, Pennsylvania","Cecil County, Maryland",1,0,1526006,101108
+"231","Philadelphia County, Pennsylvania","Montgomery County, Pennsylvania",1,0,1526006,799874
+"232","Philadelphia County, Pennsylvania","Caroline County, Maryland",1,0,1526006,33066
+"233","Philadelphia County, Pennsylvania","Salem County, New Jersey",1,0,1526006,66083
+"234","Philadelphia County, Pennsylvania","Dorchester County, Maryland",1,0,1526006,32618
+"235","Philadelphia County, Pennsylvania","Talbot County, Maryland",1,0,1526006,37782
+"236","Philadelphia County, Pennsylvania","Gloucester County, New Jersey",1,0,1526006,288288
+"237","Philadelphia County, Pennsylvania","Camden County, New Jersey",1,0,1526006,513657
+"238","Philadelphia County, Pennsylvania","Queen Anne's County, Maryland",1,0,1526006,47798
+"239","Philadelphia County, Pennsylvania","District of Columbia, District of Columbia",1,0,1526006,601723
+"240","Philadelphia County, Pennsylvania","Montgomery County, Maryland",1,0,1526006,971777
+"241","Philadelphia County, Pennsylvania","Kent County, Maryland",1,0,1526006,20197
+"242","Philadelphia County, Pennsylvania","Harford County, Maryland",1,0,1526006,244826
+"243","Philadelphia County, Pennsylvania","Burlington County, New Jersey",1,0,1526006,448734
+"244","Philadelphia County, Pennsylvania","Baltimore city, Maryland",1,0,1526006,620961
+"245","Philadelphia County, Pennsylvania","Fairfax County, Virginia",1,0,1526006,1081726
+"246","Philadelphia County, Pennsylvania","Anne Arundel County, Maryland",1,0,1526006,537656
+"247","Philadelphia County, Pennsylvania","Baltimore County, Maryland",1,0,1526006,805029
+"248","Philadelphia County, Pennsylvania","Bucks County, Pennsylvania",1,0,1526006,625249
+"249","Philadelphia County, Pennsylvania","Prince George's County, Maryland",1,0,1526006,863420
+"250","Philadelphia County, Pennsylvania","New York County, New York",1,0,1526006,1585873
+"251","Philadelphia County, Pennsylvania","Arlington County, Virginia",1,0,1526006,207627
+"252","Philadelphia County, Pennsylvania","Somerset County, Maryland",1,0,1526006,26470
+"253","Philadelphia County, Pennsylvania","Middlesex County, New Jersey",1,0,1526006,809858
+"254","Philadelphia County, Pennsylvania","Howard County, Maryland",1,0,1526006,287085
+"255","Philadelphia County, Pennsylvania","Atlantic County, New Jersey",1,0,1526006,274549
+"256","Philadelphia County, Pennsylvania","Queens County, New York",1,0,1526006,2230722
+"257","Philadelphia County, Pennsylvania","Cumberland County, New Jersey",1,0,1526006,156898
+"258","Philadelphia County, Pennsylvania","Mercer County, New Jersey",1,0,1526006,366513
+"259","Philadelphia County, Pennsylvania","Monmouth County, New Jersey",1,0,1526006,630380
+"260","Chester County, Pennsylvania","Worcester County, Maryland",1,0,498886,51454
+"261","Chester County, Pennsylvania","Wicomico County, Maryland",1,0,498886,98733
+"262","Chester County, Pennsylvania","Sussex County, Delaware",1,0,498886,197145
+"263","Chester County, Pennsylvania","New Castle County, Delaware",1,0,498886,538479
+"264","Chester County, Pennsylvania","Kent County, Delaware",1,0,498886,162310
+"265","Chester County, Pennsylvania","Delaware County, Pennsylvania",1,0,498886,558979
+"266","Chester County, Pennsylvania","Philadelphia County, Pennsylvania",1,0,498886,1526006
+"267","Chester County, Pennsylvania","Cecil County, Maryland",1,0,498886,101108
+"268","Chester County, Pennsylvania","Montgomery County, Pennsylvania",1,0,498886,799874
+"269","Chester County, Pennsylvania","Caroline County, Maryland",1,0,498886,33066
+"270","Chester County, Pennsylvania","Salem County, New Jersey",1,0,498886,66083
+"271","Chester County, Pennsylvania","Dorchester County, Maryland",1,0,498886,32618
+"272","Chester County, Pennsylvania","Talbot County, Maryland",1,0,498886,37782
+"273","Chester County, Pennsylvania","Gloucester County, New Jersey",1,0,498886,288288
+"274","Chester County, Pennsylvania","Camden County, New Jersey",1,0,498886,513657
+"275","Chester County, Pennsylvania","Queen Anne's County, Maryland",1,0,498886,47798
+"276","Chester County, Pennsylvania","District of Columbia, District of Columbia",1,0,498886,601723
+"277","Chester County, Pennsylvania","Montgomery County, Maryland",1,0,498886,971777
+"278","Chester County, Pennsylvania","Kent County, Maryland",1,0,498886,20197
+"279","Chester County, Pennsylvania","Harford County, Maryland",1,0,498886,244826
+"280","Chester County, Pennsylvania","Burlington County, New Jersey",1,0,498886,448734
+"281","Chester County, Pennsylvania","Baltimore city, Maryland",1,0,498886,620961
+"282","Chester County, Pennsylvania","Fairfax County, Virginia",1,0,498886,1081726
+"283","Chester County, Pennsylvania","Anne Arundel County, Maryland",1,0,498886,537656
+"284","Chester County, Pennsylvania","Baltimore County, Maryland",1,0,498886,805029
+"285","Chester County, Pennsylvania","Bucks County, Pennsylvania",1,0,498886,625249
+"286","Chester County, Pennsylvania","Prince George's County, Maryland",1,0,498886,863420
+"287","Chester County, Pennsylvania","New York County, New York",1,0,498886,1585873
+"288","Chester County, Pennsylvania","Arlington County, Virginia",1,0,498886,207627
+"289","Chester County, Pennsylvania","Somerset County, Maryland",1,0,498886,26470
+"290","Chester County, Pennsylvania","Middlesex County, New Jersey",1,0,498886,809858
+"291","Chester County, Pennsylvania","Howard County, Maryland",1,0,498886,287085
+"292","Chester County, Pennsylvania","Atlantic County, New Jersey",1,0,498886,274549
+"293","Chester County, Pennsylvania","Queens County, New York",1,0,498886,2230722
+"294","Chester County, Pennsylvania","Cumberland County, New Jersey",1,0,498886,156898
+"295","Chester County, Pennsylvania","Mercer County, New Jersey",1,0,498886,366513
+"296","Chester County, Pennsylvania","Monmouth County, New Jersey",1,0,498886,630380
+"297","Cecil County, Maryland","Worcester County, Maryland",1,0,101108,51454
+"298","Cecil County, Maryland","Wicomico County, Maryland",1,0,101108,98733
+"299","Cecil County, Maryland","Sussex County, Delaware",1,0,101108,197145
+"300","Cecil County, Maryland","New Castle County, Delaware",1,0,101108,538479
+"301","Cecil County, Maryland","Kent County, Delaware",1,0,101108,162310
+"302","Cecil County, Maryland","Delaware County, Pennsylvania",1,0,101108,558979
+"303","Cecil County, Maryland","Philadelphia County, Pennsylvania",1,0,101108,1526006
+"304","Cecil County, Maryland","Chester County, Pennsylvania",1,0,101108,498886
+"305","Cecil County, Maryland","Montgomery County, Pennsylvania",1,0,101108,799874
+"306","Cecil County, Maryland","Caroline County, Maryland",1,0,101108,33066
+"307","Cecil County, Maryland","Salem County, New Jersey",1,0,101108,66083
+"308","Cecil County, Maryland","Dorchester County, Maryland",1,0,101108,32618
+"309","Cecil County, Maryland","Talbot County, Maryland",1,0,101108,37782
+"310","Cecil County, Maryland","Gloucester County, New Jersey",1,0,101108,288288
+"311","Cecil County, Maryland","Camden County, New Jersey",1,0,101108,513657
+"312","Cecil County, Maryland","Queen Anne's County, Maryland",1,0,101108,47798
+"313","Cecil County, Maryland","District of Columbia, District of Columbia",1,0,101108,601723
+"314","Cecil County, Maryland","Montgomery County, Maryland",1,0,101108,971777
+"315","Cecil County, Maryland","Kent County, Maryland",1,0,101108,20197
+"316","Cecil County, Maryland","Harford County, Maryland",1,0,101108,244826
+"317","Cecil County, Maryland","Burlington County, New Jersey",1,0,101108,448734
+"318","Cecil County, Maryland","Baltimore city, Maryland",1,0,101108,620961
+"319","Cecil County, Maryland","Fairfax County, Virginia",1,0,101108,1081726
+"320","Cecil County, Maryland","Anne Arundel County, Maryland",1,0,101108,537656
+"321","Cecil County, Maryland","Baltimore County, Maryland",1,0,101108,805029
+"322","Cecil County, Maryland","Bucks County, Pennsylvania",1,0,101108,625249
+"323","Cecil County, Maryland","Prince George's County, Maryland",1,0,101108,863420
+"324","Cecil County, Maryland","New York County, New York",1,0,101108,1585873
+"325","Cecil County, Maryland","Arlington County, Virginia",1,0,101108,207627
+"326","Cecil County, Maryland","Somerset County, Maryland",1,0,101108,26470
+"327","Cecil County, Maryland","Middlesex County, New Jersey",1,0,101108,809858
+"328","Cecil County, Maryland","Howard County, Maryland",1,0,101108,287085
+"329","Cecil County, Maryland","Atlantic County, New Jersey",1,0,101108,274549
+"330","Cecil County, Maryland","Queens County, New York",1,0,101108,2230722
+"331","Cecil County, Maryland","Cumberland County, New Jersey",1,0,101108,156898
+"332","Cecil County, Maryland","Mercer County, New Jersey",1,0,101108,366513
+"333","Cecil County, Maryland","Monmouth County, New Jersey",1,0,101108,630380
+"334","Montgomery County, Pennsylvania","Worcester County, Maryland",1,0,799874,51454
+"335","Montgomery County, Pennsylvania","Wicomico County, Maryland",1,0,799874,98733
+"336","Montgomery County, Pennsylvania","Sussex County, Delaware",1,0,799874,197145
+"337","Montgomery County, Pennsylvania","New Castle County, Delaware",1,0,799874,538479
+"338","Montgomery County, Pennsylvania","Kent County, Delaware",1,0,799874,162310
+"339","Montgomery County, Pennsylvania","Delaware County, Pennsylvania",1,0,799874,558979
+"340","Montgomery County, Pennsylvania","Philadelphia County, Pennsylvania",1,0,799874,1526006
+"341","Montgomery County, Pennsylvania","Chester County, Pennsylvania",1,0,799874,498886
+"342","Montgomery County, Pennsylvania","Cecil County, Maryland",1,0,799874,101108
+"343","Montgomery County, Pennsylvania","Caroline County, Maryland",1,0,799874,33066
+"344","Montgomery County, Pennsylvania","Salem County, New Jersey",1,0,799874,66083
+"345","Montgomery County, Pennsylvania","Dorchester County, Maryland",1,0,799874,32618
+"346","Montgomery County, Pennsylvania","Talbot County, Maryland",1,0,799874,37782
+"347","Montgomery County, Pennsylvania","Gloucester County, New Jersey",1,0,799874,288288
+"348","Montgomery County, Pennsylvania","Camden County, New Jersey",1,0,799874,513657
+"349","Montgomery County, Pennsylvania","Queen Anne's County, Maryland",1,0,799874,47798
+"350","Montgomery County, Pennsylvania","District of Columbia, District of Columbia",1,0,799874,601723
+"351","Montgomery County, Pennsylvania","Montgomery County, Maryland",1,0,799874,971777
+"352","Montgomery County, Pennsylvania","Kent County, Maryland",1,0,799874,20197
+"353","Montgomery County, Pennsylvania","Harford County, Maryland",1,0,799874,244826
+"354","Montgomery County, Pennsylvania","Burlington County, New Jersey",1,0,799874,448734
+"355","Montgomery County, Pennsylvania","Baltimore city, Maryland",1,0,799874,620961
+"356","Montgomery County, Pennsylvania","Fairfax County, Virginia",1,0,799874,1081726
+"357","Montgomery County, Pennsylvania","Anne Arundel County, Maryland",1,0,799874,537656
+"358","Montgomery County, Pennsylvania","Baltimore County, Maryland",1,0,799874,805029
+"359","Montgomery County, Pennsylvania","Bucks County, Pennsylvania",1,0,799874,625249
+"360","Montgomery County, Pennsylvania","Prince George's County, Maryland",1,0,799874,863420
+"361","Montgomery County, Pennsylvania","New York County, New York",1,0,799874,1585873
+"362","Montgomery County, Pennsylvania","Arlington County, Virginia",1,0,799874,207627
+"363","Montgomery County, Pennsylvania","Somerset County, Maryland",1,0,799874,26470
+"364","Montgomery County, Pennsylvania","Middlesex County, New Jersey",1,0,799874,809858
+"365","Montgomery County, Pennsylvania","Howard County, Maryland",1,0,799874,287085
+"366","Montgomery County, Pennsylvania","Atlantic County, New Jersey",1,0,799874,274549
+"367","Montgomery County, Pennsylvania","Queens County, New York",1,0,799874,2230722
+"368","Montgomery County, Pennsylvania","Cumberland County, New Jersey",1,0,799874,156898
+"369","Montgomery County, Pennsylvania","Mercer County, New Jersey",1,0,799874,366513
+"370","Montgomery County, Pennsylvania","Monmouth County, New Jersey",1,0,799874,630380
+"371","Caroline County, Maryland","Worcester County, Maryland",1,0,33066,51454
+"372","Caroline County, Maryland","Wicomico County, Maryland",1,0,33066,98733
+"373","Caroline County, Maryland","Sussex County, Delaware",1,0,33066,197145
+"374","Caroline County, Maryland","New Castle County, Delaware",1,0,33066,538479
+"375","Caroline County, Maryland","Kent County, Delaware",1,0,33066,162310
+"376","Caroline County, Maryland","Delaware County, Pennsylvania",1,0,33066,558979
+"377","Caroline County, Maryland","Philadelphia County, Pennsylvania",1,0,33066,1526006
+"378","Caroline County, Maryland","Chester County, Pennsylvania",1,0,33066,498886
+"379","Caroline County, Maryland","Cecil County, Maryland",1,0,33066,101108
+"380","Caroline County, Maryland","Montgomery County, Pennsylvania",1,0,33066,799874
+"381","Caroline County, Maryland","Salem County, New Jersey",1,0,33066,66083
+"382","Caroline County, Maryland","Dorchester County, Maryland",1,0,33066,32618
+"383","Caroline County, Maryland","Talbot County, Maryland",1,0,33066,37782
+"384","Caroline County, Maryland","Gloucester County, New Jersey",1,0,33066,288288
+"385","Caroline County, Maryland","Camden County, New Jersey",1,0,33066,513657
+"386","Caroline County, Maryland","Queen Anne's County, Maryland",1,0,33066,47798
+"387","Caroline County, Maryland","District of Columbia, District of Columbia",1,0,33066,601723
+"388","Caroline County, Maryland","Montgomery County, Maryland",1,0,33066,971777
+"389","Caroline County, Maryland","Kent County, Maryland",1,0,33066,20197
+"390","Caroline County, Maryland","Harford County, Maryland",1,0,33066,244826
+"391","Caroline County, Maryland","Burlington County, New Jersey",1,0,33066,448734
+"392","Caroline County, Maryland","Baltimore city, Maryland",1,0,33066,620961
+"393","Caroline County, Maryland","Fairfax County, Virginia",1,0,33066,1081726
+"394","Caroline County, Maryland","Anne Arundel County, Maryland",1,0,33066,537656
+"395","Caroline County, Maryland","Baltimore County, Maryland",1,0,33066,805029
+"396","Caroline County, Maryland","Bucks County, Pennsylvania",1,0,33066,625249
+"397","Caroline County, Maryland","Prince George's County, Maryland",1,0,33066,863420
+"398","Caroline County, Maryland","New York County, New York",1,0,33066,1585873
+"399","Caroline County, Maryland","Arlington County, Virginia",1,0,33066,207627
+"400","Caroline County, Maryland","Somerset County, Maryland",1,0,33066,26470
+"401","Caroline County, Maryland","Middlesex County, New Jersey",1,0,33066,809858
+"402","Caroline County, Maryland","Howard County, Maryland",1,0,33066,287085
+"403","Caroline County, Maryland","Atlantic County, New Jersey",1,0,33066,274549
+"404","Caroline County, Maryland","Queens County, New York",1,0,33066,2230722
+"405","Caroline County, Maryland","Cumberland County, New Jersey",1,0,33066,156898
+"406","Caroline County, Maryland","Mercer County, New Jersey",1,0,33066,366513
+"407","Caroline County, Maryland","Monmouth County, New Jersey",1,0,33066,630380
+"408","Salem County, New Jersey","Worcester County, Maryland",1,0,66083,51454
+"409","Salem County, New Jersey","Wicomico County, Maryland",1,0,66083,98733
+"410","Salem County, New Jersey","Sussex County, Delaware",1,0,66083,197145
+"411","Salem County, New Jersey","New Castle County, Delaware",1,0,66083,538479
+"412","Salem County, New Jersey","Kent County, Delaware",1,0,66083,162310
+"413","Salem County, New Jersey","Delaware County, Pennsylvania",1,0,66083,558979
+"414","Salem County, New Jersey","Philadelphia County, Pennsylvania",1,0,66083,1526006
+"415","Salem County, New Jersey","Chester County, Pennsylvania",1,0,66083,498886
+"416","Salem County, New Jersey","Cecil County, Maryland",1,0,66083,101108
+"417","Salem County, New Jersey","Montgomery County, Pennsylvania",1,0,66083,799874
+"418","Salem County, New Jersey","Caroline County, Maryland",1,0,66083,33066
+"419","Salem County, New Jersey","Dorchester County, Maryland",1,0,66083,32618
+"420","Salem County, New Jersey","Talbot County, Maryland",1,0,66083,37782
+"421","Salem County, New Jersey","Gloucester County, New Jersey",1,0,66083,288288
+"422","Salem County, New Jersey","Camden County, New Jersey",1,0,66083,513657
+"423","Salem County, New Jersey","Queen Anne's County, Maryland",1,0,66083,47798
+"424","Salem County, New Jersey","District of Columbia, District of Columbia",1,0,66083,601723
+"425","Salem County, New Jersey","Montgomery County, Maryland",1,0,66083,971777
+"426","Salem County, New Jersey","Kent County, Maryland",1,0,66083,20197
+"427","Salem County, New Jersey","Harford County, Maryland",1,0,66083,244826
+"428","Salem County, New Jersey","Burlington County, New Jersey",1,0,66083,448734
+"429","Salem County, New Jersey","Baltimore city, Maryland",1,0,66083,620961
+"430","Salem County, New Jersey","Fairfax County, Virginia",1,0,66083,1081726
+"431","Salem County, New Jersey","Anne Arundel County, Maryland",1,0,66083,537656
+"432","Salem County, New Jersey","Baltimore County, Maryland",1,0,66083,805029
+"433","Salem County, New Jersey","Bucks County, Pennsylvania",1,0,66083,625249
+"434","Salem County, New Jersey","Prince George's County, Maryland",1,0,66083,863420
+"435","Salem County, New Jersey","New York County, New York",1,0,66083,1585873
+"436","Salem County, New Jersey","Arlington County, Virginia",1,0,66083,207627
+"437","Salem County, New Jersey","Somerset County, Maryland",1,0,66083,26470
+"438","Salem County, New Jersey","Middlesex County, New Jersey",1,0,66083,809858
+"439","Salem County, New Jersey","Howard County, Maryland",1,0,66083,287085
+"440","Salem County, New Jersey","Atlantic County, New Jersey",1,0,66083,274549
+"441","Salem County, New Jersey","Queens County, New York",1,0,66083,2230722
+"442","Salem County, New Jersey","Cumberland County, New Jersey",1,0,66083,156898
+"443","Salem County, New Jersey","Mercer County, New Jersey",1,0,66083,366513
+"444","Salem County, New Jersey","Monmouth County, New Jersey",1,0,66083,630380
+"445","Dorchester County, Maryland","Worcester County, Maryland",1,0,32618,51454
+"446","Dorchester County, Maryland","Wicomico County, Maryland",1,0,32618,98733
+"447","Dorchester County, Maryland","Sussex County, Delaware",1,0,32618,197145
+"448","Dorchester County, Maryland","New Castle County, Delaware",1,0,32618,538479
+"449","Dorchester County, Maryland","Kent County, Delaware",1,0,32618,162310
+"450","Dorchester County, Maryland","Delaware County, Pennsylvania",1,0,32618,558979
+"451","Dorchester County, Maryland","Philadelphia County, Pennsylvania",1,0,32618,1526006
+"452","Dorchester County, Maryland","Chester County, Pennsylvania",1,0,32618,498886
+"453","Dorchester County, Maryland","Cecil County, Maryland",1,0,32618,101108
+"454","Dorchester County, Maryland","Montgomery County, Pennsylvania",1,0,32618,799874
+"455","Dorchester County, Maryland","Caroline County, Maryland",1,0,32618,33066
+"456","Dorchester County, Maryland","Salem County, New Jersey",1,0,32618,66083
+"457","Dorchester County, Maryland","Talbot County, Maryland",1,0,32618,37782
+"458","Dorchester County, Maryland","Gloucester County, New Jersey",1,0,32618,288288
+"459","Dorchester County, Maryland","Camden County, New Jersey",1,0,32618,513657
+"460","Dorchester County, Maryland","Queen Anne's County, Maryland",1,0,32618,47798
+"461","Dorchester County, Maryland","District of Columbia, District of Columbia",1,0,32618,601723
+"462","Dorchester County, Maryland","Montgomery County, Maryland",1,0,32618,971777
+"463","Dorchester County, Maryland","Kent County, Maryland",1,0,32618,20197
+"464","Dorchester County, Maryland","Harford County, Maryland",1,0,32618,244826
+"465","Dorchester County, Maryland","Burlington County, New Jersey",1,0,32618,448734
+"466","Dorchester County, Maryland","Baltimore city, Maryland",1,0,32618,620961
+"467","Dorchester County, Maryland","Fairfax County, Virginia",1,0,32618,1081726
+"468","Dorchester County, Maryland","Anne Arundel County, Maryland",1,0,32618,537656
+"469","Dorchester County, Maryland","Baltimore County, Maryland",1,0,32618,805029
+"470","Dorchester County, Maryland","Bucks County, Pennsylvania",1,0,32618,625249
+"471","Dorchester County, Maryland","Prince George's County, Maryland",1,0,32618,863420
+"472","Dorchester County, Maryland","New York County, New York",1,0,32618,1585873
+"473","Dorchester County, Maryland","Arlington County, Virginia",1,0,32618,207627
+"474","Dorchester County, Maryland","Somerset County, Maryland",1,0,32618,26470
+"475","Dorchester County, Maryland","Middlesex County, New Jersey",1,0,32618,809858
+"476","Dorchester County, Maryland","Howard County, Maryland",1,0,32618,287085
+"477","Dorchester County, Maryland","Atlantic County, New Jersey",1,0,32618,274549
+"478","Dorchester County, Maryland","Queens County, New York",1,0,32618,2230722
+"479","Dorchester County, Maryland","Cumberland County, New Jersey",1,0,32618,156898
+"480","Dorchester County, Maryland","Mercer County, New Jersey",1,0,32618,366513
+"481","Dorchester County, Maryland","Monmouth County, New Jersey",1,0,32618,630380
+"482","Talbot County, Maryland","Worcester County, Maryland",1,0,37782,51454
+"483","Talbot County, Maryland","Wicomico County, Maryland",1,0,37782,98733
+"484","Talbot County, Maryland","Sussex County, Delaware",1,0,37782,197145
+"485","Talbot County, Maryland","New Castle County, Delaware",1,0,37782,538479
+"486","Talbot County, Maryland","Kent County, Delaware",1,0,37782,162310
+"487","Talbot County, Maryland","Delaware County, Pennsylvania",1,0,37782,558979
+"488","Talbot County, Maryland","Philadelphia County, Pennsylvania",1,0,37782,1526006
+"489","Talbot County, Maryland","Chester County, Pennsylvania",1,0,37782,498886
+"490","Talbot County, Maryland","Cecil County, Maryland",1,0,37782,101108
+"491","Talbot County, Maryland","Montgomery County, Pennsylvania",1,0,37782,799874
+"492","Talbot County, Maryland","Caroline County, Maryland",1,0,37782,33066
+"493","Talbot County, Maryland","Salem County, New Jersey",1,0,37782,66083
+"494","Talbot County, Maryland","Dorchester County, Maryland",1,0,37782,32618
+"495","Talbot County, Maryland","Gloucester County, New Jersey",1,0,37782,288288
+"496","Talbot County, Maryland","Camden County, New Jersey",1,0,37782,513657
+"497","Talbot County, Maryland","Queen Anne's County, Maryland",1,0,37782,47798
+"498","Talbot County, Maryland","District of Columbia, District of Columbia",1,0,37782,601723
+"499","Talbot County, Maryland","Montgomery County, Maryland",1,0,37782,971777
+"500","Talbot County, Maryland","Kent County, Maryland",1,0,37782,20197
+"501","Talbot County, Maryland","Harford County, Maryland",1,0,37782,244826
+"502","Talbot County, Maryland","Burlington County, New Jersey",1,0,37782,448734
+"503","Talbot County, Maryland","Baltimore city, Maryland",1,0,37782,620961
+"504","Talbot County, Maryland","Fairfax County, Virginia",1,0,37782,1081726
+"505","Talbot County, Maryland","Anne Arundel County, Maryland",1,0,37782,537656
+"506","Talbot County, Maryland","Baltimore County, Maryland",1,0,37782,805029
+"507","Talbot County, Maryland","Bucks County, Pennsylvania",1,0,37782,625249
+"508","Talbot County, Maryland","Prince George's County, Maryland",1,0,37782,863420
+"509","Talbot County, Maryland","New York County, New York",1,0,37782,1585873
+"510","Talbot County, Maryland","Arlington County, Virginia",1,0,37782,207627
+"511","Talbot County, Maryland","Somerset County, Maryland",1,0,37782,26470
+"512","Talbot County, Maryland","Middlesex County, New Jersey",1,0,37782,809858
+"513","Talbot County, Maryland","Howard County, Maryland",1,0,37782,287085
+"514","Talbot County, Maryland","Atlantic County, New Jersey",1,0,37782,274549
+"515","Talbot County, Maryland","Queens County, New York",1,0,37782,2230722
+"516","Talbot County, Maryland","Cumberland County, New Jersey",1,0,37782,156898
+"517","Talbot County, Maryland","Mercer County, New Jersey",1,0,37782,366513
+"518","Talbot County, Maryland","Monmouth County, New Jersey",1,0,37782,630380
+"519","Gloucester County, New Jersey","Worcester County, Maryland",1,0,288288,51454
+"520","Gloucester County, New Jersey","Wicomico County, Maryland",1,0,288288,98733
+"521","Gloucester County, New Jersey","Sussex County, Delaware",1,0,288288,197145
+"522","Gloucester County, New Jersey","New Castle County, Delaware",1,0,288288,538479
+"523","Gloucester County, New Jersey","Kent County, Delaware",1,0,288288,162310
+"524","Gloucester County, New Jersey","Delaware County, Pennsylvania",1,0,288288,558979
+"525","Gloucester County, New Jersey","Philadelphia County, Pennsylvania",1,0,288288,1526006
+"526","Gloucester County, New Jersey","Chester County, Pennsylvania",1,0,288288,498886
+"527","Gloucester County, New Jersey","Cecil County, Maryland",1,0,288288,101108
+"528","Gloucester County, New Jersey","Montgomery County, Pennsylvania",1,0,288288,799874
+"529","Gloucester County, New Jersey","Caroline County, Maryland",1,0,288288,33066
+"530","Gloucester County, New Jersey","Salem County, New Jersey",1,0,288288,66083
+"531","Gloucester County, New Jersey","Dorchester County, Maryland",1,0,288288,32618
+"532","Gloucester County, New Jersey","Talbot County, Maryland",1,0,288288,37782
+"533","Gloucester County, New Jersey","Camden County, New Jersey",1,0,288288,513657
+"534","Gloucester County, New Jersey","Queen Anne's County, Maryland",1,0,288288,47798
+"535","Gloucester County, New Jersey","District of Columbia, District of Columbia",1,0,288288,601723
+"536","Gloucester County, New Jersey","Montgomery County, Maryland",1,0,288288,971777
+"537","Gloucester County, New Jersey","Kent County, Maryland",1,0,288288,20197
+"538","Gloucester County, New Jersey","Harford County, Maryland",1,0,288288,244826
+"539","Gloucester County, New Jersey","Burlington County, New Jersey",1,0,288288,448734
+"540","Gloucester County, New Jersey","Baltimore city, Maryland",1,0,288288,620961
+"541","Gloucester County, New Jersey","Fairfax County, Virginia",1,0,288288,1081726
+"542","Gloucester County, New Jersey","Anne Arundel County, Maryland",1,0,288288,537656
+"543","Gloucester County, New Jersey","Baltimore County, Maryland",1,0,288288,805029
+"544","Gloucester County, New Jersey","Bucks County, Pennsylvania",1,0,288288,625249
+"545","Gloucester County, New Jersey","Prince George's County, Maryland",1,0,288288,863420
+"546","Gloucester County, New Jersey","New York County, New York",1,0,288288,1585873
+"547","Gloucester County, New Jersey","Arlington County, Virginia",1,0,288288,207627
+"548","Gloucester County, New Jersey","Somerset County, Maryland",1,0,288288,26470
+"549","Gloucester County, New Jersey","Middlesex County, New Jersey",1,0,288288,809858
+"550","Gloucester County, New Jersey","Howard County, Maryland",1,0,288288,287085
+"551","Gloucester County, New Jersey","Atlantic County, New Jersey",1,0,288288,274549
+"552","Gloucester County, New Jersey","Queens County, New York",1,0,288288,2230722
+"553","Gloucester County, New Jersey","Cumberland County, New Jersey",1,0,288288,156898
+"554","Gloucester County, New Jersey","Mercer County, New Jersey",1,0,288288,366513
+"555","Gloucester County, New Jersey","Monmouth County, New Jersey",1,0,288288,630380
+"556","Camden County, New Jersey","Worcester County, Maryland",1,0,513657,51454
+"557","Camden County, New Jersey","Wicomico County, Maryland",1,0,513657,98733
+"558","Camden County, New Jersey","Sussex County, Delaware",1,0,513657,197145
+"559","Camden County, New Jersey","New Castle County, Delaware",1,0,513657,538479
+"560","Camden County, New Jersey","Kent County, Delaware",1,0,513657,162310
+"561","Camden County, New Jersey","Delaware County, Pennsylvania",1,0,513657,558979
+"562","Camden County, New Jersey","Philadelphia County, Pennsylvania",1,0,513657,1526006
+"563","Camden County, New Jersey","Chester County, Pennsylvania",1,0,513657,498886
+"564","Camden County, New Jersey","Cecil County, Maryland",1,0,513657,101108
+"565","Camden County, New Jersey","Montgomery County, Pennsylvania",1,0,513657,799874
+"566","Camden County, New Jersey","Caroline County, Maryland",1,0,513657,33066
+"567","Camden County, New Jersey","Salem County, New Jersey",1,0,513657,66083
+"568","Camden County, New Jersey","Dorchester County, Maryland",1,0,513657,32618
+"569","Camden County, New Jersey","Talbot County, Maryland",1,0,513657,37782
+"570","Camden County, New Jersey","Gloucester County, New Jersey",1,0,513657,288288
+"571","Camden County, New Jersey","Queen Anne's County, Maryland",1,0,513657,47798
+"572","Camden County, New Jersey","District of Columbia, District of Columbia",1,0,513657,601723
+"573","Camden County, New Jersey","Montgomery County, Maryland",1,0,513657,971777
+"574","Camden County, New Jersey","Kent County, Maryland",1,0,513657,20197
+"575","Camden County, New Jersey","Harford County, Maryland",1,0,513657,244826
+"576","Camden County, New Jersey","Burlington County, New Jersey",1,0,513657,448734
+"577","Camden County, New Jersey","Baltimore city, Maryland",1,0,513657,620961
+"578","Camden County, New Jersey","Fairfax County, Virginia",1,0,513657,1081726
+"579","Camden County, New Jersey","Anne Arundel County, Maryland",1,0,513657,537656
+"580","Camden County, New Jersey","Baltimore County, Maryland",1,0,513657,805029
+"581","Camden County, New Jersey","Bucks County, Pennsylvania",1,0,513657,625249
+"582","Camden County, New Jersey","Prince George's County, Maryland",1,0,513657,863420
+"583","Camden County, New Jersey","New York County, New York",1,0,513657,1585873
+"584","Camden County, New Jersey","Arlington County, Virginia",1,0,513657,207627
+"585","Camden County, New Jersey","Somerset County, Maryland",1,0,513657,26470
+"586","Camden County, New Jersey","Middlesex County, New Jersey",1,0,513657,809858
+"587","Camden County, New Jersey","Howard County, Maryland",1,0,513657,287085
+"588","Camden County, New Jersey","Atlantic County, New Jersey",1,0,513657,274549
+"589","Camden County, New Jersey","Queens County, New York",1,0,513657,2230722
+"590","Camden County, New Jersey","Cumberland County, New Jersey",1,0,513657,156898
+"591","Camden County, New Jersey","Mercer County, New Jersey",1,0,513657,366513
+"592","Camden County, New Jersey","Monmouth County, New Jersey",1,0,513657,630380
+"593","Queen Anne's County, Maryland","Worcester County, Maryland",1,0,47798,51454
+"594","Queen Anne's County, Maryland","Wicomico County, Maryland",1,0,47798,98733
+"595","Queen Anne's County, Maryland","Sussex County, Delaware",1,0,47798,197145
+"596","Queen Anne's County, Maryland","New Castle County, Delaware",1,0,47798,538479
+"597","Queen Anne's County, Maryland","Kent County, Delaware",1,0,47798,162310
+"598","Queen Anne's County, Maryland","Delaware County, Pennsylvania",1,0,47798,558979
+"599","Queen Anne's County, Maryland","Philadelphia County, Pennsylvania",1,0,47798,1526006
+"600","Queen Anne's County, Maryland","Chester County, Pennsylvania",1,0,47798,498886
+"601","Queen Anne's County, Maryland","Cecil County, Maryland",1,0,47798,101108
+"602","Queen Anne's County, Maryland","Montgomery County, Pennsylvania",1,0,47798,799874
+"603","Queen Anne's County, Maryland","Caroline County, Maryland",1,0,47798,33066
+"604","Queen Anne's County, Maryland","Salem County, New Jersey",1,0,47798,66083
+"605","Queen Anne's County, Maryland","Dorchester County, Maryland",1,0,47798,32618
+"606","Queen Anne's County, Maryland","Talbot County, Maryland",1,0,47798,37782
+"607","Queen Anne's County, Maryland","Gloucester County, New Jersey",1,0,47798,288288
+"608","Queen Anne's County, Maryland","Camden County, New Jersey",1,0,47798,513657
+"609","Queen Anne's County, Maryland","District of Columbia, District of Columbia",1,0,47798,601723
+"610","Queen Anne's County, Maryland","Montgomery County, Maryland",1,0,47798,971777
+"611","Queen Anne's County, Maryland","Kent County, Maryland",1,0,47798,20197
+"612","Queen Anne's County, Maryland","Harford County, Maryland",1,0,47798,244826
+"613","Queen Anne's County, Maryland","Burlington County, New Jersey",1,0,47798,448734
+"614","Queen Anne's County, Maryland","Baltimore city, Maryland",1,0,47798,620961
+"615","Queen Anne's County, Maryland","Fairfax County, Virginia",1,0,47798,1081726
+"616","Queen Anne's County, Maryland","Anne Arundel County, Maryland",1,0,47798,537656
+"617","Queen Anne's County, Maryland","Baltimore County, Maryland",1,0,47798,805029
+"618","Queen Anne's County, Maryland","Bucks County, Pennsylvania",1,0,47798,625249
+"619","Queen Anne's County, Maryland","Prince George's County, Maryland",1,0,47798,863420
+"620","Queen Anne's County, Maryland","New York County, New York",1,0,47798,1585873
+"621","Queen Anne's County, Maryland","Arlington County, Virginia",1,0,47798,207627
+"622","Queen Anne's County, Maryland","Somerset County, Maryland",1,0,47798,26470
+"623","Queen Anne's County, Maryland","Middlesex County, New Jersey",1,0,47798,809858
+"624","Queen Anne's County, Maryland","Howard County, Maryland",1,0,47798,287085
+"625","Queen Anne's County, Maryland","Atlantic County, New Jersey",1,0,47798,274549
+"626","Queen Anne's County, Maryland","Queens County, New York",1,0,47798,2230722
+"627","Queen Anne's County, Maryland","Cumberland County, New Jersey",1,0,47798,156898
+"628","Queen Anne's County, Maryland","Mercer County, New Jersey",1,0,47798,366513
+"629","Queen Anne's County, Maryland","Monmouth County, New Jersey",1,0,47798,630380
+"630","District of Columbia, District of Columbia","Worcester County, Maryland",1,0,601723,51454
+"631","District of Columbia, District of Columbia","Wicomico County, Maryland",1,0,601723,98733
+"632","District of Columbia, District of Columbia","Sussex County, Delaware",1,0,601723,197145
+"633","District of Columbia, District of Columbia","New Castle County, Delaware",1,0,601723,538479
+"634","District of Columbia, District of Columbia","Kent County, Delaware",1,0,601723,162310
+"635","District of Columbia, District of Columbia","Delaware County, Pennsylvania",1,0,601723,558979
+"636","District of Columbia, District of Columbia","Philadelphia County, Pennsylvania",1,0,601723,1526006
+"637","District of Columbia, District of Columbia","Chester County, Pennsylvania",1,0,601723,498886
+"638","District of Columbia, District of Columbia","Cecil County, Maryland",1,0,601723,101108
+"639","District of Columbia, District of Columbia","Montgomery County, Pennsylvania",1,0,601723,799874
+"640","District of Columbia, District of Columbia","Caroline County, Maryland",1,0,601723,33066
+"641","District of Columbia, District of Columbia","Salem County, New Jersey",1,0,601723,66083
+"642","District of Columbia, District of Columbia","Dorchester County, Maryland",1,0,601723,32618
+"643","District of Columbia, District of Columbia","Talbot County, Maryland",1,0,601723,37782
+"644","District of Columbia, District of Columbia","Gloucester County, New Jersey",1,0,601723,288288
+"645","District of Columbia, District of Columbia","Camden County, New Jersey",1,0,601723,513657
+"646","District of Columbia, District of Columbia","Queen Anne's County, Maryland",1,0,601723,47798
+"647","District of Columbia, District of Columbia","Montgomery County, Maryland",1,0,601723,971777
+"648","District of Columbia, District of Columbia","Kent County, Maryland",1,0,601723,20197
+"649","District of Columbia, District of Columbia","Harford County, Maryland",1,0,601723,244826
+"650","District of Columbia, District of Columbia","Burlington County, New Jersey",1,0,601723,448734
+"651","District of Columbia, District of Columbia","Baltimore city, Maryland",1,0,601723,620961
+"652","District of Columbia, District of Columbia","Fairfax County, Virginia",1,0,601723,1081726
+"653","District of Columbia, District of Columbia","Anne Arundel County, Maryland",1,0,601723,537656
+"654","District of Columbia, District of Columbia","Baltimore County, Maryland",1,0,601723,805029
+"655","District of Columbia, District of Columbia","Bucks County, Pennsylvania",1,0,601723,625249
+"656","District of Columbia, District of Columbia","Prince George's County, Maryland",1,0,601723,863420
+"657","District of Columbia, District of Columbia","New York County, New York",1,0,601723,1585873
+"658","District of Columbia, District of Columbia","Arlington County, Virginia",1,0,601723,207627
+"659","District of Columbia, District of Columbia","Somerset County, Maryland",1,0,601723,26470
+"660","District of Columbia, District of Columbia","Middlesex County, New Jersey",1,0,601723,809858
+"661","District of Columbia, District of Columbia","Howard County, Maryland",1,0,601723,287085
+"662","District of Columbia, District of Columbia","Atlantic County, New Jersey",1,0,601723,274549
+"663","District of Columbia, District of Columbia","Queens County, New York",1,0,601723,2230722
+"664","District of Columbia, District of Columbia","Cumberland County, New Jersey",1,0,601723,156898
+"665","District of Columbia, District of Columbia","Mercer County, New Jersey",1,0,601723,366513
+"666","District of Columbia, District of Columbia","Monmouth County, New Jersey",1,0,601723,630380
+"667","Montgomery County, Maryland","Worcester County, Maryland",1,0,971777,51454
+"668","Montgomery County, Maryland","Wicomico County, Maryland",1,0,971777,98733
+"669","Montgomery County, Maryland","Sussex County, Delaware",1,0,971777,197145
+"670","Montgomery County, Maryland","New Castle County, Delaware",1,0,971777,538479
+"671","Montgomery County, Maryland","Kent County, Delaware",1,0,971777,162310
+"672","Montgomery County, Maryland","Delaware County, Pennsylvania",1,0,971777,558979
+"673","Montgomery County, Maryland","Philadelphia County, Pennsylvania",1,0,971777,1526006
+"674","Montgomery County, Maryland","Chester County, Pennsylvania",1,0,971777,498886
+"675","Montgomery County, Maryland","Cecil County, Maryland",1,0,971777,101108
+"676","Montgomery County, Maryland","Montgomery County, Pennsylvania",1,0,971777,799874
+"677","Montgomery County, Maryland","Caroline County, Maryland",1,0,971777,33066
+"678","Montgomery County, Maryland","Salem County, New Jersey",1,0,971777,66083
+"679","Montgomery County, Maryland","Dorchester County, Maryland",1,0,971777,32618
+"680","Montgomery County, Maryland","Talbot County, Maryland",1,0,971777,37782
+"681","Montgomery County, Maryland","Gloucester County, New Jersey",1,0,971777,288288
+"682","Montgomery County, Maryland","Camden County, New Jersey",1,0,971777,513657
+"683","Montgomery County, Maryland","Queen Anne's County, Maryland",1,0,971777,47798
+"684","Montgomery County, Maryland","District of Columbia, District of Columbia",1,0,971777,601723
+"685","Montgomery County, Maryland","Kent County, Maryland",1,0,971777,20197
+"686","Montgomery County, Maryland","Harford County, Maryland",1,0,971777,244826
+"687","Montgomery County, Maryland","Burlington County, New Jersey",1,0,971777,448734
+"688","Montgomery County, Maryland","Baltimore city, Maryland",1,0,971777,620961
+"689","Montgomery County, Maryland","Fairfax County, Virginia",1,0,971777,1081726
+"690","Montgomery County, Maryland","Anne Arundel County, Maryland",1,0,971777,537656
+"691","Montgomery County, Maryland","Baltimore County, Maryland",1,0,971777,805029
+"692","Montgomery County, Maryland","Bucks County, Pennsylvania",1,0,971777,625249
+"693","Montgomery County, Maryland","Prince George's County, Maryland",1,0,971777,863420
+"694","Montgomery County, Maryland","New York County, New York",1,0,971777,1585873
+"695","Montgomery County, Maryland","Arlington County, Virginia",1,0,971777,207627
+"696","Montgomery County, Maryland","Somerset County, Maryland",1,0,971777,26470
+"697","Montgomery County, Maryland","Middlesex County, New Jersey",1,0,971777,809858
+"698","Montgomery County, Maryland","Howard County, Maryland",1,0,971777,287085
+"699","Montgomery County, Maryland","Atlantic County, New Jersey",1,0,971777,274549
+"700","Montgomery County, Maryland","Queens County, New York",1,0,971777,2230722
+"701","Montgomery County, Maryland","Cumberland County, New Jersey",1,0,971777,156898
+"702","Montgomery County, Maryland","Mercer County, New Jersey",1,0,971777,366513
+"703","Montgomery County, Maryland","Monmouth County, New Jersey",1,0,971777,630380
+"704","Kent County, Maryland","Worcester County, Maryland",1,0,20197,51454
+"705","Kent County, Maryland","Wicomico County, Maryland",1,0,20197,98733
+"706","Kent County, Maryland","Sussex County, Delaware",1,0,20197,197145
+"707","Kent County, Maryland","New Castle County, Delaware",1,0,20197,538479
+"708","Kent County, Maryland","Kent County, Delaware",1,0,20197,162310
+"709","Kent County, Maryland","Delaware County, Pennsylvania",1,0,20197,558979
+"710","Kent County, Maryland","Philadelphia County, Pennsylvania",1,0,20197,1526006
+"711","Kent County, Maryland","Chester County, Pennsylvania",1,0,20197,498886
+"712","Kent County, Maryland","Cecil County, Maryland",1,0,20197,101108
+"713","Kent County, Maryland","Montgomery County, Pennsylvania",1,0,20197,799874
+"714","Kent County, Maryland","Caroline County, Maryland",1,0,20197,33066
+"715","Kent County, Maryland","Salem County, New Jersey",1,0,20197,66083
+"716","Kent County, Maryland","Dorchester County, Maryland",1,0,20197,32618
+"717","Kent County, Maryland","Talbot County, Maryland",1,0,20197,37782
+"718","Kent County, Maryland","Gloucester County, New Jersey",1,0,20197,288288
+"719","Kent County, Maryland","Camden County, New Jersey",1,0,20197,513657
+"720","Kent County, Maryland","Queen Anne's County, Maryland",1,0,20197,47798
+"721","Kent County, Maryland","District of Columbia, District of Columbia",1,0,20197,601723
+"722","Kent County, Maryland","Montgomery County, Maryland",1,0,20197,971777
+"723","Kent County, Maryland","Harford County, Maryland",1,0,20197,244826
+"724","Kent County, Maryland","Burlington County, New Jersey",1,0,20197,448734
+"725","Kent County, Maryland","Baltimore city, Maryland",1,0,20197,620961
+"726","Kent County, Maryland","Fairfax County, Virginia",1,0,20197,1081726
+"727","Kent County, Maryland","Anne Arundel County, Maryland",1,0,20197,537656
+"728","Kent County, Maryland","Baltimore County, Maryland",1,0,20197,805029
+"729","Kent County, Maryland","Bucks County, Pennsylvania",1,0,20197,625249
+"730","Kent County, Maryland","Prince George's County, Maryland",1,0,20197,863420
+"731","Kent County, Maryland","New York County, New York",1,0,20197,1585873
+"732","Kent County, Maryland","Arlington County, Virginia",1,0,20197,207627
+"733","Kent County, Maryland","Somerset County, Maryland",1,0,20197,26470
+"734","Kent County, Maryland","Middlesex County, New Jersey",1,0,20197,809858
+"735","Kent County, Maryland","Howard County, Maryland",1,0,20197,287085
+"736","Kent County, Maryland","Atlantic County, New Jersey",1,0,20197,274549
+"737","Kent County, Maryland","Queens County, New York",1,0,20197,2230722
+"738","Kent County, Maryland","Cumberland County, New Jersey",1,0,20197,156898
+"739","Kent County, Maryland","Mercer County, New Jersey",1,0,20197,366513
+"740","Kent County, Maryland","Monmouth County, New Jersey",1,0,20197,630380
+"741","Harford County, Maryland","Worcester County, Maryland",1,0,244826,51454
+"742","Harford County, Maryland","Wicomico County, Maryland",1,0,244826,98733
+"743","Harford County, Maryland","Sussex County, Delaware",1,0,244826,197145
+"744","Harford County, Maryland","New Castle County, Delaware",1,0,244826,538479
+"745","Harford County, Maryland","Kent County, Delaware",1,0,244826,162310
+"746","Harford County, Maryland","Delaware County, Pennsylvania",1,0,244826,558979
+"747","Harford County, Maryland","Philadelphia County, Pennsylvania",1,0,244826,1526006
+"748","Harford County, Maryland","Chester County, Pennsylvania",1,0,244826,498886
+"749","Harford County, Maryland","Cecil County, Maryland",1,0,244826,101108
+"750","Harford County, Maryland","Montgomery County, Pennsylvania",1,0,244826,799874
+"751","Harford County, Maryland","Caroline County, Maryland",1,0,244826,33066
+"752","Harford County, Maryland","Salem County, New Jersey",1,0,244826,66083
+"753","Harford County, Maryland","Dorchester County, Maryland",1,0,244826,32618
+"754","Harford County, Maryland","Talbot County, Maryland",1,0,244826,37782
+"755","Harford County, Maryland","Gloucester County, New Jersey",1,0,244826,288288
+"756","Harford County, Maryland","Camden County, New Jersey",1,0,244826,513657
+"757","Harford County, Maryland","Queen Anne's County, Maryland",1,0,244826,47798
+"758","Harford County, Maryland","District of Columbia, District of Columbia",1,0,244826,601723
+"759","Harford County, Maryland","Montgomery County, Maryland",1,0,244826,971777
+"760","Harford County, Maryland","Kent County, Maryland",1,0,244826,20197
+"761","Harford County, Maryland","Burlington County, New Jersey",1,0,244826,448734
+"762","Harford County, Maryland","Baltimore city, Maryland",1,0,244826,620961
+"763","Harford County, Maryland","Fairfax County, Virginia",1,0,244826,1081726
+"764","Harford County, Maryland","Anne Arundel County, Maryland",1,0,244826,537656
+"765","Harford County, Maryland","Baltimore County, Maryland",1,0,244826,805029
+"766","Harford County, Maryland","Bucks County, Pennsylvania",1,0,244826,625249
+"767","Harford County, Maryland","Prince George's County, Maryland",1,0,244826,863420
+"768","Harford County, Maryland","New York County, New York",1,0,244826,1585873
+"769","Harford County, Maryland","Arlington County, Virginia",1,0,244826,207627
+"770","Harford County, Maryland","Somerset County, Maryland",1,0,244826,26470
+"771","Harford County, Maryland","Middlesex County, New Jersey",1,0,244826,809858
+"772","Harford County, Maryland","Howard County, Maryland",1,0,244826,287085
+"773","Harford County, Maryland","Atlantic County, New Jersey",1,0,244826,274549
+"774","Harford County, Maryland","Queens County, New York",1,0,244826,2230722
+"775","Harford County, Maryland","Cumberland County, New Jersey",1,0,244826,156898
+"776","Harford County, Maryland","Mercer County, New Jersey",1,0,244826,366513
+"777","Harford County, Maryland","Monmouth County, New Jersey",1,0,244826,630380
+"778","Burlington County, New Jersey","Worcester County, Maryland",1,0,448734,51454
+"779","Burlington County, New Jersey","Wicomico County, Maryland",1,0,448734,98733
+"780","Burlington County, New Jersey","Sussex County, Delaware",1,0,448734,197145
+"781","Burlington County, New Jersey","New Castle County, Delaware",1,0,448734,538479
+"782","Burlington County, New Jersey","Kent County, Delaware",1,0,448734,162310
+"783","Burlington County, New Jersey","Delaware County, Pennsylvania",1,0,448734,558979
+"784","Burlington County, New Jersey","Philadelphia County, Pennsylvania",1,0,448734,1526006
+"785","Burlington County, New Jersey","Chester County, Pennsylvania",1,0,448734,498886
+"786","Burlington County, New Jersey","Cecil County, Maryland",1,0,448734,101108
+"787","Burlington County, New Jersey","Montgomery County, Pennsylvania",1,0,448734,799874
+"788","Burlington County, New Jersey","Caroline County, Maryland",1,0,448734,33066
+"789","Burlington County, New Jersey","Salem County, New Jersey",1,0,448734,66083
+"790","Burlington County, New Jersey","Dorchester County, Maryland",1,0,448734,32618
+"791","Burlington County, New Jersey","Talbot County, Maryland",1,0,448734,37782
+"792","Burlington County, New Jersey","Gloucester County, New Jersey",1,0,448734,288288
+"793","Burlington County, New Jersey","Camden County, New Jersey",1,0,448734,513657
+"794","Burlington County, New Jersey","Queen Anne's County, Maryland",1,0,448734,47798
+"795","Burlington County, New Jersey","District of Columbia, District of Columbia",1,0,448734,601723
+"796","Burlington County, New Jersey","Montgomery County, Maryland",1,0,448734,971777
+"797","Burlington County, New Jersey","Kent County, Maryland",1,0,448734,20197
+"798","Burlington County, New Jersey","Harford County, Maryland",1,0,448734,244826
+"799","Burlington County, New Jersey","Baltimore city, Maryland",1,0,448734,620961
+"800","Burlington County, New Jersey","Fairfax County, Virginia",1,0,448734,1081726
+"801","Burlington County, New Jersey","Anne Arundel County, Maryland",1,0,448734,537656
+"802","Burlington County, New Jersey","Baltimore County, Maryland",1,0,448734,805029
+"803","Burlington County, New Jersey","Bucks County, Pennsylvania",1,0,448734,625249
+"804","Burlington County, New Jersey","Prince George's County, Maryland",1,0,448734,863420
+"805","Burlington County, New Jersey","New York County, New York",1,0,448734,1585873
+"806","Burlington County, New Jersey","Arlington County, Virginia",1,0,448734,207627
+"807","Burlington County, New Jersey","Somerset County, Maryland",1,0,448734,26470
+"808","Burlington County, New Jersey","Middlesex County, New Jersey",1,0,448734,809858
+"809","Burlington County, New Jersey","Howard County, Maryland",1,0,448734,287085
+"810","Burlington County, New Jersey","Atlantic County, New Jersey",1,0,448734,274549
+"811","Burlington County, New Jersey","Queens County, New York",1,0,448734,2230722
+"812","Burlington County, New Jersey","Cumberland County, New Jersey",1,0,448734,156898
+"813","Burlington County, New Jersey","Mercer County, New Jersey",1,0,448734,366513
+"814","Burlington County, New Jersey","Monmouth County, New Jersey",1,0,448734,630380
+"815","Baltimore city, Maryland","Worcester County, Maryland",1,0,620961,51454
+"816","Baltimore city, Maryland","Wicomico County, Maryland",1,0,620961,98733
+"817","Baltimore city, Maryland","Sussex County, Delaware",1,0,620961,197145
+"818","Baltimore city, Maryland","New Castle County, Delaware",1,0,620961,538479
+"819","Baltimore city, Maryland","Kent County, Delaware",1,0,620961,162310
+"820","Baltimore city, Maryland","Delaware County, Pennsylvania",1,0,620961,558979
+"821","Baltimore city, Maryland","Philadelphia County, Pennsylvania",1,0,620961,1526006
+"822","Baltimore city, Maryland","Chester County, Pennsylvania",1,0,620961,498886
+"823","Baltimore city, Maryland","Cecil County, Maryland",1,0,620961,101108
+"824","Baltimore city, Maryland","Montgomery County, Pennsylvania",1,0,620961,799874
+"825","Baltimore city, Maryland","Caroline County, Maryland",1,0,620961,33066
+"826","Baltimore city, Maryland","Salem County, New Jersey",1,0,620961,66083
+"827","Baltimore city, Maryland","Dorchester County, Maryland",1,0,620961,32618
+"828","Baltimore city, Maryland","Talbot County, Maryland",1,0,620961,37782
+"829","Baltimore city, Maryland","Gloucester County, New Jersey",1,0,620961,288288
+"830","Baltimore city, Maryland","Camden County, New Jersey",1,0,620961,513657
+"831","Baltimore city, Maryland","Queen Anne's County, Maryland",1,0,620961,47798
+"832","Baltimore city, Maryland","District of Columbia, District of Columbia",1,0,620961,601723
+"833","Baltimore city, Maryland","Montgomery County, Maryland",1,0,620961,971777
+"834","Baltimore city, Maryland","Kent County, Maryland",1,0,620961,20197
+"835","Baltimore city, Maryland","Harford County, Maryland",1,0,620961,244826
+"836","Baltimore city, Maryland","Burlington County, New Jersey",1,0,620961,448734
+"837","Baltimore city, Maryland","Fairfax County, Virginia",1,0,620961,1081726
+"838","Baltimore city, Maryland","Anne Arundel County, Maryland",1,0,620961,537656
+"839","Baltimore city, Maryland","Baltimore County, Maryland",1,0,620961,805029
+"840","Baltimore city, Maryland","Bucks County, Pennsylvania",1,0,620961,625249
+"841","Baltimore city, Maryland","Prince George's County, Maryland",1,0,620961,863420
+"842","Baltimore city, Maryland","New York County, New York",1,0,620961,1585873
+"843","Baltimore city, Maryland","Arlington County, Virginia",1,0,620961,207627
+"844","Baltimore city, Maryland","Somerset County, Maryland",1,0,620961,26470
+"845","Baltimore city, Maryland","Middlesex County, New Jersey",1,0,620961,809858
+"846","Baltimore city, Maryland","Howard County, Maryland",1,0,620961,287085
+"847","Baltimore city, Maryland","Atlantic County, New Jersey",1,0,620961,274549
+"848","Baltimore city, Maryland","Queens County, New York",1,0,620961,2230722
+"849","Baltimore city, Maryland","Cumberland County, New Jersey",1,0,620961,156898
+"850","Baltimore city, Maryland","Mercer County, New Jersey",1,0,620961,366513
+"851","Baltimore city, Maryland","Monmouth County, New Jersey",1,0,620961,630380
+"852","Fairfax County, Virginia","Worcester County, Maryland",1,0,1081726,51454
+"853","Fairfax County, Virginia","Wicomico County, Maryland",1,0,1081726,98733
+"854","Fairfax County, Virginia","Sussex County, Delaware",1,0,1081726,197145
+"855","Fairfax County, Virginia","New Castle County, Delaware",1,0,1081726,538479
+"856","Fairfax County, Virginia","Kent County, Delaware",1,0,1081726,162310
+"857","Fairfax County, Virginia","Delaware County, Pennsylvania",1,0,1081726,558979
+"858","Fairfax County, Virginia","Philadelphia County, Pennsylvania",1,0,1081726,1526006
+"859","Fairfax County, Virginia","Chester County, Pennsylvania",1,0,1081726,498886
+"860","Fairfax County, Virginia","Cecil County, Maryland",1,0,1081726,101108
+"861","Fairfax County, Virginia","Montgomery County, Pennsylvania",1,0,1081726,799874
+"862","Fairfax County, Virginia","Caroline County, Maryland",1,0,1081726,33066
+"863","Fairfax County, Virginia","Salem County, New Jersey",1,0,1081726,66083
+"864","Fairfax County, Virginia","Dorchester County, Maryland",1,0,1081726,32618
+"865","Fairfax County, Virginia","Talbot County, Maryland",1,0,1081726,37782
+"866","Fairfax County, Virginia","Gloucester County, New Jersey",1,0,1081726,288288
+"867","Fairfax County, Virginia","Camden County, New Jersey",1,0,1081726,513657
+"868","Fairfax County, Virginia","Queen Anne's County, Maryland",1,0,1081726,47798
+"869","Fairfax County, Virginia","District of Columbia, District of Columbia",1,0,1081726,601723
+"870","Fairfax County, Virginia","Montgomery County, Maryland",1,0,1081726,971777
+"871","Fairfax County, Virginia","Kent County, Maryland",1,0,1081726,20197
+"872","Fairfax County, Virginia","Harford County, Maryland",1,0,1081726,244826
+"873","Fairfax County, Virginia","Burlington County, New Jersey",1,0,1081726,448734
+"874","Fairfax County, Virginia","Baltimore city, Maryland",1,0,1081726,620961
+"875","Fairfax County, Virginia","Anne Arundel County, Maryland",1,0,1081726,537656
+"876","Fairfax County, Virginia","Baltimore County, Maryland",1,0,1081726,805029
+"877","Fairfax County, Virginia","Bucks County, Pennsylvania",1,0,1081726,625249
+"878","Fairfax County, Virginia","Prince George's County, Maryland",1,0,1081726,863420
+"879","Fairfax County, Virginia","New York County, New York",1,0,1081726,1585873
+"880","Fairfax County, Virginia","Arlington County, Virginia",1,0,1081726,207627
+"881","Fairfax County, Virginia","Somerset County, Maryland",1,0,1081726,26470
+"882","Fairfax County, Virginia","Middlesex County, New Jersey",1,0,1081726,809858
+"883","Fairfax County, Virginia","Howard County, Maryland",1,0,1081726,287085
+"884","Fairfax County, Virginia","Atlantic County, New Jersey",1,0,1081726,274549
+"885","Fairfax County, Virginia","Queens County, New York",1,0,1081726,2230722
+"886","Fairfax County, Virginia","Cumberland County, New Jersey",1,0,1081726,156898
+"887","Fairfax County, Virginia","Mercer County, New Jersey",1,0,1081726,366513
+"888","Fairfax County, Virginia","Monmouth County, New Jersey",1,0,1081726,630380
+"889","Anne Arundel County, Maryland","Worcester County, Maryland",1,0,537656,51454
+"890","Anne Arundel County, Maryland","Wicomico County, Maryland",1,0,537656,98733
+"891","Anne Arundel County, Maryland","Sussex County, Delaware",1,0,537656,197145
+"892","Anne Arundel County, Maryland","New Castle County, Delaware",1,0,537656,538479
+"893","Anne Arundel County, Maryland","Kent County, Delaware",1,0,537656,162310
+"894","Anne Arundel County, Maryland","Delaware County, Pennsylvania",1,0,537656,558979
+"895","Anne Arundel County, Maryland","Philadelphia County, Pennsylvania",1,0,537656,1526006
+"896","Anne Arundel County, Maryland","Chester County, Pennsylvania",1,0,537656,498886
+"897","Anne Arundel County, Maryland","Cecil County, Maryland",1,0,537656,101108
+"898","Anne Arundel County, Maryland","Montgomery County, Pennsylvania",1,0,537656,799874
+"899","Anne Arundel County, Maryland","Caroline County, Maryland",1,0,537656,33066
+"900","Anne Arundel County, Maryland","Salem County, New Jersey",1,0,537656,66083
+"901","Anne Arundel County, Maryland","Dorchester County, Maryland",1,0,537656,32618
+"902","Anne Arundel County, Maryland","Talbot County, Maryland",1,0,537656,37782
+"903","Anne Arundel County, Maryland","Gloucester County, New Jersey",1,0,537656,288288
+"904","Anne Arundel County, Maryland","Camden County, New Jersey",1,0,537656,513657
+"905","Anne Arundel County, Maryland","Queen Anne's County, Maryland",1,0,537656,47798
+"906","Anne Arundel County, Maryland","District of Columbia, District of Columbia",1,0,537656,601723
+"907","Anne Arundel County, Maryland","Montgomery County, Maryland",1,0,537656,971777
+"908","Anne Arundel County, Maryland","Kent County, Maryland",1,0,537656,20197
+"909","Anne Arundel County, Maryland","Harford County, Maryland",1,0,537656,244826
+"910","Anne Arundel County, Maryland","Burlington County, New Jersey",1,0,537656,448734
+"911","Anne Arundel County, Maryland","Baltimore city, Maryland",1,0,537656,620961
+"912","Anne Arundel County, Maryland","Fairfax County, Virginia",1,0,537656,1081726
+"913","Anne Arundel County, Maryland","Baltimore County, Maryland",1,0,537656,805029
+"914","Anne Arundel County, Maryland","Bucks County, Pennsylvania",1,0,537656,625249
+"915","Anne Arundel County, Maryland","Prince George's County, Maryland",1,0,537656,863420
+"916","Anne Arundel County, Maryland","New York County, New York",1,0,537656,1585873
+"917","Anne Arundel County, Maryland","Arlington County, Virginia",1,0,537656,207627
+"918","Anne Arundel County, Maryland","Somerset County, Maryland",1,0,537656,26470
+"919","Anne Arundel County, Maryland","Middlesex County, New Jersey",1,0,537656,809858
+"920","Anne Arundel County, Maryland","Howard County, Maryland",1,0,537656,287085
+"921","Anne Arundel County, Maryland","Atlantic County, New Jersey",1,0,537656,274549
+"922","Anne Arundel County, Maryland","Queens County, New York",1,0,537656,2230722
+"923","Anne Arundel County, Maryland","Cumberland County, New Jersey",1,0,537656,156898
+"924","Anne Arundel County, Maryland","Mercer County, New Jersey",1,0,537656,366513
+"925","Anne Arundel County, Maryland","Monmouth County, New Jersey",1,0,537656,630380
+"926","Baltimore County, Maryland","Worcester County, Maryland",1,0,805029,51454
+"927","Baltimore County, Maryland","Wicomico County, Maryland",1,0,805029,98733
+"928","Baltimore County, Maryland","Sussex County, Delaware",1,0,805029,197145
+"929","Baltimore County, Maryland","New Castle County, Delaware",1,0,805029,538479
+"930","Baltimore County, Maryland","Kent County, Delaware",1,0,805029,162310
+"931","Baltimore County, Maryland","Delaware County, Pennsylvania",1,0,805029,558979
+"932","Baltimore County, Maryland","Philadelphia County, Pennsylvania",1,0,805029,1526006
+"933","Baltimore County, Maryland","Chester County, Pennsylvania",1,0,805029,498886
+"934","Baltimore County, Maryland","Cecil County, Maryland",1,0,805029,101108
+"935","Baltimore County, Maryland","Montgomery County, Pennsylvania",1,0,805029,799874
+"936","Baltimore County, Maryland","Caroline County, Maryland",1,0,805029,33066
+"937","Baltimore County, Maryland","Salem County, New Jersey",1,0,805029,66083
+"938","Baltimore County, Maryland","Dorchester County, Maryland",1,0,805029,32618
+"939","Baltimore County, Maryland","Talbot County, Maryland",1,0,805029,37782
+"940","Baltimore County, Maryland","Gloucester County, New Jersey",1,0,805029,288288
+"941","Baltimore County, Maryland","Camden County, New Jersey",1,0,805029,513657
+"942","Baltimore County, Maryland","Queen Anne's County, Maryland",1,0,805029,47798
+"943","Baltimore County, Maryland","District of Columbia, District of Columbia",1,0,805029,601723
+"944","Baltimore County, Maryland","Montgomery County, Maryland",1,0,805029,971777
+"945","Baltimore County, Maryland","Kent County, Maryland",1,0,805029,20197
+"946","Baltimore County, Maryland","Harford County, Maryland",1,0,805029,244826
+"947","Baltimore County, Maryland","Burlington County, New Jersey",1,0,805029,448734
+"948","Baltimore County, Maryland","Baltimore city, Maryland",1,0,805029,620961
+"949","Baltimore County, Maryland","Fairfax County, Virginia",1,0,805029,1081726
+"950","Baltimore County, Maryland","Anne Arundel County, Maryland",1,0,805029,537656
+"951","Baltimore County, Maryland","Bucks County, Pennsylvania",1,0,805029,625249
+"952","Baltimore County, Maryland","Prince George's County, Maryland",1,0,805029,863420
+"953","Baltimore County, Maryland","New York County, New York",1,0,805029,1585873
+"954","Baltimore County, Maryland","Arlington County, Virginia",1,0,805029,207627
+"955","Baltimore County, Maryland","Somerset County, Maryland",1,0,805029,26470
+"956","Baltimore County, Maryland","Middlesex County, New Jersey",1,0,805029,809858
+"957","Baltimore County, Maryland","Howard County, Maryland",1,0,805029,287085
+"958","Baltimore County, Maryland","Atlantic County, New Jersey",1,0,805029,274549
+"959","Baltimore County, Maryland","Queens County, New York",1,0,805029,2230722
+"960","Baltimore County, Maryland","Cumberland County, New Jersey",1,0,805029,156898
+"961","Baltimore County, Maryland","Mercer County, New Jersey",1,0,805029,366513
+"962","Baltimore County, Maryland","Monmouth County, New Jersey",1,0,805029,630380
+"963","Bucks County, Pennsylvania","Worcester County, Maryland",1,0,625249,51454
+"964","Bucks County, Pennsylvania","Wicomico County, Maryland",1,0,625249,98733
+"965","Bucks County, Pennsylvania","Sussex County, Delaware",1,0,625249,197145
+"966","Bucks County, Pennsylvania","New Castle County, Delaware",1,0,625249,538479
+"967","Bucks County, Pennsylvania","Kent County, Delaware",1,0,625249,162310
+"968","Bucks County, Pennsylvania","Delaware County, Pennsylvania",1,0,625249,558979
+"969","Bucks County, Pennsylvania","Philadelphia County, Pennsylvania",1,0,625249,1526006
+"970","Bucks County, Pennsylvania","Chester County, Pennsylvania",1,0,625249,498886
+"971","Bucks County, Pennsylvania","Cecil County, Maryland",1,0,625249,101108
+"972","Bucks County, Pennsylvania","Montgomery County, Pennsylvania",1,0,625249,799874
+"973","Bucks County, Pennsylvania","Caroline County, Maryland",1,0,625249,33066
+"974","Bucks County, Pennsylvania","Salem County, New Jersey",1,0,625249,66083
+"975","Bucks County, Pennsylvania","Dorchester County, Maryland",1,0,625249,32618
+"976","Bucks County, Pennsylvania","Talbot County, Maryland",1,0,625249,37782
+"977","Bucks County, Pennsylvania","Gloucester County, New Jersey",1,0,625249,288288
+"978","Bucks County, Pennsylvania","Camden County, New Jersey",1,0,625249,513657
+"979","Bucks County, Pennsylvania","Queen Anne's County, Maryland",1,0,625249,47798
+"980","Bucks County, Pennsylvania","District of Columbia, District of Columbia",1,0,625249,601723
+"981","Bucks County, Pennsylvania","Montgomery County, Maryland",1,0,625249,971777
+"982","Bucks County, Pennsylvania","Kent County, Maryland",1,0,625249,20197
+"983","Bucks County, Pennsylvania","Harford County, Maryland",1,0,625249,244826
+"984","Bucks County, Pennsylvania","Burlington County, New Jersey",1,0,625249,448734
+"985","Bucks County, Pennsylvania","Baltimore city, Maryland",1,0,625249,620961
+"986","Bucks County, Pennsylvania","Fairfax County, Virginia",1,0,625249,1081726
+"987","Bucks County, Pennsylvania","Anne Arundel County, Maryland",1,0,625249,537656
+"988","Bucks County, Pennsylvania","Baltimore County, Maryland",1,0,625249,805029
+"989","Bucks County, Pennsylvania","Prince George's County, Maryland",1,0,625249,863420
+"990","Bucks County, Pennsylvania","New York County, New York",1,0,625249,1585873
+"991","Bucks County, Pennsylvania","Arlington County, Virginia",1,0,625249,207627
+"992","Bucks County, Pennsylvania","Somerset County, Maryland",1,0,625249,26470
+"993","Bucks County, Pennsylvania","Middlesex County, New Jersey",1,0,625249,809858
+"994","Bucks County, Pennsylvania","Howard County, Maryland",1,0,625249,287085
+"995","Bucks County, Pennsylvania","Atlantic County, New Jersey",1,0,625249,274549
+"996","Bucks County, Pennsylvania","Queens County, New York",1,0,625249,2230722
+"997","Bucks County, Pennsylvania","Cumberland County, New Jersey",1,0,625249,156898
+"998","Bucks County, Pennsylvania","Mercer County, New Jersey",1,0,625249,366513
+"999","Bucks County, Pennsylvania","Monmouth County, New Jersey",1,0,625249,630380
+"1000","Prince George's County, Maryland","Worcester County, Maryland",1,0,863420,51454
+"1001","Prince George's County, Maryland","Wicomico County, Maryland",1,0,863420,98733
+"1002","Prince George's County, Maryland","Sussex County, Delaware",1,0,863420,197145
+"1003","Prince George's County, Maryland","New Castle County, Delaware",1,0,863420,538479
+"1004","Prince George's County, Maryland","Kent County, Delaware",1,0,863420,162310
+"1005","Prince George's County, Maryland","Delaware County, Pennsylvania",1,0,863420,558979
+"1006","Prince George's County, Maryland","Philadelphia County, Pennsylvania",1,0,863420,1526006
+"1007","Prince George's County, Maryland","Chester County, Pennsylvania",1,0,863420,498886
+"1008","Prince George's County, Maryland","Cecil County, Maryland",1,0,863420,101108
+"1009","Prince George's County, Maryland","Montgomery County, Pennsylvania",1,0,863420,799874
+"1010","Prince George's County, Maryland","Caroline County, Maryland",1,0,863420,33066
+"1011","Prince George's County, Maryland","Salem County, New Jersey",1,0,863420,66083
+"1012","Prince George's County, Maryland","Dorchester County, Maryland",1,0,863420,32618
+"1013","Prince George's County, Maryland","Talbot County, Maryland",1,0,863420,37782
+"1014","Prince George's County, Maryland","Gloucester County, New Jersey",1,0,863420,288288
+"1015","Prince George's County, Maryland","Camden County, New Jersey",1,0,863420,513657
+"1016","Prince George's County, Maryland","Queen Anne's County, Maryland",1,0,863420,47798
+"1017","Prince George's County, Maryland","District of Columbia, District of Columbia",1,0,863420,601723
+"1018","Prince George's County, Maryland","Montgomery County, Maryland",1,0,863420,971777
+"1019","Prince George's County, Maryland","Kent County, Maryland",1,0,863420,20197
+"1020","Prince George's County, Maryland","Harford County, Maryland",1,0,863420,244826
+"1021","Prince George's County, Maryland","Burlington County, New Jersey",1,0,863420,448734
+"1022","Prince George's County, Maryland","Baltimore city, Maryland",1,0,863420,620961
+"1023","Prince George's County, Maryland","Fairfax County, Virginia",1,0,863420,1081726
+"1024","Prince George's County, Maryland","Anne Arundel County, Maryland",1,0,863420,537656
+"1025","Prince George's County, Maryland","Baltimore County, Maryland",1,0,863420,805029
+"1026","Prince George's County, Maryland","Bucks County, Pennsylvania",1,0,863420,625249
+"1027","Prince George's County, Maryland","New York County, New York",1,0,863420,1585873
+"1028","Prince George's County, Maryland","Arlington County, Virginia",1,0,863420,207627
+"1029","Prince George's County, Maryland","Somerset County, Maryland",1,0,863420,26470
+"1030","Prince George's County, Maryland","Middlesex County, New Jersey",1,0,863420,809858
+"1031","Prince George's County, Maryland","Howard County, Maryland",1,0,863420,287085
+"1032","Prince George's County, Maryland","Atlantic County, New Jersey",1,0,863420,274549
+"1033","Prince George's County, Maryland","Queens County, New York",1,0,863420,2230722
+"1034","Prince George's County, Maryland","Cumberland County, New Jersey",1,0,863420,156898
+"1035","Prince George's County, Maryland","Mercer County, New Jersey",1,0,863420,366513
+"1036","Prince George's County, Maryland","Monmouth County, New Jersey",1,0,863420,630380
+"1037","New York County, New York","Worcester County, Maryland",1,0,1585873,51454
+"1038","New York County, New York","Wicomico County, Maryland",1,0,1585873,98733
+"1039","New York County, New York","Sussex County, Delaware",1,0,1585873,197145
+"1040","New York County, New York","New Castle County, Delaware",1,0,1585873,538479
+"1041","New York County, New York","Kent County, Delaware",1,0,1585873,162310
+"1042","New York County, New York","Delaware County, Pennsylvania",1,0,1585873,558979
+"1043","New York County, New York","Philadelphia County, Pennsylvania",1,0,1585873,1526006
+"1044","New York County, New York","Chester County, Pennsylvania",1,0,1585873,498886
+"1045","New York County, New York","Cecil County, Maryland",1,0,1585873,101108
+"1046","New York County, New York","Montgomery County, Pennsylvania",1,0,1585873,799874
+"1047","New York County, New York","Caroline County, Maryland",1,0,1585873,33066
+"1048","New York County, New York","Salem County, New Jersey",1,0,1585873,66083
+"1049","New York County, New York","Dorchester County, Maryland",1,0,1585873,32618
+"1050","New York County, New York","Talbot County, Maryland",1,0,1585873,37782
+"1051","New York County, New York","Gloucester County, New Jersey",1,0,1585873,288288
+"1052","New York County, New York","Camden County, New Jersey",1,0,1585873,513657
+"1053","New York County, New York","Queen Anne's County, Maryland",1,0,1585873,47798
+"1054","New York County, New York","District of Columbia, District of Columbia",1,0,1585873,601723
+"1055","New York County, New York","Montgomery County, Maryland",1,0,1585873,971777
+"1056","New York County, New York","Kent County, Maryland",1,0,1585873,20197
+"1057","New York County, New York","Harford County, Maryland",1,0,1585873,244826
+"1058","New York County, New York","Burlington County, New Jersey",1,0,1585873,448734
+"1059","New York County, New York","Baltimore city, Maryland",1,0,1585873,620961
+"1060","New York County, New York","Fairfax County, Virginia",1,0,1585873,1081726
+"1061","New York County, New York","Anne Arundel County, Maryland",1,0,1585873,537656
+"1062","New York County, New York","Baltimore County, Maryland",1,0,1585873,805029
+"1063","New York County, New York","Bucks County, Pennsylvania",1,0,1585873,625249
+"1064","New York County, New York","Prince George's County, Maryland",1,0,1585873,863420
+"1065","New York County, New York","Arlington County, Virginia",1,0,1585873,207627
+"1066","New York County, New York","Somerset County, Maryland",1,0,1585873,26470
+"1067","New York County, New York","Middlesex County, New Jersey",1,0,1585873,809858
+"1068","New York County, New York","Howard County, Maryland",1,0,1585873,287085
+"1069","New York County, New York","Atlantic County, New Jersey",1,0,1585873,274549
+"1070","New York County, New York","Queens County, New York",1,0,1585873,2230722
+"1071","New York County, New York","Cumberland County, New Jersey",1,0,1585873,156898
+"1072","New York County, New York","Mercer County, New Jersey",1,0,1585873,366513
+"1073","New York County, New York","Monmouth County, New Jersey",1,0,1585873,630380
+"1074","Arlington County, Virginia","Worcester County, Maryland",1,0,207627,51454
+"1075","Arlington County, Virginia","Wicomico County, Maryland",1,0,207627,98733
+"1076","Arlington County, Virginia","Sussex County, Delaware",1,0,207627,197145
+"1077","Arlington County, Virginia","New Castle County, Delaware",1,0,207627,538479
+"1078","Arlington County, Virginia","Kent County, Delaware",1,0,207627,162310
+"1079","Arlington County, Virginia","Delaware County, Pennsylvania",1,0,207627,558979
+"1080","Arlington County, Virginia","Philadelphia County, Pennsylvania",1,0,207627,1526006
+"1081","Arlington County, Virginia","Chester County, Pennsylvania",1,0,207627,498886
+"1082","Arlington County, Virginia","Cecil County, Maryland",1,0,207627,101108
+"1083","Arlington County, Virginia","Montgomery County, Pennsylvania",1,0,207627,799874
+"1084","Arlington County, Virginia","Caroline County, Maryland",1,0,207627,33066
+"1085","Arlington County, Virginia","Salem County, New Jersey",1,0,207627,66083
+"1086","Arlington County, Virginia","Dorchester County, Maryland",1,0,207627,32618
+"1087","Arlington County, Virginia","Talbot County, Maryland",1,0,207627,37782
+"1088","Arlington County, Virginia","Gloucester County, New Jersey",1,0,207627,288288
+"1089","Arlington County, Virginia","Camden County, New Jersey",1,0,207627,513657
+"1090","Arlington County, Virginia","Queen Anne's County, Maryland",1,0,207627,47798
+"1091","Arlington County, Virginia","District of Columbia, District of Columbia",1,0,207627,601723
+"1092","Arlington County, Virginia","Montgomery County, Maryland",1,0,207627,971777
+"1093","Arlington County, Virginia","Kent County, Maryland",1,0,207627,20197
+"1094","Arlington County, Virginia","Harford County, Maryland",1,0,207627,244826
+"1095","Arlington County, Virginia","Burlington County, New Jersey",1,0,207627,448734
+"1096","Arlington County, Virginia","Baltimore city, Maryland",1,0,207627,620961
+"1097","Arlington County, Virginia","Fairfax County, Virginia",1,0,207627,1081726
+"1098","Arlington County, Virginia","Anne Arundel County, Maryland",1,0,207627,537656
+"1099","Arlington County, Virginia","Baltimore County, Maryland",1,0,207627,805029
+"1100","Arlington County, Virginia","Bucks County, Pennsylvania",1,0,207627,625249
+"1101","Arlington County, Virginia","Prince George's County, Maryland",1,0,207627,863420
+"1102","Arlington County, Virginia","New York County, New York",1,0,207627,1585873
+"1103","Arlington County, Virginia","Somerset County, Maryland",1,0,207627,26470
+"1104","Arlington County, Virginia","Middlesex County, New Jersey",1,0,207627,809858
+"1105","Arlington County, Virginia","Howard County, Maryland",1,0,207627,287085
+"1106","Arlington County, Virginia","Atlantic County, New Jersey",1,0,207627,274549
+"1107","Arlington County, Virginia","Queens County, New York",1,0,207627,2230722
+"1108","Arlington County, Virginia","Cumberland County, New Jersey",1,0,207627,156898
+"1109","Arlington County, Virginia","Mercer County, New Jersey",1,0,207627,366513
+"1110","Arlington County, Virginia","Monmouth County, New Jersey",1,0,207627,630380
+"1111","Somerset County, Maryland","Worcester County, Maryland",1,0,26470,51454
+"1112","Somerset County, Maryland","Wicomico County, Maryland",1,0,26470,98733
+"1113","Somerset County, Maryland","Sussex County, Delaware",1,0,26470,197145
+"1114","Somerset County, Maryland","New Castle County, Delaware",1,0,26470,538479
+"1115","Somerset County, Maryland","Kent County, Delaware",1,0,26470,162310
+"1116","Somerset County, Maryland","Delaware County, Pennsylvania",1,0,26470,558979
+"1117","Somerset County, Maryland","Philadelphia County, Pennsylvania",1,0,26470,1526006
+"1118","Somerset County, Maryland","Chester County, Pennsylvania",1,0,26470,498886
+"1119","Somerset County, Maryland","Cecil County, Maryland",1,0,26470,101108
+"1120","Somerset County, Maryland","Montgomery County, Pennsylvania",1,0,26470,799874
+"1121","Somerset County, Maryland","Caroline County, Maryland",1,0,26470,33066
+"1122","Somerset County, Maryland","Salem County, New Jersey",1,0,26470,66083
+"1123","Somerset County, Maryland","Dorchester County, Maryland",1,0,26470,32618
+"1124","Somerset County, Maryland","Talbot County, Maryland",1,0,26470,37782
+"1125","Somerset County, Maryland","Gloucester County, New Jersey",1,0,26470,288288
+"1126","Somerset County, Maryland","Camden County, New Jersey",1,0,26470,513657
+"1127","Somerset County, Maryland","Queen Anne's County, Maryland",1,0,26470,47798
+"1128","Somerset County, Maryland","District of Columbia, District of Columbia",1,0,26470,601723
+"1129","Somerset County, Maryland","Montgomery County, Maryland",1,0,26470,971777
+"1130","Somerset County, Maryland","Kent County, Maryland",1,0,26470,20197
+"1131","Somerset County, Maryland","Harford County, Maryland",1,0,26470,244826
+"1132","Somerset County, Maryland","Burlington County, New Jersey",1,0,26470,448734
+"1133","Somerset County, Maryland","Baltimore city, Maryland",1,0,26470,620961
+"1134","Somerset County, Maryland","Fairfax County, Virginia",1,0,26470,1081726
+"1135","Somerset County, Maryland","Anne Arundel County, Maryland",1,0,26470,537656
+"1136","Somerset County, Maryland","Baltimore County, Maryland",1,0,26470,805029
+"1137","Somerset County, Maryland","Bucks County, Pennsylvania",1,0,26470,625249
+"1138","Somerset County, Maryland","Prince George's County, Maryland",1,0,26470,863420
+"1139","Somerset County, Maryland","New York County, New York",1,0,26470,1585873
+"1140","Somerset County, Maryland","Arlington County, Virginia",1,0,26470,207627
+"1141","Somerset County, Maryland","Middlesex County, New Jersey",1,0,26470,809858
+"1142","Somerset County, Maryland","Howard County, Maryland",1,0,26470,287085
+"1143","Somerset County, Maryland","Atlantic County, New Jersey",1,0,26470,274549
+"1144","Somerset County, Maryland","Queens County, New York",1,0,26470,2230722
+"1145","Somerset County, Maryland","Cumberland County, New Jersey",1,0,26470,156898
+"1146","Somerset County, Maryland","Mercer County, New Jersey",1,0,26470,366513
+"1147","Somerset County, Maryland","Monmouth County, New Jersey",1,0,26470,630380
+"1148","Middlesex County, New Jersey","Worcester County, Maryland",1,0,809858,51454
+"1149","Middlesex County, New Jersey","Wicomico County, Maryland",1,0,809858,98733
+"1150","Middlesex County, New Jersey","Sussex County, Delaware",1,0,809858,197145
+"1151","Middlesex County, New Jersey","New Castle County, Delaware",1,0,809858,538479
+"1152","Middlesex County, New Jersey","Kent County, Delaware",1,0,809858,162310
+"1153","Middlesex County, New Jersey","Delaware County, Pennsylvania",1,0,809858,558979
+"1154","Middlesex County, New Jersey","Philadelphia County, Pennsylvania",1,0,809858,1526006
+"1155","Middlesex County, New Jersey","Chester County, Pennsylvania",1,0,809858,498886
+"1156","Middlesex County, New Jersey","Cecil County, Maryland",1,0,809858,101108
+"1157","Middlesex County, New Jersey","Montgomery County, Pennsylvania",1,0,809858,799874
+"1158","Middlesex County, New Jersey","Caroline County, Maryland",1,0,809858,33066
+"1159","Middlesex County, New Jersey","Salem County, New Jersey",1,0,809858,66083
+"1160","Middlesex County, New Jersey","Dorchester County, Maryland",1,0,809858,32618
+"1161","Middlesex County, New Jersey","Talbot County, Maryland",1,0,809858,37782
+"1162","Middlesex County, New Jersey","Gloucester County, New Jersey",1,0,809858,288288
+"1163","Middlesex County, New Jersey","Camden County, New Jersey",1,0,809858,513657
+"1164","Middlesex County, New Jersey","Queen Anne's County, Maryland",1,0,809858,47798
+"1165","Middlesex County, New Jersey","District of Columbia, District of Columbia",1,0,809858,601723
+"1166","Middlesex County, New Jersey","Montgomery County, Maryland",1,0,809858,971777
+"1167","Middlesex County, New Jersey","Kent County, Maryland",1,0,809858,20197
+"1168","Middlesex County, New Jersey","Harford County, Maryland",1,0,809858,244826
+"1169","Middlesex County, New Jersey","Burlington County, New Jersey",1,0,809858,448734
+"1170","Middlesex County, New Jersey","Baltimore city, Maryland",1,0,809858,620961
+"1171","Middlesex County, New Jersey","Fairfax County, Virginia",1,0,809858,1081726
+"1172","Middlesex County, New Jersey","Anne Arundel County, Maryland",1,0,809858,537656
+"1173","Middlesex County, New Jersey","Baltimore County, Maryland",1,0,809858,805029
+"1174","Middlesex County, New Jersey","Bucks County, Pennsylvania",1,0,809858,625249
+"1175","Middlesex County, New Jersey","Prince George's County, Maryland",1,0,809858,863420
+"1176","Middlesex County, New Jersey","New York County, New York",1,0,809858,1585873
+"1177","Middlesex County, New Jersey","Arlington County, Virginia",1,0,809858,207627
+"1178","Middlesex County, New Jersey","Somerset County, Maryland",1,0,809858,26470
+"1179","Middlesex County, New Jersey","Howard County, Maryland",1,0,809858,287085
+"1180","Middlesex County, New Jersey","Atlantic County, New Jersey",1,0,809858,274549
+"1181","Middlesex County, New Jersey","Queens County, New York",1,0,809858,2230722
+"1182","Middlesex County, New Jersey","Cumberland County, New Jersey",1,0,809858,156898
+"1183","Middlesex County, New Jersey","Mercer County, New Jersey",1,0,809858,366513
+"1184","Middlesex County, New Jersey","Monmouth County, New Jersey",1,0,809858,630380
+"1185","Howard County, Maryland","Worcester County, Maryland",1,0,287085,51454
+"1186","Howard County, Maryland","Wicomico County, Maryland",1,0,287085,98733
+"1187","Howard County, Maryland","Sussex County, Delaware",1,0,287085,197145
+"1188","Howard County, Maryland","New Castle County, Delaware",1,0,287085,538479
+"1189","Howard County, Maryland","Kent County, Delaware",1,0,287085,162310
+"1190","Howard County, Maryland","Delaware County, Pennsylvania",1,0,287085,558979
+"1191","Howard County, Maryland","Philadelphia County, Pennsylvania",1,0,287085,1526006
+"1192","Howard County, Maryland","Chester County, Pennsylvania",1,0,287085,498886
+"1193","Howard County, Maryland","Cecil County, Maryland",1,0,287085,101108
+"1194","Howard County, Maryland","Montgomery County, Pennsylvania",1,0,287085,799874
+"1195","Howard County, Maryland","Caroline County, Maryland",1,0,287085,33066
+"1196","Howard County, Maryland","Salem County, New Jersey",1,0,287085,66083
+"1197","Howard County, Maryland","Dorchester County, Maryland",1,0,287085,32618
+"1198","Howard County, Maryland","Talbot County, Maryland",1,0,287085,37782
+"1199","Howard County, Maryland","Gloucester County, New Jersey",1,0,287085,288288
+"1200","Howard County, Maryland","Camden County, New Jersey",1,0,287085,513657
+"1201","Howard County, Maryland","Queen Anne's County, Maryland",1,0,287085,47798
+"1202","Howard County, Maryland","District of Columbia, District of Columbia",1,0,287085,601723
+"1203","Howard County, Maryland","Montgomery County, Maryland",1,0,287085,971777
+"1204","Howard County, Maryland","Kent County, Maryland",1,0,287085,20197
+"1205","Howard County, Maryland","Harford County, Maryland",1,0,287085,244826
+"1206","Howard County, Maryland","Burlington County, New Jersey",1,0,287085,448734
+"1207","Howard County, Maryland","Baltimore city, Maryland",1,0,287085,620961
+"1208","Howard County, Maryland","Fairfax County, Virginia",1,0,287085,1081726
+"1209","Howard County, Maryland","Anne Arundel County, Maryland",1,0,287085,537656
+"1210","Howard County, Maryland","Baltimore County, Maryland",1,0,287085,805029
+"1211","Howard County, Maryland","Bucks County, Pennsylvania",1,0,287085,625249
+"1212","Howard County, Maryland","Prince George's County, Maryland",1,0,287085,863420
+"1213","Howard County, Maryland","New York County, New York",1,0,287085,1585873
+"1214","Howard County, Maryland","Arlington County, Virginia",1,0,287085,207627
+"1215","Howard County, Maryland","Somerset County, Maryland",1,0,287085,26470
+"1216","Howard County, Maryland","Middlesex County, New Jersey",1,0,287085,809858
+"1217","Howard County, Maryland","Atlantic County, New Jersey",1,0,287085,274549
+"1218","Howard County, Maryland","Queens County, New York",1,0,287085,2230722
+"1219","Howard County, Maryland","Cumberland County, New Jersey",1,0,287085,156898
+"1220","Howard County, Maryland","Mercer County, New Jersey",1,0,287085,366513
+"1221","Howard County, Maryland","Monmouth County, New Jersey",1,0,287085,630380
+"1222","Atlantic County, New Jersey","Worcester County, Maryland",1,0,274549,51454
+"1223","Atlantic County, New Jersey","Wicomico County, Maryland",1,0,274549,98733
+"1224","Atlantic County, New Jersey","Sussex County, Delaware",1,0,274549,197145
+"1225","Atlantic County, New Jersey","New Castle County, Delaware",1,0,274549,538479
+"1226","Atlantic County, New Jersey","Kent County, Delaware",1,0,274549,162310
+"1227","Atlantic County, New Jersey","Delaware County, Pennsylvania",1,0,274549,558979
+"1228","Atlantic County, New Jersey","Philadelphia County, Pennsylvania",1,0,274549,1526006
+"1229","Atlantic County, New Jersey","Chester County, Pennsylvania",1,0,274549,498886
+"1230","Atlantic County, New Jersey","Cecil County, Maryland",1,0,274549,101108
+"1231","Atlantic County, New Jersey","Montgomery County, Pennsylvania",1,0,274549,799874
+"1232","Atlantic County, New Jersey","Caroline County, Maryland",1,0,274549,33066
+"1233","Atlantic County, New Jersey","Salem County, New Jersey",1,0,274549,66083
+"1234","Atlantic County, New Jersey","Dorchester County, Maryland",1,0,274549,32618
+"1235","Atlantic County, New Jersey","Talbot County, Maryland",1,0,274549,37782
+"1236","Atlantic County, New Jersey","Gloucester County, New Jersey",1,0,274549,288288
+"1237","Atlantic County, New Jersey","Camden County, New Jersey",1,0,274549,513657
+"1238","Atlantic County, New Jersey","Queen Anne's County, Maryland",1,0,274549,47798
+"1239","Atlantic County, New Jersey","District of Columbia, District of Columbia",1,0,274549,601723
+"1240","Atlantic County, New Jersey","Montgomery County, Maryland",1,0,274549,971777
+"1241","Atlantic County, New Jersey","Kent County, Maryland",1,0,274549,20197
+"1242","Atlantic County, New Jersey","Harford County, Maryland",1,0,274549,244826
+"1243","Atlantic County, New Jersey","Burlington County, New Jersey",1,0,274549,448734
+"1244","Atlantic County, New Jersey","Baltimore city, Maryland",1,0,274549,620961
+"1245","Atlantic County, New Jersey","Fairfax County, Virginia",1,0,274549,1081726
+"1246","Atlantic County, New Jersey","Anne Arundel County, Maryland",1,0,274549,537656
+"1247","Atlantic County, New Jersey","Baltimore County, Maryland",1,0,274549,805029
+"1248","Atlantic County, New Jersey","Bucks County, Pennsylvania",1,0,274549,625249
+"1249","Atlantic County, New Jersey","Prince George's County, Maryland",1,0,274549,863420
+"1250","Atlantic County, New Jersey","New York County, New York",1,0,274549,1585873
+"1251","Atlantic County, New Jersey","Arlington County, Virginia",1,0,274549,207627
+"1252","Atlantic County, New Jersey","Somerset County, Maryland",1,0,274549,26470
+"1253","Atlantic County, New Jersey","Middlesex County, New Jersey",1,0,274549,809858
+"1254","Atlantic County, New Jersey","Howard County, Maryland",1,0,274549,287085
+"1255","Atlantic County, New Jersey","Queens County, New York",1,0,274549,2230722
+"1256","Atlantic County, New Jersey","Cumberland County, New Jersey",1,0,274549,156898
+"1257","Atlantic County, New Jersey","Mercer County, New Jersey",1,0,274549,366513
+"1258","Atlantic County, New Jersey","Monmouth County, New Jersey",1,0,274549,630380
+"1259","Queens County, New York","Worcester County, Maryland",1,0,2230722,51454
+"1260","Queens County, New York","Wicomico County, Maryland",1,0,2230722,98733
+"1261","Queens County, New York","Sussex County, Delaware",1,0,2230722,197145
+"1262","Queens County, New York","New Castle County, Delaware",1,0,2230722,538479
+"1263","Queens County, New York","Kent County, Delaware",1,0,2230722,162310
+"1264","Queens County, New York","Delaware County, Pennsylvania",1,0,2230722,558979
+"1265","Queens County, New York","Philadelphia County, Pennsylvania",1,0,2230722,1526006
+"1266","Queens County, New York","Chester County, Pennsylvania",1,0,2230722,498886
+"1267","Queens County, New York","Cecil County, Maryland",1,0,2230722,101108
+"1268","Queens County, New York","Montgomery County, Pennsylvania",1,0,2230722,799874
+"1269","Queens County, New York","Caroline County, Maryland",1,0,2230722,33066
+"1270","Queens County, New York","Salem County, New Jersey",1,0,2230722,66083
+"1271","Queens County, New York","Dorchester County, Maryland",1,0,2230722,32618
+"1272","Queens County, New York","Talbot County, Maryland",1,0,2230722,37782
+"1273","Queens County, New York","Gloucester County, New Jersey",1,0,2230722,288288
+"1274","Queens County, New York","Camden County, New Jersey",1,0,2230722,513657
+"1275","Queens County, New York","Queen Anne's County, Maryland",1,0,2230722,47798
+"1276","Queens County, New York","District of Columbia, District of Columbia",1,0,2230722,601723
+"1277","Queens County, New York","Montgomery County, Maryland",1,0,2230722,971777
+"1278","Queens County, New York","Kent County, Maryland",1,0,2230722,20197
+"1279","Queens County, New York","Harford County, Maryland",1,0,2230722,244826
+"1280","Queens County, New York","Burlington County, New Jersey",1,0,2230722,448734
+"1281","Queens County, New York","Baltimore city, Maryland",1,0,2230722,620961
+"1282","Queens County, New York","Fairfax County, Virginia",1,0,2230722,1081726
+"1283","Queens County, New York","Anne Arundel County, Maryland",1,0,2230722,537656
+"1284","Queens County, New York","Baltimore County, Maryland",1,0,2230722,805029
+"1285","Queens County, New York","Bucks County, Pennsylvania",1,0,2230722,625249
+"1286","Queens County, New York","Prince George's County, Maryland",1,0,2230722,863420
+"1287","Queens County, New York","New York County, New York",1,0,2230722,1585873
+"1288","Queens County, New York","Arlington County, Virginia",1,0,2230722,207627
+"1289","Queens County, New York","Somerset County, Maryland",1,0,2230722,26470
+"1290","Queens County, New York","Middlesex County, New Jersey",1,0,2230722,809858
+"1291","Queens County, New York","Howard County, Maryland",1,0,2230722,287085
+"1292","Queens County, New York","Atlantic County, New Jersey",1,0,2230722,274549
+"1293","Queens County, New York","Cumberland County, New Jersey",1,0,2230722,156898
+"1294","Queens County, New York","Mercer County, New Jersey",1,0,2230722,366513
+"1295","Queens County, New York","Monmouth County, New Jersey",1,0,2230722,630380
+"1296","Cumberland County, New Jersey","Worcester County, Maryland",1,0,156898,51454
+"1297","Cumberland County, New Jersey","Wicomico County, Maryland",1,0,156898,98733
+"1298","Cumberland County, New Jersey","Sussex County, Delaware",1,0,156898,197145
+"1299","Cumberland County, New Jersey","New Castle County, Delaware",1,0,156898,538479
+"1300","Cumberland County, New Jersey","Kent County, Delaware",1,0,156898,162310
+"1301","Cumberland County, New Jersey","Delaware County, Pennsylvania",1,0,156898,558979
+"1302","Cumberland County, New Jersey","Philadelphia County, Pennsylvania",1,0,156898,1526006
+"1303","Cumberland County, New Jersey","Chester County, Pennsylvania",1,0,156898,498886
+"1304","Cumberland County, New Jersey","Cecil County, Maryland",1,0,156898,101108
+"1305","Cumberland County, New Jersey","Montgomery County, Pennsylvania",1,0,156898,799874
+"1306","Cumberland County, New Jersey","Caroline County, Maryland",1,0,156898,33066
+"1307","Cumberland County, New Jersey","Salem County, New Jersey",1,0,156898,66083
+"1308","Cumberland County, New Jersey","Dorchester County, Maryland",1,0,156898,32618
+"1309","Cumberland County, New Jersey","Talbot County, Maryland",1,0,156898,37782
+"1310","Cumberland County, New Jersey","Gloucester County, New Jersey",1,0,156898,288288
+"1311","Cumberland County, New Jersey","Camden County, New Jersey",1,0,156898,513657
+"1312","Cumberland County, New Jersey","Queen Anne's County, Maryland",1,0,156898,47798
+"1313","Cumberland County, New Jersey","District of Columbia, District of Columbia",1,0,156898,601723
+"1314","Cumberland County, New Jersey","Montgomery County, Maryland",1,0,156898,971777
+"1315","Cumberland County, New Jersey","Kent County, Maryland",1,0,156898,20197
+"1316","Cumberland County, New Jersey","Harford County, Maryland",1,0,156898,244826
+"1317","Cumberland County, New Jersey","Burlington County, New Jersey",1,0,156898,448734
+"1318","Cumberland County, New Jersey","Baltimore city, Maryland",1,0,156898,620961
+"1319","Cumberland County, New Jersey","Fairfax County, Virginia",1,0,156898,1081726
+"1320","Cumberland County, New Jersey","Anne Arundel County, Maryland",1,0,156898,537656
+"1321","Cumberland County, New Jersey","Baltimore County, Maryland",1,0,156898,805029
+"1322","Cumberland County, New Jersey","Bucks County, Pennsylvania",1,0,156898,625249
+"1323","Cumberland County, New Jersey","Prince George's County, Maryland",1,0,156898,863420
+"1324","Cumberland County, New Jersey","New York County, New York",1,0,156898,1585873
+"1325","Cumberland County, New Jersey","Arlington County, Virginia",1,0,156898,207627
+"1326","Cumberland County, New Jersey","Somerset County, Maryland",1,0,156898,26470
+"1327","Cumberland County, New Jersey","Middlesex County, New Jersey",1,0,156898,809858
+"1328","Cumberland County, New Jersey","Howard County, Maryland",1,0,156898,287085
+"1329","Cumberland County, New Jersey","Atlantic County, New Jersey",1,0,156898,274549
+"1330","Cumberland County, New Jersey","Queens County, New York",1,0,156898,2230722
+"1331","Cumberland County, New Jersey","Mercer County, New Jersey",1,0,156898,366513
+"1332","Cumberland County, New Jersey","Monmouth County, New Jersey",1,0,156898,630380
+"1333","Mercer County, New Jersey","Worcester County, Maryland",1,0,366513,51454
+"1334","Mercer County, New Jersey","Wicomico County, Maryland",1,0,366513,98733
+"1335","Mercer County, New Jersey","Sussex County, Delaware",1,0,366513,197145
+"1336","Mercer County, New Jersey","New Castle County, Delaware",1,0,366513,538479
+"1337","Mercer County, New Jersey","Kent County, Delaware",1,0,366513,162310
+"1338","Mercer County, New Jersey","Delaware County, Pennsylvania",1,0,366513,558979
+"1339","Mercer County, New Jersey","Philadelphia County, Pennsylvania",1,0,366513,1526006
+"1340","Mercer County, New Jersey","Chester County, Pennsylvania",1,0,366513,498886
+"1341","Mercer County, New Jersey","Cecil County, Maryland",1,0,366513,101108
+"1342","Mercer County, New Jersey","Montgomery County, Pennsylvania",1,0,366513,799874
+"1343","Mercer County, New Jersey","Caroline County, Maryland",1,0,366513,33066
+"1344","Mercer County, New Jersey","Salem County, New Jersey",1,0,366513,66083
+"1345","Mercer County, New Jersey","Dorchester County, Maryland",1,0,366513,32618
+"1346","Mercer County, New Jersey","Talbot County, Maryland",1,0,366513,37782
+"1347","Mercer County, New Jersey","Gloucester County, New Jersey",1,0,366513,288288
+"1348","Mercer County, New Jersey","Camden County, New Jersey",1,0,366513,513657
+"1349","Mercer County, New Jersey","Queen Anne's County, Maryland",1,0,366513,47798
+"1350","Mercer County, New Jersey","District of Columbia, District of Columbia",1,0,366513,601723
+"1351","Mercer County, New Jersey","Montgomery County, Maryland",1,0,366513,971777
+"1352","Mercer County, New Jersey","Kent County, Maryland",1,0,366513,20197
+"1353","Mercer County, New Jersey","Harford County, Maryland",1,0,366513,244826
+"1354","Mercer County, New Jersey","Burlington County, New Jersey",1,0,366513,448734
+"1355","Mercer County, New Jersey","Baltimore city, Maryland",1,0,366513,620961
+"1356","Mercer County, New Jersey","Fairfax County, Virginia",1,0,366513,1081726
+"1357","Mercer County, New Jersey","Anne Arundel County, Maryland",1,0,366513,537656
+"1358","Mercer County, New Jersey","Baltimore County, Maryland",1,0,366513,805029
+"1359","Mercer County, New Jersey","Bucks County, Pennsylvania",1,0,366513,625249
+"1360","Mercer County, New Jersey","Prince George's County, Maryland",1,0,366513,863420
+"1361","Mercer County, New Jersey","New York County, New York",1,0,366513,1585873
+"1362","Mercer County, New Jersey","Arlington County, Virginia",1,0,366513,207627
+"1363","Mercer County, New Jersey","Somerset County, Maryland",1,0,366513,26470
+"1364","Mercer County, New Jersey","Middlesex County, New Jersey",1,0,366513,809858
+"1365","Mercer County, New Jersey","Howard County, Maryland",1,0,366513,287085
+"1366","Mercer County, New Jersey","Atlantic County, New Jersey",1,0,366513,274549
+"1367","Mercer County, New Jersey","Queens County, New York",1,0,366513,2230722
+"1368","Mercer County, New Jersey","Cumberland County, New Jersey",1,0,366513,156898
+"1369","Mercer County, New Jersey","Monmouth County, New Jersey",1,0,366513,630380
+"1370","Monmouth County, New Jersey","Worcester County, Maryland",1,0,630380,51454
+"1371","Monmouth County, New Jersey","Wicomico County, Maryland",1,0,630380,98733
+"1372","Monmouth County, New Jersey","Sussex County, Delaware",1,0,630380,197145
+"1373","Monmouth County, New Jersey","New Castle County, Delaware",1,0,630380,538479
+"1374","Monmouth County, New Jersey","Kent County, Delaware",1,0,630380,162310
+"1375","Monmouth County, New Jersey","Delaware County, Pennsylvania",1,0,630380,558979
+"1376","Monmouth County, New Jersey","Philadelphia County, Pennsylvania",1,0,630380,1526006
+"1377","Monmouth County, New Jersey","Chester County, Pennsylvania",1,0,630380,498886
+"1378","Monmouth County, New Jersey","Cecil County, Maryland",1,0,630380,101108
+"1379","Monmouth County, New Jersey","Montgomery County, Pennsylvania",1,0,630380,799874
+"1380","Monmouth County, New Jersey","Caroline County, Maryland",1,0,630380,33066
+"1381","Monmouth County, New Jersey","Salem County, New Jersey",1,0,630380,66083
+"1382","Monmouth County, New Jersey","Dorchester County, Maryland",1,0,630380,32618
+"1383","Monmouth County, New Jersey","Talbot County, Maryland",1,0,630380,37782
+"1384","Monmouth County, New Jersey","Gloucester County, New Jersey",1,0,630380,288288
+"1385","Monmouth County, New Jersey","Camden County, New Jersey",1,0,630380,513657
+"1386","Monmouth County, New Jersey","Queen Anne's County, Maryland",1,0,630380,47798
+"1387","Monmouth County, New Jersey","District of Columbia, District of Columbia",1,0,630380,601723
+"1388","Monmouth County, New Jersey","Montgomery County, Maryland",1,0,630380,971777
+"1389","Monmouth County, New Jersey","Kent County, Maryland",1,0,630380,20197
+"1390","Monmouth County, New Jersey","Harford County, Maryland",1,0,630380,244826
+"1391","Monmouth County, New Jersey","Burlington County, New Jersey",1,0,630380,448734
+"1392","Monmouth County, New Jersey","Baltimore city, Maryland",1,0,630380,620961
+"1393","Monmouth County, New Jersey","Fairfax County, Virginia",1,0,630380,1081726
+"1394","Monmouth County, New Jersey","Anne Arundel County, Maryland",1,0,630380,537656
+"1395","Monmouth County, New Jersey","Baltimore County, Maryland",1,0,630380,805029
+"1396","Monmouth County, New Jersey","Bucks County, Pennsylvania",1,0,630380,625249
+"1397","Monmouth County, New Jersey","Prince George's County, Maryland",1,0,630380,863420
+"1398","Monmouth County, New Jersey","New York County, New York",1,0,630380,1585873
+"1399","Monmouth County, New Jersey","Arlington County, Virginia",1,0,630380,207627
+"1400","Monmouth County, New Jersey","Somerset County, Maryland",1,0,630380,26470
+"1401","Monmouth County, New Jersey","Middlesex County, New Jersey",1,0,630380,809858
+"1402","Monmouth County, New Jersey","Howard County, Maryland",1,0,630380,287085
+"1403","Monmouth County, New Jersey","Atlantic County, New Jersey",1,0,630380,274549
+"1404","Monmouth County, New Jersey","Queens County, New York",1,0,630380,2230722
+"1405","Monmouth County, New Jersey","Cumberland County, New Jersey",1,0,630380,156898
+"1406","Monmouth County, New Jersey","Mercer County, New Jersey",1,0,630380,366513

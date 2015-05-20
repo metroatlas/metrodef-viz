@@ -1,0 +1,1057 @@
+"","source","target","cluster","pct","srcpop","tarpop"
+"199","Pinal County, Arizona","Maricopa County, Arizona",1,0.148678713042553,375770,3817117
+"760","Mohave County, Arizona","Clark County, Nevada",1,0.0477755687210894,200186,1951269
+"330","Graham County, Arizona","Greenlee County, Arizona",1,0.0211445459430414,37220,8437
+"528","Apache County, Arizona","Navajo County, Arizona",1,0.0178276797449593,71518,107449
+"364","Santa Cruz County, Arizona","Pima County, Arizona",1,0.0165541965415437,47420,980263
+"135","Yavapai County, Arizona","Maricopa County, Arizona",1,0.0148649737244886,211033,3817117
+"329","Graham County, Arizona","Gila County, Arizona",1,0.0147501343363783,37220,53597
+"298","Greenlee County, Arizona","Graham County, Arizona",1,0.0146971672395401,8437,37220
+"429","Cochise County, Arizona","Pima County, Arizona",1,0.0127145097680934,131346,980263
+"529","Apache County, Arizona","McKinley County, New Mexico",1,0.0115215749881149,71518,71492
+"204","Pinal County, Arizona","Pima County, Arizona",1,0.010008781967693,375770,980263
+"264","Gila County, Arizona","Maricopa County, Arizona",1,0.00960874675821408,53597,3817117
+"175","Coconino County, Arizona","Navajo County, Arizona",1,0.00740211722870682,134421,107449
+"133","Yavapai County, Arizona","Coconino County, Arizona",1,0.00731639127529818,211033,134421
+"263","Gila County, Arizona","Pinal County, Arizona",1,0.00720189562848667,53597,375770
+"496","Navajo County, Arizona","Apache County, Arizona",1,0.00665431972377593,107449,71518
+"759","Mohave County, Arizona","San Bernardino County, California",1,0.00653392345119039,200186,2035210
+"527","Apache County, Arizona","San Juan County, New Mexico",1,0.00618026231158589,71518,130044
+"165","Coconino County, Arizona","Yavapai County, Arizona",1,0.00590681515537007,134421,211033
+"486","Navajo County, Arizona","Coconino County, Arizona",1,0.00550028385559661,107449,134421
+"858","La Paz County, Arizona","Riverside County, California",1,0.00492947435209137,20489,2189641
+"855","La Paz County, Arizona","San Bernardino County, California",1,0.00419737420079067,20489,2035210
+"1","Yuma County, Arizona","Imperial County, California",1,0.00413790989573489,195751,174528
+"167","Coconino County, Arizona","Maricopa County, Arizona",1,0.00374941415403843,134421,3817117
+"333","Graham County, Arizona","Cochise County, Arizona",1,0.00349274583557227,37220,131346
+"231","Maricopa County, Arizona","Pinal County, Arizona",1,0.0027853482091327,3817117,375770
+"758","Mohave County, Arizona","Washington County, Utah",1,0.00236779794790844,200186,138115
+"392","Pima County, Arizona","Maricopa County, Arizona",1,0.00208413456388745,980263,3817117
+"762","Mohave County, Arizona","La Paz County, Arizona",1,0.00170341582328435,200186,20489
+"396","Pima County, Arizona","Santa Cruz County, Arizona",1,0.00169444322595059,980263,47420
+"397","Pima County, Arizona","Cochise County, Arizona",1,0.00163629556557781,980263,131346
+"488","Navajo County, Arizona","Maricopa County, Arizona",1,0.00156353246656553,107449,3817117
+"391","Pima County, Arizona","Pinal County, Arizona",1,0.00150367809455218,980263,375770
+"365","Santa Cruz County, Arizona","Cochise County, Arizona",1,0.00149725854070013,47420,131346
+"520","Apache County, Arizona","Maricopa County, Arizona",1,0.00114656450124444,71518,3817117
+"530","Apache County, Arizona","Montezuma County, Colorado",1,0.00111859951340921,71518,25535
+"179","Coconino County, Arizona","Kane County, Utah",1,0.00109357912826121,134421,7125
+"2","Yuma County, Arizona","Monterey County, California",1,0.000950186716798382,195751,415057
+"3","Yuma County, Arizona","San Diego County, California",1,0.000848016102088878,195751,3095313
+"428","Cochise County, Arizona","Santa Cruz County, Arizona",1,0.000807028763723296,131346,47420
+"7","Yuma County, Arizona","Maricopa County, Arizona",1,0.000791822263998651,195751,3817117
+"500","Navajo County, Arizona","San Juan County, Utah",1,0.000763152751537939,107449,14746
+"427","Cochise County, Arizona","Graham County, Arizona",1,0.000746120932498896,131346,37220
+"200","Pinal County, Arizona","Gila County, Arizona",1,0.00068925140378423,375770,53597
+"763","Mohave County, Arizona","Los Angeles County, California",1,0.000599442518457834,200186,9818605
+"744","Mohave County, Arizona","Maricopa County, Arizona",1,0.000599442518457834,200186,3817117
+"424","Cochise County, Arizona","Maricopa County, Arizona",1,0.000563397438825697,131346,3817117
+"236","Maricopa County, Arizona","Pima County, Arizona",1,0.000559584628922823,3817117,980263
+"328","Graham County, Arizona","Maricopa County, Arizona",1,0.000537345513164965,37220,3817117
+"764","Mohave County, Arizona","Orange County, California",1,0.000514521495009641,200186,3010232
+"761","Mohave County, Arizona","Riverside County, California",1,0.000504530786368677,200186,2189641
+"176","Coconino County, Arizona","Apache County, Arizona",1,0.00049099471064789,134421,71518
+"518","Apache County, Arizona","Coconino County, Arizona",1,0.000475404793198915,71518,134421
+"266","Gila County, Arizona","Graham County, Arizona",1,0.000354497453215665,53597,37220
+"251","Maricopa County, Arizona","Los Angeles County, California",1,0.000339785235820647,3817117,9818605
+"229","Maricopa County, Arizona","Yavapai County, Arizona",1,0.000317779098728176,3817117,211033
+"268","Gila County, Arizona","Pima County, Arizona",1,0.000298524171128981,53597,980263
+"261","Gila County, Arizona","Yavapai County, Arizona",1,0.00027986641043342,53597,211033
+"183","Coconino County, Arizona","Mohave County, Arizona",1,0.000275254610514726,134421,200186
+"151","Yavapai County, Arizona","Mohave County, Arizona",1,0.00026062274620557,211033,200186
+"155","Yavapai County, Arizona","Los Angeles County, California",1,0.000227452578506679,211033,9818605
+"742","Mohave County, Arizona","Coconino County, Arizona",1,0.000219795590101206,200186,134421
+"360","Santa Cruz County, Arizona","Maricopa County, Arizona",1,0.000189793336145086,47420,3817117
+"532","Apache County, Arizona","San Juan County, Utah",1,0.000167789927011382,71518,14746
+"504","Navajo County, Arizona","Clark County, Nevada",1,0.00016752133570345,107449,1951269
+"509","Navajo County, Arizona","Douglas County, Nebraska",1,0.00016752133570345,107449,517110
+"230","Maricopa County, Arizona","Coconino County, Arizona",1,0.000160592405210529,3817117,134421
+"856","La Paz County, Arizona","Mohave County, Arizona",1,0.000146420030260139,20489,200186
+"185","Coconino County, Arizona","Riverside County, California",1,0.000141346962156211,134421,2189641
+"228","Maricopa County, Arizona","San Diego County, California",1,0.000136490445537823,3817117,3095313
+"205","Pinal County, Arizona","Cochise County, Arizona",1,0.000135721318891875,375770,131346
+"411","Pima County, Arizona","Los Angeles County, California",1,0.000130577202240623,980263,9818605
+"27","Yuma County, Arizona","Los Angeles County, California",1,0.000127713268386879,195751,9818605
+"248","Maricopa County, Arizona","Clark County, Nevada",1,0.000123915510056412,3817117,1951269
+"232","Maricopa County, Arizona","Gila County, Arizona",1,0.000121819687476176,3817117,53597
+"388","Pima County, Arizona","San Diego County, California",1,0.000121395992708079,980263,3095313
+"193","Pinal County, Arizona","Yuma County, Arizona",1,0.000117092902573383,375770,195751
+"423","Cochise County, Arizona","Pinal County, Arizona",1,0.000114202183545749,131346,375770
+"543","Apache County, Arizona","La Plata County, Colorado",1,0.000111859951340921,71518,51334
+"512","Navajo County, Arizona","Wyandotte County, Kansas",1,0.000111680890468967,107449,157505
+"252","Maricopa County, Arizona","Orange County, California",1,0.000110030685462353,3817117,3010232
+"395","Pima County, Arizona","Graham County, Arizona",1,0.000105073842428001,980263,37220
+"219","Pinal County, Arizona","Los Angeles County, California",1,0.000103786890917316,375770,9818605
+"254","Maricopa County, Arizona","Cook County, Illinois",1,0.000100861461673823,3817117,5194675
+"22","Yuma County, Arizona","San Bernardino County, California",1,9.70620839740283e-05,195751,2035210
+"168","Coconino County, Arizona","Gila County, Arizona",1,9.67110793700389e-05,134421,53597
+"172","Coconino County, Arizona","Pima County, Arizona",1,8.92717655723436e-05,134421,980263
+"181","Coconino County, Arizona","Washington County, Utah",1,8.92717655723436e-05,134421,138115
+"489","Navajo County, Arizona","Gila County, Arizona",1,8.3760667851725e-05,107449,53597
+"216","Pinal County, Arizona","Clark County, Nevada",1,8.24972722676105e-05,375770,1951269
+"332","Graham County, Arizona","Pima County, Arizona",1,8.06018269747448e-05,37220,980263
+"408","Pima County, Arizona","Clark County, Nevada",1,7.54899450453603e-05,980263,1951269
+"225","Maricopa County, Arizona","Yuma County, Arizona",1,7.44017015983529e-05,3817117,195751
+"740","Mohave County, Arizona","San Diego County, California",1,6.99349604867474e-05,200186,3095313
+"152","Yavapai County, Arizona","Clark County, Nevada",1,5.68631446266697e-05,211033,1951269
+"239","Maricopa County, Arizona","Navajo County, Arizona",1,5.63252318438235e-05,3817117,107449
+"495","Navajo County, Arizona","San Juan County, New Mexico",1,5.58404452344833e-05,107449,130044
+"497","Navajo County, Arizona","McKinley County, New Mexico",1,4.65337043620694e-05,107449,71492
+"214","Pinal County, Arizona","San Bernardino County, California",1,4.52404396306251e-05,375770,2035210
+"414","Pima County, Arizona","Cook County, Illinois",1,4.38657788777093e-05,980263,5194675
+"247","Maricopa County, Arizona","Mohave County, Arizona",1,4.21784294272353e-05,3817117,200186
+"412","Pima County, Arizona","Orange County, California",1,3.77449725226801e-05,980263,3010232
+"197","Pinal County, Arizona","Yavapai County, Arizona",1,3.72568326369854e-05,375770,211033
+"249","Maricopa County, Arizona","Riverside County, California",1,3.5628983864e-05,3817117,2189641
+"246","Maricopa County, Arizona","San Bernardino County, California",1,3.5628983864e-05,3817117,2035210
+"240","Maricopa County, Arizona","Apache County, Arizona",1,3.37951391062941e-05,3817117,71518
+"137","Yavapai County, Arizona","Greenlee County, Arizona",1,3.31701676988907e-05,211033,8437
+"140","Yavapai County, Arizona","Pima County, Arizona",1,3.31701676988907e-05,211033,980263
+"237","Maricopa County, Arizona","Cochise County, Arizona",1,3.09133830584706e-05,3817117,131346
+"522","Apache County, Arizona","Greenlee County, Arizona",1,2.79649878352303e-05,71518,8437
+"234","Maricopa County, Arizona","Graham County, Arizona",1,2.46259153177647e-05,3817117,37220
+"389","Pima County, Arizona","Yavapai County, Arizona",1,2.14228222426022e-05,980263,211033
+"262","Gila County, Arizona","Coconino County, Arizona",1,1.86577606955614e-05,53597,134421
+"196","Pinal County, Arizona","San Diego County, California",1,1.33060116560662e-05,375770,3095313
+"238","Maricopa County, Arizona","San Juan County, New Mexico",1,7.85933467588235e-06,3817117,130044
+"235","Maricopa County, Arizona","Santa Cruz County, Arizona",1,7.33537903082353e-06,3817117,47420
+"201","Pinal County, Arizona","Greenlee County, Arizona",1,5.32240466242648e-06,375770,8437
+"399","Pima County, Arizona","Navajo County, Arizona",1,5.10067196252434e-06,980263,107449
+"390","Pima County, Arizona","Coconino County, Arizona",1,4.08053757001947e-06,980263,134421
+"253","Maricopa County, Arizona","Douglas County, Nebraska",1,3.40571169288235e-06,3817117,517110
+"406","Pima County, Arizona","San Bernardino County, California",1,3.06040317751461e-06,980263,2035210
+"198","Pinal County, Arizona","Coconino County, Arizona",1,2.66120233121325e-06,375770,134421
+"233","Maricopa County, Arizona","Greenlee County, Arizona",1,2.3578004027647e-06,3817117,8437
+"250","Maricopa County, Arizona","La Paz County, Arizona",1,2.3578004027647e-06,3817117,20489
+"227","Maricopa County, Arizona","Monterey County, California",1,1.57186693517647e-06,3817117,415057
+"393","Pima County, Arizona","Gila County, Arizona",1,1.02013439250486e-06,980263,53597
+"4","Yuma County, Arizona","Yavapai County, Arizona",1,0,195751,211033
+"5","Yuma County, Arizona","Coconino County, Arizona",1,0,195751,134421
+"6","Yuma County, Arizona","Pinal County, Arizona",1,0,195751,375770
+"8","Yuma County, Arizona","Gila County, Arizona",1,0,195751,53597
+"9","Yuma County, Arizona","Greenlee County, Arizona",1,0,195751,8437
+"10","Yuma County, Arizona","Graham County, Arizona",1,0,195751,37220
+"11","Yuma County, Arizona","Santa Cruz County, Arizona",1,0,195751,47420
+"12","Yuma County, Arizona","Pima County, Arizona",1,0,195751,980263
+"13","Yuma County, Arizona","Cochise County, Arizona",1,0,195751,131346
+"14","Yuma County, Arizona","San Juan County, New Mexico",1,0,195751,130044
+"15","Yuma County, Arizona","Navajo County, Arizona",1,0,195751,107449
+"16","Yuma County, Arizona","Apache County, Arizona",1,0,195751,71518
+"17","Yuma County, Arizona","McKinley County, New Mexico",1,0,195751,71492
+"18","Yuma County, Arizona","Montezuma County, Colorado",1,0,195751,25535
+"19","Yuma County, Arizona","Kane County, Utah",1,0,195751,7125
+"20","Yuma County, Arizona","San Juan County, Utah",1,0,195751,14746
+"21","Yuma County, Arizona","Washington County, Utah",1,0,195751,138115
+"23","Yuma County, Arizona","Mohave County, Arizona",1,0,195751,200186
+"24","Yuma County, Arizona","Clark County, Nevada",1,0,195751,1951269
+"25","Yuma County, Arizona","Riverside County, California",1,0,195751,2189641
+"26","Yuma County, Arizona","La Paz County, Arizona",1,0,195751,20489
+"28","Yuma County, Arizona","Orange County, California",1,0,195751,3010232
+"29","Yuma County, Arizona","Douglas County, Nebraska",1,0,195751,517110
+"30","Yuma County, Arizona","Cook County, Illinois",1,0,195751,5194675
+"31","Yuma County, Arizona","La Plata County, Colorado",1,0,195751,51334
+"32","Yuma County, Arizona","Wyandotte County, Kansas",1,0,195751,157505
+"33","Imperial County, California","Yuma County, Arizona",1,0,174528,195751
+"34","Imperial County, California","Monterey County, California",1,0,174528,415057
+"35","Imperial County, California","San Diego County, California",1,0,174528,3095313
+"36","Imperial County, California","Yavapai County, Arizona",1,0,174528,211033
+"37","Imperial County, California","Coconino County, Arizona",1,0,174528,134421
+"38","Imperial County, California","Pinal County, Arizona",1,0,174528,375770
+"39","Imperial County, California","Maricopa County, Arizona",1,0,174528,3817117
+"40","Imperial County, California","Gila County, Arizona",1,0,174528,53597
+"41","Imperial County, California","Greenlee County, Arizona",1,0,174528,8437
+"42","Imperial County, California","Graham County, Arizona",1,0,174528,37220
+"43","Imperial County, California","Santa Cruz County, Arizona",1,0,174528,47420
+"44","Imperial County, California","Pima County, Arizona",1,0,174528,980263
+"45","Imperial County, California","Cochise County, Arizona",1,0,174528,131346
+"46","Imperial County, California","San Juan County, New Mexico",1,0,174528,130044
+"47","Imperial County, California","Navajo County, Arizona",1,0,174528,107449
+"48","Imperial County, California","Apache County, Arizona",1,0,174528,71518
+"49","Imperial County, California","McKinley County, New Mexico",1,0,174528,71492
+"50","Imperial County, California","Montezuma County, Colorado",1,0,174528,25535
+"51","Imperial County, California","Kane County, Utah",1,0,174528,7125
+"52","Imperial County, California","San Juan County, Utah",1,0,174528,14746
+"53","Imperial County, California","Washington County, Utah",1,0,174528,138115
+"54","Imperial County, California","San Bernardino County, California",1,0,174528,2035210
+"55","Imperial County, California","Mohave County, Arizona",1,0,174528,200186
+"56","Imperial County, California","Clark County, Nevada",1,0,174528,1951269
+"57","Imperial County, California","Riverside County, California",1,0,174528,2189641
+"58","Imperial County, California","La Paz County, Arizona",1,0,174528,20489
+"59","Imperial County, California","Los Angeles County, California",1,0,174528,9818605
+"60","Imperial County, California","Orange County, California",1,0,174528,3010232
+"61","Imperial County, California","Douglas County, Nebraska",1,0,174528,517110
+"62","Imperial County, California","Cook County, Illinois",1,0,174528,5194675
+"63","Imperial County, California","La Plata County, Colorado",1,0,174528,51334
+"64","Imperial County, California","Wyandotte County, Kansas",1,0,174528,157505
+"65","Monterey County, California","Yuma County, Arizona",1,0,415057,195751
+"66","Monterey County, California","Imperial County, California",1,0,415057,174528
+"67","Monterey County, California","San Diego County, California",1,0,415057,3095313
+"68","Monterey County, California","Yavapai County, Arizona",1,0,415057,211033
+"69","Monterey County, California","Coconino County, Arizona",1,0,415057,134421
+"70","Monterey County, California","Pinal County, Arizona",1,0,415057,375770
+"71","Monterey County, California","Maricopa County, Arizona",1,0,415057,3817117
+"72","Monterey County, California","Gila County, Arizona",1,0,415057,53597
+"73","Monterey County, California","Greenlee County, Arizona",1,0,415057,8437
+"74","Monterey County, California","Graham County, Arizona",1,0,415057,37220
+"75","Monterey County, California","Santa Cruz County, Arizona",1,0,415057,47420
+"76","Monterey County, California","Pima County, Arizona",1,0,415057,980263
+"77","Monterey County, California","Cochise County, Arizona",1,0,415057,131346
+"78","Monterey County, California","San Juan County, New Mexico",1,0,415057,130044
+"79","Monterey County, California","Navajo County, Arizona",1,0,415057,107449
+"80","Monterey County, California","Apache County, Arizona",1,0,415057,71518
+"81","Monterey County, California","McKinley County, New Mexico",1,0,415057,71492
+"82","Monterey County, California","Montezuma County, Colorado",1,0,415057,25535
+"83","Monterey County, California","Kane County, Utah",1,0,415057,7125
+"84","Monterey County, California","San Juan County, Utah",1,0,415057,14746
+"85","Monterey County, California","Washington County, Utah",1,0,415057,138115
+"86","Monterey County, California","San Bernardino County, California",1,0,415057,2035210
+"87","Monterey County, California","Mohave County, Arizona",1,0,415057,200186
+"88","Monterey County, California","Clark County, Nevada",1,0,415057,1951269
+"89","Monterey County, California","Riverside County, California",1,0,415057,2189641
+"90","Monterey County, California","La Paz County, Arizona",1,0,415057,20489
+"91","Monterey County, California","Los Angeles County, California",1,0,415057,9818605
+"92","Monterey County, California","Orange County, California",1,0,415057,3010232
+"93","Monterey County, California","Douglas County, Nebraska",1,0,415057,517110
+"94","Monterey County, California","Cook County, Illinois",1,0,415057,5194675
+"95","Monterey County, California","La Plata County, Colorado",1,0,415057,51334
+"96","Monterey County, California","Wyandotte County, Kansas",1,0,415057,157505
+"97","San Diego County, California","Yuma County, Arizona",1,0,3095313,195751
+"98","San Diego County, California","Imperial County, California",1,0,3095313,174528
+"99","San Diego County, California","Monterey County, California",1,0,3095313,415057
+"100","San Diego County, California","Yavapai County, Arizona",1,0,3095313,211033
+"101","San Diego County, California","Coconino County, Arizona",1,0,3095313,134421
+"102","San Diego County, California","Pinal County, Arizona",1,0,3095313,375770
+"103","San Diego County, California","Maricopa County, Arizona",1,0,3095313,3817117
+"104","San Diego County, California","Gila County, Arizona",1,0,3095313,53597
+"105","San Diego County, California","Greenlee County, Arizona",1,0,3095313,8437
+"106","San Diego County, California","Graham County, Arizona",1,0,3095313,37220
+"107","San Diego County, California","Santa Cruz County, Arizona",1,0,3095313,47420
+"108","San Diego County, California","Pima County, Arizona",1,0,3095313,980263
+"109","San Diego County, California","Cochise County, Arizona",1,0,3095313,131346
+"110","San Diego County, California","San Juan County, New Mexico",1,0,3095313,130044
+"111","San Diego County, California","Navajo County, Arizona",1,0,3095313,107449
+"112","San Diego County, California","Apache County, Arizona",1,0,3095313,71518
+"113","San Diego County, California","McKinley County, New Mexico",1,0,3095313,71492
+"114","San Diego County, California","Montezuma County, Colorado",1,0,3095313,25535
+"115","San Diego County, California","Kane County, Utah",1,0,3095313,7125
+"116","San Diego County, California","San Juan County, Utah",1,0,3095313,14746
+"117","San Diego County, California","Washington County, Utah",1,0,3095313,138115
+"118","San Diego County, California","San Bernardino County, California",1,0,3095313,2035210
+"119","San Diego County, California","Mohave County, Arizona",1,0,3095313,200186
+"120","San Diego County, California","Clark County, Nevada",1,0,3095313,1951269
+"121","San Diego County, California","Riverside County, California",1,0,3095313,2189641
+"122","San Diego County, California","La Paz County, Arizona",1,0,3095313,20489
+"123","San Diego County, California","Los Angeles County, California",1,0,3095313,9818605
+"124","San Diego County, California","Orange County, California",1,0,3095313,3010232
+"125","San Diego County, California","Douglas County, Nebraska",1,0,3095313,517110
+"126","San Diego County, California","Cook County, Illinois",1,0,3095313,5194675
+"127","San Diego County, California","La Plata County, Colorado",1,0,3095313,51334
+"128","San Diego County, California","Wyandotte County, Kansas",1,0,3095313,157505
+"129","Yavapai County, Arizona","Yuma County, Arizona",1,0,211033,195751
+"130","Yavapai County, Arizona","Imperial County, California",1,0,211033,174528
+"131","Yavapai County, Arizona","Monterey County, California",1,0,211033,415057
+"132","Yavapai County, Arizona","San Diego County, California",1,0,211033,3095313
+"134","Yavapai County, Arizona","Pinal County, Arizona",1,0,211033,375770
+"136","Yavapai County, Arizona","Gila County, Arizona",1,0,211033,53597
+"138","Yavapai County, Arizona","Graham County, Arizona",1,0,211033,37220
+"139","Yavapai County, Arizona","Santa Cruz County, Arizona",1,0,211033,47420
+"141","Yavapai County, Arizona","Cochise County, Arizona",1,0,211033,131346
+"142","Yavapai County, Arizona","San Juan County, New Mexico",1,0,211033,130044
+"143","Yavapai County, Arizona","Navajo County, Arizona",1,0,211033,107449
+"144","Yavapai County, Arizona","Apache County, Arizona",1,0,211033,71518
+"145","Yavapai County, Arizona","McKinley County, New Mexico",1,0,211033,71492
+"146","Yavapai County, Arizona","Montezuma County, Colorado",1,0,211033,25535
+"147","Yavapai County, Arizona","Kane County, Utah",1,0,211033,7125
+"148","Yavapai County, Arizona","San Juan County, Utah",1,0,211033,14746
+"149","Yavapai County, Arizona","Washington County, Utah",1,0,211033,138115
+"150","Yavapai County, Arizona","San Bernardino County, California",1,0,211033,2035210
+"153","Yavapai County, Arizona","Riverside County, California",1,0,211033,2189641
+"154","Yavapai County, Arizona","La Paz County, Arizona",1,0,211033,20489
+"156","Yavapai County, Arizona","Orange County, California",1,0,211033,3010232
+"157","Yavapai County, Arizona","Douglas County, Nebraska",1,0,211033,517110
+"158","Yavapai County, Arizona","Cook County, Illinois",1,0,211033,5194675
+"159","Yavapai County, Arizona","La Plata County, Colorado",1,0,211033,51334
+"160","Yavapai County, Arizona","Wyandotte County, Kansas",1,0,211033,157505
+"161","Coconino County, Arizona","Yuma County, Arizona",1,0,134421,195751
+"162","Coconino County, Arizona","Imperial County, California",1,0,134421,174528
+"163","Coconino County, Arizona","Monterey County, California",1,0,134421,415057
+"164","Coconino County, Arizona","San Diego County, California",1,0,134421,3095313
+"166","Coconino County, Arizona","Pinal County, Arizona",1,0,134421,375770
+"169","Coconino County, Arizona","Greenlee County, Arizona",1,0,134421,8437
+"170","Coconino County, Arizona","Graham County, Arizona",1,0,134421,37220
+"171","Coconino County, Arizona","Santa Cruz County, Arizona",1,0,134421,47420
+"173","Coconino County, Arizona","Cochise County, Arizona",1,0,134421,131346
+"174","Coconino County, Arizona","San Juan County, New Mexico",1,0,134421,130044
+"177","Coconino County, Arizona","McKinley County, New Mexico",1,0,134421,71492
+"178","Coconino County, Arizona","Montezuma County, Colorado",1,0,134421,25535
+"180","Coconino County, Arizona","San Juan County, Utah",1,0,134421,14746
+"182","Coconino County, Arizona","San Bernardino County, California",1,0,134421,2035210
+"184","Coconino County, Arizona","Clark County, Nevada",1,0,134421,1951269
+"186","Coconino County, Arizona","La Paz County, Arizona",1,0,134421,20489
+"187","Coconino County, Arizona","Los Angeles County, California",1,0,134421,9818605
+"188","Coconino County, Arizona","Orange County, California",1,0,134421,3010232
+"189","Coconino County, Arizona","Douglas County, Nebraska",1,0,134421,517110
+"190","Coconino County, Arizona","Cook County, Illinois",1,0,134421,5194675
+"191","Coconino County, Arizona","La Plata County, Colorado",1,0,134421,51334
+"192","Coconino County, Arizona","Wyandotte County, Kansas",1,0,134421,157505
+"194","Pinal County, Arizona","Imperial County, California",1,0,375770,174528
+"195","Pinal County, Arizona","Monterey County, California",1,0,375770,415057
+"202","Pinal County, Arizona","Graham County, Arizona",1,0,375770,37220
+"203","Pinal County, Arizona","Santa Cruz County, Arizona",1,0,375770,47420
+"206","Pinal County, Arizona","San Juan County, New Mexico",1,0,375770,130044
+"207","Pinal County, Arizona","Navajo County, Arizona",1,0,375770,107449
+"208","Pinal County, Arizona","Apache County, Arizona",1,0,375770,71518
+"209","Pinal County, Arizona","McKinley County, New Mexico",1,0,375770,71492
+"210","Pinal County, Arizona","Montezuma County, Colorado",1,0,375770,25535
+"211","Pinal County, Arizona","Kane County, Utah",1,0,375770,7125
+"212","Pinal County, Arizona","San Juan County, Utah",1,0,375770,14746
+"213","Pinal County, Arizona","Washington County, Utah",1,0,375770,138115
+"215","Pinal County, Arizona","Mohave County, Arizona",1,0,375770,200186
+"217","Pinal County, Arizona","Riverside County, California",1,0,375770,2189641
+"218","Pinal County, Arizona","La Paz County, Arizona",1,0,375770,20489
+"220","Pinal County, Arizona","Orange County, California",1,0,375770,3010232
+"221","Pinal County, Arizona","Douglas County, Nebraska",1,0,375770,517110
+"222","Pinal County, Arizona","Cook County, Illinois",1,0,375770,5194675
+"223","Pinal County, Arizona","La Plata County, Colorado",1,0,375770,51334
+"224","Pinal County, Arizona","Wyandotte County, Kansas",1,0,375770,157505
+"226","Maricopa County, Arizona","Imperial County, California",1,0,3817117,174528
+"241","Maricopa County, Arizona","McKinley County, New Mexico",1,0,3817117,71492
+"242","Maricopa County, Arizona","Montezuma County, Colorado",1,0,3817117,25535
+"243","Maricopa County, Arizona","Kane County, Utah",1,0,3817117,7125
+"244","Maricopa County, Arizona","San Juan County, Utah",1,0,3817117,14746
+"245","Maricopa County, Arizona","Washington County, Utah",1,0,3817117,138115
+"255","Maricopa County, Arizona","La Plata County, Colorado",1,0,3817117,51334
+"256","Maricopa County, Arizona","Wyandotte County, Kansas",1,0,3817117,157505
+"257","Gila County, Arizona","Yuma County, Arizona",1,0,53597,195751
+"258","Gila County, Arizona","Imperial County, California",1,0,53597,174528
+"259","Gila County, Arizona","Monterey County, California",1,0,53597,415057
+"260","Gila County, Arizona","San Diego County, California",1,0,53597,3095313
+"265","Gila County, Arizona","Greenlee County, Arizona",1,0,53597,8437
+"267","Gila County, Arizona","Santa Cruz County, Arizona",1,0,53597,47420
+"269","Gila County, Arizona","Cochise County, Arizona",1,0,53597,131346
+"270","Gila County, Arizona","San Juan County, New Mexico",1,0,53597,130044
+"271","Gila County, Arizona","Navajo County, Arizona",1,0,53597,107449
+"272","Gila County, Arizona","Apache County, Arizona",1,0,53597,71518
+"273","Gila County, Arizona","McKinley County, New Mexico",1,0,53597,71492
+"274","Gila County, Arizona","Montezuma County, Colorado",1,0,53597,25535
+"275","Gila County, Arizona","Kane County, Utah",1,0,53597,7125
+"276","Gila County, Arizona","San Juan County, Utah",1,0,53597,14746
+"277","Gila County, Arizona","Washington County, Utah",1,0,53597,138115
+"278","Gila County, Arizona","San Bernardino County, California",1,0,53597,2035210
+"279","Gila County, Arizona","Mohave County, Arizona",1,0,53597,200186
+"280","Gila County, Arizona","Clark County, Nevada",1,0,53597,1951269
+"281","Gila County, Arizona","Riverside County, California",1,0,53597,2189641
+"282","Gila County, Arizona","La Paz County, Arizona",1,0,53597,20489
+"283","Gila County, Arizona","Los Angeles County, California",1,0,53597,9818605
+"284","Gila County, Arizona","Orange County, California",1,0,53597,3010232
+"285","Gila County, Arizona","Douglas County, Nebraska",1,0,53597,517110
+"286","Gila County, Arizona","Cook County, Illinois",1,0,53597,5194675
+"287","Gila County, Arizona","La Plata County, Colorado",1,0,53597,51334
+"288","Gila County, Arizona","Wyandotte County, Kansas",1,0,53597,157505
+"289","Greenlee County, Arizona","Yuma County, Arizona",1,0,8437,195751
+"290","Greenlee County, Arizona","Imperial County, California",1,0,8437,174528
+"291","Greenlee County, Arizona","Monterey County, California",1,0,8437,415057
+"292","Greenlee County, Arizona","San Diego County, California",1,0,8437,3095313
+"293","Greenlee County, Arizona","Yavapai County, Arizona",1,0,8437,211033
+"294","Greenlee County, Arizona","Coconino County, Arizona",1,0,8437,134421
+"295","Greenlee County, Arizona","Pinal County, Arizona",1,0,8437,375770
+"296","Greenlee County, Arizona","Maricopa County, Arizona",1,0,8437,3817117
+"297","Greenlee County, Arizona","Gila County, Arizona",1,0,8437,53597
+"299","Greenlee County, Arizona","Santa Cruz County, Arizona",1,0,8437,47420
+"300","Greenlee County, Arizona","Pima County, Arizona",1,0,8437,980263
+"301","Greenlee County, Arizona","Cochise County, Arizona",1,0,8437,131346
+"302","Greenlee County, Arizona","San Juan County, New Mexico",1,0,8437,130044
+"303","Greenlee County, Arizona","Navajo County, Arizona",1,0,8437,107449
+"304","Greenlee County, Arizona","Apache County, Arizona",1,0,8437,71518
+"305","Greenlee County, Arizona","McKinley County, New Mexico",1,0,8437,71492
+"306","Greenlee County, Arizona","Montezuma County, Colorado",1,0,8437,25535
+"307","Greenlee County, Arizona","Kane County, Utah",1,0,8437,7125
+"308","Greenlee County, Arizona","San Juan County, Utah",1,0,8437,14746
+"309","Greenlee County, Arizona","Washington County, Utah",1,0,8437,138115
+"310","Greenlee County, Arizona","San Bernardino County, California",1,0,8437,2035210
+"311","Greenlee County, Arizona","Mohave County, Arizona",1,0,8437,200186
+"312","Greenlee County, Arizona","Clark County, Nevada",1,0,8437,1951269
+"313","Greenlee County, Arizona","Riverside County, California",1,0,8437,2189641
+"314","Greenlee County, Arizona","La Paz County, Arizona",1,0,8437,20489
+"315","Greenlee County, Arizona","Los Angeles County, California",1,0,8437,9818605
+"316","Greenlee County, Arizona","Orange County, California",1,0,8437,3010232
+"317","Greenlee County, Arizona","Douglas County, Nebraska",1,0,8437,517110
+"318","Greenlee County, Arizona","Cook County, Illinois",1,0,8437,5194675
+"319","Greenlee County, Arizona","La Plata County, Colorado",1,0,8437,51334
+"320","Greenlee County, Arizona","Wyandotte County, Kansas",1,0,8437,157505
+"321","Graham County, Arizona","Yuma County, Arizona",1,0,37220,195751
+"322","Graham County, Arizona","Imperial County, California",1,0,37220,174528
+"323","Graham County, Arizona","Monterey County, California",1,0,37220,415057
+"324","Graham County, Arizona","San Diego County, California",1,0,37220,3095313
+"325","Graham County, Arizona","Yavapai County, Arizona",1,0,37220,211033
+"326","Graham County, Arizona","Coconino County, Arizona",1,0,37220,134421
+"327","Graham County, Arizona","Pinal County, Arizona",1,0,37220,375770
+"331","Graham County, Arizona","Santa Cruz County, Arizona",1,0,37220,47420
+"334","Graham County, Arizona","San Juan County, New Mexico",1,0,37220,130044
+"335","Graham County, Arizona","Navajo County, Arizona",1,0,37220,107449
+"336","Graham County, Arizona","Apache County, Arizona",1,0,37220,71518
+"337","Graham County, Arizona","McKinley County, New Mexico",1,0,37220,71492
+"338","Graham County, Arizona","Montezuma County, Colorado",1,0,37220,25535
+"339","Graham County, Arizona","Kane County, Utah",1,0,37220,7125
+"340","Graham County, Arizona","San Juan County, Utah",1,0,37220,14746
+"341","Graham County, Arizona","Washington County, Utah",1,0,37220,138115
+"342","Graham County, Arizona","San Bernardino County, California",1,0,37220,2035210
+"343","Graham County, Arizona","Mohave County, Arizona",1,0,37220,200186
+"344","Graham County, Arizona","Clark County, Nevada",1,0,37220,1951269
+"345","Graham County, Arizona","Riverside County, California",1,0,37220,2189641
+"346","Graham County, Arizona","La Paz County, Arizona",1,0,37220,20489
+"347","Graham County, Arizona","Los Angeles County, California",1,0,37220,9818605
+"348","Graham County, Arizona","Orange County, California",1,0,37220,3010232
+"349","Graham County, Arizona","Douglas County, Nebraska",1,0,37220,517110
+"350","Graham County, Arizona","Cook County, Illinois",1,0,37220,5194675
+"351","Graham County, Arizona","La Plata County, Colorado",1,0,37220,51334
+"352","Graham County, Arizona","Wyandotte County, Kansas",1,0,37220,157505
+"353","Santa Cruz County, Arizona","Yuma County, Arizona",1,0,47420,195751
+"354","Santa Cruz County, Arizona","Imperial County, California",1,0,47420,174528
+"355","Santa Cruz County, Arizona","Monterey County, California",1,0,47420,415057
+"356","Santa Cruz County, Arizona","San Diego County, California",1,0,47420,3095313
+"357","Santa Cruz County, Arizona","Yavapai County, Arizona",1,0,47420,211033
+"358","Santa Cruz County, Arizona","Coconino County, Arizona",1,0,47420,134421
+"359","Santa Cruz County, Arizona","Pinal County, Arizona",1,0,47420,375770
+"361","Santa Cruz County, Arizona","Gila County, Arizona",1,0,47420,53597
+"362","Santa Cruz County, Arizona","Greenlee County, Arizona",1,0,47420,8437
+"363","Santa Cruz County, Arizona","Graham County, Arizona",1,0,47420,37220
+"366","Santa Cruz County, Arizona","San Juan County, New Mexico",1,0,47420,130044
+"367","Santa Cruz County, Arizona","Navajo County, Arizona",1,0,47420,107449
+"368","Santa Cruz County, Arizona","Apache County, Arizona",1,0,47420,71518
+"369","Santa Cruz County, Arizona","McKinley County, New Mexico",1,0,47420,71492
+"370","Santa Cruz County, Arizona","Montezuma County, Colorado",1,0,47420,25535
+"371","Santa Cruz County, Arizona","Kane County, Utah",1,0,47420,7125
+"372","Santa Cruz County, Arizona","San Juan County, Utah",1,0,47420,14746
+"373","Santa Cruz County, Arizona","Washington County, Utah",1,0,47420,138115
+"374","Santa Cruz County, Arizona","San Bernardino County, California",1,0,47420,2035210
+"375","Santa Cruz County, Arizona","Mohave County, Arizona",1,0,47420,200186
+"376","Santa Cruz County, Arizona","Clark County, Nevada",1,0,47420,1951269
+"377","Santa Cruz County, Arizona","Riverside County, California",1,0,47420,2189641
+"378","Santa Cruz County, Arizona","La Paz County, Arizona",1,0,47420,20489
+"379","Santa Cruz County, Arizona","Los Angeles County, California",1,0,47420,9818605
+"380","Santa Cruz County, Arizona","Orange County, California",1,0,47420,3010232
+"381","Santa Cruz County, Arizona","Douglas County, Nebraska",1,0,47420,517110
+"382","Santa Cruz County, Arizona","Cook County, Illinois",1,0,47420,5194675
+"383","Santa Cruz County, Arizona","La Plata County, Colorado",1,0,47420,51334
+"384","Santa Cruz County, Arizona","Wyandotte County, Kansas",1,0,47420,157505
+"385","Pima County, Arizona","Yuma County, Arizona",1,0,980263,195751
+"386","Pima County, Arizona","Imperial County, California",1,0,980263,174528
+"387","Pima County, Arizona","Monterey County, California",1,0,980263,415057
+"394","Pima County, Arizona","Greenlee County, Arizona",1,0,980263,8437
+"398","Pima County, Arizona","San Juan County, New Mexico",1,0,980263,130044
+"400","Pima County, Arizona","Apache County, Arizona",1,0,980263,71518
+"401","Pima County, Arizona","McKinley County, New Mexico",1,0,980263,71492
+"402","Pima County, Arizona","Montezuma County, Colorado",1,0,980263,25535
+"403","Pima County, Arizona","Kane County, Utah",1,0,980263,7125
+"404","Pima County, Arizona","San Juan County, Utah",1,0,980263,14746
+"405","Pima County, Arizona","Washington County, Utah",1,0,980263,138115
+"407","Pima County, Arizona","Mohave County, Arizona",1,0,980263,200186
+"409","Pima County, Arizona","Riverside County, California",1,0,980263,2189641
+"410","Pima County, Arizona","La Paz County, Arizona",1,0,980263,20489
+"413","Pima County, Arizona","Douglas County, Nebraska",1,0,980263,517110
+"415","Pima County, Arizona","La Plata County, Colorado",1,0,980263,51334
+"416","Pima County, Arizona","Wyandotte County, Kansas",1,0,980263,157505
+"417","Cochise County, Arizona","Yuma County, Arizona",1,0,131346,195751
+"418","Cochise County, Arizona","Imperial County, California",1,0,131346,174528
+"419","Cochise County, Arizona","Monterey County, California",1,0,131346,415057
+"420","Cochise County, Arizona","San Diego County, California",1,0,131346,3095313
+"421","Cochise County, Arizona","Yavapai County, Arizona",1,0,131346,211033
+"422","Cochise County, Arizona","Coconino County, Arizona",1,0,131346,134421
+"425","Cochise County, Arizona","Gila County, Arizona",1,0,131346,53597
+"426","Cochise County, Arizona","Greenlee County, Arizona",1,0,131346,8437
+"430","Cochise County, Arizona","San Juan County, New Mexico",1,0,131346,130044
+"431","Cochise County, Arizona","Navajo County, Arizona",1,0,131346,107449
+"432","Cochise County, Arizona","Apache County, Arizona",1,0,131346,71518
+"433","Cochise County, Arizona","McKinley County, New Mexico",1,0,131346,71492
+"434","Cochise County, Arizona","Montezuma County, Colorado",1,0,131346,25535
+"435","Cochise County, Arizona","Kane County, Utah",1,0,131346,7125
+"436","Cochise County, Arizona","San Juan County, Utah",1,0,131346,14746
+"437","Cochise County, Arizona","Washington County, Utah",1,0,131346,138115
+"438","Cochise County, Arizona","San Bernardino County, California",1,0,131346,2035210
+"439","Cochise County, Arizona","Mohave County, Arizona",1,0,131346,200186
+"440","Cochise County, Arizona","Clark County, Nevada",1,0,131346,1951269
+"441","Cochise County, Arizona","Riverside County, California",1,0,131346,2189641
+"442","Cochise County, Arizona","La Paz County, Arizona",1,0,131346,20489
+"443","Cochise County, Arizona","Los Angeles County, California",1,0,131346,9818605
+"444","Cochise County, Arizona","Orange County, California",1,0,131346,3010232
+"445","Cochise County, Arizona","Douglas County, Nebraska",1,0,131346,517110
+"446","Cochise County, Arizona","Cook County, Illinois",1,0,131346,5194675
+"447","Cochise County, Arizona","La Plata County, Colorado",1,0,131346,51334
+"448","Cochise County, Arizona","Wyandotte County, Kansas",1,0,131346,157505
+"449","San Juan County, New Mexico","Yuma County, Arizona",1,0,130044,195751
+"450","San Juan County, New Mexico","Imperial County, California",1,0,130044,174528
+"451","San Juan County, New Mexico","Monterey County, California",1,0,130044,415057
+"452","San Juan County, New Mexico","San Diego County, California",1,0,130044,3095313
+"453","San Juan County, New Mexico","Yavapai County, Arizona",1,0,130044,211033
+"454","San Juan County, New Mexico","Coconino County, Arizona",1,0,130044,134421
+"455","San Juan County, New Mexico","Pinal County, Arizona",1,0,130044,375770
+"456","San Juan County, New Mexico","Maricopa County, Arizona",1,0,130044,3817117
+"457","San Juan County, New Mexico","Gila County, Arizona",1,0,130044,53597
+"458","San Juan County, New Mexico","Greenlee County, Arizona",1,0,130044,8437
+"459","San Juan County, New Mexico","Graham County, Arizona",1,0,130044,37220
+"460","San Juan County, New Mexico","Santa Cruz County, Arizona",1,0,130044,47420
+"461","San Juan County, New Mexico","Pima County, Arizona",1,0,130044,980263
+"462","San Juan County, New Mexico","Cochise County, Arizona",1,0,130044,131346
+"463","San Juan County, New Mexico","Navajo County, Arizona",1,0,130044,107449
+"464","San Juan County, New Mexico","Apache County, Arizona",1,0,130044,71518
+"465","San Juan County, New Mexico","McKinley County, New Mexico",1,0,130044,71492
+"466","San Juan County, New Mexico","Montezuma County, Colorado",1,0,130044,25535
+"467","San Juan County, New Mexico","Kane County, Utah",1,0,130044,7125
+"468","San Juan County, New Mexico","San Juan County, Utah",1,0,130044,14746
+"469","San Juan County, New Mexico","Washington County, Utah",1,0,130044,138115
+"470","San Juan County, New Mexico","San Bernardino County, California",1,0,130044,2035210
+"471","San Juan County, New Mexico","Mohave County, Arizona",1,0,130044,200186
+"472","San Juan County, New Mexico","Clark County, Nevada",1,0,130044,1951269
+"473","San Juan County, New Mexico","Riverside County, California",1,0,130044,2189641
+"474","San Juan County, New Mexico","La Paz County, Arizona",1,0,130044,20489
+"475","San Juan County, New Mexico","Los Angeles County, California",1,0,130044,9818605
+"476","San Juan County, New Mexico","Orange County, California",1,0,130044,3010232
+"477","San Juan County, New Mexico","Douglas County, Nebraska",1,0,130044,517110
+"478","San Juan County, New Mexico","Cook County, Illinois",1,0,130044,5194675
+"479","San Juan County, New Mexico","La Plata County, Colorado",1,0,130044,51334
+"480","San Juan County, New Mexico","Wyandotte County, Kansas",1,0,130044,157505
+"481","Navajo County, Arizona","Yuma County, Arizona",1,0,107449,195751
+"482","Navajo County, Arizona","Imperial County, California",1,0,107449,174528
+"483","Navajo County, Arizona","Monterey County, California",1,0,107449,415057
+"484","Navajo County, Arizona","San Diego County, California",1,0,107449,3095313
+"485","Navajo County, Arizona","Yavapai County, Arizona",1,0,107449,211033
+"487","Navajo County, Arizona","Pinal County, Arizona",1,0,107449,375770
+"490","Navajo County, Arizona","Greenlee County, Arizona",1,0,107449,8437
+"491","Navajo County, Arizona","Graham County, Arizona",1,0,107449,37220
+"492","Navajo County, Arizona","Santa Cruz County, Arizona",1,0,107449,47420
+"493","Navajo County, Arizona","Pima County, Arizona",1,0,107449,980263
+"494","Navajo County, Arizona","Cochise County, Arizona",1,0,107449,131346
+"498","Navajo County, Arizona","Montezuma County, Colorado",1,0,107449,25535
+"499","Navajo County, Arizona","Kane County, Utah",1,0,107449,7125
+"501","Navajo County, Arizona","Washington County, Utah",1,0,107449,138115
+"502","Navajo County, Arizona","San Bernardino County, California",1,0,107449,2035210
+"503","Navajo County, Arizona","Mohave County, Arizona",1,0,107449,200186
+"505","Navajo County, Arizona","Riverside County, California",1,0,107449,2189641
+"506","Navajo County, Arizona","La Paz County, Arizona",1,0,107449,20489
+"507","Navajo County, Arizona","Los Angeles County, California",1,0,107449,9818605
+"508","Navajo County, Arizona","Orange County, California",1,0,107449,3010232
+"510","Navajo County, Arizona","Cook County, Illinois",1,0,107449,5194675
+"511","Navajo County, Arizona","La Plata County, Colorado",1,0,107449,51334
+"513","Apache County, Arizona","Yuma County, Arizona",1,0,71518,195751
+"514","Apache County, Arizona","Imperial County, California",1,0,71518,174528
+"515","Apache County, Arizona","Monterey County, California",1,0,71518,415057
+"516","Apache County, Arizona","San Diego County, California",1,0,71518,3095313
+"517","Apache County, Arizona","Yavapai County, Arizona",1,0,71518,211033
+"519","Apache County, Arizona","Pinal County, Arizona",1,0,71518,375770
+"521","Apache County, Arizona","Gila County, Arizona",1,0,71518,53597
+"523","Apache County, Arizona","Graham County, Arizona",1,0,71518,37220
+"524","Apache County, Arizona","Santa Cruz County, Arizona",1,0,71518,47420
+"525","Apache County, Arizona","Pima County, Arizona",1,0,71518,980263
+"526","Apache County, Arizona","Cochise County, Arizona",1,0,71518,131346
+"531","Apache County, Arizona","Kane County, Utah",1,0,71518,7125
+"533","Apache County, Arizona","Washington County, Utah",1,0,71518,138115
+"534","Apache County, Arizona","San Bernardino County, California",1,0,71518,2035210
+"535","Apache County, Arizona","Mohave County, Arizona",1,0,71518,200186
+"536","Apache County, Arizona","Clark County, Nevada",1,0,71518,1951269
+"537","Apache County, Arizona","Riverside County, California",1,0,71518,2189641
+"538","Apache County, Arizona","La Paz County, Arizona",1,0,71518,20489
+"539","Apache County, Arizona","Los Angeles County, California",1,0,71518,9818605
+"540","Apache County, Arizona","Orange County, California",1,0,71518,3010232
+"541","Apache County, Arizona","Douglas County, Nebraska",1,0,71518,517110
+"542","Apache County, Arizona","Cook County, Illinois",1,0,71518,5194675
+"544","Apache County, Arizona","Wyandotte County, Kansas",1,0,71518,157505
+"545","McKinley County, New Mexico","Yuma County, Arizona",1,0,71492,195751
+"546","McKinley County, New Mexico","Imperial County, California",1,0,71492,174528
+"547","McKinley County, New Mexico","Monterey County, California",1,0,71492,415057
+"548","McKinley County, New Mexico","San Diego County, California",1,0,71492,3095313
+"549","McKinley County, New Mexico","Yavapai County, Arizona",1,0,71492,211033
+"550","McKinley County, New Mexico","Coconino County, Arizona",1,0,71492,134421
+"551","McKinley County, New Mexico","Pinal County, Arizona",1,0,71492,375770
+"552","McKinley County, New Mexico","Maricopa County, Arizona",1,0,71492,3817117
+"553","McKinley County, New Mexico","Gila County, Arizona",1,0,71492,53597
+"554","McKinley County, New Mexico","Greenlee County, Arizona",1,0,71492,8437
+"555","McKinley County, New Mexico","Graham County, Arizona",1,0,71492,37220
+"556","McKinley County, New Mexico","Santa Cruz County, Arizona",1,0,71492,47420
+"557","McKinley County, New Mexico","Pima County, Arizona",1,0,71492,980263
+"558","McKinley County, New Mexico","Cochise County, Arizona",1,0,71492,131346
+"559","McKinley County, New Mexico","San Juan County, New Mexico",1,0,71492,130044
+"560","McKinley County, New Mexico","Navajo County, Arizona",1,0,71492,107449
+"561","McKinley County, New Mexico","Apache County, Arizona",1,0,71492,71518
+"562","McKinley County, New Mexico","Montezuma County, Colorado",1,0,71492,25535
+"563","McKinley County, New Mexico","Kane County, Utah",1,0,71492,7125
+"564","McKinley County, New Mexico","San Juan County, Utah",1,0,71492,14746
+"565","McKinley County, New Mexico","Washington County, Utah",1,0,71492,138115
+"566","McKinley County, New Mexico","San Bernardino County, California",1,0,71492,2035210
+"567","McKinley County, New Mexico","Mohave County, Arizona",1,0,71492,200186
+"568","McKinley County, New Mexico","Clark County, Nevada",1,0,71492,1951269
+"569","McKinley County, New Mexico","Riverside County, California",1,0,71492,2189641
+"570","McKinley County, New Mexico","La Paz County, Arizona",1,0,71492,20489
+"571","McKinley County, New Mexico","Los Angeles County, California",1,0,71492,9818605
+"572","McKinley County, New Mexico","Orange County, California",1,0,71492,3010232
+"573","McKinley County, New Mexico","Douglas County, Nebraska",1,0,71492,517110
+"574","McKinley County, New Mexico","Cook County, Illinois",1,0,71492,5194675
+"575","McKinley County, New Mexico","La Plata County, Colorado",1,0,71492,51334
+"576","McKinley County, New Mexico","Wyandotte County, Kansas",1,0,71492,157505
+"577","Montezuma County, Colorado","Yuma County, Arizona",1,0,25535,195751
+"578","Montezuma County, Colorado","Imperial County, California",1,0,25535,174528
+"579","Montezuma County, Colorado","Monterey County, California",1,0,25535,415057
+"580","Montezuma County, Colorado","San Diego County, California",1,0,25535,3095313
+"581","Montezuma County, Colorado","Yavapai County, Arizona",1,0,25535,211033
+"582","Montezuma County, Colorado","Coconino County, Arizona",1,0,25535,134421
+"583","Montezuma County, Colorado","Pinal County, Arizona",1,0,25535,375770
+"584","Montezuma County, Colorado","Maricopa County, Arizona",1,0,25535,3817117
+"585","Montezuma County, Colorado","Gila County, Arizona",1,0,25535,53597
+"586","Montezuma County, Colorado","Greenlee County, Arizona",1,0,25535,8437
+"587","Montezuma County, Colorado","Graham County, Arizona",1,0,25535,37220
+"588","Montezuma County, Colorado","Santa Cruz County, Arizona",1,0,25535,47420
+"589","Montezuma County, Colorado","Pima County, Arizona",1,0,25535,980263
+"590","Montezuma County, Colorado","Cochise County, Arizona",1,0,25535,131346
+"591","Montezuma County, Colorado","San Juan County, New Mexico",1,0,25535,130044
+"592","Montezuma County, Colorado","Navajo County, Arizona",1,0,25535,107449
+"593","Montezuma County, Colorado","Apache County, Arizona",1,0,25535,71518
+"594","Montezuma County, Colorado","McKinley County, New Mexico",1,0,25535,71492
+"595","Montezuma County, Colorado","Kane County, Utah",1,0,25535,7125
+"596","Montezuma County, Colorado","San Juan County, Utah",1,0,25535,14746
+"597","Montezuma County, Colorado","Washington County, Utah",1,0,25535,138115
+"598","Montezuma County, Colorado","San Bernardino County, California",1,0,25535,2035210
+"599","Montezuma County, Colorado","Mohave County, Arizona",1,0,25535,200186
+"600","Montezuma County, Colorado","Clark County, Nevada",1,0,25535,1951269
+"601","Montezuma County, Colorado","Riverside County, California",1,0,25535,2189641
+"602","Montezuma County, Colorado","La Paz County, Arizona",1,0,25535,20489
+"603","Montezuma County, Colorado","Los Angeles County, California",1,0,25535,9818605
+"604","Montezuma County, Colorado","Orange County, California",1,0,25535,3010232
+"605","Montezuma County, Colorado","Douglas County, Nebraska",1,0,25535,517110
+"606","Montezuma County, Colorado","Cook County, Illinois",1,0,25535,5194675
+"607","Montezuma County, Colorado","La Plata County, Colorado",1,0,25535,51334
+"608","Montezuma County, Colorado","Wyandotte County, Kansas",1,0,25535,157505
+"609","Kane County, Utah","Yuma County, Arizona",1,0,7125,195751
+"610","Kane County, Utah","Imperial County, California",1,0,7125,174528
+"611","Kane County, Utah","Monterey County, California",1,0,7125,415057
+"612","Kane County, Utah","San Diego County, California",1,0,7125,3095313
+"613","Kane County, Utah","Yavapai County, Arizona",1,0,7125,211033
+"614","Kane County, Utah","Coconino County, Arizona",1,0,7125,134421
+"615","Kane County, Utah","Pinal County, Arizona",1,0,7125,375770
+"616","Kane County, Utah","Maricopa County, Arizona",1,0,7125,3817117
+"617","Kane County, Utah","Gila County, Arizona",1,0,7125,53597
+"618","Kane County, Utah","Greenlee County, Arizona",1,0,7125,8437
+"619","Kane County, Utah","Graham County, Arizona",1,0,7125,37220
+"620","Kane County, Utah","Santa Cruz County, Arizona",1,0,7125,47420
+"621","Kane County, Utah","Pima County, Arizona",1,0,7125,980263
+"622","Kane County, Utah","Cochise County, Arizona",1,0,7125,131346
+"623","Kane County, Utah","San Juan County, New Mexico",1,0,7125,130044
+"624","Kane County, Utah","Navajo County, Arizona",1,0,7125,107449
+"625","Kane County, Utah","Apache County, Arizona",1,0,7125,71518
+"626","Kane County, Utah","McKinley County, New Mexico",1,0,7125,71492
+"627","Kane County, Utah","Montezuma County, Colorado",1,0,7125,25535
+"628","Kane County, Utah","San Juan County, Utah",1,0,7125,14746
+"629","Kane County, Utah","Washington County, Utah",1,0,7125,138115
+"630","Kane County, Utah","San Bernardino County, California",1,0,7125,2035210
+"631","Kane County, Utah","Mohave County, Arizona",1,0,7125,200186
+"632","Kane County, Utah","Clark County, Nevada",1,0,7125,1951269
+"633","Kane County, Utah","Riverside County, California",1,0,7125,2189641
+"634","Kane County, Utah","La Paz County, Arizona",1,0,7125,20489
+"635","Kane County, Utah","Los Angeles County, California",1,0,7125,9818605
+"636","Kane County, Utah","Orange County, California",1,0,7125,3010232
+"637","Kane County, Utah","Douglas County, Nebraska",1,0,7125,517110
+"638","Kane County, Utah","Cook County, Illinois",1,0,7125,5194675
+"639","Kane County, Utah","La Plata County, Colorado",1,0,7125,51334
+"640","Kane County, Utah","Wyandotte County, Kansas",1,0,7125,157505
+"641","San Juan County, Utah","Yuma County, Arizona",1,0,14746,195751
+"642","San Juan County, Utah","Imperial County, California",1,0,14746,174528
+"643","San Juan County, Utah","Monterey County, California",1,0,14746,415057
+"644","San Juan County, Utah","San Diego County, California",1,0,14746,3095313
+"645","San Juan County, Utah","Yavapai County, Arizona",1,0,14746,211033
+"646","San Juan County, Utah","Coconino County, Arizona",1,0,14746,134421
+"647","San Juan County, Utah","Pinal County, Arizona",1,0,14746,375770
+"648","San Juan County, Utah","Maricopa County, Arizona",1,0,14746,3817117
+"649","San Juan County, Utah","Gila County, Arizona",1,0,14746,53597
+"650","San Juan County, Utah","Greenlee County, Arizona",1,0,14746,8437
+"651","San Juan County, Utah","Graham County, Arizona",1,0,14746,37220
+"652","San Juan County, Utah","Santa Cruz County, Arizona",1,0,14746,47420
+"653","San Juan County, Utah","Pima County, Arizona",1,0,14746,980263
+"654","San Juan County, Utah","Cochise County, Arizona",1,0,14746,131346
+"655","San Juan County, Utah","San Juan County, New Mexico",1,0,14746,130044
+"656","San Juan County, Utah","Navajo County, Arizona",1,0,14746,107449
+"657","San Juan County, Utah","Apache County, Arizona",1,0,14746,71518
+"658","San Juan County, Utah","McKinley County, New Mexico",1,0,14746,71492
+"659","San Juan County, Utah","Montezuma County, Colorado",1,0,14746,25535
+"660","San Juan County, Utah","Kane County, Utah",1,0,14746,7125
+"661","San Juan County, Utah","Washington County, Utah",1,0,14746,138115
+"662","San Juan County, Utah","San Bernardino County, California",1,0,14746,2035210
+"663","San Juan County, Utah","Mohave County, Arizona",1,0,14746,200186
+"664","San Juan County, Utah","Clark County, Nevada",1,0,14746,1951269
+"665","San Juan County, Utah","Riverside County, California",1,0,14746,2189641
+"666","San Juan County, Utah","La Paz County, Arizona",1,0,14746,20489
+"667","San Juan County, Utah","Los Angeles County, California",1,0,14746,9818605
+"668","San Juan County, Utah","Orange County, California",1,0,14746,3010232
+"669","San Juan County, Utah","Douglas County, Nebraska",1,0,14746,517110
+"670","San Juan County, Utah","Cook County, Illinois",1,0,14746,5194675
+"671","San Juan County, Utah","La Plata County, Colorado",1,0,14746,51334
+"672","San Juan County, Utah","Wyandotte County, Kansas",1,0,14746,157505
+"673","Washington County, Utah","Yuma County, Arizona",1,0,138115,195751
+"674","Washington County, Utah","Imperial County, California",1,0,138115,174528
+"675","Washington County, Utah","Monterey County, California",1,0,138115,415057
+"676","Washington County, Utah","San Diego County, California",1,0,138115,3095313
+"677","Washington County, Utah","Yavapai County, Arizona",1,0,138115,211033
+"678","Washington County, Utah","Coconino County, Arizona",1,0,138115,134421
+"679","Washington County, Utah","Pinal County, Arizona",1,0,138115,375770
+"680","Washington County, Utah","Maricopa County, Arizona",1,0,138115,3817117
+"681","Washington County, Utah","Gila County, Arizona",1,0,138115,53597
+"682","Washington County, Utah","Greenlee County, Arizona",1,0,138115,8437
+"683","Washington County, Utah","Graham County, Arizona",1,0,138115,37220
+"684","Washington County, Utah","Santa Cruz County, Arizona",1,0,138115,47420
+"685","Washington County, Utah","Pima County, Arizona",1,0,138115,980263
+"686","Washington County, Utah","Cochise County, Arizona",1,0,138115,131346
+"687","Washington County, Utah","San Juan County, New Mexico",1,0,138115,130044
+"688","Washington County, Utah","Navajo County, Arizona",1,0,138115,107449
+"689","Washington County, Utah","Apache County, Arizona",1,0,138115,71518
+"690","Washington County, Utah","McKinley County, New Mexico",1,0,138115,71492
+"691","Washington County, Utah","Montezuma County, Colorado",1,0,138115,25535
+"692","Washington County, Utah","Kane County, Utah",1,0,138115,7125
+"693","Washington County, Utah","San Juan County, Utah",1,0,138115,14746
+"694","Washington County, Utah","San Bernardino County, California",1,0,138115,2035210
+"695","Washington County, Utah","Mohave County, Arizona",1,0,138115,200186
+"696","Washington County, Utah","Clark County, Nevada",1,0,138115,1951269
+"697","Washington County, Utah","Riverside County, California",1,0,138115,2189641
+"698","Washington County, Utah","La Paz County, Arizona",1,0,138115,20489
+"699","Washington County, Utah","Los Angeles County, California",1,0,138115,9818605
+"700","Washington County, Utah","Orange County, California",1,0,138115,3010232
+"701","Washington County, Utah","Douglas County, Nebraska",1,0,138115,517110
+"702","Washington County, Utah","Cook County, Illinois",1,0,138115,5194675
+"703","Washington County, Utah","La Plata County, Colorado",1,0,138115,51334
+"704","Washington County, Utah","Wyandotte County, Kansas",1,0,138115,157505
+"705","San Bernardino County, California","Yuma County, Arizona",1,0,2035210,195751
+"706","San Bernardino County, California","Imperial County, California",1,0,2035210,174528
+"707","San Bernardino County, California","Monterey County, California",1,0,2035210,415057
+"708","San Bernardino County, California","San Diego County, California",1,0,2035210,3095313
+"709","San Bernardino County, California","Yavapai County, Arizona",1,0,2035210,211033
+"710","San Bernardino County, California","Coconino County, Arizona",1,0,2035210,134421
+"711","San Bernardino County, California","Pinal County, Arizona",1,0,2035210,375770
+"712","San Bernardino County, California","Maricopa County, Arizona",1,0,2035210,3817117
+"713","San Bernardino County, California","Gila County, Arizona",1,0,2035210,53597
+"714","San Bernardino County, California","Greenlee County, Arizona",1,0,2035210,8437
+"715","San Bernardino County, California","Graham County, Arizona",1,0,2035210,37220
+"716","San Bernardino County, California","Santa Cruz County, Arizona",1,0,2035210,47420
+"717","San Bernardino County, California","Pima County, Arizona",1,0,2035210,980263
+"718","San Bernardino County, California","Cochise County, Arizona",1,0,2035210,131346
+"719","San Bernardino County, California","San Juan County, New Mexico",1,0,2035210,130044
+"720","San Bernardino County, California","Navajo County, Arizona",1,0,2035210,107449
+"721","San Bernardino County, California","Apache County, Arizona",1,0,2035210,71518
+"722","San Bernardino County, California","McKinley County, New Mexico",1,0,2035210,71492
+"723","San Bernardino County, California","Montezuma County, Colorado",1,0,2035210,25535
+"724","San Bernardino County, California","Kane County, Utah",1,0,2035210,7125
+"725","San Bernardino County, California","San Juan County, Utah",1,0,2035210,14746
+"726","San Bernardino County, California","Washington County, Utah",1,0,2035210,138115
+"727","San Bernardino County, California","Mohave County, Arizona",1,0,2035210,200186
+"728","San Bernardino County, California","Clark County, Nevada",1,0,2035210,1951269
+"729","San Bernardino County, California","Riverside County, California",1,0,2035210,2189641
+"730","San Bernardino County, California","La Paz County, Arizona",1,0,2035210,20489
+"731","San Bernardino County, California","Los Angeles County, California",1,0,2035210,9818605
+"732","San Bernardino County, California","Orange County, California",1,0,2035210,3010232
+"733","San Bernardino County, California","Douglas County, Nebraska",1,0,2035210,517110
+"734","San Bernardino County, California","Cook County, Illinois",1,0,2035210,5194675
+"735","San Bernardino County, California","La Plata County, Colorado",1,0,2035210,51334
+"736","San Bernardino County, California","Wyandotte County, Kansas",1,0,2035210,157505
+"737","Mohave County, Arizona","Yuma County, Arizona",1,0,200186,195751
+"738","Mohave County, Arizona","Imperial County, California",1,0,200186,174528
+"739","Mohave County, Arizona","Monterey County, California",1,0,200186,415057
+"741","Mohave County, Arizona","Yavapai County, Arizona",1,0,200186,211033
+"743","Mohave County, Arizona","Pinal County, Arizona",1,0,200186,375770
+"745","Mohave County, Arizona","Gila County, Arizona",1,0,200186,53597
+"746","Mohave County, Arizona","Greenlee County, Arizona",1,0,200186,8437
+"747","Mohave County, Arizona","Graham County, Arizona",1,0,200186,37220
+"748","Mohave County, Arizona","Santa Cruz County, Arizona",1,0,200186,47420
+"749","Mohave County, Arizona","Pima County, Arizona",1,0,200186,980263
+"750","Mohave County, Arizona","Cochise County, Arizona",1,0,200186,131346
+"751","Mohave County, Arizona","San Juan County, New Mexico",1,0,200186,130044
+"752","Mohave County, Arizona","Navajo County, Arizona",1,0,200186,107449
+"753","Mohave County, Arizona","Apache County, Arizona",1,0,200186,71518
+"754","Mohave County, Arizona","McKinley County, New Mexico",1,0,200186,71492
+"755","Mohave County, Arizona","Montezuma County, Colorado",1,0,200186,25535
+"756","Mohave County, Arizona","Kane County, Utah",1,0,200186,7125
+"757","Mohave County, Arizona","San Juan County, Utah",1,0,200186,14746
+"765","Mohave County, Arizona","Douglas County, Nebraska",1,0,200186,517110
+"766","Mohave County, Arizona","Cook County, Illinois",1,0,200186,5194675
+"767","Mohave County, Arizona","La Plata County, Colorado",1,0,200186,51334
+"768","Mohave County, Arizona","Wyandotte County, Kansas",1,0,200186,157505
+"769","Clark County, Nevada","Yuma County, Arizona",1,0,1951269,195751
+"770","Clark County, Nevada","Imperial County, California",1,0,1951269,174528
+"771","Clark County, Nevada","Monterey County, California",1,0,1951269,415057
+"772","Clark County, Nevada","San Diego County, California",1,0,1951269,3095313
+"773","Clark County, Nevada","Yavapai County, Arizona",1,0,1951269,211033
+"774","Clark County, Nevada","Coconino County, Arizona",1,0,1951269,134421
+"775","Clark County, Nevada","Pinal County, Arizona",1,0,1951269,375770
+"776","Clark County, Nevada","Maricopa County, Arizona",1,0,1951269,3817117
+"777","Clark County, Nevada","Gila County, Arizona",1,0,1951269,53597
+"778","Clark County, Nevada","Greenlee County, Arizona",1,0,1951269,8437
+"779","Clark County, Nevada","Graham County, Arizona",1,0,1951269,37220
+"780","Clark County, Nevada","Santa Cruz County, Arizona",1,0,1951269,47420
+"781","Clark County, Nevada","Pima County, Arizona",1,0,1951269,980263
+"782","Clark County, Nevada","Cochise County, Arizona",1,0,1951269,131346
+"783","Clark County, Nevada","San Juan County, New Mexico",1,0,1951269,130044
+"784","Clark County, Nevada","Navajo County, Arizona",1,0,1951269,107449
+"785","Clark County, Nevada","Apache County, Arizona",1,0,1951269,71518
+"786","Clark County, Nevada","McKinley County, New Mexico",1,0,1951269,71492
+"787","Clark County, Nevada","Montezuma County, Colorado",1,0,1951269,25535
+"788","Clark County, Nevada","Kane County, Utah",1,0,1951269,7125
+"789","Clark County, Nevada","San Juan County, Utah",1,0,1951269,14746
+"790","Clark County, Nevada","Washington County, Utah",1,0,1951269,138115
+"791","Clark County, Nevada","San Bernardino County, California",1,0,1951269,2035210
+"792","Clark County, Nevada","Mohave County, Arizona",1,0,1951269,200186
+"793","Clark County, Nevada","Riverside County, California",1,0,1951269,2189641
+"794","Clark County, Nevada","La Paz County, Arizona",1,0,1951269,20489
+"795","Clark County, Nevada","Los Angeles County, California",1,0,1951269,9818605
+"796","Clark County, Nevada","Orange County, California",1,0,1951269,3010232
+"797","Clark County, Nevada","Douglas County, Nebraska",1,0,1951269,517110
+"798","Clark County, Nevada","Cook County, Illinois",1,0,1951269,5194675
+"799","Clark County, Nevada","La Plata County, Colorado",1,0,1951269,51334
+"800","Clark County, Nevada","Wyandotte County, Kansas",1,0,1951269,157505
+"801","Riverside County, California","Yuma County, Arizona",1,0,2189641,195751
+"802","Riverside County, California","Imperial County, California",1,0,2189641,174528
+"803","Riverside County, California","Monterey County, California",1,0,2189641,415057
+"804","Riverside County, California","San Diego County, California",1,0,2189641,3095313
+"805","Riverside County, California","Yavapai County, Arizona",1,0,2189641,211033
+"806","Riverside County, California","Coconino County, Arizona",1,0,2189641,134421
+"807","Riverside County, California","Pinal County, Arizona",1,0,2189641,375770
+"808","Riverside County, California","Maricopa County, Arizona",1,0,2189641,3817117
+"809","Riverside County, California","Gila County, Arizona",1,0,2189641,53597
+"810","Riverside County, California","Greenlee County, Arizona",1,0,2189641,8437
+"811","Riverside County, California","Graham County, Arizona",1,0,2189641,37220
+"812","Riverside County, California","Santa Cruz County, Arizona",1,0,2189641,47420
+"813","Riverside County, California","Pima County, Arizona",1,0,2189641,980263
+"814","Riverside County, California","Cochise County, Arizona",1,0,2189641,131346
+"815","Riverside County, California","San Juan County, New Mexico",1,0,2189641,130044
+"816","Riverside County, California","Navajo County, Arizona",1,0,2189641,107449
+"817","Riverside County, California","Apache County, Arizona",1,0,2189641,71518
+"818","Riverside County, California","McKinley County, New Mexico",1,0,2189641,71492
+"819","Riverside County, California","Montezuma County, Colorado",1,0,2189641,25535
+"820","Riverside County, California","Kane County, Utah",1,0,2189641,7125
+"821","Riverside County, California","San Juan County, Utah",1,0,2189641,14746
+"822","Riverside County, California","Washington County, Utah",1,0,2189641,138115
+"823","Riverside County, California","San Bernardino County, California",1,0,2189641,2035210
+"824","Riverside County, California","Mohave County, Arizona",1,0,2189641,200186
+"825","Riverside County, California","Clark County, Nevada",1,0,2189641,1951269
+"826","Riverside County, California","La Paz County, Arizona",1,0,2189641,20489
+"827","Riverside County, California","Los Angeles County, California",1,0,2189641,9818605
+"828","Riverside County, California","Orange County, California",1,0,2189641,3010232
+"829","Riverside County, California","Douglas County, Nebraska",1,0,2189641,517110
+"830","Riverside County, California","Cook County, Illinois",1,0,2189641,5194675
+"831","Riverside County, California","La Plata County, Colorado",1,0,2189641,51334
+"832","Riverside County, California","Wyandotte County, Kansas",1,0,2189641,157505
+"833","La Paz County, Arizona","Yuma County, Arizona",1,0,20489,195751
+"834","La Paz County, Arizona","Imperial County, California",1,0,20489,174528
+"835","La Paz County, Arizona","Monterey County, California",1,0,20489,415057
+"836","La Paz County, Arizona","San Diego County, California",1,0,20489,3095313
+"837","La Paz County, Arizona","Yavapai County, Arizona",1,0,20489,211033
+"838","La Paz County, Arizona","Coconino County, Arizona",1,0,20489,134421
+"839","La Paz County, Arizona","Pinal County, Arizona",1,0,20489,375770
+"840","La Paz County, Arizona","Maricopa County, Arizona",1,0,20489,3817117
+"841","La Paz County, Arizona","Gila County, Arizona",1,0,20489,53597
+"842","La Paz County, Arizona","Greenlee County, Arizona",1,0,20489,8437
+"843","La Paz County, Arizona","Graham County, Arizona",1,0,20489,37220
+"844","La Paz County, Arizona","Santa Cruz County, Arizona",1,0,20489,47420
+"845","La Paz County, Arizona","Pima County, Arizona",1,0,20489,980263
+"846","La Paz County, Arizona","Cochise County, Arizona",1,0,20489,131346
+"847","La Paz County, Arizona","San Juan County, New Mexico",1,0,20489,130044
+"848","La Paz County, Arizona","Navajo County, Arizona",1,0,20489,107449
+"849","La Paz County, Arizona","Apache County, Arizona",1,0,20489,71518
+"850","La Paz County, Arizona","McKinley County, New Mexico",1,0,20489,71492
+"851","La Paz County, Arizona","Montezuma County, Colorado",1,0,20489,25535
+"852","La Paz County, Arizona","Kane County, Utah",1,0,20489,7125
+"853","La Paz County, Arizona","San Juan County, Utah",1,0,20489,14746
+"854","La Paz County, Arizona","Washington County, Utah",1,0,20489,138115
+"857","La Paz County, Arizona","Clark County, Nevada",1,0,20489,1951269
+"859","La Paz County, Arizona","Los Angeles County, California",1,0,20489,9818605
+"860","La Paz County, Arizona","Orange County, California",1,0,20489,3010232
+"861","La Paz County, Arizona","Douglas County, Nebraska",1,0,20489,517110
+"862","La Paz County, Arizona","Cook County, Illinois",1,0,20489,5194675
+"863","La Paz County, Arizona","La Plata County, Colorado",1,0,20489,51334
+"864","La Paz County, Arizona","Wyandotte County, Kansas",1,0,20489,157505
+"865","Los Angeles County, California","Yuma County, Arizona",1,0,9818605,195751
+"866","Los Angeles County, California","Imperial County, California",1,0,9818605,174528
+"867","Los Angeles County, California","Monterey County, California",1,0,9818605,415057
+"868","Los Angeles County, California","San Diego County, California",1,0,9818605,3095313
+"869","Los Angeles County, California","Yavapai County, Arizona",1,0,9818605,211033
+"870","Los Angeles County, California","Coconino County, Arizona",1,0,9818605,134421
+"871","Los Angeles County, California","Pinal County, Arizona",1,0,9818605,375770
+"872","Los Angeles County, California","Maricopa County, Arizona",1,0,9818605,3817117
+"873","Los Angeles County, California","Gila County, Arizona",1,0,9818605,53597
+"874","Los Angeles County, California","Greenlee County, Arizona",1,0,9818605,8437
+"875","Los Angeles County, California","Graham County, Arizona",1,0,9818605,37220
+"876","Los Angeles County, California","Santa Cruz County, Arizona",1,0,9818605,47420
+"877","Los Angeles County, California","Pima County, Arizona",1,0,9818605,980263
+"878","Los Angeles County, California","Cochise County, Arizona",1,0,9818605,131346
+"879","Los Angeles County, California","San Juan County, New Mexico",1,0,9818605,130044
+"880","Los Angeles County, California","Navajo County, Arizona",1,0,9818605,107449
+"881","Los Angeles County, California","Apache County, Arizona",1,0,9818605,71518
+"882","Los Angeles County, California","McKinley County, New Mexico",1,0,9818605,71492
+"883","Los Angeles County, California","Montezuma County, Colorado",1,0,9818605,25535
+"884","Los Angeles County, California","Kane County, Utah",1,0,9818605,7125
+"885","Los Angeles County, California","San Juan County, Utah",1,0,9818605,14746
+"886","Los Angeles County, California","Washington County, Utah",1,0,9818605,138115
+"887","Los Angeles County, California","San Bernardino County, California",1,0,9818605,2035210
+"888","Los Angeles County, California","Mohave County, Arizona",1,0,9818605,200186
+"889","Los Angeles County, California","Clark County, Nevada",1,0,9818605,1951269
+"890","Los Angeles County, California","Riverside County, California",1,0,9818605,2189641
+"891","Los Angeles County, California","La Paz County, Arizona",1,0,9818605,20489
+"892","Los Angeles County, California","Orange County, California",1,0,9818605,3010232
+"893","Los Angeles County, California","Douglas County, Nebraska",1,0,9818605,517110
+"894","Los Angeles County, California","Cook County, Illinois",1,0,9818605,5194675
+"895","Los Angeles County, California","La Plata County, Colorado",1,0,9818605,51334
+"896","Los Angeles County, California","Wyandotte County, Kansas",1,0,9818605,157505
+"897","Orange County, California","Yuma County, Arizona",1,0,3010232,195751
+"898","Orange County, California","Imperial County, California",1,0,3010232,174528
+"899","Orange County, California","Monterey County, California",1,0,3010232,415057
+"900","Orange County, California","San Diego County, California",1,0,3010232,3095313
+"901","Orange County, California","Yavapai County, Arizona",1,0,3010232,211033
+"902","Orange County, California","Coconino County, Arizona",1,0,3010232,134421
+"903","Orange County, California","Pinal County, Arizona",1,0,3010232,375770
+"904","Orange County, California","Maricopa County, Arizona",1,0,3010232,3817117
+"905","Orange County, California","Gila County, Arizona",1,0,3010232,53597
+"906","Orange County, California","Greenlee County, Arizona",1,0,3010232,8437
+"907","Orange County, California","Graham County, Arizona",1,0,3010232,37220
+"908","Orange County, California","Santa Cruz County, Arizona",1,0,3010232,47420
+"909","Orange County, California","Pima County, Arizona",1,0,3010232,980263
+"910","Orange County, California","Cochise County, Arizona",1,0,3010232,131346
+"911","Orange County, California","San Juan County, New Mexico",1,0,3010232,130044
+"912","Orange County, California","Navajo County, Arizona",1,0,3010232,107449
+"913","Orange County, California","Apache County, Arizona",1,0,3010232,71518
+"914","Orange County, California","McKinley County, New Mexico",1,0,3010232,71492
+"915","Orange County, California","Montezuma County, Colorado",1,0,3010232,25535
+"916","Orange County, California","Kane County, Utah",1,0,3010232,7125
+"917","Orange County, California","San Juan County, Utah",1,0,3010232,14746
+"918","Orange County, California","Washington County, Utah",1,0,3010232,138115
+"919","Orange County, California","San Bernardino County, California",1,0,3010232,2035210
+"920","Orange County, California","Mohave County, Arizona",1,0,3010232,200186
+"921","Orange County, California","Clark County, Nevada",1,0,3010232,1951269
+"922","Orange County, California","Riverside County, California",1,0,3010232,2189641
+"923","Orange County, California","La Paz County, Arizona",1,0,3010232,20489
+"924","Orange County, California","Los Angeles County, California",1,0,3010232,9818605
+"925","Orange County, California","Douglas County, Nebraska",1,0,3010232,517110
+"926","Orange County, California","Cook County, Illinois",1,0,3010232,5194675
+"927","Orange County, California","La Plata County, Colorado",1,0,3010232,51334
+"928","Orange County, California","Wyandotte County, Kansas",1,0,3010232,157505
+"929","Douglas County, Nebraska","Yuma County, Arizona",1,0,517110,195751
+"930","Douglas County, Nebraska","Imperial County, California",1,0,517110,174528
+"931","Douglas County, Nebraska","Monterey County, California",1,0,517110,415057
+"932","Douglas County, Nebraska","San Diego County, California",1,0,517110,3095313
+"933","Douglas County, Nebraska","Yavapai County, Arizona",1,0,517110,211033
+"934","Douglas County, Nebraska","Coconino County, Arizona",1,0,517110,134421
+"935","Douglas County, Nebraska","Pinal County, Arizona",1,0,517110,375770
+"936","Douglas County, Nebraska","Maricopa County, Arizona",1,0,517110,3817117
+"937","Douglas County, Nebraska","Gila County, Arizona",1,0,517110,53597
+"938","Douglas County, Nebraska","Greenlee County, Arizona",1,0,517110,8437
+"939","Douglas County, Nebraska","Graham County, Arizona",1,0,517110,37220
+"940","Douglas County, Nebraska","Santa Cruz County, Arizona",1,0,517110,47420
+"941","Douglas County, Nebraska","Pima County, Arizona",1,0,517110,980263
+"942","Douglas County, Nebraska","Cochise County, Arizona",1,0,517110,131346
+"943","Douglas County, Nebraska","San Juan County, New Mexico",1,0,517110,130044
+"944","Douglas County, Nebraska","Navajo County, Arizona",1,0,517110,107449
+"945","Douglas County, Nebraska","Apache County, Arizona",1,0,517110,71518
+"946","Douglas County, Nebraska","McKinley County, New Mexico",1,0,517110,71492
+"947","Douglas County, Nebraska","Montezuma County, Colorado",1,0,517110,25535
+"948","Douglas County, Nebraska","Kane County, Utah",1,0,517110,7125
+"949","Douglas County, Nebraska","San Juan County, Utah",1,0,517110,14746
+"950","Douglas County, Nebraska","Washington County, Utah",1,0,517110,138115
+"951","Douglas County, Nebraska","San Bernardino County, California",1,0,517110,2035210
+"952","Douglas County, Nebraska","Mohave County, Arizona",1,0,517110,200186
+"953","Douglas County, Nebraska","Clark County, Nevada",1,0,517110,1951269
+"954","Douglas County, Nebraska","Riverside County, California",1,0,517110,2189641
+"955","Douglas County, Nebraska","La Paz County, Arizona",1,0,517110,20489
+"956","Douglas County, Nebraska","Los Angeles County, California",1,0,517110,9818605
+"957","Douglas County, Nebraska","Orange County, California",1,0,517110,3010232
+"958","Douglas County, Nebraska","Cook County, Illinois",1,0,517110,5194675
+"959","Douglas County, Nebraska","La Plata County, Colorado",1,0,517110,51334
+"960","Douglas County, Nebraska","Wyandotte County, Kansas",1,0,517110,157505
+"961","Cook County, Illinois","Yuma County, Arizona",1,0,5194675,195751
+"962","Cook County, Illinois","Imperial County, California",1,0,5194675,174528
+"963","Cook County, Illinois","Monterey County, California",1,0,5194675,415057
+"964","Cook County, Illinois","San Diego County, California",1,0,5194675,3095313
+"965","Cook County, Illinois","Yavapai County, Arizona",1,0,5194675,211033
+"966","Cook County, Illinois","Coconino County, Arizona",1,0,5194675,134421
+"967","Cook County, Illinois","Pinal County, Arizona",1,0,5194675,375770
+"968","Cook County, Illinois","Maricopa County, Arizona",1,0,5194675,3817117
+"969","Cook County, Illinois","Gila County, Arizona",1,0,5194675,53597
+"970","Cook County, Illinois","Greenlee County, Arizona",1,0,5194675,8437
+"971","Cook County, Illinois","Graham County, Arizona",1,0,5194675,37220
+"972","Cook County, Illinois","Santa Cruz County, Arizona",1,0,5194675,47420
+"973","Cook County, Illinois","Pima County, Arizona",1,0,5194675,980263
+"974","Cook County, Illinois","Cochise County, Arizona",1,0,5194675,131346
+"975","Cook County, Illinois","San Juan County, New Mexico",1,0,5194675,130044
+"976","Cook County, Illinois","Navajo County, Arizona",1,0,5194675,107449
+"977","Cook County, Illinois","Apache County, Arizona",1,0,5194675,71518
+"978","Cook County, Illinois","McKinley County, New Mexico",1,0,5194675,71492
+"979","Cook County, Illinois","Montezuma County, Colorado",1,0,5194675,25535
+"980","Cook County, Illinois","Kane County, Utah",1,0,5194675,7125
+"981","Cook County, Illinois","San Juan County, Utah",1,0,5194675,14746
+"982","Cook County, Illinois","Washington County, Utah",1,0,5194675,138115
+"983","Cook County, Illinois","San Bernardino County, California",1,0,5194675,2035210
+"984","Cook County, Illinois","Mohave County, Arizona",1,0,5194675,200186
+"985","Cook County, Illinois","Clark County, Nevada",1,0,5194675,1951269
+"986","Cook County, Illinois","Riverside County, California",1,0,5194675,2189641
+"987","Cook County, Illinois","La Paz County, Arizona",1,0,5194675,20489
+"988","Cook County, Illinois","Los Angeles County, California",1,0,5194675,9818605
+"989","Cook County, Illinois","Orange County, California",1,0,5194675,3010232
+"990","Cook County, Illinois","Douglas County, Nebraska",1,0,5194675,517110
+"991","Cook County, Illinois","La Plata County, Colorado",1,0,5194675,51334
+"992","Cook County, Illinois","Wyandotte County, Kansas",1,0,5194675,157505
+"993","La Plata County, Colorado","Yuma County, Arizona",1,0,51334,195751
+"994","La Plata County, Colorado","Imperial County, California",1,0,51334,174528
+"995","La Plata County, Colorado","Monterey County, California",1,0,51334,415057
+"996","La Plata County, Colorado","San Diego County, California",1,0,51334,3095313
+"997","La Plata County, Colorado","Yavapai County, Arizona",1,0,51334,211033
+"998","La Plata County, Colorado","Coconino County, Arizona",1,0,51334,134421
+"999","La Plata County, Colorado","Pinal County, Arizona",1,0,51334,375770
+"1000","La Plata County, Colorado","Maricopa County, Arizona",1,0,51334,3817117
+"1001","La Plata County, Colorado","Gila County, Arizona",1,0,51334,53597
+"1002","La Plata County, Colorado","Greenlee County, Arizona",1,0,51334,8437
+"1003","La Plata County, Colorado","Graham County, Arizona",1,0,51334,37220
+"1004","La Plata County, Colorado","Santa Cruz County, Arizona",1,0,51334,47420
+"1005","La Plata County, Colorado","Pima County, Arizona",1,0,51334,980263
+"1006","La Plata County, Colorado","Cochise County, Arizona",1,0,51334,131346
+"1007","La Plata County, Colorado","San Juan County, New Mexico",1,0,51334,130044
+"1008","La Plata County, Colorado","Navajo County, Arizona",1,0,51334,107449
+"1009","La Plata County, Colorado","Apache County, Arizona",1,0,51334,71518
+"1010","La Plata County, Colorado","McKinley County, New Mexico",1,0,51334,71492
+"1011","La Plata County, Colorado","Montezuma County, Colorado",1,0,51334,25535
+"1012","La Plata County, Colorado","Kane County, Utah",1,0,51334,7125
+"1013","La Plata County, Colorado","San Juan County, Utah",1,0,51334,14746
+"1014","La Plata County, Colorado","Washington County, Utah",1,0,51334,138115
+"1015","La Plata County, Colorado","San Bernardino County, California",1,0,51334,2035210
+"1016","La Plata County, Colorado","Mohave County, Arizona",1,0,51334,200186
+"1017","La Plata County, Colorado","Clark County, Nevada",1,0,51334,1951269
+"1018","La Plata County, Colorado","Riverside County, California",1,0,51334,2189641
+"1019","La Plata County, Colorado","La Paz County, Arizona",1,0,51334,20489
+"1020","La Plata County, Colorado","Los Angeles County, California",1,0,51334,9818605
+"1021","La Plata County, Colorado","Orange County, California",1,0,51334,3010232
+"1022","La Plata County, Colorado","Douglas County, Nebraska",1,0,51334,517110
+"1023","La Plata County, Colorado","Cook County, Illinois",1,0,51334,5194675
+"1024","La Plata County, Colorado","Wyandotte County, Kansas",1,0,51334,157505
+"1025","Wyandotte County, Kansas","Yuma County, Arizona",1,0,157505,195751
+"1026","Wyandotte County, Kansas","Imperial County, California",1,0,157505,174528
+"1027","Wyandotte County, Kansas","Monterey County, California",1,0,157505,415057
+"1028","Wyandotte County, Kansas","San Diego County, California",1,0,157505,3095313
+"1029","Wyandotte County, Kansas","Yavapai County, Arizona",1,0,157505,211033
+"1030","Wyandotte County, Kansas","Coconino County, Arizona",1,0,157505,134421
+"1031","Wyandotte County, Kansas","Pinal County, Arizona",1,0,157505,375770
+"1032","Wyandotte County, Kansas","Maricopa County, Arizona",1,0,157505,3817117
+"1033","Wyandotte County, Kansas","Gila County, Arizona",1,0,157505,53597
+"1034","Wyandotte County, Kansas","Greenlee County, Arizona",1,0,157505,8437
+"1035","Wyandotte County, Kansas","Graham County, Arizona",1,0,157505,37220
+"1036","Wyandotte County, Kansas","Santa Cruz County, Arizona",1,0,157505,47420
+"1037","Wyandotte County, Kansas","Pima County, Arizona",1,0,157505,980263
+"1038","Wyandotte County, Kansas","Cochise County, Arizona",1,0,157505,131346
+"1039","Wyandotte County, Kansas","San Juan County, New Mexico",1,0,157505,130044
+"1040","Wyandotte County, Kansas","Navajo County, Arizona",1,0,157505,107449
+"1041","Wyandotte County, Kansas","Apache County, Arizona",1,0,157505,71518
+"1042","Wyandotte County, Kansas","McKinley County, New Mexico",1,0,157505,71492
+"1043","Wyandotte County, Kansas","Montezuma County, Colorado",1,0,157505,25535
+"1044","Wyandotte County, Kansas","Kane County, Utah",1,0,157505,7125
+"1045","Wyandotte County, Kansas","San Juan County, Utah",1,0,157505,14746
+"1046","Wyandotte County, Kansas","Washington County, Utah",1,0,157505,138115
+"1047","Wyandotte County, Kansas","San Bernardino County, California",1,0,157505,2035210
+"1048","Wyandotte County, Kansas","Mohave County, Arizona",1,0,157505,200186
+"1049","Wyandotte County, Kansas","Clark County, Nevada",1,0,157505,1951269
+"1050","Wyandotte County, Kansas","Riverside County, California",1,0,157505,2189641
+"1051","Wyandotte County, Kansas","La Paz County, Arizona",1,0,157505,20489
+"1052","Wyandotte County, Kansas","Los Angeles County, California",1,0,157505,9818605
+"1053","Wyandotte County, Kansas","Orange County, California",1,0,157505,3010232
+"1054","Wyandotte County, Kansas","Douglas County, Nebraska",1,0,157505,517110
+"1055","Wyandotte County, Kansas","Cook County, Illinois",1,0,157505,5194675
+"1056","Wyandotte County, Kansas","La Plata County, Colorado",1,0,157505,51334

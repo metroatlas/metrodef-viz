@@ -1,0 +1,1333 @@
+"","source","target","cluster","pct","srcpop","tarpop"
+"371","Grand Isle County, Vermont","Chittenden County, Vermont",1,0.252510760401722,6970,156545
+"444","Franklin County, Vermont","Chittenden County, Vermont",1,0.151426297490889,47746,156545
+"480","Addison County, Vermont","Chittenden County, Vermont",1,0.102903234567231,36821,156545
+"148","Orange County, Vermont","Washington County, Vermont",1,0.102260160353884,28936,59534
+"147","Orange County, Vermont","Grafton County, New Hampshire",1,0.100324854852087,28936,89118
+"38","Windsor County, Vermont","Grafton County, New Hampshire",1,0.0998941238750662,56670,89118
+"223","Essex County, Vermont","Coos County, New Hampshire",1,0.09895337773549,6306,33055
+"224","Essex County, Vermont","Caledonia County, Vermont",1,0.0876942594354583,6306,31227
+"335","Lamoille County, Vermont","Chittenden County, Vermont",1,0.0732584269662921,24475,156545
+"146","Orange County, Vermont","Windsor County, Vermont",1,0.0494539673762787,28936,56670
+"119","Washington County, Vermont","Chittenden County, Vermont",1,0.037356804515067,59534,156545
+"372","Grand Isle County, Vermont","Franklin County, Vermont",1,0.0358680057388809,6970,47746
+"328","Lamoille County, Vermont","Washington County, Vermont",1,0.0343615934627171,24475,59534
+"219","Essex County, Vermont","Grafton County, New Hampshire",1,0.0339359340310815,6306,89118
+"556","Windham County, Vermont","Cheshire County, New Hampshire",1,0.0289802978905039,44513,77117
+"291","Caledonia County, Vermont","Grafton County, New Hampshire",1,0.0268997982515131,31227,89118
+"740","Bennington County, Vermont","Berkshire County, Massachusetts",1,0.0235420875420875,37125,131219
+"188","Orleans County, Vermont","Caledonia County, Vermont",1,0.0209687488524109,27231,31227
+"292","Caledonia County, Vermont","Washington County, Vermont",1,0.0209434143529638,31227,59534
+"486","Addison County, Vermont","Rutland County, Vermont",1,0.0202330192009994,36821,61642
+"222","Essex County, Vermont","Orleans County, Vermont",1,0.0168093878845544,6306,27231
+"40","Windsor County, Vermont","Orange County, Vermont",1,0.0150344097406035,56670,28936
+"189","Orleans County, Vermont","Lamoille County, Vermont",1,0.0149462010208953,27231,24475
+"542","Windham County, Vermont","Windsor County, Vermont",1,0.014849594500483,44513,56670
+"668","Rutland County, Vermont","Bennington County, Vermont",1,0.0136919632717952,61642,37125
+"294","Caledonia County, Vermont","Orleans County, Vermont",1,0.0135139462644506,31227,27231
+"650","Rutland County, Vermont","Windsor County, Vermont",1,0.0134648453976185,61642,56670
+"50","Windsor County, Vermont","Sullivan County, New Hampshire",1,0.0130404093876831,56670,43742
+"560","Windham County, Vermont","Bennington County, Vermont",1,0.0122660795722598,44513,37125
+"400","Chittenden County, Vermont","Washington County, Vermont",1,0.0119709987543518,156545,59534
+"662","Rutland County, Vermont","Addison County, Vermont",1,0.0115992342883099,61642,36821
+"297","Caledonia County, Vermont","Lamoille County, Vermont",1,0.0112082492714638,31227,24475
+"54","Windsor County, Vermont","Rutland County, Vermont",1,0.010834656784895,56670,61642
+"51","Windsor County, Vermont","Windham County, Vermont",1,0.0107287806599612,56670,44513
+"293","Caledonia County, Vermont","Orange County, Vermont",1,0.0103115893297467,31227,28936
+"117","Washington County, Vermont","Lamoille County, Vermont",1,0.0101790573453825,59534,24475
+"736","Bennington County, Vermont","Windham County, Vermont",1,0.00921212121212121,37125,44513
+"112","Washington County, Vermont","Orange County, Vermont",1,0.00876809890146807,59534,28936
+"442","Franklin County, Vermont","Lamoille County, Vermont",1,0.00823105600469149,47746,24475
+"557","Windham County, Vermont","Franklin County, Massachusetts",1,0.00802012895109294,44513,71372
+"184","Orleans County, Vermont","Washington County, Vermont",1,0.00785869046307517,27231,59534
+"741","Bennington County, Vermont","Rensselaer County, New York",1,0.00775757575757576,37125,159429
+"408","Chittenden County, Vermont","Franklin County, Vermont",1,0.00724392347248395,156545,47746
+"155","Orange County, Vermont","Chittenden County, Vermont",1,0.00635886093447608,28936,156545
+"472","Addison County, Vermont","Washington County, Vermont",1,0.00630075228809647,36821,59534
+"671","Rutland County, Vermont","Washington County, New York",1,0.00596995554978748,61642,63216
+"739","Bennington County, Vermont","Rutland County, Vermont",1,0.00565656565656566,37125,61642
+"382","Grand Isle County, Vermont","Clinton County, New York",1,0.00559540889526542,6970,82128
+"336","Lamoille County, Vermont","Franklin County, Vermont",1,0.00490296220633299,24475,47746
+"409","Chittenden County, Vermont","Addison County, Vermont",1,0.00489954965026031,156545,36821
+"333","Lamoille County, Vermont","Caledonia County, Vermont",1,0.00478038815117467,24475,31227
+"191","Orleans County, Vermont","Chittenden County, Vermont",1,0.00455363372626786,27231,156545
+"116","Washington County, Vermont","Caledonia County, Vermont",1,0.00324184499613666,59534,31227
+"152","Orange County, Vermont","Caledonia County, Vermont",1,0.00283384019905999,28936,31227
+"660","Rutland County, Vermont","Chittenden County, Vermont",1,0.00272541449012037,61642,156545
+"406","Chittenden County, Vermont","Lamoille County, Vermont",1,0.00272126225685905,156545,24475
+"330","Lamoille County, Vermont","Orleans County, Vermont",1,0.0024923391215526,24475,27231
+"470","Addison County, Vermont","Windsor County, Vermont",1,0.00244425735314087,36821,56670
+"744","Bennington County, Vermont","Albany County, New York",1,0.00215488215488216,37125,304204
+"39","Windsor County, Vermont","Washington County, Vermont",1,0.00206458443620963,56670,59534
+"295","Caledonia County, Vermont","Essex County, Vermont",1,0.00198546129951644,31227,6306
+"299","Caledonia County, Vermont","Chittenden County, Vermont",1,0.0019534377301694,31227,156545
+"436","Franklin County, Vermont","Washington County, Vermont",1,0.00159175637749759,47746,59534
+"192","Orleans County, Vermont","Franklin County, Vermont",1,0.00157908266314127,27231,47746
+"47","Windsor County, Vermont","Chittenden County, Vermont",1,0.00146461972825128,56670,156545
+"555","Windham County, Vermont","Sullivan County, New Hampshire",1,0.00143778222092422,44513,43742
+"364","Grand Isle County, Vermont","Washington County, Vermont",1,0.00143472022955524,6970,59534
+"454","Franklin County, Vermont","Clinton County, New York",1,0.00134042642315587,47746,82128
+"565","Windham County, Vermont","Hampden County, Massachusetts",1,0.0012580594433087,44513,463490
+"566","Windham County, Vermont","Hampshire County, Massachusetts",1,0.00121312874890481,44513,158080
+"110","Washington County, Vermont","Windsor County, Vermont",1,0.00120939295192663,59534,56670
+"652","Rutland County, Vermont","Washington County, Vermont",1,0.00120048019207683,61642,59534
+"567","Windham County, Vermont","Hartford County, Connecticut",1,0.00116819805450093,44513,894014
+"186","Orleans County, Vermont","Essex County, Vermont",1,0.00113840843156696,27231,6306
+"290","Caledonia County, Vermont","Windsor County, Vermont",1,0.00108880135779934,31227,56670
+"676","Rutland County, Vermont","Warren County, New York",1,0.00107069854969015,61642,65707
+"664","Rutland County, Vermont","Windham County, Vermont",1,0.0010058077284968,61642,44513
+"52","Windsor County, Vermont","Cheshire County, New Hampshire",1,0.000899947061937533,56670,77117
+"443","Franklin County, Vermont","Grand Isle County, Vermont",1,0.000837766514472417,47746,6970
+"221","Essex County, Vermont","Orange County, Vermont",1,0.000792895654931811,6306,28936
+"183","Orleans County, Vermont","Grafton County, New Hampshire",1,0.00077117990525504,27231,89118
+"49","Windsor County, Vermont","Addison County, Vermont",1,0.000758778895359097,56670,36821
+"407","Chittenden County, Vermont","Grand Isle County, Vermont",1,0.000709061292280175,156545,6970
+"220","Essex County, Vermont","Washington County, Vermont",1,0.000634316523945449,6306,59534
+"120","Washington County, Vermont","Franklin County, Vermont",1,0.000621493600295629,59534,47746
+"414","Chittenden County, Vermont","Rutland County, Vermont",1,0.000485483407326967,156545,61642
+"743","Bennington County, Vermont","Washington County, New York",1,0.000484848484848485,37125,63216
+"162","Orange County, Vermont","Rutland County, Vermont",1,0.000483826375449267,28936,61642
+"246","Essex County, Vermont","Hillsborough County, New Hampshire",1,0.000475737392959086,6306,400721
+"651","Rutland County, Vermont","Grafton County, New Hampshire",1,0.000470458453651731,61642,89118
+"653","Rutland County, Vermont","Orange County, Vermont",1,0.000470458453651731,61642,28936
+"473","Addison County, Vermont","Orange County, Vermont",1,0.000434534640558377,36821,28936
+"571","Windham County, Vermont","Middlesex County, Massachusetts",1,0.000426841596836879,44513,1503085
+"126","Washington County, Vermont","Rutland County, Vermont",1,0.000419928108307858,59534,61642
+"159","Orange County, Vermont","Windham County, Vermont",1,0.000414708321813658,28936,44513
+"753","Bennington County, Vermont","Saratoga County, New York",1,0.000404040404040404,37125,219607
+"502","Addison County, Vermont","Essex County, New York",1,0.00038021781048858,36821,39370
+"300","Caledonia County, Vermont","Franklin County, Vermont",1,0.000352259262817434,31227,47746
+"158","Orange County, Vermont","Sullivan County, New Hampshire",1,0.000345590268178048,28936,43742
+"245","Essex County, Vermont","Suffolk County, Massachusetts",1,0.000317158261972724,6306,722023
+"438","Franklin County, Vermont","Orleans County, Vermont",1,0.000293218280065346,47746,27231
+"113","Washington County, Vermont","Orleans County, Vermont",1,0.000285551113649343,59534,27231
+"543","Windham County, Vermont","Grafton County, New Hampshire",1,0.000269584166423292,44513,89118
+"755","Bennington County, Vermont","Fairfield County, Connecticut",1,0.000269360269360269,37125,916829
+"296","Caledonia County, Vermont","Coos County, New Hampshire",1,0.000256188554776315,31227,33055
+"121","Washington County, Vermont","Addison County, Vermont",1,0.000251956864984715,59534,36821
+"738","Bennington County, Vermont","Franklin County, Massachusetts",1,0.000215488215488215,37125,71372
+"56","Windsor County, Vermont","Bennington County, Vermont",1,0.000211752249867655,56670,37125
+"66","Windsor County, Vermont","Hillsborough County, New Hampshire",1,0.000211752249867655,56670,400721
+"572","Windham County, Vermont","New York County, New York",1,0.000202188124817469,44513,1585873
+"111","Washington County, Vermont","Grafton County, New Hampshire",1,0.000201565491987772,59534,89118
+"481","Addison County, Vermont","Franklin County, Vermont",1,0.00019010890524429,36821,47746
+"559","Windham County, Vermont","Berkshire County, Massachusetts",1,0.000179722777615528,44513,131219
+"569","Windham County, Vermont","Suffolk County, Massachusetts",1,0.000179722777615528,44513,722023
+"324","Caledonia County, Vermont","Catawba County, North Carolina",1,0.000160117846735197,31227,154358
+"425","Chittenden County, Vermont","Suffolk County, Massachusetts",1,0.000159698489252292,156545,722023
+"227","Essex County, Vermont","Chittenden County, Vermont",1,0.000158579130986362,6306,156545
+"471","Addison County, Vermont","Grafton County, New Hampshire",1,0.000135792075174493,36821,89118
+"541","Windham County, Vermont","Worcester County, Massachusetts",1,0.000134792083211646,44513,798552
+"185","Orleans County, Vermont","Orange County, Vermont",1,0.000110168557893577,27231,28936
+"491","Addison County, Vermont","Washington County, New York",1,0.000108633660139594,36821,63216
+"67","Windsor County, Vermont","Middlesex County, Massachusetts",1,0.000105876124933827,56670,1503085
+"153","Orange County, Vermont","Lamoille County, Vermont",1,0.000103677080453414,28936,24475
+"173","Orange County, Vermont","Suffolk County, Massachusetts",1,0.000103677080453414,28936,722023
+"156","Orange County, Vermont","Franklin County, Vermont",1,0.000103677080453414,28936,47746
+"140","Washington County, Vermont","New York County, New York",1,0.000100782745993886,59534,1585873
+"289","Caledonia County, Vermont","Worcester County, Massachusetts",1,9.60707080411183e-05,31227,798552
+"301","Caledonia County, Vermont","Addison County, Vermont",1,9.60707080411183e-05,31227,36821
+"558","Windham County, Vermont","Rutland County, Vermont",1,8.9861388807764e-05,44513,61642
+"418","Chittenden County, Vermont","Clinton County, New York",1,8.94311539812833e-05,156545,82128
+"492","Addison County, Vermont","Albany County, New York",1,8.14752451046957e-05,36821,304204
+"661","Rutland County, Vermont","Franklin County, Vermont",1,8.11135264916778e-05,61642,47746
+"722","Bennington County, Vermont","Windsor County, Vermont",1,8.08080808080808e-05,37125,56670
+"157","Orange County, Vermont","Addison County, Vermont",1,6.91180536356096e-05,28936,36821
+"680","Rutland County, Vermont","New York County, New York",1,6.48908211933422e-05,61642,1585873
+"474","Addison County, Vermont","Orleans County, Vermont",1,5.43168300697972e-05,36821,27231
+"732","Bennington County, Vermont","Chittenden County, Vermont",1,5.38720538720539e-05,37125,156545
+"752","Bennington County, Vermont","New York County, New York",1,5.38720538720539e-05,37125,1585873
+"68","Windsor County, Vermont","New York County, New York",1,5.29380624669137e-05,56670,1585873
+"428","Chittenden County, Vermont","New York County, New York",1,5.11035165607334e-05,156545,1585873
+"681","Rutland County, Vermont","Saratoga County, New York",1,4.86681158950066e-05,61642,219607
+"337","Lamoille County, Vermont","Addison County, Vermont",1,4.08580183861083e-05,24475,36821
+"355","Lamoille County, Vermont","Middlesex County, Massachusetts",1,4.08580183861083e-05,24475,1503085
+"176","Orange County, Vermont","New York County, New York",1,3.45590268178048e-05,28936,1585873
+"679","Rutland County, Vermont","Middlesex County, Massachusetts",1,3.24454105966711e-05,61642,1503085
+"303","Caledonia County, Vermont","Windham County, Vermont",1,3.20235693470394e-05,31227,44513
+"399","Chittenden County, Vermont","Grafton County, New Hampshire",1,3.19396978504583e-05,156545,89118
+"737","Bennington County, Vermont","Cheshire County, New Hampshire",1,2.6936026936027e-05,37125,77117
+"123","Washington County, Vermont","Windham County, Vermont",1,1.67971243323143e-05,59534,44513
+"672","Rutland County, Vermont","Albany County, New York",1,1.62227052983356e-05,61642,304204
+"1","Worcester County, Massachusetts","Windsor County, Vermont",1,0,798552,56670
+"2","Worcester County, Massachusetts","Grafton County, New Hampshire",1,0,798552,89118
+"3","Worcester County, Massachusetts","Washington County, Vermont",1,0,798552,59534
+"4","Worcester County, Massachusetts","Orange County, Vermont",1,0,798552,28936
+"5","Worcester County, Massachusetts","Orleans County, Vermont",1,0,798552,27231
+"6","Worcester County, Massachusetts","Essex County, Vermont",1,0,798552,6306
+"7","Worcester County, Massachusetts","Coos County, New Hampshire",1,0,798552,33055
+"8","Worcester County, Massachusetts","Caledonia County, Vermont",1,0,798552,31227
+"9","Worcester County, Massachusetts","Lamoille County, Vermont",1,0,798552,24475
+"10","Worcester County, Massachusetts","Grand Isle County, Vermont",1,0,798552,6970
+"11","Worcester County, Massachusetts","Chittenden County, Vermont",1,0,798552,156545
+"12","Worcester County, Massachusetts","Franklin County, Vermont",1,0,798552,47746
+"13","Worcester County, Massachusetts","Addison County, Vermont",1,0,798552,36821
+"14","Worcester County, Massachusetts","Sullivan County, New Hampshire",1,0,798552,43742
+"15","Worcester County, Massachusetts","Windham County, Vermont",1,0,798552,44513
+"16","Worcester County, Massachusetts","Cheshire County, New Hampshire",1,0,798552,77117
+"17","Worcester County, Massachusetts","Franklin County, Massachusetts",1,0,798552,71372
+"18","Worcester County, Massachusetts","Rutland County, Vermont",1,0,798552,61642
+"19","Worcester County, Massachusetts","Berkshire County, Massachusetts",1,0,798552,131219
+"20","Worcester County, Massachusetts","Bennington County, Vermont",1,0,798552,37125
+"21","Worcester County, Massachusetts","Rensselaer County, New York",1,0,798552,159429
+"22","Worcester County, Massachusetts","Clinton County, New York",1,0,798552,82128
+"23","Worcester County, Massachusetts","Washington County, New York",1,0,798552,63216
+"24","Worcester County, Massachusetts","Albany County, New York",1,0,798552,304204
+"25","Worcester County, Massachusetts","Hampden County, Massachusetts",1,0,798552,463490
+"26","Worcester County, Massachusetts","Hampshire County, Massachusetts",1,0,798552,158080
+"27","Worcester County, Massachusetts","Hartford County, Connecticut",1,0,798552,894014
+"28","Worcester County, Massachusetts","Warren County, New York",1,0,798552,65707
+"29","Worcester County, Massachusetts","Suffolk County, Massachusetts",1,0,798552,722023
+"30","Worcester County, Massachusetts","Hillsborough County, New Hampshire",1,0,798552,400721
+"31","Worcester County, Massachusetts","Middlesex County, Massachusetts",1,0,798552,1503085
+"32","Worcester County, Massachusetts","New York County, New York",1,0,798552,1585873
+"33","Worcester County, Massachusetts","Saratoga County, New York",1,0,798552,219607
+"34","Worcester County, Massachusetts","Essex County, New York",1,0,798552,39370
+"35","Worcester County, Massachusetts","Fairfield County, Connecticut",1,0,798552,916829
+"36","Worcester County, Massachusetts","Catawba County, North Carolina",1,0,798552,154358
+"37","Windsor County, Vermont","Worcester County, Massachusetts",1,0,56670,798552
+"41","Windsor County, Vermont","Orleans County, Vermont",1,0,56670,27231
+"42","Windsor County, Vermont","Essex County, Vermont",1,0,56670,6306
+"43","Windsor County, Vermont","Coos County, New Hampshire",1,0,56670,33055
+"44","Windsor County, Vermont","Caledonia County, Vermont",1,0,56670,31227
+"45","Windsor County, Vermont","Lamoille County, Vermont",1,0,56670,24475
+"46","Windsor County, Vermont","Grand Isle County, Vermont",1,0,56670,6970
+"48","Windsor County, Vermont","Franklin County, Vermont",1,0,56670,47746
+"53","Windsor County, Vermont","Franklin County, Massachusetts",1,0,56670,71372
+"55","Windsor County, Vermont","Berkshire County, Massachusetts",1,0,56670,131219
+"57","Windsor County, Vermont","Rensselaer County, New York",1,0,56670,159429
+"58","Windsor County, Vermont","Clinton County, New York",1,0,56670,82128
+"59","Windsor County, Vermont","Washington County, New York",1,0,56670,63216
+"60","Windsor County, Vermont","Albany County, New York",1,0,56670,304204
+"61","Windsor County, Vermont","Hampden County, Massachusetts",1,0,56670,463490
+"62","Windsor County, Vermont","Hampshire County, Massachusetts",1,0,56670,158080
+"63","Windsor County, Vermont","Hartford County, Connecticut",1,0,56670,894014
+"64","Windsor County, Vermont","Warren County, New York",1,0,56670,65707
+"65","Windsor County, Vermont","Suffolk County, Massachusetts",1,0,56670,722023
+"69","Windsor County, Vermont","Saratoga County, New York",1,0,56670,219607
+"70","Windsor County, Vermont","Essex County, New York",1,0,56670,39370
+"71","Windsor County, Vermont","Fairfield County, Connecticut",1,0,56670,916829
+"72","Windsor County, Vermont","Catawba County, North Carolina",1,0,56670,154358
+"73","Grafton County, New Hampshire","Worcester County, Massachusetts",1,0,89118,798552
+"74","Grafton County, New Hampshire","Windsor County, Vermont",1,0,89118,56670
+"75","Grafton County, New Hampshire","Washington County, Vermont",1,0,89118,59534
+"76","Grafton County, New Hampshire","Orange County, Vermont",1,0,89118,28936
+"77","Grafton County, New Hampshire","Orleans County, Vermont",1,0,89118,27231
+"78","Grafton County, New Hampshire","Essex County, Vermont",1,0,89118,6306
+"79","Grafton County, New Hampshire","Coos County, New Hampshire",1,0,89118,33055
+"80","Grafton County, New Hampshire","Caledonia County, Vermont",1,0,89118,31227
+"81","Grafton County, New Hampshire","Lamoille County, Vermont",1,0,89118,24475
+"82","Grafton County, New Hampshire","Grand Isle County, Vermont",1,0,89118,6970
+"83","Grafton County, New Hampshire","Chittenden County, Vermont",1,0,89118,156545
+"84","Grafton County, New Hampshire","Franklin County, Vermont",1,0,89118,47746
+"85","Grafton County, New Hampshire","Addison County, Vermont",1,0,89118,36821
+"86","Grafton County, New Hampshire","Sullivan County, New Hampshire",1,0,89118,43742
+"87","Grafton County, New Hampshire","Windham County, Vermont",1,0,89118,44513
+"88","Grafton County, New Hampshire","Cheshire County, New Hampshire",1,0,89118,77117
+"89","Grafton County, New Hampshire","Franklin County, Massachusetts",1,0,89118,71372
+"90","Grafton County, New Hampshire","Rutland County, Vermont",1,0,89118,61642
+"91","Grafton County, New Hampshire","Berkshire County, Massachusetts",1,0,89118,131219
+"92","Grafton County, New Hampshire","Bennington County, Vermont",1,0,89118,37125
+"93","Grafton County, New Hampshire","Rensselaer County, New York",1,0,89118,159429
+"94","Grafton County, New Hampshire","Clinton County, New York",1,0,89118,82128
+"95","Grafton County, New Hampshire","Washington County, New York",1,0,89118,63216
+"96","Grafton County, New Hampshire","Albany County, New York",1,0,89118,304204
+"97","Grafton County, New Hampshire","Hampden County, Massachusetts",1,0,89118,463490
+"98","Grafton County, New Hampshire","Hampshire County, Massachusetts",1,0,89118,158080
+"99","Grafton County, New Hampshire","Hartford County, Connecticut",1,0,89118,894014
+"100","Grafton County, New Hampshire","Warren County, New York",1,0,89118,65707
+"101","Grafton County, New Hampshire","Suffolk County, Massachusetts",1,0,89118,722023
+"102","Grafton County, New Hampshire","Hillsborough County, New Hampshire",1,0,89118,400721
+"103","Grafton County, New Hampshire","Middlesex County, Massachusetts",1,0,89118,1503085
+"104","Grafton County, New Hampshire","New York County, New York",1,0,89118,1585873
+"105","Grafton County, New Hampshire","Saratoga County, New York",1,0,89118,219607
+"106","Grafton County, New Hampshire","Essex County, New York",1,0,89118,39370
+"107","Grafton County, New Hampshire","Fairfield County, Connecticut",1,0,89118,916829
+"108","Grafton County, New Hampshire","Catawba County, North Carolina",1,0,89118,154358
+"109","Washington County, Vermont","Worcester County, Massachusetts",1,0,59534,798552
+"114","Washington County, Vermont","Essex County, Vermont",1,0,59534,6306
+"115","Washington County, Vermont","Coos County, New Hampshire",1,0,59534,33055
+"118","Washington County, Vermont","Grand Isle County, Vermont",1,0,59534,6970
+"122","Washington County, Vermont","Sullivan County, New Hampshire",1,0,59534,43742
+"124","Washington County, Vermont","Cheshire County, New Hampshire",1,0,59534,77117
+"125","Washington County, Vermont","Franklin County, Massachusetts",1,0,59534,71372
+"127","Washington County, Vermont","Berkshire County, Massachusetts",1,0,59534,131219
+"128","Washington County, Vermont","Bennington County, Vermont",1,0,59534,37125
+"129","Washington County, Vermont","Rensselaer County, New York",1,0,59534,159429
+"130","Washington County, Vermont","Clinton County, New York",1,0,59534,82128
+"131","Washington County, Vermont","Washington County, New York",1,0,59534,63216
+"132","Washington County, Vermont","Albany County, New York",1,0,59534,304204
+"133","Washington County, Vermont","Hampden County, Massachusetts",1,0,59534,463490
+"134","Washington County, Vermont","Hampshire County, Massachusetts",1,0,59534,158080
+"135","Washington County, Vermont","Hartford County, Connecticut",1,0,59534,894014
+"136","Washington County, Vermont","Warren County, New York",1,0,59534,65707
+"137","Washington County, Vermont","Suffolk County, Massachusetts",1,0,59534,722023
+"138","Washington County, Vermont","Hillsborough County, New Hampshire",1,0,59534,400721
+"139","Washington County, Vermont","Middlesex County, Massachusetts",1,0,59534,1503085
+"141","Washington County, Vermont","Saratoga County, New York",1,0,59534,219607
+"142","Washington County, Vermont","Essex County, New York",1,0,59534,39370
+"143","Washington County, Vermont","Fairfield County, Connecticut",1,0,59534,916829
+"144","Washington County, Vermont","Catawba County, North Carolina",1,0,59534,154358
+"145","Orange County, Vermont","Worcester County, Massachusetts",1,0,28936,798552
+"149","Orange County, Vermont","Orleans County, Vermont",1,0,28936,27231
+"150","Orange County, Vermont","Essex County, Vermont",1,0,28936,6306
+"151","Orange County, Vermont","Coos County, New Hampshire",1,0,28936,33055
+"154","Orange County, Vermont","Grand Isle County, Vermont",1,0,28936,6970
+"160","Orange County, Vermont","Cheshire County, New Hampshire",1,0,28936,77117
+"161","Orange County, Vermont","Franklin County, Massachusetts",1,0,28936,71372
+"163","Orange County, Vermont","Berkshire County, Massachusetts",1,0,28936,131219
+"164","Orange County, Vermont","Bennington County, Vermont",1,0,28936,37125
+"165","Orange County, Vermont","Rensselaer County, New York",1,0,28936,159429
+"166","Orange County, Vermont","Clinton County, New York",1,0,28936,82128
+"167","Orange County, Vermont","Washington County, New York",1,0,28936,63216
+"168","Orange County, Vermont","Albany County, New York",1,0,28936,304204
+"169","Orange County, Vermont","Hampden County, Massachusetts",1,0,28936,463490
+"170","Orange County, Vermont","Hampshire County, Massachusetts",1,0,28936,158080
+"171","Orange County, Vermont","Hartford County, Connecticut",1,0,28936,894014
+"172","Orange County, Vermont","Warren County, New York",1,0,28936,65707
+"174","Orange County, Vermont","Hillsborough County, New Hampshire",1,0,28936,400721
+"175","Orange County, Vermont","Middlesex County, Massachusetts",1,0,28936,1503085
+"177","Orange County, Vermont","Saratoga County, New York",1,0,28936,219607
+"178","Orange County, Vermont","Essex County, New York",1,0,28936,39370
+"179","Orange County, Vermont","Fairfield County, Connecticut",1,0,28936,916829
+"180","Orange County, Vermont","Catawba County, North Carolina",1,0,28936,154358
+"181","Orleans County, Vermont","Worcester County, Massachusetts",1,0,27231,798552
+"182","Orleans County, Vermont","Windsor County, Vermont",1,0,27231,56670
+"187","Orleans County, Vermont","Coos County, New Hampshire",1,0,27231,33055
+"190","Orleans County, Vermont","Grand Isle County, Vermont",1,0,27231,6970
+"193","Orleans County, Vermont","Addison County, Vermont",1,0,27231,36821
+"194","Orleans County, Vermont","Sullivan County, New Hampshire",1,0,27231,43742
+"195","Orleans County, Vermont","Windham County, Vermont",1,0,27231,44513
+"196","Orleans County, Vermont","Cheshire County, New Hampshire",1,0,27231,77117
+"197","Orleans County, Vermont","Franklin County, Massachusetts",1,0,27231,71372
+"198","Orleans County, Vermont","Rutland County, Vermont",1,0,27231,61642
+"199","Orleans County, Vermont","Berkshire County, Massachusetts",1,0,27231,131219
+"200","Orleans County, Vermont","Bennington County, Vermont",1,0,27231,37125
+"201","Orleans County, Vermont","Rensselaer County, New York",1,0,27231,159429
+"202","Orleans County, Vermont","Clinton County, New York",1,0,27231,82128
+"203","Orleans County, Vermont","Washington County, New York",1,0,27231,63216
+"204","Orleans County, Vermont","Albany County, New York",1,0,27231,304204
+"205","Orleans County, Vermont","Hampden County, Massachusetts",1,0,27231,463490
+"206","Orleans County, Vermont","Hampshire County, Massachusetts",1,0,27231,158080
+"207","Orleans County, Vermont","Hartford County, Connecticut",1,0,27231,894014
+"208","Orleans County, Vermont","Warren County, New York",1,0,27231,65707
+"209","Orleans County, Vermont","Suffolk County, Massachusetts",1,0,27231,722023
+"210","Orleans County, Vermont","Hillsborough County, New Hampshire",1,0,27231,400721
+"211","Orleans County, Vermont","Middlesex County, Massachusetts",1,0,27231,1503085
+"212","Orleans County, Vermont","New York County, New York",1,0,27231,1585873
+"213","Orleans County, Vermont","Saratoga County, New York",1,0,27231,219607
+"214","Orleans County, Vermont","Essex County, New York",1,0,27231,39370
+"215","Orleans County, Vermont","Fairfield County, Connecticut",1,0,27231,916829
+"216","Orleans County, Vermont","Catawba County, North Carolina",1,0,27231,154358
+"217","Essex County, Vermont","Worcester County, Massachusetts",1,0,6306,798552
+"218","Essex County, Vermont","Windsor County, Vermont",1,0,6306,56670
+"225","Essex County, Vermont","Lamoille County, Vermont",1,0,6306,24475
+"226","Essex County, Vermont","Grand Isle County, Vermont",1,0,6306,6970
+"228","Essex County, Vermont","Franklin County, Vermont",1,0,6306,47746
+"229","Essex County, Vermont","Addison County, Vermont",1,0,6306,36821
+"230","Essex County, Vermont","Sullivan County, New Hampshire",1,0,6306,43742
+"231","Essex County, Vermont","Windham County, Vermont",1,0,6306,44513
+"232","Essex County, Vermont","Cheshire County, New Hampshire",1,0,6306,77117
+"233","Essex County, Vermont","Franklin County, Massachusetts",1,0,6306,71372
+"234","Essex County, Vermont","Rutland County, Vermont",1,0,6306,61642
+"235","Essex County, Vermont","Berkshire County, Massachusetts",1,0,6306,131219
+"236","Essex County, Vermont","Bennington County, Vermont",1,0,6306,37125
+"237","Essex County, Vermont","Rensselaer County, New York",1,0,6306,159429
+"238","Essex County, Vermont","Clinton County, New York",1,0,6306,82128
+"239","Essex County, Vermont","Washington County, New York",1,0,6306,63216
+"240","Essex County, Vermont","Albany County, New York",1,0,6306,304204
+"241","Essex County, Vermont","Hampden County, Massachusetts",1,0,6306,463490
+"242","Essex County, Vermont","Hampshire County, Massachusetts",1,0,6306,158080
+"243","Essex County, Vermont","Hartford County, Connecticut",1,0,6306,894014
+"244","Essex County, Vermont","Warren County, New York",1,0,6306,65707
+"247","Essex County, Vermont","Middlesex County, Massachusetts",1,0,6306,1503085
+"248","Essex County, Vermont","New York County, New York",1,0,6306,1585873
+"249","Essex County, Vermont","Saratoga County, New York",1,0,6306,219607
+"250","Essex County, Vermont","Essex County, New York",1,0,6306,39370
+"251","Essex County, Vermont","Fairfield County, Connecticut",1,0,6306,916829
+"252","Essex County, Vermont","Catawba County, North Carolina",1,0,6306,154358
+"253","Coos County, New Hampshire","Worcester County, Massachusetts",1,0,33055,798552
+"254","Coos County, New Hampshire","Windsor County, Vermont",1,0,33055,56670
+"255","Coos County, New Hampshire","Grafton County, New Hampshire",1,0,33055,89118
+"256","Coos County, New Hampshire","Washington County, Vermont",1,0,33055,59534
+"257","Coos County, New Hampshire","Orange County, Vermont",1,0,33055,28936
+"258","Coos County, New Hampshire","Orleans County, Vermont",1,0,33055,27231
+"259","Coos County, New Hampshire","Essex County, Vermont",1,0,33055,6306
+"260","Coos County, New Hampshire","Caledonia County, Vermont",1,0,33055,31227
+"261","Coos County, New Hampshire","Lamoille County, Vermont",1,0,33055,24475
+"262","Coos County, New Hampshire","Grand Isle County, Vermont",1,0,33055,6970
+"263","Coos County, New Hampshire","Chittenden County, Vermont",1,0,33055,156545
+"264","Coos County, New Hampshire","Franklin County, Vermont",1,0,33055,47746
+"265","Coos County, New Hampshire","Addison County, Vermont",1,0,33055,36821
+"266","Coos County, New Hampshire","Sullivan County, New Hampshire",1,0,33055,43742
+"267","Coos County, New Hampshire","Windham County, Vermont",1,0,33055,44513
+"268","Coos County, New Hampshire","Cheshire County, New Hampshire",1,0,33055,77117
+"269","Coos County, New Hampshire","Franklin County, Massachusetts",1,0,33055,71372
+"270","Coos County, New Hampshire","Rutland County, Vermont",1,0,33055,61642
+"271","Coos County, New Hampshire","Berkshire County, Massachusetts",1,0,33055,131219
+"272","Coos County, New Hampshire","Bennington County, Vermont",1,0,33055,37125
+"273","Coos County, New Hampshire","Rensselaer County, New York",1,0,33055,159429
+"274","Coos County, New Hampshire","Clinton County, New York",1,0,33055,82128
+"275","Coos County, New Hampshire","Washington County, New York",1,0,33055,63216
+"276","Coos County, New Hampshire","Albany County, New York",1,0,33055,304204
+"277","Coos County, New Hampshire","Hampden County, Massachusetts",1,0,33055,463490
+"278","Coos County, New Hampshire","Hampshire County, Massachusetts",1,0,33055,158080
+"279","Coos County, New Hampshire","Hartford County, Connecticut",1,0,33055,894014
+"280","Coos County, New Hampshire","Warren County, New York",1,0,33055,65707
+"281","Coos County, New Hampshire","Suffolk County, Massachusetts",1,0,33055,722023
+"282","Coos County, New Hampshire","Hillsborough County, New Hampshire",1,0,33055,400721
+"283","Coos County, New Hampshire","Middlesex County, Massachusetts",1,0,33055,1503085
+"284","Coos County, New Hampshire","New York County, New York",1,0,33055,1585873
+"285","Coos County, New Hampshire","Saratoga County, New York",1,0,33055,219607
+"286","Coos County, New Hampshire","Essex County, New York",1,0,33055,39370
+"287","Coos County, New Hampshire","Fairfield County, Connecticut",1,0,33055,916829
+"288","Coos County, New Hampshire","Catawba County, North Carolina",1,0,33055,154358
+"298","Caledonia County, Vermont","Grand Isle County, Vermont",1,0,31227,6970
+"302","Caledonia County, Vermont","Sullivan County, New Hampshire",1,0,31227,43742
+"304","Caledonia County, Vermont","Cheshire County, New Hampshire",1,0,31227,77117
+"305","Caledonia County, Vermont","Franklin County, Massachusetts",1,0,31227,71372
+"306","Caledonia County, Vermont","Rutland County, Vermont",1,0,31227,61642
+"307","Caledonia County, Vermont","Berkshire County, Massachusetts",1,0,31227,131219
+"308","Caledonia County, Vermont","Bennington County, Vermont",1,0,31227,37125
+"309","Caledonia County, Vermont","Rensselaer County, New York",1,0,31227,159429
+"310","Caledonia County, Vermont","Clinton County, New York",1,0,31227,82128
+"311","Caledonia County, Vermont","Washington County, New York",1,0,31227,63216
+"312","Caledonia County, Vermont","Albany County, New York",1,0,31227,304204
+"313","Caledonia County, Vermont","Hampden County, Massachusetts",1,0,31227,463490
+"314","Caledonia County, Vermont","Hampshire County, Massachusetts",1,0,31227,158080
+"315","Caledonia County, Vermont","Hartford County, Connecticut",1,0,31227,894014
+"316","Caledonia County, Vermont","Warren County, New York",1,0,31227,65707
+"317","Caledonia County, Vermont","Suffolk County, Massachusetts",1,0,31227,722023
+"318","Caledonia County, Vermont","Hillsborough County, New Hampshire",1,0,31227,400721
+"319","Caledonia County, Vermont","Middlesex County, Massachusetts",1,0,31227,1503085
+"320","Caledonia County, Vermont","New York County, New York",1,0,31227,1585873
+"321","Caledonia County, Vermont","Saratoga County, New York",1,0,31227,219607
+"322","Caledonia County, Vermont","Essex County, New York",1,0,31227,39370
+"323","Caledonia County, Vermont","Fairfield County, Connecticut",1,0,31227,916829
+"325","Lamoille County, Vermont","Worcester County, Massachusetts",1,0,24475,798552
+"326","Lamoille County, Vermont","Windsor County, Vermont",1,0,24475,56670
+"327","Lamoille County, Vermont","Grafton County, New Hampshire",1,0,24475,89118
+"329","Lamoille County, Vermont","Orange County, Vermont",1,0,24475,28936
+"331","Lamoille County, Vermont","Essex County, Vermont",1,0,24475,6306
+"332","Lamoille County, Vermont","Coos County, New Hampshire",1,0,24475,33055
+"334","Lamoille County, Vermont","Grand Isle County, Vermont",1,0,24475,6970
+"338","Lamoille County, Vermont","Sullivan County, New Hampshire",1,0,24475,43742
+"339","Lamoille County, Vermont","Windham County, Vermont",1,0,24475,44513
+"340","Lamoille County, Vermont","Cheshire County, New Hampshire",1,0,24475,77117
+"341","Lamoille County, Vermont","Franklin County, Massachusetts",1,0,24475,71372
+"342","Lamoille County, Vermont","Rutland County, Vermont",1,0,24475,61642
+"343","Lamoille County, Vermont","Berkshire County, Massachusetts",1,0,24475,131219
+"344","Lamoille County, Vermont","Bennington County, Vermont",1,0,24475,37125
+"345","Lamoille County, Vermont","Rensselaer County, New York",1,0,24475,159429
+"346","Lamoille County, Vermont","Clinton County, New York",1,0,24475,82128
+"347","Lamoille County, Vermont","Washington County, New York",1,0,24475,63216
+"348","Lamoille County, Vermont","Albany County, New York",1,0,24475,304204
+"349","Lamoille County, Vermont","Hampden County, Massachusetts",1,0,24475,463490
+"350","Lamoille County, Vermont","Hampshire County, Massachusetts",1,0,24475,158080
+"351","Lamoille County, Vermont","Hartford County, Connecticut",1,0,24475,894014
+"352","Lamoille County, Vermont","Warren County, New York",1,0,24475,65707
+"353","Lamoille County, Vermont","Suffolk County, Massachusetts",1,0,24475,722023
+"354","Lamoille County, Vermont","Hillsborough County, New Hampshire",1,0,24475,400721
+"356","Lamoille County, Vermont","New York County, New York",1,0,24475,1585873
+"357","Lamoille County, Vermont","Saratoga County, New York",1,0,24475,219607
+"358","Lamoille County, Vermont","Essex County, New York",1,0,24475,39370
+"359","Lamoille County, Vermont","Fairfield County, Connecticut",1,0,24475,916829
+"360","Lamoille County, Vermont","Catawba County, North Carolina",1,0,24475,154358
+"361","Grand Isle County, Vermont","Worcester County, Massachusetts",1,0,6970,798552
+"362","Grand Isle County, Vermont","Windsor County, Vermont",1,0,6970,56670
+"363","Grand Isle County, Vermont","Grafton County, New Hampshire",1,0,6970,89118
+"365","Grand Isle County, Vermont","Orange County, Vermont",1,0,6970,28936
+"366","Grand Isle County, Vermont","Orleans County, Vermont",1,0,6970,27231
+"367","Grand Isle County, Vermont","Essex County, Vermont",1,0,6970,6306
+"368","Grand Isle County, Vermont","Coos County, New Hampshire",1,0,6970,33055
+"369","Grand Isle County, Vermont","Caledonia County, Vermont",1,0,6970,31227
+"370","Grand Isle County, Vermont","Lamoille County, Vermont",1,0,6970,24475
+"373","Grand Isle County, Vermont","Addison County, Vermont",1,0,6970,36821
+"374","Grand Isle County, Vermont","Sullivan County, New Hampshire",1,0,6970,43742
+"375","Grand Isle County, Vermont","Windham County, Vermont",1,0,6970,44513
+"376","Grand Isle County, Vermont","Cheshire County, New Hampshire",1,0,6970,77117
+"377","Grand Isle County, Vermont","Franklin County, Massachusetts",1,0,6970,71372
+"378","Grand Isle County, Vermont","Rutland County, Vermont",1,0,6970,61642
+"379","Grand Isle County, Vermont","Berkshire County, Massachusetts",1,0,6970,131219
+"380","Grand Isle County, Vermont","Bennington County, Vermont",1,0,6970,37125
+"381","Grand Isle County, Vermont","Rensselaer County, New York",1,0,6970,159429
+"383","Grand Isle County, Vermont","Washington County, New York",1,0,6970,63216
+"384","Grand Isle County, Vermont","Albany County, New York",1,0,6970,304204
+"385","Grand Isle County, Vermont","Hampden County, Massachusetts",1,0,6970,463490
+"386","Grand Isle County, Vermont","Hampshire County, Massachusetts",1,0,6970,158080
+"387","Grand Isle County, Vermont","Hartford County, Connecticut",1,0,6970,894014
+"388","Grand Isle County, Vermont","Warren County, New York",1,0,6970,65707
+"389","Grand Isle County, Vermont","Suffolk County, Massachusetts",1,0,6970,722023
+"390","Grand Isle County, Vermont","Hillsborough County, New Hampshire",1,0,6970,400721
+"391","Grand Isle County, Vermont","Middlesex County, Massachusetts",1,0,6970,1503085
+"392","Grand Isle County, Vermont","New York County, New York",1,0,6970,1585873
+"393","Grand Isle County, Vermont","Saratoga County, New York",1,0,6970,219607
+"394","Grand Isle County, Vermont","Essex County, New York",1,0,6970,39370
+"395","Grand Isle County, Vermont","Fairfield County, Connecticut",1,0,6970,916829
+"396","Grand Isle County, Vermont","Catawba County, North Carolina",1,0,6970,154358
+"397","Chittenden County, Vermont","Worcester County, Massachusetts",1,0,156545,798552
+"398","Chittenden County, Vermont","Windsor County, Vermont",1,0,156545,56670
+"401","Chittenden County, Vermont","Orange County, Vermont",1,0,156545,28936
+"402","Chittenden County, Vermont","Orleans County, Vermont",1,0,156545,27231
+"403","Chittenden County, Vermont","Essex County, Vermont",1,0,156545,6306
+"404","Chittenden County, Vermont","Coos County, New Hampshire",1,0,156545,33055
+"405","Chittenden County, Vermont","Caledonia County, Vermont",1,0,156545,31227
+"410","Chittenden County, Vermont","Sullivan County, New Hampshire",1,0,156545,43742
+"411","Chittenden County, Vermont","Windham County, Vermont",1,0,156545,44513
+"412","Chittenden County, Vermont","Cheshire County, New Hampshire",1,0,156545,77117
+"413","Chittenden County, Vermont","Franklin County, Massachusetts",1,0,156545,71372
+"415","Chittenden County, Vermont","Berkshire County, Massachusetts",1,0,156545,131219
+"416","Chittenden County, Vermont","Bennington County, Vermont",1,0,156545,37125
+"417","Chittenden County, Vermont","Rensselaer County, New York",1,0,156545,159429
+"419","Chittenden County, Vermont","Washington County, New York",1,0,156545,63216
+"420","Chittenden County, Vermont","Albany County, New York",1,0,156545,304204
+"421","Chittenden County, Vermont","Hampden County, Massachusetts",1,0,156545,463490
+"422","Chittenden County, Vermont","Hampshire County, Massachusetts",1,0,156545,158080
+"423","Chittenden County, Vermont","Hartford County, Connecticut",1,0,156545,894014
+"424","Chittenden County, Vermont","Warren County, New York",1,0,156545,65707
+"426","Chittenden County, Vermont","Hillsborough County, New Hampshire",1,0,156545,400721
+"427","Chittenden County, Vermont","Middlesex County, Massachusetts",1,0,156545,1503085
+"429","Chittenden County, Vermont","Saratoga County, New York",1,0,156545,219607
+"430","Chittenden County, Vermont","Essex County, New York",1,0,156545,39370
+"431","Chittenden County, Vermont","Fairfield County, Connecticut",1,0,156545,916829
+"432","Chittenden County, Vermont","Catawba County, North Carolina",1,0,156545,154358
+"433","Franklin County, Vermont","Worcester County, Massachusetts",1,0,47746,798552
+"434","Franklin County, Vermont","Windsor County, Vermont",1,0,47746,56670
+"435","Franklin County, Vermont","Grafton County, New Hampshire",1,0,47746,89118
+"437","Franklin County, Vermont","Orange County, Vermont",1,0,47746,28936
+"439","Franklin County, Vermont","Essex County, Vermont",1,0,47746,6306
+"440","Franklin County, Vermont","Coos County, New Hampshire",1,0,47746,33055
+"441","Franklin County, Vermont","Caledonia County, Vermont",1,0,47746,31227
+"445","Franklin County, Vermont","Addison County, Vermont",1,0,47746,36821
+"446","Franklin County, Vermont","Sullivan County, New Hampshire",1,0,47746,43742
+"447","Franklin County, Vermont","Windham County, Vermont",1,0,47746,44513
+"448","Franklin County, Vermont","Cheshire County, New Hampshire",1,0,47746,77117
+"449","Franklin County, Vermont","Franklin County, Massachusetts",1,0,47746,71372
+"450","Franklin County, Vermont","Rutland County, Vermont",1,0,47746,61642
+"451","Franklin County, Vermont","Berkshire County, Massachusetts",1,0,47746,131219
+"452","Franklin County, Vermont","Bennington County, Vermont",1,0,47746,37125
+"453","Franklin County, Vermont","Rensselaer County, New York",1,0,47746,159429
+"455","Franklin County, Vermont","Washington County, New York",1,0,47746,63216
+"456","Franklin County, Vermont","Albany County, New York",1,0,47746,304204
+"457","Franklin County, Vermont","Hampden County, Massachusetts",1,0,47746,463490
+"458","Franklin County, Vermont","Hampshire County, Massachusetts",1,0,47746,158080
+"459","Franklin County, Vermont","Hartford County, Connecticut",1,0,47746,894014
+"460","Franklin County, Vermont","Warren County, New York",1,0,47746,65707
+"461","Franklin County, Vermont","Suffolk County, Massachusetts",1,0,47746,722023
+"462","Franklin County, Vermont","Hillsborough County, New Hampshire",1,0,47746,400721
+"463","Franklin County, Vermont","Middlesex County, Massachusetts",1,0,47746,1503085
+"464","Franklin County, Vermont","New York County, New York",1,0,47746,1585873
+"465","Franklin County, Vermont","Saratoga County, New York",1,0,47746,219607
+"466","Franklin County, Vermont","Essex County, New York",1,0,47746,39370
+"467","Franklin County, Vermont","Fairfield County, Connecticut",1,0,47746,916829
+"468","Franklin County, Vermont","Catawba County, North Carolina",1,0,47746,154358
+"469","Addison County, Vermont","Worcester County, Massachusetts",1,0,36821,798552
+"475","Addison County, Vermont","Essex County, Vermont",1,0,36821,6306
+"476","Addison County, Vermont","Coos County, New Hampshire",1,0,36821,33055
+"477","Addison County, Vermont","Caledonia County, Vermont",1,0,36821,31227
+"478","Addison County, Vermont","Lamoille County, Vermont",1,0,36821,24475
+"479","Addison County, Vermont","Grand Isle County, Vermont",1,0,36821,6970
+"482","Addison County, Vermont","Sullivan County, New Hampshire",1,0,36821,43742
+"483","Addison County, Vermont","Windham County, Vermont",1,0,36821,44513
+"484","Addison County, Vermont","Cheshire County, New Hampshire",1,0,36821,77117
+"485","Addison County, Vermont","Franklin County, Massachusetts",1,0,36821,71372
+"487","Addison County, Vermont","Berkshire County, Massachusetts",1,0,36821,131219
+"488","Addison County, Vermont","Bennington County, Vermont",1,0,36821,37125
+"489","Addison County, Vermont","Rensselaer County, New York",1,0,36821,159429
+"490","Addison County, Vermont","Clinton County, New York",1,0,36821,82128
+"493","Addison County, Vermont","Hampden County, Massachusetts",1,0,36821,463490
+"494","Addison County, Vermont","Hampshire County, Massachusetts",1,0,36821,158080
+"495","Addison County, Vermont","Hartford County, Connecticut",1,0,36821,894014
+"496","Addison County, Vermont","Warren County, New York",1,0,36821,65707
+"497","Addison County, Vermont","Suffolk County, Massachusetts",1,0,36821,722023
+"498","Addison County, Vermont","Hillsborough County, New Hampshire",1,0,36821,400721
+"499","Addison County, Vermont","Middlesex County, Massachusetts",1,0,36821,1503085
+"500","Addison County, Vermont","New York County, New York",1,0,36821,1585873
+"501","Addison County, Vermont","Saratoga County, New York",1,0,36821,219607
+"503","Addison County, Vermont","Fairfield County, Connecticut",1,0,36821,916829
+"504","Addison County, Vermont","Catawba County, North Carolina",1,0,36821,154358
+"505","Sullivan County, New Hampshire","Worcester County, Massachusetts",1,0,43742,798552
+"506","Sullivan County, New Hampshire","Windsor County, Vermont",1,0,43742,56670
+"507","Sullivan County, New Hampshire","Grafton County, New Hampshire",1,0,43742,89118
+"508","Sullivan County, New Hampshire","Washington County, Vermont",1,0,43742,59534
+"509","Sullivan County, New Hampshire","Orange County, Vermont",1,0,43742,28936
+"510","Sullivan County, New Hampshire","Orleans County, Vermont",1,0,43742,27231
+"511","Sullivan County, New Hampshire","Essex County, Vermont",1,0,43742,6306
+"512","Sullivan County, New Hampshire","Coos County, New Hampshire",1,0,43742,33055
+"513","Sullivan County, New Hampshire","Caledonia County, Vermont",1,0,43742,31227
+"514","Sullivan County, New Hampshire","Lamoille County, Vermont",1,0,43742,24475
+"515","Sullivan County, New Hampshire","Grand Isle County, Vermont",1,0,43742,6970
+"516","Sullivan County, New Hampshire","Chittenden County, Vermont",1,0,43742,156545
+"517","Sullivan County, New Hampshire","Franklin County, Vermont",1,0,43742,47746
+"518","Sullivan County, New Hampshire","Addison County, Vermont",1,0,43742,36821
+"519","Sullivan County, New Hampshire","Windham County, Vermont",1,0,43742,44513
+"520","Sullivan County, New Hampshire","Cheshire County, New Hampshire",1,0,43742,77117
+"521","Sullivan County, New Hampshire","Franklin County, Massachusetts",1,0,43742,71372
+"522","Sullivan County, New Hampshire","Rutland County, Vermont",1,0,43742,61642
+"523","Sullivan County, New Hampshire","Berkshire County, Massachusetts",1,0,43742,131219
+"524","Sullivan County, New Hampshire","Bennington County, Vermont",1,0,43742,37125
+"525","Sullivan County, New Hampshire","Rensselaer County, New York",1,0,43742,159429
+"526","Sullivan County, New Hampshire","Clinton County, New York",1,0,43742,82128
+"527","Sullivan County, New Hampshire","Washington County, New York",1,0,43742,63216
+"528","Sullivan County, New Hampshire","Albany County, New York",1,0,43742,304204
+"529","Sullivan County, New Hampshire","Hampden County, Massachusetts",1,0,43742,463490
+"530","Sullivan County, New Hampshire","Hampshire County, Massachusetts",1,0,43742,158080
+"531","Sullivan County, New Hampshire","Hartford County, Connecticut",1,0,43742,894014
+"532","Sullivan County, New Hampshire","Warren County, New York",1,0,43742,65707
+"533","Sullivan County, New Hampshire","Suffolk County, Massachusetts",1,0,43742,722023
+"534","Sullivan County, New Hampshire","Hillsborough County, New Hampshire",1,0,43742,400721
+"535","Sullivan County, New Hampshire","Middlesex County, Massachusetts",1,0,43742,1503085
+"536","Sullivan County, New Hampshire","New York County, New York",1,0,43742,1585873
+"537","Sullivan County, New Hampshire","Saratoga County, New York",1,0,43742,219607
+"538","Sullivan County, New Hampshire","Essex County, New York",1,0,43742,39370
+"539","Sullivan County, New Hampshire","Fairfield County, Connecticut",1,0,43742,916829
+"540","Sullivan County, New Hampshire","Catawba County, North Carolina",1,0,43742,154358
+"544","Windham County, Vermont","Washington County, Vermont",1,0,44513,59534
+"545","Windham County, Vermont","Orange County, Vermont",1,0,44513,28936
+"546","Windham County, Vermont","Orleans County, Vermont",1,0,44513,27231
+"547","Windham County, Vermont","Essex County, Vermont",1,0,44513,6306
+"548","Windham County, Vermont","Coos County, New Hampshire",1,0,44513,33055
+"549","Windham County, Vermont","Caledonia County, Vermont",1,0,44513,31227
+"550","Windham County, Vermont","Lamoille County, Vermont",1,0,44513,24475
+"551","Windham County, Vermont","Grand Isle County, Vermont",1,0,44513,6970
+"552","Windham County, Vermont","Chittenden County, Vermont",1,0,44513,156545
+"553","Windham County, Vermont","Franklin County, Vermont",1,0,44513,47746
+"554","Windham County, Vermont","Addison County, Vermont",1,0,44513,36821
+"561","Windham County, Vermont","Rensselaer County, New York",1,0,44513,159429
+"562","Windham County, Vermont","Clinton County, New York",1,0,44513,82128
+"563","Windham County, Vermont","Washington County, New York",1,0,44513,63216
+"564","Windham County, Vermont","Albany County, New York",1,0,44513,304204
+"568","Windham County, Vermont","Warren County, New York",1,0,44513,65707
+"570","Windham County, Vermont","Hillsborough County, New Hampshire",1,0,44513,400721
+"573","Windham County, Vermont","Saratoga County, New York",1,0,44513,219607
+"574","Windham County, Vermont","Essex County, New York",1,0,44513,39370
+"575","Windham County, Vermont","Fairfield County, Connecticut",1,0,44513,916829
+"576","Windham County, Vermont","Catawba County, North Carolina",1,0,44513,154358
+"577","Cheshire County, New Hampshire","Worcester County, Massachusetts",1,0,77117,798552
+"578","Cheshire County, New Hampshire","Windsor County, Vermont",1,0,77117,56670
+"579","Cheshire County, New Hampshire","Grafton County, New Hampshire",1,0,77117,89118
+"580","Cheshire County, New Hampshire","Washington County, Vermont",1,0,77117,59534
+"581","Cheshire County, New Hampshire","Orange County, Vermont",1,0,77117,28936
+"582","Cheshire County, New Hampshire","Orleans County, Vermont",1,0,77117,27231
+"583","Cheshire County, New Hampshire","Essex County, Vermont",1,0,77117,6306
+"584","Cheshire County, New Hampshire","Coos County, New Hampshire",1,0,77117,33055
+"585","Cheshire County, New Hampshire","Caledonia County, Vermont",1,0,77117,31227
+"586","Cheshire County, New Hampshire","Lamoille County, Vermont",1,0,77117,24475
+"587","Cheshire County, New Hampshire","Grand Isle County, Vermont",1,0,77117,6970
+"588","Cheshire County, New Hampshire","Chittenden County, Vermont",1,0,77117,156545
+"589","Cheshire County, New Hampshire","Franklin County, Vermont",1,0,77117,47746
+"590","Cheshire County, New Hampshire","Addison County, Vermont",1,0,77117,36821
+"591","Cheshire County, New Hampshire","Sullivan County, New Hampshire",1,0,77117,43742
+"592","Cheshire County, New Hampshire","Windham County, Vermont",1,0,77117,44513
+"593","Cheshire County, New Hampshire","Franklin County, Massachusetts",1,0,77117,71372
+"594","Cheshire County, New Hampshire","Rutland County, Vermont",1,0,77117,61642
+"595","Cheshire County, New Hampshire","Berkshire County, Massachusetts",1,0,77117,131219
+"596","Cheshire County, New Hampshire","Bennington County, Vermont",1,0,77117,37125
+"597","Cheshire County, New Hampshire","Rensselaer County, New York",1,0,77117,159429
+"598","Cheshire County, New Hampshire","Clinton County, New York",1,0,77117,82128
+"599","Cheshire County, New Hampshire","Washington County, New York",1,0,77117,63216
+"600","Cheshire County, New Hampshire","Albany County, New York",1,0,77117,304204
+"601","Cheshire County, New Hampshire","Hampden County, Massachusetts",1,0,77117,463490
+"602","Cheshire County, New Hampshire","Hampshire County, Massachusetts",1,0,77117,158080
+"603","Cheshire County, New Hampshire","Hartford County, Connecticut",1,0,77117,894014
+"604","Cheshire County, New Hampshire","Warren County, New York",1,0,77117,65707
+"605","Cheshire County, New Hampshire","Suffolk County, Massachusetts",1,0,77117,722023
+"606","Cheshire County, New Hampshire","Hillsborough County, New Hampshire",1,0,77117,400721
+"607","Cheshire County, New Hampshire","Middlesex County, Massachusetts",1,0,77117,1503085
+"608","Cheshire County, New Hampshire","New York County, New York",1,0,77117,1585873
+"609","Cheshire County, New Hampshire","Saratoga County, New York",1,0,77117,219607
+"610","Cheshire County, New Hampshire","Essex County, New York",1,0,77117,39370
+"611","Cheshire County, New Hampshire","Fairfield County, Connecticut",1,0,77117,916829
+"612","Cheshire County, New Hampshire","Catawba County, North Carolina",1,0,77117,154358
+"613","Franklin County, Massachusetts","Worcester County, Massachusetts",1,0,71372,798552
+"614","Franklin County, Massachusetts","Windsor County, Vermont",1,0,71372,56670
+"615","Franklin County, Massachusetts","Grafton County, New Hampshire",1,0,71372,89118
+"616","Franklin County, Massachusetts","Washington County, Vermont",1,0,71372,59534
+"617","Franklin County, Massachusetts","Orange County, Vermont",1,0,71372,28936
+"618","Franklin County, Massachusetts","Orleans County, Vermont",1,0,71372,27231
+"619","Franklin County, Massachusetts","Essex County, Vermont",1,0,71372,6306
+"620","Franklin County, Massachusetts","Coos County, New Hampshire",1,0,71372,33055
+"621","Franklin County, Massachusetts","Caledonia County, Vermont",1,0,71372,31227
+"622","Franklin County, Massachusetts","Lamoille County, Vermont",1,0,71372,24475
+"623","Franklin County, Massachusetts","Grand Isle County, Vermont",1,0,71372,6970
+"624","Franklin County, Massachusetts","Chittenden County, Vermont",1,0,71372,156545
+"625","Franklin County, Massachusetts","Franklin County, Vermont",1,0,71372,47746
+"626","Franklin County, Massachusetts","Addison County, Vermont",1,0,71372,36821
+"627","Franklin County, Massachusetts","Sullivan County, New Hampshire",1,0,71372,43742
+"628","Franklin County, Massachusetts","Windham County, Vermont",1,0,71372,44513
+"629","Franklin County, Massachusetts","Cheshire County, New Hampshire",1,0,71372,77117
+"630","Franklin County, Massachusetts","Rutland County, Vermont",1,0,71372,61642
+"631","Franklin County, Massachusetts","Berkshire County, Massachusetts",1,0,71372,131219
+"632","Franklin County, Massachusetts","Bennington County, Vermont",1,0,71372,37125
+"633","Franklin County, Massachusetts","Rensselaer County, New York",1,0,71372,159429
+"634","Franklin County, Massachusetts","Clinton County, New York",1,0,71372,82128
+"635","Franklin County, Massachusetts","Washington County, New York",1,0,71372,63216
+"636","Franklin County, Massachusetts","Albany County, New York",1,0,71372,304204
+"637","Franklin County, Massachusetts","Hampden County, Massachusetts",1,0,71372,463490
+"638","Franklin County, Massachusetts","Hampshire County, Massachusetts",1,0,71372,158080
+"639","Franklin County, Massachusetts","Hartford County, Connecticut",1,0,71372,894014
+"640","Franklin County, Massachusetts","Warren County, New York",1,0,71372,65707
+"641","Franklin County, Massachusetts","Suffolk County, Massachusetts",1,0,71372,722023
+"642","Franklin County, Massachusetts","Hillsborough County, New Hampshire",1,0,71372,400721
+"643","Franklin County, Massachusetts","Middlesex County, Massachusetts",1,0,71372,1503085
+"644","Franklin County, Massachusetts","New York County, New York",1,0,71372,1585873
+"645","Franklin County, Massachusetts","Saratoga County, New York",1,0,71372,219607
+"646","Franklin County, Massachusetts","Essex County, New York",1,0,71372,39370
+"647","Franklin County, Massachusetts","Fairfield County, Connecticut",1,0,71372,916829
+"648","Franklin County, Massachusetts","Catawba County, North Carolina",1,0,71372,154358
+"649","Rutland County, Vermont","Worcester County, Massachusetts",1,0,61642,798552
+"654","Rutland County, Vermont","Orleans County, Vermont",1,0,61642,27231
+"655","Rutland County, Vermont","Essex County, Vermont",1,0,61642,6306
+"656","Rutland County, Vermont","Coos County, New Hampshire",1,0,61642,33055
+"657","Rutland County, Vermont","Caledonia County, Vermont",1,0,61642,31227
+"658","Rutland County, Vermont","Lamoille County, Vermont",1,0,61642,24475
+"659","Rutland County, Vermont","Grand Isle County, Vermont",1,0,61642,6970
+"663","Rutland County, Vermont","Sullivan County, New Hampshire",1,0,61642,43742
+"665","Rutland County, Vermont","Cheshire County, New Hampshire",1,0,61642,77117
+"666","Rutland County, Vermont","Franklin County, Massachusetts",1,0,61642,71372
+"667","Rutland County, Vermont","Berkshire County, Massachusetts",1,0,61642,131219
+"669","Rutland County, Vermont","Rensselaer County, New York",1,0,61642,159429
+"670","Rutland County, Vermont","Clinton County, New York",1,0,61642,82128
+"673","Rutland County, Vermont","Hampden County, Massachusetts",1,0,61642,463490
+"674","Rutland County, Vermont","Hampshire County, Massachusetts",1,0,61642,158080
+"675","Rutland County, Vermont","Hartford County, Connecticut",1,0,61642,894014
+"677","Rutland County, Vermont","Suffolk County, Massachusetts",1,0,61642,722023
+"678","Rutland County, Vermont","Hillsborough County, New Hampshire",1,0,61642,400721
+"682","Rutland County, Vermont","Essex County, New York",1,0,61642,39370
+"683","Rutland County, Vermont","Fairfield County, Connecticut",1,0,61642,916829
+"684","Rutland County, Vermont","Catawba County, North Carolina",1,0,61642,154358
+"685","Berkshire County, Massachusetts","Worcester County, Massachusetts",1,0,131219,798552
+"686","Berkshire County, Massachusetts","Windsor County, Vermont",1,0,131219,56670
+"687","Berkshire County, Massachusetts","Grafton County, New Hampshire",1,0,131219,89118
+"688","Berkshire County, Massachusetts","Washington County, Vermont",1,0,131219,59534
+"689","Berkshire County, Massachusetts","Orange County, Vermont",1,0,131219,28936
+"690","Berkshire County, Massachusetts","Orleans County, Vermont",1,0,131219,27231
+"691","Berkshire County, Massachusetts","Essex County, Vermont",1,0,131219,6306
+"692","Berkshire County, Massachusetts","Coos County, New Hampshire",1,0,131219,33055
+"693","Berkshire County, Massachusetts","Caledonia County, Vermont",1,0,131219,31227
+"694","Berkshire County, Massachusetts","Lamoille County, Vermont",1,0,131219,24475
+"695","Berkshire County, Massachusetts","Grand Isle County, Vermont",1,0,131219,6970
+"696","Berkshire County, Massachusetts","Chittenden County, Vermont",1,0,131219,156545
+"697","Berkshire County, Massachusetts","Franklin County, Vermont",1,0,131219,47746
+"698","Berkshire County, Massachusetts","Addison County, Vermont",1,0,131219,36821
+"699","Berkshire County, Massachusetts","Sullivan County, New Hampshire",1,0,131219,43742
+"700","Berkshire County, Massachusetts","Windham County, Vermont",1,0,131219,44513
+"701","Berkshire County, Massachusetts","Cheshire County, New Hampshire",1,0,131219,77117
+"702","Berkshire County, Massachusetts","Franklin County, Massachusetts",1,0,131219,71372
+"703","Berkshire County, Massachusetts","Rutland County, Vermont",1,0,131219,61642
+"704","Berkshire County, Massachusetts","Bennington County, Vermont",1,0,131219,37125
+"705","Berkshire County, Massachusetts","Rensselaer County, New York",1,0,131219,159429
+"706","Berkshire County, Massachusetts","Clinton County, New York",1,0,131219,82128
+"707","Berkshire County, Massachusetts","Washington County, New York",1,0,131219,63216
+"708","Berkshire County, Massachusetts","Albany County, New York",1,0,131219,304204
+"709","Berkshire County, Massachusetts","Hampden County, Massachusetts",1,0,131219,463490
+"710","Berkshire County, Massachusetts","Hampshire County, Massachusetts",1,0,131219,158080
+"711","Berkshire County, Massachusetts","Hartford County, Connecticut",1,0,131219,894014
+"712","Berkshire County, Massachusetts","Warren County, New York",1,0,131219,65707
+"713","Berkshire County, Massachusetts","Suffolk County, Massachusetts",1,0,131219,722023
+"714","Berkshire County, Massachusetts","Hillsborough County, New Hampshire",1,0,131219,400721
+"715","Berkshire County, Massachusetts","Middlesex County, Massachusetts",1,0,131219,1503085
+"716","Berkshire County, Massachusetts","New York County, New York",1,0,131219,1585873
+"717","Berkshire County, Massachusetts","Saratoga County, New York",1,0,131219,219607
+"718","Berkshire County, Massachusetts","Essex County, New York",1,0,131219,39370
+"719","Berkshire County, Massachusetts","Fairfield County, Connecticut",1,0,131219,916829
+"720","Berkshire County, Massachusetts","Catawba County, North Carolina",1,0,131219,154358
+"721","Bennington County, Vermont","Worcester County, Massachusetts",1,0,37125,798552
+"723","Bennington County, Vermont","Grafton County, New Hampshire",1,0,37125,89118
+"724","Bennington County, Vermont","Washington County, Vermont",1,0,37125,59534
+"725","Bennington County, Vermont","Orange County, Vermont",1,0,37125,28936
+"726","Bennington County, Vermont","Orleans County, Vermont",1,0,37125,27231
+"727","Bennington County, Vermont","Essex County, Vermont",1,0,37125,6306
+"728","Bennington County, Vermont","Coos County, New Hampshire",1,0,37125,33055
+"729","Bennington County, Vermont","Caledonia County, Vermont",1,0,37125,31227
+"730","Bennington County, Vermont","Lamoille County, Vermont",1,0,37125,24475
+"731","Bennington County, Vermont","Grand Isle County, Vermont",1,0,37125,6970
+"733","Bennington County, Vermont","Franklin County, Vermont",1,0,37125,47746
+"734","Bennington County, Vermont","Addison County, Vermont",1,0,37125,36821
+"735","Bennington County, Vermont","Sullivan County, New Hampshire",1,0,37125,43742
+"742","Bennington County, Vermont","Clinton County, New York",1,0,37125,82128
+"745","Bennington County, Vermont","Hampden County, Massachusetts",1,0,37125,463490
+"746","Bennington County, Vermont","Hampshire County, Massachusetts",1,0,37125,158080
+"747","Bennington County, Vermont","Hartford County, Connecticut",1,0,37125,894014
+"748","Bennington County, Vermont","Warren County, New York",1,0,37125,65707
+"749","Bennington County, Vermont","Suffolk County, Massachusetts",1,0,37125,722023
+"750","Bennington County, Vermont","Hillsborough County, New Hampshire",1,0,37125,400721
+"751","Bennington County, Vermont","Middlesex County, Massachusetts",1,0,37125,1503085
+"754","Bennington County, Vermont","Essex County, New York",1,0,37125,39370
+"756","Bennington County, Vermont","Catawba County, North Carolina",1,0,37125,154358
+"757","Rensselaer County, New York","Worcester County, Massachusetts",1,0,159429,798552
+"758","Rensselaer County, New York","Windsor County, Vermont",1,0,159429,56670
+"759","Rensselaer County, New York","Grafton County, New Hampshire",1,0,159429,89118
+"760","Rensselaer County, New York","Washington County, Vermont",1,0,159429,59534
+"761","Rensselaer County, New York","Orange County, Vermont",1,0,159429,28936
+"762","Rensselaer County, New York","Orleans County, Vermont",1,0,159429,27231
+"763","Rensselaer County, New York","Essex County, Vermont",1,0,159429,6306
+"764","Rensselaer County, New York","Coos County, New Hampshire",1,0,159429,33055
+"765","Rensselaer County, New York","Caledonia County, Vermont",1,0,159429,31227
+"766","Rensselaer County, New York","Lamoille County, Vermont",1,0,159429,24475
+"767","Rensselaer County, New York","Grand Isle County, Vermont",1,0,159429,6970
+"768","Rensselaer County, New York","Chittenden County, Vermont",1,0,159429,156545
+"769","Rensselaer County, New York","Franklin County, Vermont",1,0,159429,47746
+"770","Rensselaer County, New York","Addison County, Vermont",1,0,159429,36821
+"771","Rensselaer County, New York","Sullivan County, New Hampshire",1,0,159429,43742
+"772","Rensselaer County, New York","Windham County, Vermont",1,0,159429,44513
+"773","Rensselaer County, New York","Cheshire County, New Hampshire",1,0,159429,77117
+"774","Rensselaer County, New York","Franklin County, Massachusetts",1,0,159429,71372
+"775","Rensselaer County, New York","Rutland County, Vermont",1,0,159429,61642
+"776","Rensselaer County, New York","Berkshire County, Massachusetts",1,0,159429,131219
+"777","Rensselaer County, New York","Bennington County, Vermont",1,0,159429,37125
+"778","Rensselaer County, New York","Clinton County, New York",1,0,159429,82128
+"779","Rensselaer County, New York","Washington County, New York",1,0,159429,63216
+"780","Rensselaer County, New York","Albany County, New York",1,0,159429,304204
+"781","Rensselaer County, New York","Hampden County, Massachusetts",1,0,159429,463490
+"782","Rensselaer County, New York","Hampshire County, Massachusetts",1,0,159429,158080
+"783","Rensselaer County, New York","Hartford County, Connecticut",1,0,159429,894014
+"784","Rensselaer County, New York","Warren County, New York",1,0,159429,65707
+"785","Rensselaer County, New York","Suffolk County, Massachusetts",1,0,159429,722023
+"786","Rensselaer County, New York","Hillsborough County, New Hampshire",1,0,159429,400721
+"787","Rensselaer County, New York","Middlesex County, Massachusetts",1,0,159429,1503085
+"788","Rensselaer County, New York","New York County, New York",1,0,159429,1585873
+"789","Rensselaer County, New York","Saratoga County, New York",1,0,159429,219607
+"790","Rensselaer County, New York","Essex County, New York",1,0,159429,39370
+"791","Rensselaer County, New York","Fairfield County, Connecticut",1,0,159429,916829
+"792","Rensselaer County, New York","Catawba County, North Carolina",1,0,159429,154358
+"793","Clinton County, New York","Worcester County, Massachusetts",1,0,82128,798552
+"794","Clinton County, New York","Windsor County, Vermont",1,0,82128,56670
+"795","Clinton County, New York","Grafton County, New Hampshire",1,0,82128,89118
+"796","Clinton County, New York","Washington County, Vermont",1,0,82128,59534
+"797","Clinton County, New York","Orange County, Vermont",1,0,82128,28936
+"798","Clinton County, New York","Orleans County, Vermont",1,0,82128,27231
+"799","Clinton County, New York","Essex County, Vermont",1,0,82128,6306
+"800","Clinton County, New York","Coos County, New Hampshire",1,0,82128,33055
+"801","Clinton County, New York","Caledonia County, Vermont",1,0,82128,31227
+"802","Clinton County, New York","Lamoille County, Vermont",1,0,82128,24475
+"803","Clinton County, New York","Grand Isle County, Vermont",1,0,82128,6970
+"804","Clinton County, New York","Chittenden County, Vermont",1,0,82128,156545
+"805","Clinton County, New York","Franklin County, Vermont",1,0,82128,47746
+"806","Clinton County, New York","Addison County, Vermont",1,0,82128,36821
+"807","Clinton County, New York","Sullivan County, New Hampshire",1,0,82128,43742
+"808","Clinton County, New York","Windham County, Vermont",1,0,82128,44513
+"809","Clinton County, New York","Cheshire County, New Hampshire",1,0,82128,77117
+"810","Clinton County, New York","Franklin County, Massachusetts",1,0,82128,71372
+"811","Clinton County, New York","Rutland County, Vermont",1,0,82128,61642
+"812","Clinton County, New York","Berkshire County, Massachusetts",1,0,82128,131219
+"813","Clinton County, New York","Bennington County, Vermont",1,0,82128,37125
+"814","Clinton County, New York","Rensselaer County, New York",1,0,82128,159429
+"815","Clinton County, New York","Washington County, New York",1,0,82128,63216
+"816","Clinton County, New York","Albany County, New York",1,0,82128,304204
+"817","Clinton County, New York","Hampden County, Massachusetts",1,0,82128,463490
+"818","Clinton County, New York","Hampshire County, Massachusetts",1,0,82128,158080
+"819","Clinton County, New York","Hartford County, Connecticut",1,0,82128,894014
+"820","Clinton County, New York","Warren County, New York",1,0,82128,65707
+"821","Clinton County, New York","Suffolk County, Massachusetts",1,0,82128,722023
+"822","Clinton County, New York","Hillsborough County, New Hampshire",1,0,82128,400721
+"823","Clinton County, New York","Middlesex County, Massachusetts",1,0,82128,1503085
+"824","Clinton County, New York","New York County, New York",1,0,82128,1585873
+"825","Clinton County, New York","Saratoga County, New York",1,0,82128,219607
+"826","Clinton County, New York","Essex County, New York",1,0,82128,39370
+"827","Clinton County, New York","Fairfield County, Connecticut",1,0,82128,916829
+"828","Clinton County, New York","Catawba County, North Carolina",1,0,82128,154358
+"829","Washington County, New York","Worcester County, Massachusetts",1,0,63216,798552
+"830","Washington County, New York","Windsor County, Vermont",1,0,63216,56670
+"831","Washington County, New York","Grafton County, New Hampshire",1,0,63216,89118
+"832","Washington County, New York","Washington County, Vermont",1,0,63216,59534
+"833","Washington County, New York","Orange County, Vermont",1,0,63216,28936
+"834","Washington County, New York","Orleans County, Vermont",1,0,63216,27231
+"835","Washington County, New York","Essex County, Vermont",1,0,63216,6306
+"836","Washington County, New York","Coos County, New Hampshire",1,0,63216,33055
+"837","Washington County, New York","Caledonia County, Vermont",1,0,63216,31227
+"838","Washington County, New York","Lamoille County, Vermont",1,0,63216,24475
+"839","Washington County, New York","Grand Isle County, Vermont",1,0,63216,6970
+"840","Washington County, New York","Chittenden County, Vermont",1,0,63216,156545
+"841","Washington County, New York","Franklin County, Vermont",1,0,63216,47746
+"842","Washington County, New York","Addison County, Vermont",1,0,63216,36821
+"843","Washington County, New York","Sullivan County, New Hampshire",1,0,63216,43742
+"844","Washington County, New York","Windham County, Vermont",1,0,63216,44513
+"845","Washington County, New York","Cheshire County, New Hampshire",1,0,63216,77117
+"846","Washington County, New York","Franklin County, Massachusetts",1,0,63216,71372
+"847","Washington County, New York","Rutland County, Vermont",1,0,63216,61642
+"848","Washington County, New York","Berkshire County, Massachusetts",1,0,63216,131219
+"849","Washington County, New York","Bennington County, Vermont",1,0,63216,37125
+"850","Washington County, New York","Rensselaer County, New York",1,0,63216,159429
+"851","Washington County, New York","Clinton County, New York",1,0,63216,82128
+"852","Washington County, New York","Albany County, New York",1,0,63216,304204
+"853","Washington County, New York","Hampden County, Massachusetts",1,0,63216,463490
+"854","Washington County, New York","Hampshire County, Massachusetts",1,0,63216,158080
+"855","Washington County, New York","Hartford County, Connecticut",1,0,63216,894014
+"856","Washington County, New York","Warren County, New York",1,0,63216,65707
+"857","Washington County, New York","Suffolk County, Massachusetts",1,0,63216,722023
+"858","Washington County, New York","Hillsborough County, New Hampshire",1,0,63216,400721
+"859","Washington County, New York","Middlesex County, Massachusetts",1,0,63216,1503085
+"860","Washington County, New York","New York County, New York",1,0,63216,1585873
+"861","Washington County, New York","Saratoga County, New York",1,0,63216,219607
+"862","Washington County, New York","Essex County, New York",1,0,63216,39370
+"863","Washington County, New York","Fairfield County, Connecticut",1,0,63216,916829
+"864","Washington County, New York","Catawba County, North Carolina",1,0,63216,154358
+"865","Albany County, New York","Worcester County, Massachusetts",1,0,304204,798552
+"866","Albany County, New York","Windsor County, Vermont",1,0,304204,56670
+"867","Albany County, New York","Grafton County, New Hampshire",1,0,304204,89118
+"868","Albany County, New York","Washington County, Vermont",1,0,304204,59534
+"869","Albany County, New York","Orange County, Vermont",1,0,304204,28936
+"870","Albany County, New York","Orleans County, Vermont",1,0,304204,27231
+"871","Albany County, New York","Essex County, Vermont",1,0,304204,6306
+"872","Albany County, New York","Coos County, New Hampshire",1,0,304204,33055
+"873","Albany County, New York","Caledonia County, Vermont",1,0,304204,31227
+"874","Albany County, New York","Lamoille County, Vermont",1,0,304204,24475
+"875","Albany County, New York","Grand Isle County, Vermont",1,0,304204,6970
+"876","Albany County, New York","Chittenden County, Vermont",1,0,304204,156545
+"877","Albany County, New York","Franklin County, Vermont",1,0,304204,47746
+"878","Albany County, New York","Addison County, Vermont",1,0,304204,36821
+"879","Albany County, New York","Sullivan County, New Hampshire",1,0,304204,43742
+"880","Albany County, New York","Windham County, Vermont",1,0,304204,44513
+"881","Albany County, New York","Cheshire County, New Hampshire",1,0,304204,77117
+"882","Albany County, New York","Franklin County, Massachusetts",1,0,304204,71372
+"883","Albany County, New York","Rutland County, Vermont",1,0,304204,61642
+"884","Albany County, New York","Berkshire County, Massachusetts",1,0,304204,131219
+"885","Albany County, New York","Bennington County, Vermont",1,0,304204,37125
+"886","Albany County, New York","Rensselaer County, New York",1,0,304204,159429
+"887","Albany County, New York","Clinton County, New York",1,0,304204,82128
+"888","Albany County, New York","Washington County, New York",1,0,304204,63216
+"889","Albany County, New York","Hampden County, Massachusetts",1,0,304204,463490
+"890","Albany County, New York","Hampshire County, Massachusetts",1,0,304204,158080
+"891","Albany County, New York","Hartford County, Connecticut",1,0,304204,894014
+"892","Albany County, New York","Warren County, New York",1,0,304204,65707
+"893","Albany County, New York","Suffolk County, Massachusetts",1,0,304204,722023
+"894","Albany County, New York","Hillsborough County, New Hampshire",1,0,304204,400721
+"895","Albany County, New York","Middlesex County, Massachusetts",1,0,304204,1503085
+"896","Albany County, New York","New York County, New York",1,0,304204,1585873
+"897","Albany County, New York","Saratoga County, New York",1,0,304204,219607
+"898","Albany County, New York","Essex County, New York",1,0,304204,39370
+"899","Albany County, New York","Fairfield County, Connecticut",1,0,304204,916829
+"900","Albany County, New York","Catawba County, North Carolina",1,0,304204,154358
+"901","Hampden County, Massachusetts","Worcester County, Massachusetts",1,0,463490,798552
+"902","Hampden County, Massachusetts","Windsor County, Vermont",1,0,463490,56670
+"903","Hampden County, Massachusetts","Grafton County, New Hampshire",1,0,463490,89118
+"904","Hampden County, Massachusetts","Washington County, Vermont",1,0,463490,59534
+"905","Hampden County, Massachusetts","Orange County, Vermont",1,0,463490,28936
+"906","Hampden County, Massachusetts","Orleans County, Vermont",1,0,463490,27231
+"907","Hampden County, Massachusetts","Essex County, Vermont",1,0,463490,6306
+"908","Hampden County, Massachusetts","Coos County, New Hampshire",1,0,463490,33055
+"909","Hampden County, Massachusetts","Caledonia County, Vermont",1,0,463490,31227
+"910","Hampden County, Massachusetts","Lamoille County, Vermont",1,0,463490,24475
+"911","Hampden County, Massachusetts","Grand Isle County, Vermont",1,0,463490,6970
+"912","Hampden County, Massachusetts","Chittenden County, Vermont",1,0,463490,156545
+"913","Hampden County, Massachusetts","Franklin County, Vermont",1,0,463490,47746
+"914","Hampden County, Massachusetts","Addison County, Vermont",1,0,463490,36821
+"915","Hampden County, Massachusetts","Sullivan County, New Hampshire",1,0,463490,43742
+"916","Hampden County, Massachusetts","Windham County, Vermont",1,0,463490,44513
+"917","Hampden County, Massachusetts","Cheshire County, New Hampshire",1,0,463490,77117
+"918","Hampden County, Massachusetts","Franklin County, Massachusetts",1,0,463490,71372
+"919","Hampden County, Massachusetts","Rutland County, Vermont",1,0,463490,61642
+"920","Hampden County, Massachusetts","Berkshire County, Massachusetts",1,0,463490,131219
+"921","Hampden County, Massachusetts","Bennington County, Vermont",1,0,463490,37125
+"922","Hampden County, Massachusetts","Rensselaer County, New York",1,0,463490,159429
+"923","Hampden County, Massachusetts","Clinton County, New York",1,0,463490,82128
+"924","Hampden County, Massachusetts","Washington County, New York",1,0,463490,63216
+"925","Hampden County, Massachusetts","Albany County, New York",1,0,463490,304204
+"926","Hampden County, Massachusetts","Hampshire County, Massachusetts",1,0,463490,158080
+"927","Hampden County, Massachusetts","Hartford County, Connecticut",1,0,463490,894014
+"928","Hampden County, Massachusetts","Warren County, New York",1,0,463490,65707
+"929","Hampden County, Massachusetts","Suffolk County, Massachusetts",1,0,463490,722023
+"930","Hampden County, Massachusetts","Hillsborough County, New Hampshire",1,0,463490,400721
+"931","Hampden County, Massachusetts","Middlesex County, Massachusetts",1,0,463490,1503085
+"932","Hampden County, Massachusetts","New York County, New York",1,0,463490,1585873
+"933","Hampden County, Massachusetts","Saratoga County, New York",1,0,463490,219607
+"934","Hampden County, Massachusetts","Essex County, New York",1,0,463490,39370
+"935","Hampden County, Massachusetts","Fairfield County, Connecticut",1,0,463490,916829
+"936","Hampden County, Massachusetts","Catawba County, North Carolina",1,0,463490,154358
+"937","Hampshire County, Massachusetts","Worcester County, Massachusetts",1,0,158080,798552
+"938","Hampshire County, Massachusetts","Windsor County, Vermont",1,0,158080,56670
+"939","Hampshire County, Massachusetts","Grafton County, New Hampshire",1,0,158080,89118
+"940","Hampshire County, Massachusetts","Washington County, Vermont",1,0,158080,59534
+"941","Hampshire County, Massachusetts","Orange County, Vermont",1,0,158080,28936
+"942","Hampshire County, Massachusetts","Orleans County, Vermont",1,0,158080,27231
+"943","Hampshire County, Massachusetts","Essex County, Vermont",1,0,158080,6306
+"944","Hampshire County, Massachusetts","Coos County, New Hampshire",1,0,158080,33055
+"945","Hampshire County, Massachusetts","Caledonia County, Vermont",1,0,158080,31227
+"946","Hampshire County, Massachusetts","Lamoille County, Vermont",1,0,158080,24475
+"947","Hampshire County, Massachusetts","Grand Isle County, Vermont",1,0,158080,6970
+"948","Hampshire County, Massachusetts","Chittenden County, Vermont",1,0,158080,156545
+"949","Hampshire County, Massachusetts","Franklin County, Vermont",1,0,158080,47746
+"950","Hampshire County, Massachusetts","Addison County, Vermont",1,0,158080,36821
+"951","Hampshire County, Massachusetts","Sullivan County, New Hampshire",1,0,158080,43742
+"952","Hampshire County, Massachusetts","Windham County, Vermont",1,0,158080,44513
+"953","Hampshire County, Massachusetts","Cheshire County, New Hampshire",1,0,158080,77117
+"954","Hampshire County, Massachusetts","Franklin County, Massachusetts",1,0,158080,71372
+"955","Hampshire County, Massachusetts","Rutland County, Vermont",1,0,158080,61642
+"956","Hampshire County, Massachusetts","Berkshire County, Massachusetts",1,0,158080,131219
+"957","Hampshire County, Massachusetts","Bennington County, Vermont",1,0,158080,37125
+"958","Hampshire County, Massachusetts","Rensselaer County, New York",1,0,158080,159429
+"959","Hampshire County, Massachusetts","Clinton County, New York",1,0,158080,82128
+"960","Hampshire County, Massachusetts","Washington County, New York",1,0,158080,63216
+"961","Hampshire County, Massachusetts","Albany County, New York",1,0,158080,304204
+"962","Hampshire County, Massachusetts","Hampden County, Massachusetts",1,0,158080,463490
+"963","Hampshire County, Massachusetts","Hartford County, Connecticut",1,0,158080,894014
+"964","Hampshire County, Massachusetts","Warren County, New York",1,0,158080,65707
+"965","Hampshire County, Massachusetts","Suffolk County, Massachusetts",1,0,158080,722023
+"966","Hampshire County, Massachusetts","Hillsborough County, New Hampshire",1,0,158080,400721
+"967","Hampshire County, Massachusetts","Middlesex County, Massachusetts",1,0,158080,1503085
+"968","Hampshire County, Massachusetts","New York County, New York",1,0,158080,1585873
+"969","Hampshire County, Massachusetts","Saratoga County, New York",1,0,158080,219607
+"970","Hampshire County, Massachusetts","Essex County, New York",1,0,158080,39370
+"971","Hampshire County, Massachusetts","Fairfield County, Connecticut",1,0,158080,916829
+"972","Hampshire County, Massachusetts","Catawba County, North Carolina",1,0,158080,154358
+"973","Hartford County, Connecticut","Worcester County, Massachusetts",1,0,894014,798552
+"974","Hartford County, Connecticut","Windsor County, Vermont",1,0,894014,56670
+"975","Hartford County, Connecticut","Grafton County, New Hampshire",1,0,894014,89118
+"976","Hartford County, Connecticut","Washington County, Vermont",1,0,894014,59534
+"977","Hartford County, Connecticut","Orange County, Vermont",1,0,894014,28936
+"978","Hartford County, Connecticut","Orleans County, Vermont",1,0,894014,27231
+"979","Hartford County, Connecticut","Essex County, Vermont",1,0,894014,6306
+"980","Hartford County, Connecticut","Coos County, New Hampshire",1,0,894014,33055
+"981","Hartford County, Connecticut","Caledonia County, Vermont",1,0,894014,31227
+"982","Hartford County, Connecticut","Lamoille County, Vermont",1,0,894014,24475
+"983","Hartford County, Connecticut","Grand Isle County, Vermont",1,0,894014,6970
+"984","Hartford County, Connecticut","Chittenden County, Vermont",1,0,894014,156545
+"985","Hartford County, Connecticut","Franklin County, Vermont",1,0,894014,47746
+"986","Hartford County, Connecticut","Addison County, Vermont",1,0,894014,36821
+"987","Hartford County, Connecticut","Sullivan County, New Hampshire",1,0,894014,43742
+"988","Hartford County, Connecticut","Windham County, Vermont",1,0,894014,44513
+"989","Hartford County, Connecticut","Cheshire County, New Hampshire",1,0,894014,77117
+"990","Hartford County, Connecticut","Franklin County, Massachusetts",1,0,894014,71372
+"991","Hartford County, Connecticut","Rutland County, Vermont",1,0,894014,61642
+"992","Hartford County, Connecticut","Berkshire County, Massachusetts",1,0,894014,131219
+"993","Hartford County, Connecticut","Bennington County, Vermont",1,0,894014,37125
+"994","Hartford County, Connecticut","Rensselaer County, New York",1,0,894014,159429
+"995","Hartford County, Connecticut","Clinton County, New York",1,0,894014,82128
+"996","Hartford County, Connecticut","Washington County, New York",1,0,894014,63216
+"997","Hartford County, Connecticut","Albany County, New York",1,0,894014,304204
+"998","Hartford County, Connecticut","Hampden County, Massachusetts",1,0,894014,463490
+"999","Hartford County, Connecticut","Hampshire County, Massachusetts",1,0,894014,158080
+"1000","Hartford County, Connecticut","Warren County, New York",1,0,894014,65707
+"1001","Hartford County, Connecticut","Suffolk County, Massachusetts",1,0,894014,722023
+"1002","Hartford County, Connecticut","Hillsborough County, New Hampshire",1,0,894014,400721
+"1003","Hartford County, Connecticut","Middlesex County, Massachusetts",1,0,894014,1503085
+"1004","Hartford County, Connecticut","New York County, New York",1,0,894014,1585873
+"1005","Hartford County, Connecticut","Saratoga County, New York",1,0,894014,219607
+"1006","Hartford County, Connecticut","Essex County, New York",1,0,894014,39370
+"1007","Hartford County, Connecticut","Fairfield County, Connecticut",1,0,894014,916829
+"1008","Hartford County, Connecticut","Catawba County, North Carolina",1,0,894014,154358
+"1009","Warren County, New York","Worcester County, Massachusetts",1,0,65707,798552
+"1010","Warren County, New York","Windsor County, Vermont",1,0,65707,56670
+"1011","Warren County, New York","Grafton County, New Hampshire",1,0,65707,89118
+"1012","Warren County, New York","Washington County, Vermont",1,0,65707,59534
+"1013","Warren County, New York","Orange County, Vermont",1,0,65707,28936
+"1014","Warren County, New York","Orleans County, Vermont",1,0,65707,27231
+"1015","Warren County, New York","Essex County, Vermont",1,0,65707,6306
+"1016","Warren County, New York","Coos County, New Hampshire",1,0,65707,33055
+"1017","Warren County, New York","Caledonia County, Vermont",1,0,65707,31227
+"1018","Warren County, New York","Lamoille County, Vermont",1,0,65707,24475
+"1019","Warren County, New York","Grand Isle County, Vermont",1,0,65707,6970
+"1020","Warren County, New York","Chittenden County, Vermont",1,0,65707,156545
+"1021","Warren County, New York","Franklin County, Vermont",1,0,65707,47746
+"1022","Warren County, New York","Addison County, Vermont",1,0,65707,36821
+"1023","Warren County, New York","Sullivan County, New Hampshire",1,0,65707,43742
+"1024","Warren County, New York","Windham County, Vermont",1,0,65707,44513
+"1025","Warren County, New York","Cheshire County, New Hampshire",1,0,65707,77117
+"1026","Warren County, New York","Franklin County, Massachusetts",1,0,65707,71372
+"1027","Warren County, New York","Rutland County, Vermont",1,0,65707,61642
+"1028","Warren County, New York","Berkshire County, Massachusetts",1,0,65707,131219
+"1029","Warren County, New York","Bennington County, Vermont",1,0,65707,37125
+"1030","Warren County, New York","Rensselaer County, New York",1,0,65707,159429
+"1031","Warren County, New York","Clinton County, New York",1,0,65707,82128
+"1032","Warren County, New York","Washington County, New York",1,0,65707,63216
+"1033","Warren County, New York","Albany County, New York",1,0,65707,304204
+"1034","Warren County, New York","Hampden County, Massachusetts",1,0,65707,463490
+"1035","Warren County, New York","Hampshire County, Massachusetts",1,0,65707,158080
+"1036","Warren County, New York","Hartford County, Connecticut",1,0,65707,894014
+"1037","Warren County, New York","Suffolk County, Massachusetts",1,0,65707,722023
+"1038","Warren County, New York","Hillsborough County, New Hampshire",1,0,65707,400721
+"1039","Warren County, New York","Middlesex County, Massachusetts",1,0,65707,1503085
+"1040","Warren County, New York","New York County, New York",1,0,65707,1585873
+"1041","Warren County, New York","Saratoga County, New York",1,0,65707,219607
+"1042","Warren County, New York","Essex County, New York",1,0,65707,39370
+"1043","Warren County, New York","Fairfield County, Connecticut",1,0,65707,916829
+"1044","Warren County, New York","Catawba County, North Carolina",1,0,65707,154358
+"1045","Suffolk County, Massachusetts","Worcester County, Massachusetts",1,0,722023,798552
+"1046","Suffolk County, Massachusetts","Windsor County, Vermont",1,0,722023,56670
+"1047","Suffolk County, Massachusetts","Grafton County, New Hampshire",1,0,722023,89118
+"1048","Suffolk County, Massachusetts","Washington County, Vermont",1,0,722023,59534
+"1049","Suffolk County, Massachusetts","Orange County, Vermont",1,0,722023,28936
+"1050","Suffolk County, Massachusetts","Orleans County, Vermont",1,0,722023,27231
+"1051","Suffolk County, Massachusetts","Essex County, Vermont",1,0,722023,6306
+"1052","Suffolk County, Massachusetts","Coos County, New Hampshire",1,0,722023,33055
+"1053","Suffolk County, Massachusetts","Caledonia County, Vermont",1,0,722023,31227
+"1054","Suffolk County, Massachusetts","Lamoille County, Vermont",1,0,722023,24475
+"1055","Suffolk County, Massachusetts","Grand Isle County, Vermont",1,0,722023,6970
+"1056","Suffolk County, Massachusetts","Chittenden County, Vermont",1,0,722023,156545
+"1057","Suffolk County, Massachusetts","Franklin County, Vermont",1,0,722023,47746
+"1058","Suffolk County, Massachusetts","Addison County, Vermont",1,0,722023,36821
+"1059","Suffolk County, Massachusetts","Sullivan County, New Hampshire",1,0,722023,43742
+"1060","Suffolk County, Massachusetts","Windham County, Vermont",1,0,722023,44513
+"1061","Suffolk County, Massachusetts","Cheshire County, New Hampshire",1,0,722023,77117
+"1062","Suffolk County, Massachusetts","Franklin County, Massachusetts",1,0,722023,71372
+"1063","Suffolk County, Massachusetts","Rutland County, Vermont",1,0,722023,61642
+"1064","Suffolk County, Massachusetts","Berkshire County, Massachusetts",1,0,722023,131219
+"1065","Suffolk County, Massachusetts","Bennington County, Vermont",1,0,722023,37125
+"1066","Suffolk County, Massachusetts","Rensselaer County, New York",1,0,722023,159429
+"1067","Suffolk County, Massachusetts","Clinton County, New York",1,0,722023,82128
+"1068","Suffolk County, Massachusetts","Washington County, New York",1,0,722023,63216
+"1069","Suffolk County, Massachusetts","Albany County, New York",1,0,722023,304204
+"1070","Suffolk County, Massachusetts","Hampden County, Massachusetts",1,0,722023,463490
+"1071","Suffolk County, Massachusetts","Hampshire County, Massachusetts",1,0,722023,158080
+"1072","Suffolk County, Massachusetts","Hartford County, Connecticut",1,0,722023,894014
+"1073","Suffolk County, Massachusetts","Warren County, New York",1,0,722023,65707
+"1074","Suffolk County, Massachusetts","Hillsborough County, New Hampshire",1,0,722023,400721
+"1075","Suffolk County, Massachusetts","Middlesex County, Massachusetts",1,0,722023,1503085
+"1076","Suffolk County, Massachusetts","New York County, New York",1,0,722023,1585873
+"1077","Suffolk County, Massachusetts","Saratoga County, New York",1,0,722023,219607
+"1078","Suffolk County, Massachusetts","Essex County, New York",1,0,722023,39370
+"1079","Suffolk County, Massachusetts","Fairfield County, Connecticut",1,0,722023,916829
+"1080","Suffolk County, Massachusetts","Catawba County, North Carolina",1,0,722023,154358
+"1081","Hillsborough County, New Hampshire","Worcester County, Massachusetts",1,0,400721,798552
+"1082","Hillsborough County, New Hampshire","Windsor County, Vermont",1,0,400721,56670
+"1083","Hillsborough County, New Hampshire","Grafton County, New Hampshire",1,0,400721,89118
+"1084","Hillsborough County, New Hampshire","Washington County, Vermont",1,0,400721,59534
+"1085","Hillsborough County, New Hampshire","Orange County, Vermont",1,0,400721,28936
+"1086","Hillsborough County, New Hampshire","Orleans County, Vermont",1,0,400721,27231
+"1087","Hillsborough County, New Hampshire","Essex County, Vermont",1,0,400721,6306
+"1088","Hillsborough County, New Hampshire","Coos County, New Hampshire",1,0,400721,33055
+"1089","Hillsborough County, New Hampshire","Caledonia County, Vermont",1,0,400721,31227
+"1090","Hillsborough County, New Hampshire","Lamoille County, Vermont",1,0,400721,24475
+"1091","Hillsborough County, New Hampshire","Grand Isle County, Vermont",1,0,400721,6970
+"1092","Hillsborough County, New Hampshire","Chittenden County, Vermont",1,0,400721,156545
+"1093","Hillsborough County, New Hampshire","Franklin County, Vermont",1,0,400721,47746
+"1094","Hillsborough County, New Hampshire","Addison County, Vermont",1,0,400721,36821
+"1095","Hillsborough County, New Hampshire","Sullivan County, New Hampshire",1,0,400721,43742
+"1096","Hillsborough County, New Hampshire","Windham County, Vermont",1,0,400721,44513
+"1097","Hillsborough County, New Hampshire","Cheshire County, New Hampshire",1,0,400721,77117
+"1098","Hillsborough County, New Hampshire","Franklin County, Massachusetts",1,0,400721,71372
+"1099","Hillsborough County, New Hampshire","Rutland County, Vermont",1,0,400721,61642
+"1100","Hillsborough County, New Hampshire","Berkshire County, Massachusetts",1,0,400721,131219
+"1101","Hillsborough County, New Hampshire","Bennington County, Vermont",1,0,400721,37125
+"1102","Hillsborough County, New Hampshire","Rensselaer County, New York",1,0,400721,159429
+"1103","Hillsborough County, New Hampshire","Clinton County, New York",1,0,400721,82128
+"1104","Hillsborough County, New Hampshire","Washington County, New York",1,0,400721,63216
+"1105","Hillsborough County, New Hampshire","Albany County, New York",1,0,400721,304204
+"1106","Hillsborough County, New Hampshire","Hampden County, Massachusetts",1,0,400721,463490
+"1107","Hillsborough County, New Hampshire","Hampshire County, Massachusetts",1,0,400721,158080
+"1108","Hillsborough County, New Hampshire","Hartford County, Connecticut",1,0,400721,894014
+"1109","Hillsborough County, New Hampshire","Warren County, New York",1,0,400721,65707
+"1110","Hillsborough County, New Hampshire","Suffolk County, Massachusetts",1,0,400721,722023
+"1111","Hillsborough County, New Hampshire","Middlesex County, Massachusetts",1,0,400721,1503085
+"1112","Hillsborough County, New Hampshire","New York County, New York",1,0,400721,1585873
+"1113","Hillsborough County, New Hampshire","Saratoga County, New York",1,0,400721,219607
+"1114","Hillsborough County, New Hampshire","Essex County, New York",1,0,400721,39370
+"1115","Hillsborough County, New Hampshire","Fairfield County, Connecticut",1,0,400721,916829
+"1116","Hillsborough County, New Hampshire","Catawba County, North Carolina",1,0,400721,154358
+"1117","Middlesex County, Massachusetts","Worcester County, Massachusetts",1,0,1503085,798552
+"1118","Middlesex County, Massachusetts","Windsor County, Vermont",1,0,1503085,56670
+"1119","Middlesex County, Massachusetts","Grafton County, New Hampshire",1,0,1503085,89118
+"1120","Middlesex County, Massachusetts","Washington County, Vermont",1,0,1503085,59534
+"1121","Middlesex County, Massachusetts","Orange County, Vermont",1,0,1503085,28936
+"1122","Middlesex County, Massachusetts","Orleans County, Vermont",1,0,1503085,27231
+"1123","Middlesex County, Massachusetts","Essex County, Vermont",1,0,1503085,6306
+"1124","Middlesex County, Massachusetts","Coos County, New Hampshire",1,0,1503085,33055
+"1125","Middlesex County, Massachusetts","Caledonia County, Vermont",1,0,1503085,31227
+"1126","Middlesex County, Massachusetts","Lamoille County, Vermont",1,0,1503085,24475
+"1127","Middlesex County, Massachusetts","Grand Isle County, Vermont",1,0,1503085,6970
+"1128","Middlesex County, Massachusetts","Chittenden County, Vermont",1,0,1503085,156545
+"1129","Middlesex County, Massachusetts","Franklin County, Vermont",1,0,1503085,47746
+"1130","Middlesex County, Massachusetts","Addison County, Vermont",1,0,1503085,36821
+"1131","Middlesex County, Massachusetts","Sullivan County, New Hampshire",1,0,1503085,43742
+"1132","Middlesex County, Massachusetts","Windham County, Vermont",1,0,1503085,44513
+"1133","Middlesex County, Massachusetts","Cheshire County, New Hampshire",1,0,1503085,77117
+"1134","Middlesex County, Massachusetts","Franklin County, Massachusetts",1,0,1503085,71372
+"1135","Middlesex County, Massachusetts","Rutland County, Vermont",1,0,1503085,61642
+"1136","Middlesex County, Massachusetts","Berkshire County, Massachusetts",1,0,1503085,131219
+"1137","Middlesex County, Massachusetts","Bennington County, Vermont",1,0,1503085,37125
+"1138","Middlesex County, Massachusetts","Rensselaer County, New York",1,0,1503085,159429
+"1139","Middlesex County, Massachusetts","Clinton County, New York",1,0,1503085,82128
+"1140","Middlesex County, Massachusetts","Washington County, New York",1,0,1503085,63216
+"1141","Middlesex County, Massachusetts","Albany County, New York",1,0,1503085,304204
+"1142","Middlesex County, Massachusetts","Hampden County, Massachusetts",1,0,1503085,463490
+"1143","Middlesex County, Massachusetts","Hampshire County, Massachusetts",1,0,1503085,158080
+"1144","Middlesex County, Massachusetts","Hartford County, Connecticut",1,0,1503085,894014
+"1145","Middlesex County, Massachusetts","Warren County, New York",1,0,1503085,65707
+"1146","Middlesex County, Massachusetts","Suffolk County, Massachusetts",1,0,1503085,722023
+"1147","Middlesex County, Massachusetts","Hillsborough County, New Hampshire",1,0,1503085,400721
+"1148","Middlesex County, Massachusetts","New York County, New York",1,0,1503085,1585873
+"1149","Middlesex County, Massachusetts","Saratoga County, New York",1,0,1503085,219607
+"1150","Middlesex County, Massachusetts","Essex County, New York",1,0,1503085,39370
+"1151","Middlesex County, Massachusetts","Fairfield County, Connecticut",1,0,1503085,916829
+"1152","Middlesex County, Massachusetts","Catawba County, North Carolina",1,0,1503085,154358
+"1153","New York County, New York","Worcester County, Massachusetts",1,0,1585873,798552
+"1154","New York County, New York","Windsor County, Vermont",1,0,1585873,56670
+"1155","New York County, New York","Grafton County, New Hampshire",1,0,1585873,89118
+"1156","New York County, New York","Washington County, Vermont",1,0,1585873,59534
+"1157","New York County, New York","Orange County, Vermont",1,0,1585873,28936
+"1158","New York County, New York","Orleans County, Vermont",1,0,1585873,27231
+"1159","New York County, New York","Essex County, Vermont",1,0,1585873,6306
+"1160","New York County, New York","Coos County, New Hampshire",1,0,1585873,33055
+"1161","New York County, New York","Caledonia County, Vermont",1,0,1585873,31227
+"1162","New York County, New York","Lamoille County, Vermont",1,0,1585873,24475
+"1163","New York County, New York","Grand Isle County, Vermont",1,0,1585873,6970
+"1164","New York County, New York","Chittenden County, Vermont",1,0,1585873,156545
+"1165","New York County, New York","Franklin County, Vermont",1,0,1585873,47746
+"1166","New York County, New York","Addison County, Vermont",1,0,1585873,36821
+"1167","New York County, New York","Sullivan County, New Hampshire",1,0,1585873,43742
+"1168","New York County, New York","Windham County, Vermont",1,0,1585873,44513
+"1169","New York County, New York","Cheshire County, New Hampshire",1,0,1585873,77117
+"1170","New York County, New York","Franklin County, Massachusetts",1,0,1585873,71372
+"1171","New York County, New York","Rutland County, Vermont",1,0,1585873,61642
+"1172","New York County, New York","Berkshire County, Massachusetts",1,0,1585873,131219
+"1173","New York County, New York","Bennington County, Vermont",1,0,1585873,37125
+"1174","New York County, New York","Rensselaer County, New York",1,0,1585873,159429
+"1175","New York County, New York","Clinton County, New York",1,0,1585873,82128
+"1176","New York County, New York","Washington County, New York",1,0,1585873,63216
+"1177","New York County, New York","Albany County, New York",1,0,1585873,304204
+"1178","New York County, New York","Hampden County, Massachusetts",1,0,1585873,463490
+"1179","New York County, New York","Hampshire County, Massachusetts",1,0,1585873,158080
+"1180","New York County, New York","Hartford County, Connecticut",1,0,1585873,894014
+"1181","New York County, New York","Warren County, New York",1,0,1585873,65707
+"1182","New York County, New York","Suffolk County, Massachusetts",1,0,1585873,722023
+"1183","New York County, New York","Hillsborough County, New Hampshire",1,0,1585873,400721
+"1184","New York County, New York","Middlesex County, Massachusetts",1,0,1585873,1503085
+"1185","New York County, New York","Saratoga County, New York",1,0,1585873,219607
+"1186","New York County, New York","Essex County, New York",1,0,1585873,39370
+"1187","New York County, New York","Fairfield County, Connecticut",1,0,1585873,916829
+"1188","New York County, New York","Catawba County, North Carolina",1,0,1585873,154358
+"1189","Saratoga County, New York","Worcester County, Massachusetts",1,0,219607,798552
+"1190","Saratoga County, New York","Windsor County, Vermont",1,0,219607,56670
+"1191","Saratoga County, New York","Grafton County, New Hampshire",1,0,219607,89118
+"1192","Saratoga County, New York","Washington County, Vermont",1,0,219607,59534
+"1193","Saratoga County, New York","Orange County, Vermont",1,0,219607,28936
+"1194","Saratoga County, New York","Orleans County, Vermont",1,0,219607,27231
+"1195","Saratoga County, New York","Essex County, Vermont",1,0,219607,6306
+"1196","Saratoga County, New York","Coos County, New Hampshire",1,0,219607,33055
+"1197","Saratoga County, New York","Caledonia County, Vermont",1,0,219607,31227
+"1198","Saratoga County, New York","Lamoille County, Vermont",1,0,219607,24475
+"1199","Saratoga County, New York","Grand Isle County, Vermont",1,0,219607,6970
+"1200","Saratoga County, New York","Chittenden County, Vermont",1,0,219607,156545
+"1201","Saratoga County, New York","Franklin County, Vermont",1,0,219607,47746
+"1202","Saratoga County, New York","Addison County, Vermont",1,0,219607,36821
+"1203","Saratoga County, New York","Sullivan County, New Hampshire",1,0,219607,43742
+"1204","Saratoga County, New York","Windham County, Vermont",1,0,219607,44513
+"1205","Saratoga County, New York","Cheshire County, New Hampshire",1,0,219607,77117
+"1206","Saratoga County, New York","Franklin County, Massachusetts",1,0,219607,71372
+"1207","Saratoga County, New York","Rutland County, Vermont",1,0,219607,61642
+"1208","Saratoga County, New York","Berkshire County, Massachusetts",1,0,219607,131219
+"1209","Saratoga County, New York","Bennington County, Vermont",1,0,219607,37125
+"1210","Saratoga County, New York","Rensselaer County, New York",1,0,219607,159429
+"1211","Saratoga County, New York","Clinton County, New York",1,0,219607,82128
+"1212","Saratoga County, New York","Washington County, New York",1,0,219607,63216
+"1213","Saratoga County, New York","Albany County, New York",1,0,219607,304204
+"1214","Saratoga County, New York","Hampden County, Massachusetts",1,0,219607,463490
+"1215","Saratoga County, New York","Hampshire County, Massachusetts",1,0,219607,158080
+"1216","Saratoga County, New York","Hartford County, Connecticut",1,0,219607,894014
+"1217","Saratoga County, New York","Warren County, New York",1,0,219607,65707
+"1218","Saratoga County, New York","Suffolk County, Massachusetts",1,0,219607,722023
+"1219","Saratoga County, New York","Hillsborough County, New Hampshire",1,0,219607,400721
+"1220","Saratoga County, New York","Middlesex County, Massachusetts",1,0,219607,1503085
+"1221","Saratoga County, New York","New York County, New York",1,0,219607,1585873
+"1222","Saratoga County, New York","Essex County, New York",1,0,219607,39370
+"1223","Saratoga County, New York","Fairfield County, Connecticut",1,0,219607,916829
+"1224","Saratoga County, New York","Catawba County, North Carolina",1,0,219607,154358
+"1225","Essex County, New York","Worcester County, Massachusetts",1,0,39370,798552
+"1226","Essex County, New York","Windsor County, Vermont",1,0,39370,56670
+"1227","Essex County, New York","Grafton County, New Hampshire",1,0,39370,89118
+"1228","Essex County, New York","Washington County, Vermont",1,0,39370,59534
+"1229","Essex County, New York","Orange County, Vermont",1,0,39370,28936
+"1230","Essex County, New York","Orleans County, Vermont",1,0,39370,27231
+"1231","Essex County, New York","Essex County, Vermont",1,0,39370,6306
+"1232","Essex County, New York","Coos County, New Hampshire",1,0,39370,33055
+"1233","Essex County, New York","Caledonia County, Vermont",1,0,39370,31227
+"1234","Essex County, New York","Lamoille County, Vermont",1,0,39370,24475
+"1235","Essex County, New York","Grand Isle County, Vermont",1,0,39370,6970
+"1236","Essex County, New York","Chittenden County, Vermont",1,0,39370,156545
+"1237","Essex County, New York","Franklin County, Vermont",1,0,39370,47746
+"1238","Essex County, New York","Addison County, Vermont",1,0,39370,36821
+"1239","Essex County, New York","Sullivan County, New Hampshire",1,0,39370,43742
+"1240","Essex County, New York","Windham County, Vermont",1,0,39370,44513
+"1241","Essex County, New York","Cheshire County, New Hampshire",1,0,39370,77117
+"1242","Essex County, New York","Franklin County, Massachusetts",1,0,39370,71372
+"1243","Essex County, New York","Rutland County, Vermont",1,0,39370,61642
+"1244","Essex County, New York","Berkshire County, Massachusetts",1,0,39370,131219
+"1245","Essex County, New York","Bennington County, Vermont",1,0,39370,37125
+"1246","Essex County, New York","Rensselaer County, New York",1,0,39370,159429
+"1247","Essex County, New York","Clinton County, New York",1,0,39370,82128
+"1248","Essex County, New York","Washington County, New York",1,0,39370,63216
+"1249","Essex County, New York","Albany County, New York",1,0,39370,304204
+"1250","Essex County, New York","Hampden County, Massachusetts",1,0,39370,463490
+"1251","Essex County, New York","Hampshire County, Massachusetts",1,0,39370,158080
+"1252","Essex County, New York","Hartford County, Connecticut",1,0,39370,894014
+"1253","Essex County, New York","Warren County, New York",1,0,39370,65707
+"1254","Essex County, New York","Suffolk County, Massachusetts",1,0,39370,722023
+"1255","Essex County, New York","Hillsborough County, New Hampshire",1,0,39370,400721
+"1256","Essex County, New York","Middlesex County, Massachusetts",1,0,39370,1503085
+"1257","Essex County, New York","New York County, New York",1,0,39370,1585873
+"1258","Essex County, New York","Saratoga County, New York",1,0,39370,219607
+"1259","Essex County, New York","Fairfield County, Connecticut",1,0,39370,916829
+"1260","Essex County, New York","Catawba County, North Carolina",1,0,39370,154358
+"1261","Fairfield County, Connecticut","Worcester County, Massachusetts",1,0,916829,798552
+"1262","Fairfield County, Connecticut","Windsor County, Vermont",1,0,916829,56670
+"1263","Fairfield County, Connecticut","Grafton County, New Hampshire",1,0,916829,89118
+"1264","Fairfield County, Connecticut","Washington County, Vermont",1,0,916829,59534
+"1265","Fairfield County, Connecticut","Orange County, Vermont",1,0,916829,28936
+"1266","Fairfield County, Connecticut","Orleans County, Vermont",1,0,916829,27231
+"1267","Fairfield County, Connecticut","Essex County, Vermont",1,0,916829,6306
+"1268","Fairfield County, Connecticut","Coos County, New Hampshire",1,0,916829,33055
+"1269","Fairfield County, Connecticut","Caledonia County, Vermont",1,0,916829,31227
+"1270","Fairfield County, Connecticut","Lamoille County, Vermont",1,0,916829,24475
+"1271","Fairfield County, Connecticut","Grand Isle County, Vermont",1,0,916829,6970
+"1272","Fairfield County, Connecticut","Chittenden County, Vermont",1,0,916829,156545
+"1273","Fairfield County, Connecticut","Franklin County, Vermont",1,0,916829,47746
+"1274","Fairfield County, Connecticut","Addison County, Vermont",1,0,916829,36821
+"1275","Fairfield County, Connecticut","Sullivan County, New Hampshire",1,0,916829,43742
+"1276","Fairfield County, Connecticut","Windham County, Vermont",1,0,916829,44513
+"1277","Fairfield County, Connecticut","Cheshire County, New Hampshire",1,0,916829,77117
+"1278","Fairfield County, Connecticut","Franklin County, Massachusetts",1,0,916829,71372
+"1279","Fairfield County, Connecticut","Rutland County, Vermont",1,0,916829,61642
+"1280","Fairfield County, Connecticut","Berkshire County, Massachusetts",1,0,916829,131219
+"1281","Fairfield County, Connecticut","Bennington County, Vermont",1,0,916829,37125
+"1282","Fairfield County, Connecticut","Rensselaer County, New York",1,0,916829,159429
+"1283","Fairfield County, Connecticut","Clinton County, New York",1,0,916829,82128
+"1284","Fairfield County, Connecticut","Washington County, New York",1,0,916829,63216
+"1285","Fairfield County, Connecticut","Albany County, New York",1,0,916829,304204
+"1286","Fairfield County, Connecticut","Hampden County, Massachusetts",1,0,916829,463490
+"1287","Fairfield County, Connecticut","Hampshire County, Massachusetts",1,0,916829,158080
+"1288","Fairfield County, Connecticut","Hartford County, Connecticut",1,0,916829,894014
+"1289","Fairfield County, Connecticut","Warren County, New York",1,0,916829,65707
+"1290","Fairfield County, Connecticut","Suffolk County, Massachusetts",1,0,916829,722023
+"1291","Fairfield County, Connecticut","Hillsborough County, New Hampshire",1,0,916829,400721
+"1292","Fairfield County, Connecticut","Middlesex County, Massachusetts",1,0,916829,1503085
+"1293","Fairfield County, Connecticut","New York County, New York",1,0,916829,1585873
+"1294","Fairfield County, Connecticut","Saratoga County, New York",1,0,916829,219607
+"1295","Fairfield County, Connecticut","Essex County, New York",1,0,916829,39370
+"1296","Fairfield County, Connecticut","Catawba County, North Carolina",1,0,916829,154358
+"1297","Catawba County, North Carolina","Worcester County, Massachusetts",1,0,154358,798552
+"1298","Catawba County, North Carolina","Windsor County, Vermont",1,0,154358,56670
+"1299","Catawba County, North Carolina","Grafton County, New Hampshire",1,0,154358,89118
+"1300","Catawba County, North Carolina","Washington County, Vermont",1,0,154358,59534
+"1301","Catawba County, North Carolina","Orange County, Vermont",1,0,154358,28936
+"1302","Catawba County, North Carolina","Orleans County, Vermont",1,0,154358,27231
+"1303","Catawba County, North Carolina","Essex County, Vermont",1,0,154358,6306
+"1304","Catawba County, North Carolina","Coos County, New Hampshire",1,0,154358,33055
+"1305","Catawba County, North Carolina","Caledonia County, Vermont",1,0,154358,31227
+"1306","Catawba County, North Carolina","Lamoille County, Vermont",1,0,154358,24475
+"1307","Catawba County, North Carolina","Grand Isle County, Vermont",1,0,154358,6970
+"1308","Catawba County, North Carolina","Chittenden County, Vermont",1,0,154358,156545
+"1309","Catawba County, North Carolina","Franklin County, Vermont",1,0,154358,47746
+"1310","Catawba County, North Carolina","Addison County, Vermont",1,0,154358,36821
+"1311","Catawba County, North Carolina","Sullivan County, New Hampshire",1,0,154358,43742
+"1312","Catawba County, North Carolina","Windham County, Vermont",1,0,154358,44513
+"1313","Catawba County, North Carolina","Cheshire County, New Hampshire",1,0,154358,77117
+"1314","Catawba County, North Carolina","Franklin County, Massachusetts",1,0,154358,71372
+"1315","Catawba County, North Carolina","Rutland County, Vermont",1,0,154358,61642
+"1316","Catawba County, North Carolina","Berkshire County, Massachusetts",1,0,154358,131219
+"1317","Catawba County, North Carolina","Bennington County, Vermont",1,0,154358,37125
+"1318","Catawba County, North Carolina","Rensselaer County, New York",1,0,154358,159429
+"1319","Catawba County, North Carolina","Clinton County, New York",1,0,154358,82128
+"1320","Catawba County, North Carolina","Washington County, New York",1,0,154358,63216
+"1321","Catawba County, North Carolina","Albany County, New York",1,0,154358,304204
+"1322","Catawba County, North Carolina","Hampden County, Massachusetts",1,0,154358,463490
+"1323","Catawba County, North Carolina","Hampshire County, Massachusetts",1,0,154358,158080
+"1324","Catawba County, North Carolina","Hartford County, Connecticut",1,0,154358,894014
+"1325","Catawba County, North Carolina","Warren County, New York",1,0,154358,65707
+"1326","Catawba County, North Carolina","Suffolk County, Massachusetts",1,0,154358,722023
+"1327","Catawba County, North Carolina","Hillsborough County, New Hampshire",1,0,154358,400721
+"1328","Catawba County, North Carolina","Middlesex County, Massachusetts",1,0,154358,1503085
+"1329","Catawba County, North Carolina","New York County, New York",1,0,154358,1585873
+"1330","Catawba County, North Carolina","Saratoga County, New York",1,0,154358,219607
+"1331","Catawba County, North Carolina","Essex County, New York",1,0,154358,39370
+"1332","Catawba County, North Carolina","Fairfield County, Connecticut",1,0,154358,916829
