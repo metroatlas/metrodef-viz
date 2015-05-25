@@ -1,1191 +1,169 @@
 "","source","target","cluster","pct","srcpop","tarpop"
-"106","Tolland County, Connecticut","Hartford County, Connecticut",1,0.226994387357474,152691,894014
-"175","Middlesex County, Connecticut","Hartford County, Connecticut",1,0.114090151862672,165676,894014
-"176","Middlesex County, Connecticut","New Haven County, Connecticut",1,0.0797460102851349,165676,862477
-"279","Litchfield County, Connecticut","New Haven County, Connecticut",1,0.0725752525970504,189927,862477
-"277","Litchfield County, Connecticut","Hartford County, Connecticut",1,0.0688738304717076,189927,894014
-"36","Windham County, Connecticut","New London County, Connecticut",1,0.0680328976255615,118428,274055
-"211","New Haven County, Connecticut","Fairfield County, Connecticut",1,0.0657339268177586,862477,916829
-"280","Litchfield County, Connecticut","Fairfield County, Connecticut",1,0.0614130692318628,189927,916829
-"37","Windham County, Connecticut","Tolland County, Connecticut",1,0.0360049988178471,118428,152691
-"35","Windham County, Connecticut","Worcester County, Massachusetts",1,0.0328807376633904,118428,798552
-"209","New Haven County, Connecticut","Hartford County, Connecticut",1,0.0287045335701706,862477,894014
-"247","Fairfield County, Connecticut","New York County, New York",1,0.028476411631831,916829,1585873
-"38","Windham County, Connecticut","Hartford County, Connecticut",1,0.0273415070760293,118428,894014
-"72","New London County, Connecticut","Hartford County, Connecticut",1,0.0257503055955921,274055,894014
-"245","Fairfield County, Connecticut","New Haven County, Connecticut",1,0.0243415075221224,916829,862477
-"248","Fairfield County, Connecticut","Westchester County, New York",1,0.0221437149130318,916829,949113
-"142","Hartford County, Connecticut","New Haven County, Connecticut",1,0.0205757404246466,894014,862477
-"173","Middlesex County, Connecticut","New London County, Connecticut",1,0.0201417223979333,165676,274055
-"104","Tolland County, Connecticut","Windham County, Connecticut",1,0.019169433692883,152691,118428
-"73","New London County, Connecticut","Middlesex County, Connecticut",1,0.013778256189451,274055,165676
-"141","Hartford County, Connecticut","Middlesex County, Connecticut",1,0.0127671378747984,894014,165676
-"113","Tolland County, Connecticut","Hampden County, Massachusetts",1,0.0118802025004748,152691,463490
-"105","Tolland County, Connecticut","New London County, Connecticut",1,0.0109371213758506,152691,274055
-"70","New London County, Connecticut","Windham County, Connecticut",1,0.00991406834394556,274055,118428
-"210","New Haven County, Connecticut","Middlesex County, Connecticut",1,0.00952721058068795,862477,165676
-"140","Hartford County, Connecticut","Tolland County, Connecticut",1,0.00891149355602932,894014,152691
-"46","Windham County, Connecticut","Providence County, Rhode Island",1,0.00873948728341271,118428,626667
-"212","New Haven County, Connecticut","Litchfield County, Connecticut",1,0.008593852357802,862477,189927
-"108","Tolland County, Connecticut","New Haven County, Connecticut",1,0.00804893543168884,152691,862477
-"107","Tolland County, Connecticut","Middlesex County, Connecticut",1,0.00700761668991624,152691,165676
-"81","New London County, Connecticut","Washington County, Rhode Island",1,0.0068234478480597,274055,126979
-"177","Middlesex County, Connecticut","Fairfield County, Connecticut",1,0.00652478331200657,165676,916829
-"74","New London County, Connecticut","New Haven County, Connecticut",1,0.00625421904362263,274055,862477
-"147","Hartford County, Connecticut","Hampden County, Massachusetts",1,0.00625381705431906,894014,463490
-"281","Litchfield County, Connecticut","New York County, New York",1,0.00534415854512523,189927,1585873
-"48","Windham County, Connecticut","Middlesex County, Massachusetts",1,0.0043739656162394,118428,1503085
-"144","Hartford County, Connecticut","Litchfield County, Connecticut",1,0.00371246982709443,894014,189927
-"49","Windham County, Connecticut","Kent County, Rhode Island",1,0.00369000574188537,118428,166158
-"71","New London County, Connecticut","Tolland County, Connecticut",1,0.00313075842440386,274055,152691
-"143","Hartford County, Connecticut","Fairfield County, Connecticut",1,0.00300666432516717,894014,916829
-"213","New Haven County, Connecticut","New York County, New York",1,0.002921817045556,862477,1585873
-"246","Fairfield County, Connecticut","Litchfield County, Connecticut",1,0.00285331288604527,916829,189927
-"282","Litchfield County, Connecticut","Westchester County, New York",1,0.00278528066046428,189927,949113
-"243","Fairfield County, Connecticut","Hartford County, Connecticut",1,0.00253918669675588,916829,894014
-"103","Tolland County, Connecticut","Worcester County, Massachusetts",1,0.00230530941574815,152691,798552
-"39","Windham County, Connecticut","Middlesex County, Connecticut",1,0.00227986624784679,118428,165676
-"139","Hartford County, Connecticut","New London County, Connecticut",1,0.00225611679459158,894014,274055
-"174","Middlesex County, Connecticut","Tolland County, Connecticut",1,0.00212462879354885,165676,152691
-"289","Litchfield County, Connecticut","Dutchess County, New York",1,0.00194811690807521,189927,297488
-"47","Windham County, Connecticut","Washington County, Rhode Island",1,0.00189144459080623,118428,126979
-"109","Tolland County, Connecticut","Fairfield County, Connecticut",1,0.00185996555134225,152691,916829
-"254","Fairfield County, Connecticut","Putnam County, New York",1,0.0018269491911796,916829,99710
-"40","Windham County, Connecticut","New Haven County, Connecticut",1,0.00175634140574864,118428,862477
-"278","Litchfield County, Connecticut","Middlesex County, Connecticut",1,0.00172171413227187,189927,165676
-"87","New London County, Connecticut","Newport County, Rhode Island",1,0.00168944190034847,274055,82888
-"207","New Haven County, Connecticut","New London County, Connecticut",1,0.00168120425240325,862477,274055
-"256","Fairfield County, Connecticut","Bronx County, New York",1,0.00167533967621007,916829,1385108
-"294","Litchfield County, Connecticut","Berkshire County, Massachusetts",1,0.00143739436730955,189927,131219
-"80","New London County, Connecticut","Providence County, Rhode Island",1,0.00141577420590757,274055,626667
-"214","New Haven County, Connecticut","Westchester County, New York",1,0.00138206584059633,862477,949113
-"75","New London County, Connecticut","Fairfield County, Connecticut",1,0.00130995603072376,274055,916829
-"179","Middlesex County, Connecticut","New York County, New York",1,0.00115285255559043,165676,1585873
-"259","Fairfield County, Connecticut","Queens County, New York",1,0.000970737182179011,916829,2230722
-"288","Litchfield County, Connecticut","Putnam County, New York",1,0.000874020018217526,189927,99710
-"172","Middlesex County, Connecticut","Windham County, Connecticut",1,0.000736377025036819,165676,118428
-"116","Tolland County, Connecticut","Middlesex County, Massachusetts",1,0.000720409192421295,152691,1503085
-"83","New London County, Connecticut","Kent County, Rhode Island",1,0.000664100271843243,274055,166158
-"77","New London County, Connecticut","New York County, New York",1,0.000656802466658153,274055,1585873
-"262","Fairfield County, Connecticut","Kings County, New York",1,0.000632615242318906,916829,2504700
-"91","New London County, Connecticut","Suffolk County, New York",1,0.00062761124591779,274055,1493350
-"41","Windham County, Connecticut","Fairfield County, Connecticut",1,0.000607964332759145,118428,916829
-"54","Windham County, Connecticut","Suffolk County, Massachusetts",1,0.000607964332759145,118428,722023
-"145","Hartford County, Connecticut","New York County, New York",1,0.000598424633171293,894014,1585873
-"138","Hartford County, Connecticut","Windham County, Connecticut",1,0.000592831879590252,894014,118428
-"61","Windham County, Connecticut","Bristol County, Massachusetts",1,0.000565744587428649,118428,548285
-"263","Fairfield County, Connecticut","Nassau County, New York",1,0.000559537274671722,916829,1339532
-"266","Fairfield County, Connecticut","Bergen County, New Jersey",1,0.000545357967516298,916829,905116
-"45","Windham County, Connecticut","Hampden County, Massachusetts",1,0.000540412740230351,118428,463490
-"255","Fairfield County, Connecticut","Dutchess County, New York",1,0.000520271501010548,916829,297488
-"193","Middlesex County, Connecticut","Suffolk County, New York",1,0.000470798425843212,165676,1493350
-"208","New Haven County, Connecticut","Tolland County, Connecticut",1,0.000410445727828104,862477,152691
-"69","New London County, Connecticut","Worcester County, Massachusetts",1,0.000401379285179982,274055,798552
-"162","Hartford County, Connecticut","Hampshire County, Massachusetts",1,0.000389255649240392,894014,158080
-"88","New London County, Connecticut","Suffolk County, Massachusetts",1,0.000346645746291803,274055,722023
-"63","Windham County, Connecticut","Norfolk County, Massachusetts",1,0.000312426115445672,118428,670850
-"182","Middlesex County, Connecticut","Providence County, Rhode Island",1,0.000307829739974408,165676,626667
-"244","Fairfield County, Connecticut","Middlesex County, Connecticut",1,0.000304309745874094,916829,165676
-"268","Fairfield County, Connecticut","Hudson County, New Jersey",1,0.000284676859043508,916829,634266
-"122","Tolland County, Connecticut","Suffolk County, Massachusetts",1,0.000281614502491961,152691,722023
-"178","Middlesex County, Connecticut","Litchfield County, Connecticut",1,0.000271614476448007,165676,189927
-"137","Hartford County, Connecticut","Worcester County, Massachusetts",1,0.000270689273322342,894014,798552
-"225","New Haven County, Connecticut","Queens County, New York",1,0.00026899268038452,862477,2230722
-"228","New Haven County, Connecticut","Kings County, New York",1,0.000264354875550305,862477,2504700
-"242","Fairfield County, Connecticut","Tolland County, Connecticut",1,0.000263953256277888,916829,152691
-"293","Litchfield County, Connecticut","Queens County, New York",1,0.000257993860799149,189927,2230722
-"150","Hartford County, Connecticut","Middlesex County, Massachusetts",1,0.000248318258998181,894014,1503085
-"79","New London County, Connecticut","Hampden County, Massachusetts",1,0.00024812537629308,274055,463490
-"269","Fairfield County, Connecticut","Rockland County, New York",1,0.000238866789772139,916829,311687
-"128","Tolland County, Connecticut","Hampshire County, Massachusetts",1,0.000216122757726389,152691,158080
-"241","Fairfield County, Connecticut","New London County, Connecticut",1,0.000208326743591226,916829,274055
-"222","New Haven County, Connecticut","Bronx County, New York",1,0.00020754176633116,862477,1385108
-"156","Hartford County, Connecticut","Suffolk County, Massachusetts",1,0.000206931882498484,894014,722023
-"275","Litchfield County, Connecticut","New London County, Connecticut",1,0.000179016148309614,189927,274055
-"43","Windham County, Connecticut","New York County, New York",1,0.000168878981321985,118428,1585873
-"286","Litchfield County, Connecticut","Middlesex County, Massachusetts",1,0.000152690244146435,189927,1503085
-"215","New Haven County, Connecticut","Hampden County, Massachusetts",1,0.00015188810832057,862477,463490
-"271","Fairfield County, Connecticut","Orange County, New York",1,0.000145065219359335,916829,372813
-"181","Middlesex County, Connecticut","Hampden County, Massachusetts",1,0.000144861054105604,165676,463490
-"252","Fairfield County, Connecticut","Middlesex County, Massachusetts",1,0.000131976628138944,916829,1503085
-"270","Fairfield County, Connecticut","Morris County, New Jersey",1,0.000122160184723651,916829,492276
-"53","Windham County, Connecticut","Newport County, Rhode Island",1,0.000118215286925389,118428,82888
-"82","New London County, Connecticut","Middlesex County, Massachusetts",1,0.000116764882961449,274055,1503085
-"261","Fairfield County, Connecticut","Suffolk County, New York",1,0.000114525173178423,916829,1493350
-"123","Tolland County, Connecticut","Queens County, New York",1,0.000111335966101473,152691,2230722
-"224","New Haven County, Connecticut","Suffolk County, Massachusetts",1,0.000106669511186965,862477,722023
-"272","Fairfield County, Connecticut","Essex County, New Jersey",1,0.000102527297893064,916829,783969
-"206","New Haven County, Connecticut","Windham County, Connecticut",1,0.000102031706352749,862477,118428
-"218","New Haven County, Connecticut","Middlesex County, Massachusetts",1,9.85533527270872e-05,862477,1503085
-"111","Tolland County, Connecticut","New York County, New York",1,9.82376171483585e-05,152691,1585873
-"117","Tolland County, Connecticut","Kent County, Rhode Island",1,8.5139268195244e-05,152691,166158
-"258","Fairfield County, Connecticut","Suffolk County, Massachusetts",1,8.39851269975099e-05,916829,722023
-"146","Hartford County, Connecticut","Westchester County, New York",1,7.94171008507697e-05,894014,949113
-"76","New London County, Connecticut","Litchfield County, Connecticut",1,7.66269544434511e-05,274055,189927
-"229","New Haven County, Connecticut","Nassau County, New York",1,7.65237797645618e-05,862477,1339532
-"227","New Haven County, Connecticut","Suffolk County, New York",1,7.53643285560079e-05,862477,1493350
-"295","Litchfield County, Connecticut","Suffolk County, New York",1,6.84473508242641e-05,189927,1493350
-"180","Middlesex County, Connecticut","Westchester County, New York",1,6.63946497984017e-05,165676,949113
-"110","Tolland County, Connecticut","Litchfield County, Connecticut",1,6.54917447655723e-05,152691,189927
-"114","Tolland County, Connecticut","Providence County, Rhode Island",1,6.54917447655723e-05,152691,626667
-"283","Litchfield County, Connecticut","Hampden County, Massachusetts",1,6.31821699916284e-05,189927,463490
-"290","Litchfield County, Connecticut","Bronx County, New York",1,6.31821699916284e-05,189927,1385108
-"157","Hartford County, Connecticut","Queens County, New York",1,6.26388401076493e-05,894014,2230722
-"236","New Haven County, Connecticut","Morris County, New Jersey",1,6.26103652619142e-05,862477,492276
-"292","Litchfield County, Connecticut","Suffolk County, Massachusetts",1,5.79169891589926e-05,189927,722023
-"235","New Haven County, Connecticut","Rockland County, New York",1,4.75374995507127e-05,862477,311687
-"240","Fairfield County, Connecticut","Windham County, Connecticut",1,3.81750577261409e-05,916829,118428
-"165","Hartford County, Connecticut","Norfolk County, Massachusetts",1,3.80307243510728e-05,894014,670850
-"199","Middlesex County, Connecticut","Norfolk County, Massachusetts",1,3.62152635264009e-05,165676,670850
-"238","New Haven County, Connecticut","Essex County, New Jersey",1,3.4783536256619e-05,862477,783969
-"95","New London County, Connecticut","Bristol County, Massachusetts",1,2.91912207403623e-05,274055,548285
-"159","Hartford County, Connecticut","Suffolk County, New York",1,2.90823186214086e-05,894014,1493350
-"161","Hartford County, Connecticut","Nassau County, New York",1,2.79637679052006e-05,894014,1339532
-"216","New Haven County, Connecticut","Providence County, Rhode Island",1,2.78268290052952e-05,862477,626667
-"249","Fairfield County, Connecticut","Hampden County, Massachusetts",1,2.72678983758149e-05,916829,463490
-"285","Litchfield County, Connecticut","Washington County, Rhode Island",1,2.63259041631785e-05,189927,126979
-"188","Middlesex County, Connecticut","Bronx County, New York",1,2.41435090176006e-05,165676,1385108
-"148","Hartford County, Connecticut","Providence County, Rhode Island",1,2.12524636079524e-05,894014,626667
-"149","Hartford County, Connecticut","Washington County, Rhode Island",1,2.12524636079524e-05,894014,126979
-"124","Tolland County, Connecticut","Berkshire County, Massachusetts",1,1.96475234296717e-05,152691,131219
-"191","Middlesex County, Connecticut","Queens County, New York",1,1.81076317632005e-05,165676,2230722
-"196","Middlesex County, Connecticut","Hampshire County, Massachusetts",1,1.81076317632005e-05,165676,158080
-"233","New Haven County, Connecticut","Norfolk County, Massachusetts",1,1.73917681283095e-05,862477,670850
-"153","Hartford County, Connecticut","Dutchess County, New York",1,1.67782607431204e-05,894014,297488
-"305","Litchfield County, Connecticut","Orange County, New York",1,1.57955424979071e-05,189927,372813
-"163","Hartford County, Connecticut","Bristol County, Massachusetts",1,1.45411593107043e-05,894014,548285
-"232","New Haven County, Connecticut","Bergen County, New Jersey",1,1.39134145026476e-05,862477,905116
-"158","Hartford County, Connecticut","Berkshire County, Massachusetts",1,1.34226085944963e-05,894014,131219
-"97","New London County, Connecticut","Norfolk County, Massachusetts",1,1.09467077776359e-05,274055,670850
-"302","Litchfield County, Connecticut","Hudson County, New Jersey",1,1.05303616652714e-05,189927,634266
-"57","Windham County, Connecticut","Suffolk County, New York",1,8.44394906609922e-06,118428,1493350
-"220","New Haven County, Connecticut","Putnam County, New York",1,8.11615845987777e-06,862477,99710
-"239","Fairfield County, Connecticut","Worcester County, Massachusetts",1,6.54429561019557e-06,916829,798552
-"185","Middlesex County, Connecticut","Kent County, Rhode Island",1,6.03587725440016e-06,165676,166158
-"274","Litchfield County, Connecticut","Windham County, Connecticut",1,5.26518083263569e-06,189927,118428
-"296","Litchfield County, Connecticut","Kings County, New York",1,5.26518083263569e-06,189927,2504700
-"276","Litchfield County, Connecticut","Tolland County, Connecticut",1,5.26518083263566e-06,189927,152691
-"221","New Haven County, Connecticut","Dutchess County, New York",1,4.63780483421588e-06,862477,297488
-"169","Hartford County, Connecticut","Orange County, New York",1,4.4742028648321e-06,894014,372813
-"205","New Haven County, Connecticut","Worcester County, Massachusetts",1,3.4783536256619e-06,862477,798552
-"219","New Haven County, Connecticut","Kent County, Rhode Island",1,3.4783536256619e-06,862477,166158
-"234","New Haven County, Connecticut","Hudson County, New Jersey",1,2.31890241710794e-06,862477,634266
-"265","Fairfield County, Connecticut","Bristol County, Massachusetts",1,2.18143187006519e-06,916829,548285
-"1","Worcester County, Massachusetts","Windham County, Connecticut",1,0,798552,118428
-"2","Worcester County, Massachusetts","New London County, Connecticut",1,0,798552,274055
-"3","Worcester County, Massachusetts","Tolland County, Connecticut",1,0,798552,152691
-"4","Worcester County, Massachusetts","Hartford County, Connecticut",1,0,798552,894014
-"5","Worcester County, Massachusetts","Middlesex County, Connecticut",1,0,798552,165676
-"6","Worcester County, Massachusetts","New Haven County, Connecticut",1,0,798552,862477
-"7","Worcester County, Massachusetts","Fairfield County, Connecticut",1,0,798552,916829
-"8","Worcester County, Massachusetts","Litchfield County, Connecticut",1,0,798552,189927
-"9","Worcester County, Massachusetts","New York County, New York",1,0,798552,1585873
-"10","Worcester County, Massachusetts","Westchester County, New York",1,0,798552,949113
-"11","Worcester County, Massachusetts","Hampden County, Massachusetts",1,0,798552,463490
-"12","Worcester County, Massachusetts","Providence County, Rhode Island",1,0,798552,626667
-"13","Worcester County, Massachusetts","Washington County, Rhode Island",1,0,798552,126979
-"14","Worcester County, Massachusetts","Middlesex County, Massachusetts",1,0,798552,1503085
-"15","Worcester County, Massachusetts","Kent County, Rhode Island",1,0,798552,166158
-"16","Worcester County, Massachusetts","Putnam County, New York",1,0,798552,99710
-"17","Worcester County, Massachusetts","Dutchess County, New York",1,0,798552,297488
-"18","Worcester County, Massachusetts","Bronx County, New York",1,0,798552,1385108
-"19","Worcester County, Massachusetts","Newport County, Rhode Island",1,0,798552,82888
-"20","Worcester County, Massachusetts","Suffolk County, Massachusetts",1,0,798552,722023
-"21","Worcester County, Massachusetts","Queens County, New York",1,0,798552,2230722
-"22","Worcester County, Massachusetts","Berkshire County, Massachusetts",1,0,798552,131219
-"23","Worcester County, Massachusetts","Suffolk County, New York",1,0,798552,1493350
-"24","Worcester County, Massachusetts","Kings County, New York",1,0,798552,2504700
-"25","Worcester County, Massachusetts","Nassau County, New York",1,0,798552,1339532
-"26","Worcester County, Massachusetts","Hampshire County, Massachusetts",1,0,798552,158080
-"27","Worcester County, Massachusetts","Bristol County, Massachusetts",1,0,798552,548285
-"28","Worcester County, Massachusetts","Bergen County, New Jersey",1,0,798552,905116
-"29","Worcester County, Massachusetts","Norfolk County, Massachusetts",1,0,798552,670850
-"30","Worcester County, Massachusetts","Hudson County, New Jersey",1,0,798552,634266
-"31","Worcester County, Massachusetts","Rockland County, New York",1,0,798552,311687
-"32","Worcester County, Massachusetts","Morris County, New Jersey",1,0,798552,492276
-"33","Worcester County, Massachusetts","Orange County, New York",1,0,798552,372813
-"34","Worcester County, Massachusetts","Essex County, New Jersey",1,0,798552,783969
-"42","Windham County, Connecticut","Litchfield County, Connecticut",1,0,118428,189927
-"44","Windham County, Connecticut","Westchester County, New York",1,0,118428,949113
-"50","Windham County, Connecticut","Putnam County, New York",1,0,118428,99710
-"51","Windham County, Connecticut","Dutchess County, New York",1,0,118428,297488
-"52","Windham County, Connecticut","Bronx County, New York",1,0,118428,1385108
-"55","Windham County, Connecticut","Queens County, New York",1,0,118428,2230722
-"56","Windham County, Connecticut","Berkshire County, Massachusetts",1,0,118428,131219
-"58","Windham County, Connecticut","Kings County, New York",1,0,118428,2504700
-"59","Windham County, Connecticut","Nassau County, New York",1,0,118428,1339532
-"60","Windham County, Connecticut","Hampshire County, Massachusetts",1,0,118428,158080
-"62","Windham County, Connecticut","Bergen County, New Jersey",1,0,118428,905116
-"64","Windham County, Connecticut","Hudson County, New Jersey",1,0,118428,634266
-"65","Windham County, Connecticut","Rockland County, New York",1,0,118428,311687
-"66","Windham County, Connecticut","Morris County, New Jersey",1,0,118428,492276
-"67","Windham County, Connecticut","Orange County, New York",1,0,118428,372813
-"68","Windham County, Connecticut","Essex County, New Jersey",1,0,118428,783969
-"78","New London County, Connecticut","Westchester County, New York",1,0,274055,949113
-"84","New London County, Connecticut","Putnam County, New York",1,0,274055,99710
-"85","New London County, Connecticut","Dutchess County, New York",1,0,274055,297488
-"86","New London County, Connecticut","Bronx County, New York",1,0,274055,1385108
-"89","New London County, Connecticut","Queens County, New York",1,0,274055,2230722
-"90","New London County, Connecticut","Berkshire County, Massachusetts",1,0,274055,131219
-"92","New London County, Connecticut","Kings County, New York",1,0,274055,2504700
-"93","New London County, Connecticut","Nassau County, New York",1,0,274055,1339532
-"94","New London County, Connecticut","Hampshire County, Massachusetts",1,0,274055,158080
-"96","New London County, Connecticut","Bergen County, New Jersey",1,0,274055,905116
-"98","New London County, Connecticut","Hudson County, New Jersey",1,0,274055,634266
-"99","New London County, Connecticut","Rockland County, New York",1,0,274055,311687
-"100","New London County, Connecticut","Morris County, New Jersey",1,0,274055,492276
-"101","New London County, Connecticut","Orange County, New York",1,0,274055,372813
-"102","New London County, Connecticut","Essex County, New Jersey",1,0,274055,783969
-"112","Tolland County, Connecticut","Westchester County, New York",1,0,152691,949113
-"115","Tolland County, Connecticut","Washington County, Rhode Island",1,0,152691,126979
-"118","Tolland County, Connecticut","Putnam County, New York",1,0,152691,99710
-"119","Tolland County, Connecticut","Dutchess County, New York",1,0,152691,297488
-"120","Tolland County, Connecticut","Bronx County, New York",1,0,152691,1385108
-"121","Tolland County, Connecticut","Newport County, Rhode Island",1,0,152691,82888
-"125","Tolland County, Connecticut","Suffolk County, New York",1,0,152691,1493350
-"126","Tolland County, Connecticut","Kings County, New York",1,0,152691,2504700
-"127","Tolland County, Connecticut","Nassau County, New York",1,0,152691,1339532
-"129","Tolland County, Connecticut","Bristol County, Massachusetts",1,0,152691,548285
-"130","Tolland County, Connecticut","Bergen County, New Jersey",1,0,152691,905116
-"131","Tolland County, Connecticut","Norfolk County, Massachusetts",1,0,152691,670850
-"132","Tolland County, Connecticut","Hudson County, New Jersey",1,0,152691,634266
-"133","Tolland County, Connecticut","Rockland County, New York",1,0,152691,311687
-"134","Tolland County, Connecticut","Morris County, New Jersey",1,0,152691,492276
-"135","Tolland County, Connecticut","Orange County, New York",1,0,152691,372813
-"136","Tolland County, Connecticut","Essex County, New Jersey",1,0,152691,783969
-"151","Hartford County, Connecticut","Kent County, Rhode Island",1,0,894014,166158
-"152","Hartford County, Connecticut","Putnam County, New York",1,0,894014,99710
-"154","Hartford County, Connecticut","Bronx County, New York",1,0,894014,1385108
-"155","Hartford County, Connecticut","Newport County, Rhode Island",1,0,894014,82888
-"160","Hartford County, Connecticut","Kings County, New York",1,0,894014,2504700
-"164","Hartford County, Connecticut","Bergen County, New Jersey",1,0,894014,905116
-"166","Hartford County, Connecticut","Hudson County, New Jersey",1,0,894014,634266
-"167","Hartford County, Connecticut","Rockland County, New York",1,0,894014,311687
-"168","Hartford County, Connecticut","Morris County, New Jersey",1,0,894014,492276
-"170","Hartford County, Connecticut","Essex County, New Jersey",1,0,894014,783969
-"171","Middlesex County, Connecticut","Worcester County, Massachusetts",1,0,165676,798552
-"183","Middlesex County, Connecticut","Washington County, Rhode Island",1,0,165676,126979
-"184","Middlesex County, Connecticut","Middlesex County, Massachusetts",1,0,165676,1503085
-"186","Middlesex County, Connecticut","Putnam County, New York",1,0,165676,99710
-"187","Middlesex County, Connecticut","Dutchess County, New York",1,0,165676,297488
-"189","Middlesex County, Connecticut","Newport County, Rhode Island",1,0,165676,82888
-"190","Middlesex County, Connecticut","Suffolk County, Massachusetts",1,0,165676,722023
-"192","Middlesex County, Connecticut","Berkshire County, Massachusetts",1,0,165676,131219
-"194","Middlesex County, Connecticut","Kings County, New York",1,0,165676,2504700
-"195","Middlesex County, Connecticut","Nassau County, New York",1,0,165676,1339532
-"197","Middlesex County, Connecticut","Bristol County, Massachusetts",1,0,165676,548285
-"198","Middlesex County, Connecticut","Bergen County, New Jersey",1,0,165676,905116
-"200","Middlesex County, Connecticut","Hudson County, New Jersey",1,0,165676,634266
-"201","Middlesex County, Connecticut","Rockland County, New York",1,0,165676,311687
-"202","Middlesex County, Connecticut","Morris County, New Jersey",1,0,165676,492276
-"203","Middlesex County, Connecticut","Orange County, New York",1,0,165676,372813
-"204","Middlesex County, Connecticut","Essex County, New Jersey",1,0,165676,783969
-"217","New Haven County, Connecticut","Washington County, Rhode Island",1,0,862477,126979
-"223","New Haven County, Connecticut","Newport County, Rhode Island",1,0,862477,82888
-"226","New Haven County, Connecticut","Berkshire County, Massachusetts",1,0,862477,131219
-"230","New Haven County, Connecticut","Hampshire County, Massachusetts",1,0,862477,158080
-"231","New Haven County, Connecticut","Bristol County, Massachusetts",1,0,862477,548285
-"237","New Haven County, Connecticut","Orange County, New York",1,0,862477,372813
-"250","Fairfield County, Connecticut","Providence County, Rhode Island",1,0,916829,626667
-"251","Fairfield County, Connecticut","Washington County, Rhode Island",1,0,916829,126979
-"253","Fairfield County, Connecticut","Kent County, Rhode Island",1,0,916829,166158
-"257","Fairfield County, Connecticut","Newport County, Rhode Island",1,0,916829,82888
-"260","Fairfield County, Connecticut","Berkshire County, Massachusetts",1,0,916829,131219
-"264","Fairfield County, Connecticut","Hampshire County, Massachusetts",1,0,916829,158080
-"267","Fairfield County, Connecticut","Norfolk County, Massachusetts",1,0,916829,670850
-"273","Litchfield County, Connecticut","Worcester County, Massachusetts",1,0,189927,798552
-"284","Litchfield County, Connecticut","Providence County, Rhode Island",1,0,189927,626667
-"287","Litchfield County, Connecticut","Kent County, Rhode Island",1,0,189927,166158
-"291","Litchfield County, Connecticut","Newport County, Rhode Island",1,0,189927,82888
-"297","Litchfield County, Connecticut","Nassau County, New York",1,0,189927,1339532
-"298","Litchfield County, Connecticut","Hampshire County, Massachusetts",1,0,189927,158080
-"299","Litchfield County, Connecticut","Bristol County, Massachusetts",1,0,189927,548285
-"300","Litchfield County, Connecticut","Bergen County, New Jersey",1,0,189927,905116
-"301","Litchfield County, Connecticut","Norfolk County, Massachusetts",1,0,189927,670850
-"303","Litchfield County, Connecticut","Rockland County, New York",1,0,189927,311687
-"304","Litchfield County, Connecticut","Morris County, New Jersey",1,0,189927,492276
-"306","Litchfield County, Connecticut","Essex County, New Jersey",1,0,189927,783969
-"307","New York County, New York","Worcester County, Massachusetts",1,0,1585873,798552
-"308","New York County, New York","Windham County, Connecticut",1,0,1585873,118428
-"309","New York County, New York","New London County, Connecticut",1,0,1585873,274055
-"310","New York County, New York","Tolland County, Connecticut",1,0,1585873,152691
-"311","New York County, New York","Hartford County, Connecticut",1,0,1585873,894014
-"312","New York County, New York","Middlesex County, Connecticut",1,0,1585873,165676
-"313","New York County, New York","New Haven County, Connecticut",1,0,1585873,862477
-"314","New York County, New York","Fairfield County, Connecticut",1,0,1585873,916829
-"315","New York County, New York","Litchfield County, Connecticut",1,0,1585873,189927
-"316","New York County, New York","Westchester County, New York",1,0,1585873,949113
-"317","New York County, New York","Hampden County, Massachusetts",1,0,1585873,463490
-"318","New York County, New York","Providence County, Rhode Island",1,0,1585873,626667
-"319","New York County, New York","Washington County, Rhode Island",1,0,1585873,126979
-"320","New York County, New York","Middlesex County, Massachusetts",1,0,1585873,1503085
-"321","New York County, New York","Kent County, Rhode Island",1,0,1585873,166158
-"322","New York County, New York","Putnam County, New York",1,0,1585873,99710
-"323","New York County, New York","Dutchess County, New York",1,0,1585873,297488
-"324","New York County, New York","Bronx County, New York",1,0,1585873,1385108
-"325","New York County, New York","Newport County, Rhode Island",1,0,1585873,82888
-"326","New York County, New York","Suffolk County, Massachusetts",1,0,1585873,722023
-"327","New York County, New York","Queens County, New York",1,0,1585873,2230722
-"328","New York County, New York","Berkshire County, Massachusetts",1,0,1585873,131219
-"329","New York County, New York","Suffolk County, New York",1,0,1585873,1493350
-"330","New York County, New York","Kings County, New York",1,0,1585873,2504700
-"331","New York County, New York","Nassau County, New York",1,0,1585873,1339532
-"332","New York County, New York","Hampshire County, Massachusetts",1,0,1585873,158080
-"333","New York County, New York","Bristol County, Massachusetts",1,0,1585873,548285
-"334","New York County, New York","Bergen County, New Jersey",1,0,1585873,905116
-"335","New York County, New York","Norfolk County, Massachusetts",1,0,1585873,670850
-"336","New York County, New York","Hudson County, New Jersey",1,0,1585873,634266
-"337","New York County, New York","Rockland County, New York",1,0,1585873,311687
-"338","New York County, New York","Morris County, New Jersey",1,0,1585873,492276
-"339","New York County, New York","Orange County, New York",1,0,1585873,372813
-"340","New York County, New York","Essex County, New Jersey",1,0,1585873,783969
-"341","Westchester County, New York","Worcester County, Massachusetts",1,0,949113,798552
-"342","Westchester County, New York","Windham County, Connecticut",1,0,949113,118428
-"343","Westchester County, New York","New London County, Connecticut",1,0,949113,274055
-"344","Westchester County, New York","Tolland County, Connecticut",1,0,949113,152691
-"345","Westchester County, New York","Hartford County, Connecticut",1,0,949113,894014
-"346","Westchester County, New York","Middlesex County, Connecticut",1,0,949113,165676
-"347","Westchester County, New York","New Haven County, Connecticut",1,0,949113,862477
-"348","Westchester County, New York","Fairfield County, Connecticut",1,0,949113,916829
-"349","Westchester County, New York","Litchfield County, Connecticut",1,0,949113,189927
-"350","Westchester County, New York","New York County, New York",1,0,949113,1585873
-"351","Westchester County, New York","Hampden County, Massachusetts",1,0,949113,463490
-"352","Westchester County, New York","Providence County, Rhode Island",1,0,949113,626667
-"353","Westchester County, New York","Washington County, Rhode Island",1,0,949113,126979
-"354","Westchester County, New York","Middlesex County, Massachusetts",1,0,949113,1503085
-"355","Westchester County, New York","Kent County, Rhode Island",1,0,949113,166158
-"356","Westchester County, New York","Putnam County, New York",1,0,949113,99710
-"357","Westchester County, New York","Dutchess County, New York",1,0,949113,297488
-"358","Westchester County, New York","Bronx County, New York",1,0,949113,1385108
-"359","Westchester County, New York","Newport County, Rhode Island",1,0,949113,82888
-"360","Westchester County, New York","Suffolk County, Massachusetts",1,0,949113,722023
-"361","Westchester County, New York","Queens County, New York",1,0,949113,2230722
-"362","Westchester County, New York","Berkshire County, Massachusetts",1,0,949113,131219
-"363","Westchester County, New York","Suffolk County, New York",1,0,949113,1493350
-"364","Westchester County, New York","Kings County, New York",1,0,949113,2504700
-"365","Westchester County, New York","Nassau County, New York",1,0,949113,1339532
-"366","Westchester County, New York","Hampshire County, Massachusetts",1,0,949113,158080
-"367","Westchester County, New York","Bristol County, Massachusetts",1,0,949113,548285
-"368","Westchester County, New York","Bergen County, New Jersey",1,0,949113,905116
-"369","Westchester County, New York","Norfolk County, Massachusetts",1,0,949113,670850
-"370","Westchester County, New York","Hudson County, New Jersey",1,0,949113,634266
-"371","Westchester County, New York","Rockland County, New York",1,0,949113,311687
-"372","Westchester County, New York","Morris County, New Jersey",1,0,949113,492276
-"373","Westchester County, New York","Orange County, New York",1,0,949113,372813
-"374","Westchester County, New York","Essex County, New Jersey",1,0,949113,783969
-"375","Hampden County, Massachusetts","Worcester County, Massachusetts",1,0,463490,798552
-"376","Hampden County, Massachusetts","Windham County, Connecticut",1,0,463490,118428
-"377","Hampden County, Massachusetts","New London County, Connecticut",1,0,463490,274055
-"378","Hampden County, Massachusetts","Tolland County, Connecticut",1,0,463490,152691
-"379","Hampden County, Massachusetts","Hartford County, Connecticut",1,0,463490,894014
-"380","Hampden County, Massachusetts","Middlesex County, Connecticut",1,0,463490,165676
-"381","Hampden County, Massachusetts","New Haven County, Connecticut",1,0,463490,862477
-"382","Hampden County, Massachusetts","Fairfield County, Connecticut",1,0,463490,916829
-"383","Hampden County, Massachusetts","Litchfield County, Connecticut",1,0,463490,189927
-"384","Hampden County, Massachusetts","New York County, New York",1,0,463490,1585873
-"385","Hampden County, Massachusetts","Westchester County, New York",1,0,463490,949113
-"386","Hampden County, Massachusetts","Providence County, Rhode Island",1,0,463490,626667
-"387","Hampden County, Massachusetts","Washington County, Rhode Island",1,0,463490,126979
-"388","Hampden County, Massachusetts","Middlesex County, Massachusetts",1,0,463490,1503085
-"389","Hampden County, Massachusetts","Kent County, Rhode Island",1,0,463490,166158
-"390","Hampden County, Massachusetts","Putnam County, New York",1,0,463490,99710
-"391","Hampden County, Massachusetts","Dutchess County, New York",1,0,463490,297488
-"392","Hampden County, Massachusetts","Bronx County, New York",1,0,463490,1385108
-"393","Hampden County, Massachusetts","Newport County, Rhode Island",1,0,463490,82888
-"394","Hampden County, Massachusetts","Suffolk County, Massachusetts",1,0,463490,722023
-"395","Hampden County, Massachusetts","Queens County, New York",1,0,463490,2230722
-"396","Hampden County, Massachusetts","Berkshire County, Massachusetts",1,0,463490,131219
-"397","Hampden County, Massachusetts","Suffolk County, New York",1,0,463490,1493350
-"398","Hampden County, Massachusetts","Kings County, New York",1,0,463490,2504700
-"399","Hampden County, Massachusetts","Nassau County, New York",1,0,463490,1339532
-"400","Hampden County, Massachusetts","Hampshire County, Massachusetts",1,0,463490,158080
-"401","Hampden County, Massachusetts","Bristol County, Massachusetts",1,0,463490,548285
-"402","Hampden County, Massachusetts","Bergen County, New Jersey",1,0,463490,905116
-"403","Hampden County, Massachusetts","Norfolk County, Massachusetts",1,0,463490,670850
-"404","Hampden County, Massachusetts","Hudson County, New Jersey",1,0,463490,634266
-"405","Hampden County, Massachusetts","Rockland County, New York",1,0,463490,311687
-"406","Hampden County, Massachusetts","Morris County, New Jersey",1,0,463490,492276
-"407","Hampden County, Massachusetts","Orange County, New York",1,0,463490,372813
-"408","Hampden County, Massachusetts","Essex County, New Jersey",1,0,463490,783969
-"409","Providence County, Rhode Island","Worcester County, Massachusetts",1,0,626667,798552
-"410","Providence County, Rhode Island","Windham County, Connecticut",1,0,626667,118428
-"411","Providence County, Rhode Island","New London County, Connecticut",1,0,626667,274055
-"412","Providence County, Rhode Island","Tolland County, Connecticut",1,0,626667,152691
-"413","Providence County, Rhode Island","Hartford County, Connecticut",1,0,626667,894014
-"414","Providence County, Rhode Island","Middlesex County, Connecticut",1,0,626667,165676
-"415","Providence County, Rhode Island","New Haven County, Connecticut",1,0,626667,862477
-"416","Providence County, Rhode Island","Fairfield County, Connecticut",1,0,626667,916829
-"417","Providence County, Rhode Island","Litchfield County, Connecticut",1,0,626667,189927
-"418","Providence County, Rhode Island","New York County, New York",1,0,626667,1585873
-"419","Providence County, Rhode Island","Westchester County, New York",1,0,626667,949113
-"420","Providence County, Rhode Island","Hampden County, Massachusetts",1,0,626667,463490
-"421","Providence County, Rhode Island","Washington County, Rhode Island",1,0,626667,126979
-"422","Providence County, Rhode Island","Middlesex County, Massachusetts",1,0,626667,1503085
-"423","Providence County, Rhode Island","Kent County, Rhode Island",1,0,626667,166158
-"424","Providence County, Rhode Island","Putnam County, New York",1,0,626667,99710
-"425","Providence County, Rhode Island","Dutchess County, New York",1,0,626667,297488
-"426","Providence County, Rhode Island","Bronx County, New York",1,0,626667,1385108
-"427","Providence County, Rhode Island","Newport County, Rhode Island",1,0,626667,82888
-"428","Providence County, Rhode Island","Suffolk County, Massachusetts",1,0,626667,722023
-"429","Providence County, Rhode Island","Queens County, New York",1,0,626667,2230722
-"430","Providence County, Rhode Island","Berkshire County, Massachusetts",1,0,626667,131219
-"431","Providence County, Rhode Island","Suffolk County, New York",1,0,626667,1493350
-"432","Providence County, Rhode Island","Kings County, New York",1,0,626667,2504700
-"433","Providence County, Rhode Island","Nassau County, New York",1,0,626667,1339532
-"434","Providence County, Rhode Island","Hampshire County, Massachusetts",1,0,626667,158080
-"435","Providence County, Rhode Island","Bristol County, Massachusetts",1,0,626667,548285
-"436","Providence County, Rhode Island","Bergen County, New Jersey",1,0,626667,905116
-"437","Providence County, Rhode Island","Norfolk County, Massachusetts",1,0,626667,670850
-"438","Providence County, Rhode Island","Hudson County, New Jersey",1,0,626667,634266
-"439","Providence County, Rhode Island","Rockland County, New York",1,0,626667,311687
-"440","Providence County, Rhode Island","Morris County, New Jersey",1,0,626667,492276
-"441","Providence County, Rhode Island","Orange County, New York",1,0,626667,372813
-"442","Providence County, Rhode Island","Essex County, New Jersey",1,0,626667,783969
-"443","Washington County, Rhode Island","Worcester County, Massachusetts",1,0,126979,798552
-"444","Washington County, Rhode Island","Windham County, Connecticut",1,0,126979,118428
-"445","Washington County, Rhode Island","New London County, Connecticut",1,0,126979,274055
-"446","Washington County, Rhode Island","Tolland County, Connecticut",1,0,126979,152691
-"447","Washington County, Rhode Island","Hartford County, Connecticut",1,0,126979,894014
-"448","Washington County, Rhode Island","Middlesex County, Connecticut",1,0,126979,165676
-"449","Washington County, Rhode Island","New Haven County, Connecticut",1,0,126979,862477
-"450","Washington County, Rhode Island","Fairfield County, Connecticut",1,0,126979,916829
-"451","Washington County, Rhode Island","Litchfield County, Connecticut",1,0,126979,189927
-"452","Washington County, Rhode Island","New York County, New York",1,0,126979,1585873
-"453","Washington County, Rhode Island","Westchester County, New York",1,0,126979,949113
-"454","Washington County, Rhode Island","Hampden County, Massachusetts",1,0,126979,463490
-"455","Washington County, Rhode Island","Providence County, Rhode Island",1,0,126979,626667
-"456","Washington County, Rhode Island","Middlesex County, Massachusetts",1,0,126979,1503085
-"457","Washington County, Rhode Island","Kent County, Rhode Island",1,0,126979,166158
-"458","Washington County, Rhode Island","Putnam County, New York",1,0,126979,99710
-"459","Washington County, Rhode Island","Dutchess County, New York",1,0,126979,297488
-"460","Washington County, Rhode Island","Bronx County, New York",1,0,126979,1385108
-"461","Washington County, Rhode Island","Newport County, Rhode Island",1,0,126979,82888
-"462","Washington County, Rhode Island","Suffolk County, Massachusetts",1,0,126979,722023
-"463","Washington County, Rhode Island","Queens County, New York",1,0,126979,2230722
-"464","Washington County, Rhode Island","Berkshire County, Massachusetts",1,0,126979,131219
-"465","Washington County, Rhode Island","Suffolk County, New York",1,0,126979,1493350
-"466","Washington County, Rhode Island","Kings County, New York",1,0,126979,2504700
-"467","Washington County, Rhode Island","Nassau County, New York",1,0,126979,1339532
-"468","Washington County, Rhode Island","Hampshire County, Massachusetts",1,0,126979,158080
-"469","Washington County, Rhode Island","Bristol County, Massachusetts",1,0,126979,548285
-"470","Washington County, Rhode Island","Bergen County, New Jersey",1,0,126979,905116
-"471","Washington County, Rhode Island","Norfolk County, Massachusetts",1,0,126979,670850
-"472","Washington County, Rhode Island","Hudson County, New Jersey",1,0,126979,634266
-"473","Washington County, Rhode Island","Rockland County, New York",1,0,126979,311687
-"474","Washington County, Rhode Island","Morris County, New Jersey",1,0,126979,492276
-"475","Washington County, Rhode Island","Orange County, New York",1,0,126979,372813
-"476","Washington County, Rhode Island","Essex County, New Jersey",1,0,126979,783969
-"477","Middlesex County, Massachusetts","Worcester County, Massachusetts",1,0,1503085,798552
-"478","Middlesex County, Massachusetts","Windham County, Connecticut",1,0,1503085,118428
-"479","Middlesex County, Massachusetts","New London County, Connecticut",1,0,1503085,274055
-"480","Middlesex County, Massachusetts","Tolland County, Connecticut",1,0,1503085,152691
-"481","Middlesex County, Massachusetts","Hartford County, Connecticut",1,0,1503085,894014
-"482","Middlesex County, Massachusetts","Middlesex County, Connecticut",1,0,1503085,165676
-"483","Middlesex County, Massachusetts","New Haven County, Connecticut",1,0,1503085,862477
-"484","Middlesex County, Massachusetts","Fairfield County, Connecticut",1,0,1503085,916829
-"485","Middlesex County, Massachusetts","Litchfield County, Connecticut",1,0,1503085,189927
-"486","Middlesex County, Massachusetts","New York County, New York",1,0,1503085,1585873
-"487","Middlesex County, Massachusetts","Westchester County, New York",1,0,1503085,949113
-"488","Middlesex County, Massachusetts","Hampden County, Massachusetts",1,0,1503085,463490
-"489","Middlesex County, Massachusetts","Providence County, Rhode Island",1,0,1503085,626667
-"490","Middlesex County, Massachusetts","Washington County, Rhode Island",1,0,1503085,126979
-"491","Middlesex County, Massachusetts","Kent County, Rhode Island",1,0,1503085,166158
-"492","Middlesex County, Massachusetts","Putnam County, New York",1,0,1503085,99710
-"493","Middlesex County, Massachusetts","Dutchess County, New York",1,0,1503085,297488
-"494","Middlesex County, Massachusetts","Bronx County, New York",1,0,1503085,1385108
-"495","Middlesex County, Massachusetts","Newport County, Rhode Island",1,0,1503085,82888
-"496","Middlesex County, Massachusetts","Suffolk County, Massachusetts",1,0,1503085,722023
-"497","Middlesex County, Massachusetts","Queens County, New York",1,0,1503085,2230722
-"498","Middlesex County, Massachusetts","Berkshire County, Massachusetts",1,0,1503085,131219
-"499","Middlesex County, Massachusetts","Suffolk County, New York",1,0,1503085,1493350
-"500","Middlesex County, Massachusetts","Kings County, New York",1,0,1503085,2504700
-"501","Middlesex County, Massachusetts","Nassau County, New York",1,0,1503085,1339532
-"502","Middlesex County, Massachusetts","Hampshire County, Massachusetts",1,0,1503085,158080
-"503","Middlesex County, Massachusetts","Bristol County, Massachusetts",1,0,1503085,548285
-"504","Middlesex County, Massachusetts","Bergen County, New Jersey",1,0,1503085,905116
-"505","Middlesex County, Massachusetts","Norfolk County, Massachusetts",1,0,1503085,670850
-"506","Middlesex County, Massachusetts","Hudson County, New Jersey",1,0,1503085,634266
-"507","Middlesex County, Massachusetts","Rockland County, New York",1,0,1503085,311687
-"508","Middlesex County, Massachusetts","Morris County, New Jersey",1,0,1503085,492276
-"509","Middlesex County, Massachusetts","Orange County, New York",1,0,1503085,372813
-"510","Middlesex County, Massachusetts","Essex County, New Jersey",1,0,1503085,783969
-"511","Kent County, Rhode Island","Worcester County, Massachusetts",1,0,166158,798552
-"512","Kent County, Rhode Island","Windham County, Connecticut",1,0,166158,118428
-"513","Kent County, Rhode Island","New London County, Connecticut",1,0,166158,274055
-"514","Kent County, Rhode Island","Tolland County, Connecticut",1,0,166158,152691
-"515","Kent County, Rhode Island","Hartford County, Connecticut",1,0,166158,894014
-"516","Kent County, Rhode Island","Middlesex County, Connecticut",1,0,166158,165676
-"517","Kent County, Rhode Island","New Haven County, Connecticut",1,0,166158,862477
-"518","Kent County, Rhode Island","Fairfield County, Connecticut",1,0,166158,916829
-"519","Kent County, Rhode Island","Litchfield County, Connecticut",1,0,166158,189927
-"520","Kent County, Rhode Island","New York County, New York",1,0,166158,1585873
-"521","Kent County, Rhode Island","Westchester County, New York",1,0,166158,949113
-"522","Kent County, Rhode Island","Hampden County, Massachusetts",1,0,166158,463490
-"523","Kent County, Rhode Island","Providence County, Rhode Island",1,0,166158,626667
-"524","Kent County, Rhode Island","Washington County, Rhode Island",1,0,166158,126979
-"525","Kent County, Rhode Island","Middlesex County, Massachusetts",1,0,166158,1503085
-"526","Kent County, Rhode Island","Putnam County, New York",1,0,166158,99710
-"527","Kent County, Rhode Island","Dutchess County, New York",1,0,166158,297488
-"528","Kent County, Rhode Island","Bronx County, New York",1,0,166158,1385108
-"529","Kent County, Rhode Island","Newport County, Rhode Island",1,0,166158,82888
-"530","Kent County, Rhode Island","Suffolk County, Massachusetts",1,0,166158,722023
-"531","Kent County, Rhode Island","Queens County, New York",1,0,166158,2230722
-"532","Kent County, Rhode Island","Berkshire County, Massachusetts",1,0,166158,131219
-"533","Kent County, Rhode Island","Suffolk County, New York",1,0,166158,1493350
-"534","Kent County, Rhode Island","Kings County, New York",1,0,166158,2504700
-"535","Kent County, Rhode Island","Nassau County, New York",1,0,166158,1339532
-"536","Kent County, Rhode Island","Hampshire County, Massachusetts",1,0,166158,158080
-"537","Kent County, Rhode Island","Bristol County, Massachusetts",1,0,166158,548285
-"538","Kent County, Rhode Island","Bergen County, New Jersey",1,0,166158,905116
-"539","Kent County, Rhode Island","Norfolk County, Massachusetts",1,0,166158,670850
-"540","Kent County, Rhode Island","Hudson County, New Jersey",1,0,166158,634266
-"541","Kent County, Rhode Island","Rockland County, New York",1,0,166158,311687
-"542","Kent County, Rhode Island","Morris County, New Jersey",1,0,166158,492276
-"543","Kent County, Rhode Island","Orange County, New York",1,0,166158,372813
-"544","Kent County, Rhode Island","Essex County, New Jersey",1,0,166158,783969
-"545","Putnam County, New York","Worcester County, Massachusetts",1,0,99710,798552
-"546","Putnam County, New York","Windham County, Connecticut",1,0,99710,118428
-"547","Putnam County, New York","New London County, Connecticut",1,0,99710,274055
-"548","Putnam County, New York","Tolland County, Connecticut",1,0,99710,152691
-"549","Putnam County, New York","Hartford County, Connecticut",1,0,99710,894014
-"550","Putnam County, New York","Middlesex County, Connecticut",1,0,99710,165676
-"551","Putnam County, New York","New Haven County, Connecticut",1,0,99710,862477
-"552","Putnam County, New York","Fairfield County, Connecticut",1,0,99710,916829
-"553","Putnam County, New York","Litchfield County, Connecticut",1,0,99710,189927
-"554","Putnam County, New York","New York County, New York",1,0,99710,1585873
-"555","Putnam County, New York","Westchester County, New York",1,0,99710,949113
-"556","Putnam County, New York","Hampden County, Massachusetts",1,0,99710,463490
-"557","Putnam County, New York","Providence County, Rhode Island",1,0,99710,626667
-"558","Putnam County, New York","Washington County, Rhode Island",1,0,99710,126979
-"559","Putnam County, New York","Middlesex County, Massachusetts",1,0,99710,1503085
-"560","Putnam County, New York","Kent County, Rhode Island",1,0,99710,166158
-"561","Putnam County, New York","Dutchess County, New York",1,0,99710,297488
-"562","Putnam County, New York","Bronx County, New York",1,0,99710,1385108
-"563","Putnam County, New York","Newport County, Rhode Island",1,0,99710,82888
-"564","Putnam County, New York","Suffolk County, Massachusetts",1,0,99710,722023
-"565","Putnam County, New York","Queens County, New York",1,0,99710,2230722
-"566","Putnam County, New York","Berkshire County, Massachusetts",1,0,99710,131219
-"567","Putnam County, New York","Suffolk County, New York",1,0,99710,1493350
-"568","Putnam County, New York","Kings County, New York",1,0,99710,2504700
-"569","Putnam County, New York","Nassau County, New York",1,0,99710,1339532
-"570","Putnam County, New York","Hampshire County, Massachusetts",1,0,99710,158080
-"571","Putnam County, New York","Bristol County, Massachusetts",1,0,99710,548285
-"572","Putnam County, New York","Bergen County, New Jersey",1,0,99710,905116
-"573","Putnam County, New York","Norfolk County, Massachusetts",1,0,99710,670850
-"574","Putnam County, New York","Hudson County, New Jersey",1,0,99710,634266
-"575","Putnam County, New York","Rockland County, New York",1,0,99710,311687
-"576","Putnam County, New York","Morris County, New Jersey",1,0,99710,492276
-"577","Putnam County, New York","Orange County, New York",1,0,99710,372813
-"578","Putnam County, New York","Essex County, New Jersey",1,0,99710,783969
-"579","Dutchess County, New York","Worcester County, Massachusetts",1,0,297488,798552
-"580","Dutchess County, New York","Windham County, Connecticut",1,0,297488,118428
-"581","Dutchess County, New York","New London County, Connecticut",1,0,297488,274055
-"582","Dutchess County, New York","Tolland County, Connecticut",1,0,297488,152691
-"583","Dutchess County, New York","Hartford County, Connecticut",1,0,297488,894014
-"584","Dutchess County, New York","Middlesex County, Connecticut",1,0,297488,165676
-"585","Dutchess County, New York","New Haven County, Connecticut",1,0,297488,862477
-"586","Dutchess County, New York","Fairfield County, Connecticut",1,0,297488,916829
-"587","Dutchess County, New York","Litchfield County, Connecticut",1,0,297488,189927
-"588","Dutchess County, New York","New York County, New York",1,0,297488,1585873
-"589","Dutchess County, New York","Westchester County, New York",1,0,297488,949113
-"590","Dutchess County, New York","Hampden County, Massachusetts",1,0,297488,463490
-"591","Dutchess County, New York","Providence County, Rhode Island",1,0,297488,626667
-"592","Dutchess County, New York","Washington County, Rhode Island",1,0,297488,126979
-"593","Dutchess County, New York","Middlesex County, Massachusetts",1,0,297488,1503085
-"594","Dutchess County, New York","Kent County, Rhode Island",1,0,297488,166158
-"595","Dutchess County, New York","Putnam County, New York",1,0,297488,99710
-"596","Dutchess County, New York","Bronx County, New York",1,0,297488,1385108
-"597","Dutchess County, New York","Newport County, Rhode Island",1,0,297488,82888
-"598","Dutchess County, New York","Suffolk County, Massachusetts",1,0,297488,722023
-"599","Dutchess County, New York","Queens County, New York",1,0,297488,2230722
-"600","Dutchess County, New York","Berkshire County, Massachusetts",1,0,297488,131219
-"601","Dutchess County, New York","Suffolk County, New York",1,0,297488,1493350
-"602","Dutchess County, New York","Kings County, New York",1,0,297488,2504700
-"603","Dutchess County, New York","Nassau County, New York",1,0,297488,1339532
-"604","Dutchess County, New York","Hampshire County, Massachusetts",1,0,297488,158080
-"605","Dutchess County, New York","Bristol County, Massachusetts",1,0,297488,548285
-"606","Dutchess County, New York","Bergen County, New Jersey",1,0,297488,905116
-"607","Dutchess County, New York","Norfolk County, Massachusetts",1,0,297488,670850
-"608","Dutchess County, New York","Hudson County, New Jersey",1,0,297488,634266
-"609","Dutchess County, New York","Rockland County, New York",1,0,297488,311687
-"610","Dutchess County, New York","Morris County, New Jersey",1,0,297488,492276
-"611","Dutchess County, New York","Orange County, New York",1,0,297488,372813
-"612","Dutchess County, New York","Essex County, New Jersey",1,0,297488,783969
-"613","Bronx County, New York","Worcester County, Massachusetts",1,0,1385108,798552
-"614","Bronx County, New York","Windham County, Connecticut",1,0,1385108,118428
-"615","Bronx County, New York","New London County, Connecticut",1,0,1385108,274055
-"616","Bronx County, New York","Tolland County, Connecticut",1,0,1385108,152691
-"617","Bronx County, New York","Hartford County, Connecticut",1,0,1385108,894014
-"618","Bronx County, New York","Middlesex County, Connecticut",1,0,1385108,165676
-"619","Bronx County, New York","New Haven County, Connecticut",1,0,1385108,862477
-"620","Bronx County, New York","Fairfield County, Connecticut",1,0,1385108,916829
-"621","Bronx County, New York","Litchfield County, Connecticut",1,0,1385108,189927
-"622","Bronx County, New York","New York County, New York",1,0,1385108,1585873
-"623","Bronx County, New York","Westchester County, New York",1,0,1385108,949113
-"624","Bronx County, New York","Hampden County, Massachusetts",1,0,1385108,463490
-"625","Bronx County, New York","Providence County, Rhode Island",1,0,1385108,626667
-"626","Bronx County, New York","Washington County, Rhode Island",1,0,1385108,126979
-"627","Bronx County, New York","Middlesex County, Massachusetts",1,0,1385108,1503085
-"628","Bronx County, New York","Kent County, Rhode Island",1,0,1385108,166158
-"629","Bronx County, New York","Putnam County, New York",1,0,1385108,99710
-"630","Bronx County, New York","Dutchess County, New York",1,0,1385108,297488
-"631","Bronx County, New York","Newport County, Rhode Island",1,0,1385108,82888
-"632","Bronx County, New York","Suffolk County, Massachusetts",1,0,1385108,722023
-"633","Bronx County, New York","Queens County, New York",1,0,1385108,2230722
-"634","Bronx County, New York","Berkshire County, Massachusetts",1,0,1385108,131219
-"635","Bronx County, New York","Suffolk County, New York",1,0,1385108,1493350
-"636","Bronx County, New York","Kings County, New York",1,0,1385108,2504700
-"637","Bronx County, New York","Nassau County, New York",1,0,1385108,1339532
-"638","Bronx County, New York","Hampshire County, Massachusetts",1,0,1385108,158080
-"639","Bronx County, New York","Bristol County, Massachusetts",1,0,1385108,548285
-"640","Bronx County, New York","Bergen County, New Jersey",1,0,1385108,905116
-"641","Bronx County, New York","Norfolk County, Massachusetts",1,0,1385108,670850
-"642","Bronx County, New York","Hudson County, New Jersey",1,0,1385108,634266
-"643","Bronx County, New York","Rockland County, New York",1,0,1385108,311687
-"644","Bronx County, New York","Morris County, New Jersey",1,0,1385108,492276
-"645","Bronx County, New York","Orange County, New York",1,0,1385108,372813
-"646","Bronx County, New York","Essex County, New Jersey",1,0,1385108,783969
-"647","Newport County, Rhode Island","Worcester County, Massachusetts",1,0,82888,798552
-"648","Newport County, Rhode Island","Windham County, Connecticut",1,0,82888,118428
-"649","Newport County, Rhode Island","New London County, Connecticut",1,0,82888,274055
-"650","Newport County, Rhode Island","Tolland County, Connecticut",1,0,82888,152691
-"651","Newport County, Rhode Island","Hartford County, Connecticut",1,0,82888,894014
-"652","Newport County, Rhode Island","Middlesex County, Connecticut",1,0,82888,165676
-"653","Newport County, Rhode Island","New Haven County, Connecticut",1,0,82888,862477
-"654","Newport County, Rhode Island","Fairfield County, Connecticut",1,0,82888,916829
-"655","Newport County, Rhode Island","Litchfield County, Connecticut",1,0,82888,189927
-"656","Newport County, Rhode Island","New York County, New York",1,0,82888,1585873
-"657","Newport County, Rhode Island","Westchester County, New York",1,0,82888,949113
-"658","Newport County, Rhode Island","Hampden County, Massachusetts",1,0,82888,463490
-"659","Newport County, Rhode Island","Providence County, Rhode Island",1,0,82888,626667
-"660","Newport County, Rhode Island","Washington County, Rhode Island",1,0,82888,126979
-"661","Newport County, Rhode Island","Middlesex County, Massachusetts",1,0,82888,1503085
-"662","Newport County, Rhode Island","Kent County, Rhode Island",1,0,82888,166158
-"663","Newport County, Rhode Island","Putnam County, New York",1,0,82888,99710
-"664","Newport County, Rhode Island","Dutchess County, New York",1,0,82888,297488
-"665","Newport County, Rhode Island","Bronx County, New York",1,0,82888,1385108
-"666","Newport County, Rhode Island","Suffolk County, Massachusetts",1,0,82888,722023
-"667","Newport County, Rhode Island","Queens County, New York",1,0,82888,2230722
-"668","Newport County, Rhode Island","Berkshire County, Massachusetts",1,0,82888,131219
-"669","Newport County, Rhode Island","Suffolk County, New York",1,0,82888,1493350
-"670","Newport County, Rhode Island","Kings County, New York",1,0,82888,2504700
-"671","Newport County, Rhode Island","Nassau County, New York",1,0,82888,1339532
-"672","Newport County, Rhode Island","Hampshire County, Massachusetts",1,0,82888,158080
-"673","Newport County, Rhode Island","Bristol County, Massachusetts",1,0,82888,548285
-"674","Newport County, Rhode Island","Bergen County, New Jersey",1,0,82888,905116
-"675","Newport County, Rhode Island","Norfolk County, Massachusetts",1,0,82888,670850
-"676","Newport County, Rhode Island","Hudson County, New Jersey",1,0,82888,634266
-"677","Newport County, Rhode Island","Rockland County, New York",1,0,82888,311687
-"678","Newport County, Rhode Island","Morris County, New Jersey",1,0,82888,492276
-"679","Newport County, Rhode Island","Orange County, New York",1,0,82888,372813
-"680","Newport County, Rhode Island","Essex County, New Jersey",1,0,82888,783969
-"681","Suffolk County, Massachusetts","Worcester County, Massachusetts",1,0,722023,798552
-"682","Suffolk County, Massachusetts","Windham County, Connecticut",1,0,722023,118428
-"683","Suffolk County, Massachusetts","New London County, Connecticut",1,0,722023,274055
-"684","Suffolk County, Massachusetts","Tolland County, Connecticut",1,0,722023,152691
-"685","Suffolk County, Massachusetts","Hartford County, Connecticut",1,0,722023,894014
-"686","Suffolk County, Massachusetts","Middlesex County, Connecticut",1,0,722023,165676
-"687","Suffolk County, Massachusetts","New Haven County, Connecticut",1,0,722023,862477
-"688","Suffolk County, Massachusetts","Fairfield County, Connecticut",1,0,722023,916829
-"689","Suffolk County, Massachusetts","Litchfield County, Connecticut",1,0,722023,189927
-"690","Suffolk County, Massachusetts","New York County, New York",1,0,722023,1585873
-"691","Suffolk County, Massachusetts","Westchester County, New York",1,0,722023,949113
-"692","Suffolk County, Massachusetts","Hampden County, Massachusetts",1,0,722023,463490
-"693","Suffolk County, Massachusetts","Providence County, Rhode Island",1,0,722023,626667
-"694","Suffolk County, Massachusetts","Washington County, Rhode Island",1,0,722023,126979
-"695","Suffolk County, Massachusetts","Middlesex County, Massachusetts",1,0,722023,1503085
-"696","Suffolk County, Massachusetts","Kent County, Rhode Island",1,0,722023,166158
-"697","Suffolk County, Massachusetts","Putnam County, New York",1,0,722023,99710
-"698","Suffolk County, Massachusetts","Dutchess County, New York",1,0,722023,297488
-"699","Suffolk County, Massachusetts","Bronx County, New York",1,0,722023,1385108
-"700","Suffolk County, Massachusetts","Newport County, Rhode Island",1,0,722023,82888
-"701","Suffolk County, Massachusetts","Queens County, New York",1,0,722023,2230722
-"702","Suffolk County, Massachusetts","Berkshire County, Massachusetts",1,0,722023,131219
-"703","Suffolk County, Massachusetts","Suffolk County, New York",1,0,722023,1493350
-"704","Suffolk County, Massachusetts","Kings County, New York",1,0,722023,2504700
-"705","Suffolk County, Massachusetts","Nassau County, New York",1,0,722023,1339532
-"706","Suffolk County, Massachusetts","Hampshire County, Massachusetts",1,0,722023,158080
-"707","Suffolk County, Massachusetts","Bristol County, Massachusetts",1,0,722023,548285
-"708","Suffolk County, Massachusetts","Bergen County, New Jersey",1,0,722023,905116
-"709","Suffolk County, Massachusetts","Norfolk County, Massachusetts",1,0,722023,670850
-"710","Suffolk County, Massachusetts","Hudson County, New Jersey",1,0,722023,634266
-"711","Suffolk County, Massachusetts","Rockland County, New York",1,0,722023,311687
-"712","Suffolk County, Massachusetts","Morris County, New Jersey",1,0,722023,492276
-"713","Suffolk County, Massachusetts","Orange County, New York",1,0,722023,372813
-"714","Suffolk County, Massachusetts","Essex County, New Jersey",1,0,722023,783969
-"715","Queens County, New York","Worcester County, Massachusetts",1,0,2230722,798552
-"716","Queens County, New York","Windham County, Connecticut",1,0,2230722,118428
-"717","Queens County, New York","New London County, Connecticut",1,0,2230722,274055
-"718","Queens County, New York","Tolland County, Connecticut",1,0,2230722,152691
-"719","Queens County, New York","Hartford County, Connecticut",1,0,2230722,894014
-"720","Queens County, New York","Middlesex County, Connecticut",1,0,2230722,165676
-"721","Queens County, New York","New Haven County, Connecticut",1,0,2230722,862477
-"722","Queens County, New York","Fairfield County, Connecticut",1,0,2230722,916829
-"723","Queens County, New York","Litchfield County, Connecticut",1,0,2230722,189927
-"724","Queens County, New York","New York County, New York",1,0,2230722,1585873
-"725","Queens County, New York","Westchester County, New York",1,0,2230722,949113
-"726","Queens County, New York","Hampden County, Massachusetts",1,0,2230722,463490
-"727","Queens County, New York","Providence County, Rhode Island",1,0,2230722,626667
-"728","Queens County, New York","Washington County, Rhode Island",1,0,2230722,126979
-"729","Queens County, New York","Middlesex County, Massachusetts",1,0,2230722,1503085
-"730","Queens County, New York","Kent County, Rhode Island",1,0,2230722,166158
-"731","Queens County, New York","Putnam County, New York",1,0,2230722,99710
-"732","Queens County, New York","Dutchess County, New York",1,0,2230722,297488
-"733","Queens County, New York","Bronx County, New York",1,0,2230722,1385108
-"734","Queens County, New York","Newport County, Rhode Island",1,0,2230722,82888
-"735","Queens County, New York","Suffolk County, Massachusetts",1,0,2230722,722023
-"736","Queens County, New York","Berkshire County, Massachusetts",1,0,2230722,131219
-"737","Queens County, New York","Suffolk County, New York",1,0,2230722,1493350
-"738","Queens County, New York","Kings County, New York",1,0,2230722,2504700
-"739","Queens County, New York","Nassau County, New York",1,0,2230722,1339532
-"740","Queens County, New York","Hampshire County, Massachusetts",1,0,2230722,158080
-"741","Queens County, New York","Bristol County, Massachusetts",1,0,2230722,548285
-"742","Queens County, New York","Bergen County, New Jersey",1,0,2230722,905116
-"743","Queens County, New York","Norfolk County, Massachusetts",1,0,2230722,670850
-"744","Queens County, New York","Hudson County, New Jersey",1,0,2230722,634266
-"745","Queens County, New York","Rockland County, New York",1,0,2230722,311687
-"746","Queens County, New York","Morris County, New Jersey",1,0,2230722,492276
-"747","Queens County, New York","Orange County, New York",1,0,2230722,372813
-"748","Queens County, New York","Essex County, New Jersey",1,0,2230722,783969
-"749","Berkshire County, Massachusetts","Worcester County, Massachusetts",1,0,131219,798552
-"750","Berkshire County, Massachusetts","Windham County, Connecticut",1,0,131219,118428
-"751","Berkshire County, Massachusetts","New London County, Connecticut",1,0,131219,274055
-"752","Berkshire County, Massachusetts","Tolland County, Connecticut",1,0,131219,152691
-"753","Berkshire County, Massachusetts","Hartford County, Connecticut",1,0,131219,894014
-"754","Berkshire County, Massachusetts","Middlesex County, Connecticut",1,0,131219,165676
-"755","Berkshire County, Massachusetts","New Haven County, Connecticut",1,0,131219,862477
-"756","Berkshire County, Massachusetts","Fairfield County, Connecticut",1,0,131219,916829
-"757","Berkshire County, Massachusetts","Litchfield County, Connecticut",1,0,131219,189927
-"758","Berkshire County, Massachusetts","New York County, New York",1,0,131219,1585873
-"759","Berkshire County, Massachusetts","Westchester County, New York",1,0,131219,949113
-"760","Berkshire County, Massachusetts","Hampden County, Massachusetts",1,0,131219,463490
-"761","Berkshire County, Massachusetts","Providence County, Rhode Island",1,0,131219,626667
-"762","Berkshire County, Massachusetts","Washington County, Rhode Island",1,0,131219,126979
-"763","Berkshire County, Massachusetts","Middlesex County, Massachusetts",1,0,131219,1503085
-"764","Berkshire County, Massachusetts","Kent County, Rhode Island",1,0,131219,166158
-"765","Berkshire County, Massachusetts","Putnam County, New York",1,0,131219,99710
-"766","Berkshire County, Massachusetts","Dutchess County, New York",1,0,131219,297488
-"767","Berkshire County, Massachusetts","Bronx County, New York",1,0,131219,1385108
-"768","Berkshire County, Massachusetts","Newport County, Rhode Island",1,0,131219,82888
-"769","Berkshire County, Massachusetts","Suffolk County, Massachusetts",1,0,131219,722023
-"770","Berkshire County, Massachusetts","Queens County, New York",1,0,131219,2230722
-"771","Berkshire County, Massachusetts","Suffolk County, New York",1,0,131219,1493350
-"772","Berkshire County, Massachusetts","Kings County, New York",1,0,131219,2504700
-"773","Berkshire County, Massachusetts","Nassau County, New York",1,0,131219,1339532
-"774","Berkshire County, Massachusetts","Hampshire County, Massachusetts",1,0,131219,158080
-"775","Berkshire County, Massachusetts","Bristol County, Massachusetts",1,0,131219,548285
-"776","Berkshire County, Massachusetts","Bergen County, New Jersey",1,0,131219,905116
-"777","Berkshire County, Massachusetts","Norfolk County, Massachusetts",1,0,131219,670850
-"778","Berkshire County, Massachusetts","Hudson County, New Jersey",1,0,131219,634266
-"779","Berkshire County, Massachusetts","Rockland County, New York",1,0,131219,311687
-"780","Berkshire County, Massachusetts","Morris County, New Jersey",1,0,131219,492276
-"781","Berkshire County, Massachusetts","Orange County, New York",1,0,131219,372813
-"782","Berkshire County, Massachusetts","Essex County, New Jersey",1,0,131219,783969
-"783","Suffolk County, New York","Worcester County, Massachusetts",1,0,1493350,798552
-"784","Suffolk County, New York","Windham County, Connecticut",1,0,1493350,118428
-"785","Suffolk County, New York","New London County, Connecticut",1,0,1493350,274055
-"786","Suffolk County, New York","Tolland County, Connecticut",1,0,1493350,152691
-"787","Suffolk County, New York","Hartford County, Connecticut",1,0,1493350,894014
-"788","Suffolk County, New York","Middlesex County, Connecticut",1,0,1493350,165676
-"789","Suffolk County, New York","New Haven County, Connecticut",1,0,1493350,862477
-"790","Suffolk County, New York","Fairfield County, Connecticut",1,0,1493350,916829
-"791","Suffolk County, New York","Litchfield County, Connecticut",1,0,1493350,189927
-"792","Suffolk County, New York","New York County, New York",1,0,1493350,1585873
-"793","Suffolk County, New York","Westchester County, New York",1,0,1493350,949113
-"794","Suffolk County, New York","Hampden County, Massachusetts",1,0,1493350,463490
-"795","Suffolk County, New York","Providence County, Rhode Island",1,0,1493350,626667
-"796","Suffolk County, New York","Washington County, Rhode Island",1,0,1493350,126979
-"797","Suffolk County, New York","Middlesex County, Massachusetts",1,0,1493350,1503085
-"798","Suffolk County, New York","Kent County, Rhode Island",1,0,1493350,166158
-"799","Suffolk County, New York","Putnam County, New York",1,0,1493350,99710
-"800","Suffolk County, New York","Dutchess County, New York",1,0,1493350,297488
-"801","Suffolk County, New York","Bronx County, New York",1,0,1493350,1385108
-"802","Suffolk County, New York","Newport County, Rhode Island",1,0,1493350,82888
-"803","Suffolk County, New York","Suffolk County, Massachusetts",1,0,1493350,722023
-"804","Suffolk County, New York","Queens County, New York",1,0,1493350,2230722
-"805","Suffolk County, New York","Berkshire County, Massachusetts",1,0,1493350,131219
-"806","Suffolk County, New York","Kings County, New York",1,0,1493350,2504700
-"807","Suffolk County, New York","Nassau County, New York",1,0,1493350,1339532
-"808","Suffolk County, New York","Hampshire County, Massachusetts",1,0,1493350,158080
-"809","Suffolk County, New York","Bristol County, Massachusetts",1,0,1493350,548285
-"810","Suffolk County, New York","Bergen County, New Jersey",1,0,1493350,905116
-"811","Suffolk County, New York","Norfolk County, Massachusetts",1,0,1493350,670850
-"812","Suffolk County, New York","Hudson County, New Jersey",1,0,1493350,634266
-"813","Suffolk County, New York","Rockland County, New York",1,0,1493350,311687
-"814","Suffolk County, New York","Morris County, New Jersey",1,0,1493350,492276
-"815","Suffolk County, New York","Orange County, New York",1,0,1493350,372813
-"816","Suffolk County, New York","Essex County, New Jersey",1,0,1493350,783969
-"817","Kings County, New York","Worcester County, Massachusetts",1,0,2504700,798552
-"818","Kings County, New York","Windham County, Connecticut",1,0,2504700,118428
-"819","Kings County, New York","New London County, Connecticut",1,0,2504700,274055
-"820","Kings County, New York","Tolland County, Connecticut",1,0,2504700,152691
-"821","Kings County, New York","Hartford County, Connecticut",1,0,2504700,894014
-"822","Kings County, New York","Middlesex County, Connecticut",1,0,2504700,165676
-"823","Kings County, New York","New Haven County, Connecticut",1,0,2504700,862477
-"824","Kings County, New York","Fairfield County, Connecticut",1,0,2504700,916829
-"825","Kings County, New York","Litchfield County, Connecticut",1,0,2504700,189927
-"826","Kings County, New York","New York County, New York",1,0,2504700,1585873
-"827","Kings County, New York","Westchester County, New York",1,0,2504700,949113
-"828","Kings County, New York","Hampden County, Massachusetts",1,0,2504700,463490
-"829","Kings County, New York","Providence County, Rhode Island",1,0,2504700,626667
-"830","Kings County, New York","Washington County, Rhode Island",1,0,2504700,126979
-"831","Kings County, New York","Middlesex County, Massachusetts",1,0,2504700,1503085
-"832","Kings County, New York","Kent County, Rhode Island",1,0,2504700,166158
-"833","Kings County, New York","Putnam County, New York",1,0,2504700,99710
-"834","Kings County, New York","Dutchess County, New York",1,0,2504700,297488
-"835","Kings County, New York","Bronx County, New York",1,0,2504700,1385108
-"836","Kings County, New York","Newport County, Rhode Island",1,0,2504700,82888
-"837","Kings County, New York","Suffolk County, Massachusetts",1,0,2504700,722023
-"838","Kings County, New York","Queens County, New York",1,0,2504700,2230722
-"839","Kings County, New York","Berkshire County, Massachusetts",1,0,2504700,131219
-"840","Kings County, New York","Suffolk County, New York",1,0,2504700,1493350
-"841","Kings County, New York","Nassau County, New York",1,0,2504700,1339532
-"842","Kings County, New York","Hampshire County, Massachusetts",1,0,2504700,158080
-"843","Kings County, New York","Bristol County, Massachusetts",1,0,2504700,548285
-"844","Kings County, New York","Bergen County, New Jersey",1,0,2504700,905116
-"845","Kings County, New York","Norfolk County, Massachusetts",1,0,2504700,670850
-"846","Kings County, New York","Hudson County, New Jersey",1,0,2504700,634266
-"847","Kings County, New York","Rockland County, New York",1,0,2504700,311687
-"848","Kings County, New York","Morris County, New Jersey",1,0,2504700,492276
-"849","Kings County, New York","Orange County, New York",1,0,2504700,372813
-"850","Kings County, New York","Essex County, New Jersey",1,0,2504700,783969
-"851","Nassau County, New York","Worcester County, Massachusetts",1,0,1339532,798552
-"852","Nassau County, New York","Windham County, Connecticut",1,0,1339532,118428
-"853","Nassau County, New York","New London County, Connecticut",1,0,1339532,274055
-"854","Nassau County, New York","Tolland County, Connecticut",1,0,1339532,152691
-"855","Nassau County, New York","Hartford County, Connecticut",1,0,1339532,894014
-"856","Nassau County, New York","Middlesex County, Connecticut",1,0,1339532,165676
-"857","Nassau County, New York","New Haven County, Connecticut",1,0,1339532,862477
-"858","Nassau County, New York","Fairfield County, Connecticut",1,0,1339532,916829
-"859","Nassau County, New York","Litchfield County, Connecticut",1,0,1339532,189927
-"860","Nassau County, New York","New York County, New York",1,0,1339532,1585873
-"861","Nassau County, New York","Westchester County, New York",1,0,1339532,949113
-"862","Nassau County, New York","Hampden County, Massachusetts",1,0,1339532,463490
-"863","Nassau County, New York","Providence County, Rhode Island",1,0,1339532,626667
-"864","Nassau County, New York","Washington County, Rhode Island",1,0,1339532,126979
-"865","Nassau County, New York","Middlesex County, Massachusetts",1,0,1339532,1503085
-"866","Nassau County, New York","Kent County, Rhode Island",1,0,1339532,166158
-"867","Nassau County, New York","Putnam County, New York",1,0,1339532,99710
-"868","Nassau County, New York","Dutchess County, New York",1,0,1339532,297488
-"869","Nassau County, New York","Bronx County, New York",1,0,1339532,1385108
-"870","Nassau County, New York","Newport County, Rhode Island",1,0,1339532,82888
-"871","Nassau County, New York","Suffolk County, Massachusetts",1,0,1339532,722023
-"872","Nassau County, New York","Queens County, New York",1,0,1339532,2230722
-"873","Nassau County, New York","Berkshire County, Massachusetts",1,0,1339532,131219
-"874","Nassau County, New York","Suffolk County, New York",1,0,1339532,1493350
-"875","Nassau County, New York","Kings County, New York",1,0,1339532,2504700
-"876","Nassau County, New York","Hampshire County, Massachusetts",1,0,1339532,158080
-"877","Nassau County, New York","Bristol County, Massachusetts",1,0,1339532,548285
-"878","Nassau County, New York","Bergen County, New Jersey",1,0,1339532,905116
-"879","Nassau County, New York","Norfolk County, Massachusetts",1,0,1339532,670850
-"880","Nassau County, New York","Hudson County, New Jersey",1,0,1339532,634266
-"881","Nassau County, New York","Rockland County, New York",1,0,1339532,311687
-"882","Nassau County, New York","Morris County, New Jersey",1,0,1339532,492276
-"883","Nassau County, New York","Orange County, New York",1,0,1339532,372813
-"884","Nassau County, New York","Essex County, New Jersey",1,0,1339532,783969
-"885","Hampshire County, Massachusetts","Worcester County, Massachusetts",1,0,158080,798552
-"886","Hampshire County, Massachusetts","Windham County, Connecticut",1,0,158080,118428
-"887","Hampshire County, Massachusetts","New London County, Connecticut",1,0,158080,274055
-"888","Hampshire County, Massachusetts","Tolland County, Connecticut",1,0,158080,152691
-"889","Hampshire County, Massachusetts","Hartford County, Connecticut",1,0,158080,894014
-"890","Hampshire County, Massachusetts","Middlesex County, Connecticut",1,0,158080,165676
-"891","Hampshire County, Massachusetts","New Haven County, Connecticut",1,0,158080,862477
-"892","Hampshire County, Massachusetts","Fairfield County, Connecticut",1,0,158080,916829
-"893","Hampshire County, Massachusetts","Litchfield County, Connecticut",1,0,158080,189927
-"894","Hampshire County, Massachusetts","New York County, New York",1,0,158080,1585873
-"895","Hampshire County, Massachusetts","Westchester County, New York",1,0,158080,949113
-"896","Hampshire County, Massachusetts","Hampden County, Massachusetts",1,0,158080,463490
-"897","Hampshire County, Massachusetts","Providence County, Rhode Island",1,0,158080,626667
-"898","Hampshire County, Massachusetts","Washington County, Rhode Island",1,0,158080,126979
-"899","Hampshire County, Massachusetts","Middlesex County, Massachusetts",1,0,158080,1503085
-"900","Hampshire County, Massachusetts","Kent County, Rhode Island",1,0,158080,166158
-"901","Hampshire County, Massachusetts","Putnam County, New York",1,0,158080,99710
-"902","Hampshire County, Massachusetts","Dutchess County, New York",1,0,158080,297488
-"903","Hampshire County, Massachusetts","Bronx County, New York",1,0,158080,1385108
-"904","Hampshire County, Massachusetts","Newport County, Rhode Island",1,0,158080,82888
-"905","Hampshire County, Massachusetts","Suffolk County, Massachusetts",1,0,158080,722023
-"906","Hampshire County, Massachusetts","Queens County, New York",1,0,158080,2230722
-"907","Hampshire County, Massachusetts","Berkshire County, Massachusetts",1,0,158080,131219
-"908","Hampshire County, Massachusetts","Suffolk County, New York",1,0,158080,1493350
-"909","Hampshire County, Massachusetts","Kings County, New York",1,0,158080,2504700
-"910","Hampshire County, Massachusetts","Nassau County, New York",1,0,158080,1339532
-"911","Hampshire County, Massachusetts","Bristol County, Massachusetts",1,0,158080,548285
-"912","Hampshire County, Massachusetts","Bergen County, New Jersey",1,0,158080,905116
-"913","Hampshire County, Massachusetts","Norfolk County, Massachusetts",1,0,158080,670850
-"914","Hampshire County, Massachusetts","Hudson County, New Jersey",1,0,158080,634266
-"915","Hampshire County, Massachusetts","Rockland County, New York",1,0,158080,311687
-"916","Hampshire County, Massachusetts","Morris County, New Jersey",1,0,158080,492276
-"917","Hampshire County, Massachusetts","Orange County, New York",1,0,158080,372813
-"918","Hampshire County, Massachusetts","Essex County, New Jersey",1,0,158080,783969
-"919","Bristol County, Massachusetts","Worcester County, Massachusetts",1,0,548285,798552
-"920","Bristol County, Massachusetts","Windham County, Connecticut",1,0,548285,118428
-"921","Bristol County, Massachusetts","New London County, Connecticut",1,0,548285,274055
-"922","Bristol County, Massachusetts","Tolland County, Connecticut",1,0,548285,152691
-"923","Bristol County, Massachusetts","Hartford County, Connecticut",1,0,548285,894014
-"924","Bristol County, Massachusetts","Middlesex County, Connecticut",1,0,548285,165676
-"925","Bristol County, Massachusetts","New Haven County, Connecticut",1,0,548285,862477
-"926","Bristol County, Massachusetts","Fairfield County, Connecticut",1,0,548285,916829
-"927","Bristol County, Massachusetts","Litchfield County, Connecticut",1,0,548285,189927
-"928","Bristol County, Massachusetts","New York County, New York",1,0,548285,1585873
-"929","Bristol County, Massachusetts","Westchester County, New York",1,0,548285,949113
-"930","Bristol County, Massachusetts","Hampden County, Massachusetts",1,0,548285,463490
-"931","Bristol County, Massachusetts","Providence County, Rhode Island",1,0,548285,626667
-"932","Bristol County, Massachusetts","Washington County, Rhode Island",1,0,548285,126979
-"933","Bristol County, Massachusetts","Middlesex County, Massachusetts",1,0,548285,1503085
-"934","Bristol County, Massachusetts","Kent County, Rhode Island",1,0,548285,166158
-"935","Bristol County, Massachusetts","Putnam County, New York",1,0,548285,99710
-"936","Bristol County, Massachusetts","Dutchess County, New York",1,0,548285,297488
-"937","Bristol County, Massachusetts","Bronx County, New York",1,0,548285,1385108
-"938","Bristol County, Massachusetts","Newport County, Rhode Island",1,0,548285,82888
-"939","Bristol County, Massachusetts","Suffolk County, Massachusetts",1,0,548285,722023
-"940","Bristol County, Massachusetts","Queens County, New York",1,0,548285,2230722
-"941","Bristol County, Massachusetts","Berkshire County, Massachusetts",1,0,548285,131219
-"942","Bristol County, Massachusetts","Suffolk County, New York",1,0,548285,1493350
-"943","Bristol County, Massachusetts","Kings County, New York",1,0,548285,2504700
-"944","Bristol County, Massachusetts","Nassau County, New York",1,0,548285,1339532
-"945","Bristol County, Massachusetts","Hampshire County, Massachusetts",1,0,548285,158080
-"946","Bristol County, Massachusetts","Bergen County, New Jersey",1,0,548285,905116
-"947","Bristol County, Massachusetts","Norfolk County, Massachusetts",1,0,548285,670850
-"948","Bristol County, Massachusetts","Hudson County, New Jersey",1,0,548285,634266
-"949","Bristol County, Massachusetts","Rockland County, New York",1,0,548285,311687
-"950","Bristol County, Massachusetts","Morris County, New Jersey",1,0,548285,492276
-"951","Bristol County, Massachusetts","Orange County, New York",1,0,548285,372813
-"952","Bristol County, Massachusetts","Essex County, New Jersey",1,0,548285,783969
-"953","Bergen County, New Jersey","Worcester County, Massachusetts",1,0,905116,798552
-"954","Bergen County, New Jersey","Windham County, Connecticut",1,0,905116,118428
-"955","Bergen County, New Jersey","New London County, Connecticut",1,0,905116,274055
-"956","Bergen County, New Jersey","Tolland County, Connecticut",1,0,905116,152691
-"957","Bergen County, New Jersey","Hartford County, Connecticut",1,0,905116,894014
-"958","Bergen County, New Jersey","Middlesex County, Connecticut",1,0,905116,165676
-"959","Bergen County, New Jersey","New Haven County, Connecticut",1,0,905116,862477
-"960","Bergen County, New Jersey","Fairfield County, Connecticut",1,0,905116,916829
-"961","Bergen County, New Jersey","Litchfield County, Connecticut",1,0,905116,189927
-"962","Bergen County, New Jersey","New York County, New York",1,0,905116,1585873
-"963","Bergen County, New Jersey","Westchester County, New York",1,0,905116,949113
-"964","Bergen County, New Jersey","Hampden County, Massachusetts",1,0,905116,463490
-"965","Bergen County, New Jersey","Providence County, Rhode Island",1,0,905116,626667
-"966","Bergen County, New Jersey","Washington County, Rhode Island",1,0,905116,126979
-"967","Bergen County, New Jersey","Middlesex County, Massachusetts",1,0,905116,1503085
-"968","Bergen County, New Jersey","Kent County, Rhode Island",1,0,905116,166158
-"969","Bergen County, New Jersey","Putnam County, New York",1,0,905116,99710
-"970","Bergen County, New Jersey","Dutchess County, New York",1,0,905116,297488
-"971","Bergen County, New Jersey","Bronx County, New York",1,0,905116,1385108
-"972","Bergen County, New Jersey","Newport County, Rhode Island",1,0,905116,82888
-"973","Bergen County, New Jersey","Suffolk County, Massachusetts",1,0,905116,722023
-"974","Bergen County, New Jersey","Queens County, New York",1,0,905116,2230722
-"975","Bergen County, New Jersey","Berkshire County, Massachusetts",1,0,905116,131219
-"976","Bergen County, New Jersey","Suffolk County, New York",1,0,905116,1493350
-"977","Bergen County, New Jersey","Kings County, New York",1,0,905116,2504700
-"978","Bergen County, New Jersey","Nassau County, New York",1,0,905116,1339532
-"979","Bergen County, New Jersey","Hampshire County, Massachusetts",1,0,905116,158080
-"980","Bergen County, New Jersey","Bristol County, Massachusetts",1,0,905116,548285
-"981","Bergen County, New Jersey","Norfolk County, Massachusetts",1,0,905116,670850
-"982","Bergen County, New Jersey","Hudson County, New Jersey",1,0,905116,634266
-"983","Bergen County, New Jersey","Rockland County, New York",1,0,905116,311687
-"984","Bergen County, New Jersey","Morris County, New Jersey",1,0,905116,492276
-"985","Bergen County, New Jersey","Orange County, New York",1,0,905116,372813
-"986","Bergen County, New Jersey","Essex County, New Jersey",1,0,905116,783969
-"987","Norfolk County, Massachusetts","Worcester County, Massachusetts",1,0,670850,798552
-"988","Norfolk County, Massachusetts","Windham County, Connecticut",1,0,670850,118428
-"989","Norfolk County, Massachusetts","New London County, Connecticut",1,0,670850,274055
-"990","Norfolk County, Massachusetts","Tolland County, Connecticut",1,0,670850,152691
-"991","Norfolk County, Massachusetts","Hartford County, Connecticut",1,0,670850,894014
-"992","Norfolk County, Massachusetts","Middlesex County, Connecticut",1,0,670850,165676
-"993","Norfolk County, Massachusetts","New Haven County, Connecticut",1,0,670850,862477
-"994","Norfolk County, Massachusetts","Fairfield County, Connecticut",1,0,670850,916829
-"995","Norfolk County, Massachusetts","Litchfield County, Connecticut",1,0,670850,189927
-"996","Norfolk County, Massachusetts","New York County, New York",1,0,670850,1585873
-"997","Norfolk County, Massachusetts","Westchester County, New York",1,0,670850,949113
-"998","Norfolk County, Massachusetts","Hampden County, Massachusetts",1,0,670850,463490
-"999","Norfolk County, Massachusetts","Providence County, Rhode Island",1,0,670850,626667
-"1000","Norfolk County, Massachusetts","Washington County, Rhode Island",1,0,670850,126979
-"1001","Norfolk County, Massachusetts","Middlesex County, Massachusetts",1,0,670850,1503085
-"1002","Norfolk County, Massachusetts","Kent County, Rhode Island",1,0,670850,166158
-"1003","Norfolk County, Massachusetts","Putnam County, New York",1,0,670850,99710
-"1004","Norfolk County, Massachusetts","Dutchess County, New York",1,0,670850,297488
-"1005","Norfolk County, Massachusetts","Bronx County, New York",1,0,670850,1385108
-"1006","Norfolk County, Massachusetts","Newport County, Rhode Island",1,0,670850,82888
-"1007","Norfolk County, Massachusetts","Suffolk County, Massachusetts",1,0,670850,722023
-"1008","Norfolk County, Massachusetts","Queens County, New York",1,0,670850,2230722
-"1009","Norfolk County, Massachusetts","Berkshire County, Massachusetts",1,0,670850,131219
-"1010","Norfolk County, Massachusetts","Suffolk County, New York",1,0,670850,1493350
-"1011","Norfolk County, Massachusetts","Kings County, New York",1,0,670850,2504700
-"1012","Norfolk County, Massachusetts","Nassau County, New York",1,0,670850,1339532
-"1013","Norfolk County, Massachusetts","Hampshire County, Massachusetts",1,0,670850,158080
-"1014","Norfolk County, Massachusetts","Bristol County, Massachusetts",1,0,670850,548285
-"1015","Norfolk County, Massachusetts","Bergen County, New Jersey",1,0,670850,905116
-"1016","Norfolk County, Massachusetts","Hudson County, New Jersey",1,0,670850,634266
-"1017","Norfolk County, Massachusetts","Rockland County, New York",1,0,670850,311687
-"1018","Norfolk County, Massachusetts","Morris County, New Jersey",1,0,670850,492276
-"1019","Norfolk County, Massachusetts","Orange County, New York",1,0,670850,372813
-"1020","Norfolk County, Massachusetts","Essex County, New Jersey",1,0,670850,783969
-"1021","Hudson County, New Jersey","Worcester County, Massachusetts",1,0,634266,798552
-"1022","Hudson County, New Jersey","Windham County, Connecticut",1,0,634266,118428
-"1023","Hudson County, New Jersey","New London County, Connecticut",1,0,634266,274055
-"1024","Hudson County, New Jersey","Tolland County, Connecticut",1,0,634266,152691
-"1025","Hudson County, New Jersey","Hartford County, Connecticut",1,0,634266,894014
-"1026","Hudson County, New Jersey","Middlesex County, Connecticut",1,0,634266,165676
-"1027","Hudson County, New Jersey","New Haven County, Connecticut",1,0,634266,862477
-"1028","Hudson County, New Jersey","Fairfield County, Connecticut",1,0,634266,916829
-"1029","Hudson County, New Jersey","Litchfield County, Connecticut",1,0,634266,189927
-"1030","Hudson County, New Jersey","New York County, New York",1,0,634266,1585873
-"1031","Hudson County, New Jersey","Westchester County, New York",1,0,634266,949113
-"1032","Hudson County, New Jersey","Hampden County, Massachusetts",1,0,634266,463490
-"1033","Hudson County, New Jersey","Providence County, Rhode Island",1,0,634266,626667
-"1034","Hudson County, New Jersey","Washington County, Rhode Island",1,0,634266,126979
-"1035","Hudson County, New Jersey","Middlesex County, Massachusetts",1,0,634266,1503085
-"1036","Hudson County, New Jersey","Kent County, Rhode Island",1,0,634266,166158
-"1037","Hudson County, New Jersey","Putnam County, New York",1,0,634266,99710
-"1038","Hudson County, New Jersey","Dutchess County, New York",1,0,634266,297488
-"1039","Hudson County, New Jersey","Bronx County, New York",1,0,634266,1385108
-"1040","Hudson County, New Jersey","Newport County, Rhode Island",1,0,634266,82888
-"1041","Hudson County, New Jersey","Suffolk County, Massachusetts",1,0,634266,722023
-"1042","Hudson County, New Jersey","Queens County, New York",1,0,634266,2230722
-"1043","Hudson County, New Jersey","Berkshire County, Massachusetts",1,0,634266,131219
-"1044","Hudson County, New Jersey","Suffolk County, New York",1,0,634266,1493350
-"1045","Hudson County, New Jersey","Kings County, New York",1,0,634266,2504700
-"1046","Hudson County, New Jersey","Nassau County, New York",1,0,634266,1339532
-"1047","Hudson County, New Jersey","Hampshire County, Massachusetts",1,0,634266,158080
-"1048","Hudson County, New Jersey","Bristol County, Massachusetts",1,0,634266,548285
-"1049","Hudson County, New Jersey","Bergen County, New Jersey",1,0,634266,905116
-"1050","Hudson County, New Jersey","Norfolk County, Massachusetts",1,0,634266,670850
-"1051","Hudson County, New Jersey","Rockland County, New York",1,0,634266,311687
-"1052","Hudson County, New Jersey","Morris County, New Jersey",1,0,634266,492276
-"1053","Hudson County, New Jersey","Orange County, New York",1,0,634266,372813
-"1054","Hudson County, New Jersey","Essex County, New Jersey",1,0,634266,783969
-"1055","Rockland County, New York","Worcester County, Massachusetts",1,0,311687,798552
-"1056","Rockland County, New York","Windham County, Connecticut",1,0,311687,118428
-"1057","Rockland County, New York","New London County, Connecticut",1,0,311687,274055
-"1058","Rockland County, New York","Tolland County, Connecticut",1,0,311687,152691
-"1059","Rockland County, New York","Hartford County, Connecticut",1,0,311687,894014
-"1060","Rockland County, New York","Middlesex County, Connecticut",1,0,311687,165676
-"1061","Rockland County, New York","New Haven County, Connecticut",1,0,311687,862477
-"1062","Rockland County, New York","Fairfield County, Connecticut",1,0,311687,916829
-"1063","Rockland County, New York","Litchfield County, Connecticut",1,0,311687,189927
-"1064","Rockland County, New York","New York County, New York",1,0,311687,1585873
-"1065","Rockland County, New York","Westchester County, New York",1,0,311687,949113
-"1066","Rockland County, New York","Hampden County, Massachusetts",1,0,311687,463490
-"1067","Rockland County, New York","Providence County, Rhode Island",1,0,311687,626667
-"1068","Rockland County, New York","Washington County, Rhode Island",1,0,311687,126979
-"1069","Rockland County, New York","Middlesex County, Massachusetts",1,0,311687,1503085
-"1070","Rockland County, New York","Kent County, Rhode Island",1,0,311687,166158
-"1071","Rockland County, New York","Putnam County, New York",1,0,311687,99710
-"1072","Rockland County, New York","Dutchess County, New York",1,0,311687,297488
-"1073","Rockland County, New York","Bronx County, New York",1,0,311687,1385108
-"1074","Rockland County, New York","Newport County, Rhode Island",1,0,311687,82888
-"1075","Rockland County, New York","Suffolk County, Massachusetts",1,0,311687,722023
-"1076","Rockland County, New York","Queens County, New York",1,0,311687,2230722
-"1077","Rockland County, New York","Berkshire County, Massachusetts",1,0,311687,131219
-"1078","Rockland County, New York","Suffolk County, New York",1,0,311687,1493350
-"1079","Rockland County, New York","Kings County, New York",1,0,311687,2504700
-"1080","Rockland County, New York","Nassau County, New York",1,0,311687,1339532
-"1081","Rockland County, New York","Hampshire County, Massachusetts",1,0,311687,158080
-"1082","Rockland County, New York","Bristol County, Massachusetts",1,0,311687,548285
-"1083","Rockland County, New York","Bergen County, New Jersey",1,0,311687,905116
-"1084","Rockland County, New York","Norfolk County, Massachusetts",1,0,311687,670850
-"1085","Rockland County, New York","Hudson County, New Jersey",1,0,311687,634266
-"1086","Rockland County, New York","Morris County, New Jersey",1,0,311687,492276
-"1087","Rockland County, New York","Orange County, New York",1,0,311687,372813
-"1088","Rockland County, New York","Essex County, New Jersey",1,0,311687,783969
-"1089","Morris County, New Jersey","Worcester County, Massachusetts",1,0,492276,798552
-"1090","Morris County, New Jersey","Windham County, Connecticut",1,0,492276,118428
-"1091","Morris County, New Jersey","New London County, Connecticut",1,0,492276,274055
-"1092","Morris County, New Jersey","Tolland County, Connecticut",1,0,492276,152691
-"1093","Morris County, New Jersey","Hartford County, Connecticut",1,0,492276,894014
-"1094","Morris County, New Jersey","Middlesex County, Connecticut",1,0,492276,165676
-"1095","Morris County, New Jersey","New Haven County, Connecticut",1,0,492276,862477
-"1096","Morris County, New Jersey","Fairfield County, Connecticut",1,0,492276,916829
-"1097","Morris County, New Jersey","Litchfield County, Connecticut",1,0,492276,189927
-"1098","Morris County, New Jersey","New York County, New York",1,0,492276,1585873
-"1099","Morris County, New Jersey","Westchester County, New York",1,0,492276,949113
-"1100","Morris County, New Jersey","Hampden County, Massachusetts",1,0,492276,463490
-"1101","Morris County, New Jersey","Providence County, Rhode Island",1,0,492276,626667
-"1102","Morris County, New Jersey","Washington County, Rhode Island",1,0,492276,126979
-"1103","Morris County, New Jersey","Middlesex County, Massachusetts",1,0,492276,1503085
-"1104","Morris County, New Jersey","Kent County, Rhode Island",1,0,492276,166158
-"1105","Morris County, New Jersey","Putnam County, New York",1,0,492276,99710
-"1106","Morris County, New Jersey","Dutchess County, New York",1,0,492276,297488
-"1107","Morris County, New Jersey","Bronx County, New York",1,0,492276,1385108
-"1108","Morris County, New Jersey","Newport County, Rhode Island",1,0,492276,82888
-"1109","Morris County, New Jersey","Suffolk County, Massachusetts",1,0,492276,722023
-"1110","Morris County, New Jersey","Queens County, New York",1,0,492276,2230722
-"1111","Morris County, New Jersey","Berkshire County, Massachusetts",1,0,492276,131219
-"1112","Morris County, New Jersey","Suffolk County, New York",1,0,492276,1493350
-"1113","Morris County, New Jersey","Kings County, New York",1,0,492276,2504700
-"1114","Morris County, New Jersey","Nassau County, New York",1,0,492276,1339532
-"1115","Morris County, New Jersey","Hampshire County, Massachusetts",1,0,492276,158080
-"1116","Morris County, New Jersey","Bristol County, Massachusetts",1,0,492276,548285
-"1117","Morris County, New Jersey","Bergen County, New Jersey",1,0,492276,905116
-"1118","Morris County, New Jersey","Norfolk County, Massachusetts",1,0,492276,670850
-"1119","Morris County, New Jersey","Hudson County, New Jersey",1,0,492276,634266
-"1120","Morris County, New Jersey","Rockland County, New York",1,0,492276,311687
-"1121","Morris County, New Jersey","Orange County, New York",1,0,492276,372813
-"1122","Morris County, New Jersey","Essex County, New Jersey",1,0,492276,783969
-"1123","Orange County, New York","Worcester County, Massachusetts",1,0,372813,798552
-"1124","Orange County, New York","Windham County, Connecticut",1,0,372813,118428
-"1125","Orange County, New York","New London County, Connecticut",1,0,372813,274055
-"1126","Orange County, New York","Tolland County, Connecticut",1,0,372813,152691
-"1127","Orange County, New York","Hartford County, Connecticut",1,0,372813,894014
-"1128","Orange County, New York","Middlesex County, Connecticut",1,0,372813,165676
-"1129","Orange County, New York","New Haven County, Connecticut",1,0,372813,862477
-"1130","Orange County, New York","Fairfield County, Connecticut",1,0,372813,916829
-"1131","Orange County, New York","Litchfield County, Connecticut",1,0,372813,189927
-"1132","Orange County, New York","New York County, New York",1,0,372813,1585873
-"1133","Orange County, New York","Westchester County, New York",1,0,372813,949113
-"1134","Orange County, New York","Hampden County, Massachusetts",1,0,372813,463490
-"1135","Orange County, New York","Providence County, Rhode Island",1,0,372813,626667
-"1136","Orange County, New York","Washington County, Rhode Island",1,0,372813,126979
-"1137","Orange County, New York","Middlesex County, Massachusetts",1,0,372813,1503085
-"1138","Orange County, New York","Kent County, Rhode Island",1,0,372813,166158
-"1139","Orange County, New York","Putnam County, New York",1,0,372813,99710
-"1140","Orange County, New York","Dutchess County, New York",1,0,372813,297488
-"1141","Orange County, New York","Bronx County, New York",1,0,372813,1385108
-"1142","Orange County, New York","Newport County, Rhode Island",1,0,372813,82888
-"1143","Orange County, New York","Suffolk County, Massachusetts",1,0,372813,722023
-"1144","Orange County, New York","Queens County, New York",1,0,372813,2230722
-"1145","Orange County, New York","Berkshire County, Massachusetts",1,0,372813,131219
-"1146","Orange County, New York","Suffolk County, New York",1,0,372813,1493350
-"1147","Orange County, New York","Kings County, New York",1,0,372813,2504700
-"1148","Orange County, New York","Nassau County, New York",1,0,372813,1339532
-"1149","Orange County, New York","Hampshire County, Massachusetts",1,0,372813,158080
-"1150","Orange County, New York","Bristol County, Massachusetts",1,0,372813,548285
-"1151","Orange County, New York","Bergen County, New Jersey",1,0,372813,905116
-"1152","Orange County, New York","Norfolk County, Massachusetts",1,0,372813,670850
-"1153","Orange County, New York","Hudson County, New Jersey",1,0,372813,634266
-"1154","Orange County, New York","Rockland County, New York",1,0,372813,311687
-"1155","Orange County, New York","Morris County, New Jersey",1,0,372813,492276
-"1156","Orange County, New York","Essex County, New Jersey",1,0,372813,783969
-"1157","Essex County, New Jersey","Worcester County, Massachusetts",1,0,783969,798552
-"1158","Essex County, New Jersey","Windham County, Connecticut",1,0,783969,118428
-"1159","Essex County, New Jersey","New London County, Connecticut",1,0,783969,274055
-"1160","Essex County, New Jersey","Tolland County, Connecticut",1,0,783969,152691
-"1161","Essex County, New Jersey","Hartford County, Connecticut",1,0,783969,894014
-"1162","Essex County, New Jersey","Middlesex County, Connecticut",1,0,783969,165676
-"1163","Essex County, New Jersey","New Haven County, Connecticut",1,0,783969,862477
-"1164","Essex County, New Jersey","Fairfield County, Connecticut",1,0,783969,916829
-"1165","Essex County, New Jersey","Litchfield County, Connecticut",1,0,783969,189927
-"1166","Essex County, New Jersey","New York County, New York",1,0,783969,1585873
-"1167","Essex County, New Jersey","Westchester County, New York",1,0,783969,949113
-"1168","Essex County, New Jersey","Hampden County, Massachusetts",1,0,783969,463490
-"1169","Essex County, New Jersey","Providence County, Rhode Island",1,0,783969,626667
-"1170","Essex County, New Jersey","Washington County, Rhode Island",1,0,783969,126979
-"1171","Essex County, New Jersey","Middlesex County, Massachusetts",1,0,783969,1503085
-"1172","Essex County, New Jersey","Kent County, Rhode Island",1,0,783969,166158
-"1173","Essex County, New Jersey","Putnam County, New York",1,0,783969,99710
-"1174","Essex County, New Jersey","Dutchess County, New York",1,0,783969,297488
-"1175","Essex County, New Jersey","Bronx County, New York",1,0,783969,1385108
-"1176","Essex County, New Jersey","Newport County, Rhode Island",1,0,783969,82888
-"1177","Essex County, New Jersey","Suffolk County, Massachusetts",1,0,783969,722023
-"1178","Essex County, New Jersey","Queens County, New York",1,0,783969,2230722
-"1179","Essex County, New Jersey","Berkshire County, Massachusetts",1,0,783969,131219
-"1180","Essex County, New Jersey","Suffolk County, New York",1,0,783969,1493350
-"1181","Essex County, New Jersey","Kings County, New York",1,0,783969,2504700
-"1182","Essex County, New Jersey","Nassau County, New York",1,0,783969,1339532
-"1183","Essex County, New Jersey","Hampshire County, Massachusetts",1,0,783969,158080
-"1184","Essex County, New Jersey","Bristol County, Massachusetts",1,0,783969,548285
-"1185","Essex County, New Jersey","Bergen County, New Jersey",1,0,783969,905116
-"1186","Essex County, New Jersey","Norfolk County, Massachusetts",1,0,783969,670850
-"1187","Essex County, New Jersey","Hudson County, New Jersey",1,0,783969,634266
-"1188","Essex County, New Jersey","Rockland County, New York",1,0,783969,311687
-"1189","Essex County, New Jersey","Morris County, New Jersey",1,0,783969,492276
-"1190","Essex County, New Jersey","Orange County, New York",1,0,783969,372813
+"1","Tolland County, Connecticut","Hartford County, Connecticut",1,0.226994387357474,152691,894014
+"2","Middlesex County, Connecticut","New Haven County, Connecticut",1,0.0797460102851349,165676,862477
+"3","Windham County, Connecticut","New London County, Connecticut",1,0.0680328976255615,118428,274055
+"4","Litchfield County, Connecticut","Fairfield County, Connecticut",1,0.0614130692318628,189927,916829
+"6","Middlesex County, Connecticut","Hartford County, Connecticut",1,0.114090151862672,165676,894014
+"71","Litchfield County, Connecticut","New Haven County, Connecticut",1,0.0725752525970504,189927,862477
+"61","Litchfield County, Connecticut","Hartford County, Connecticut",1,0.0688738304717076,189927,894014
+"31","New Haven County, Connecticut","Fairfield County, Connecticut",1,0.0657339268177586,862477,916829
+"21","New Haven County, Connecticut","Hartford County, Connecticut",1,0.0287045335701706,862477,894014
+"12","Windham County, Connecticut","Worcester County, Massachusetts",1,0.0328807376633904,118428,798552
+"32","Windham County, Connecticut","Tolland County, Connecticut",1,0.0360049988178471,118428,152691
+"42","Windham County, Connecticut","Hartford County, Connecticut",1,0.0273415070760293,118428,894014
+"62","New London County, Connecticut","Hartford County, Connecticut",1,0.0257503055955921,274055,894014
+"25","Fairfield County, Connecticut","New Haven County, Connecticut",1,0.0243415075221224,916829,862477
+"13","Hartford County, Connecticut","New Haven County, Connecticut",1,0.0205757404246466,894014,862477
+"19","Middlesex County, Connecticut","New London County, Connecticut",1,0.0201417223979333,165676,274055
+"81","Tolland County, Connecticut","Windham County, Connecticut",1,0.019169433692883,152691,118428
+"72","New London County, Connecticut","Middlesex County, Connecticut",1,0.013778256189451,274055,165676
+"14","Hartford County, Connecticut","Middlesex County, Connecticut",1,0.0127671378747984,894014,165676
+"9","Tolland County, Connecticut","New London County, Connecticut",1,0.0109371213758506,152691,274055
+"52","New London County, Connecticut","Windham County, Connecticut",1,0.00991406834394556,274055,118428
+"16","New Haven County, Connecticut","Middlesex County, Connecticut",1,0.00952721058068795,862477,165676
+"121","Hartford County, Connecticut","Tolland County, Connecticut",1,0.00891149355602932,894014,152691
+"17","New Haven County, Connecticut","Litchfield County, Connecticut",1,0.008593852357802,862477,189927
+"111","Tolland County, Connecticut","New Haven County, Connecticut",1,0.00804893543168884,152691,862477
+"30","Fairfield County, Connecticut","New York County, New York",1,0.028476411631831,916829,1585873
+"131","Tolland County, Connecticut","Middlesex County, Connecticut",1,0.00700761668991624,152691,165676
+"241","Middlesex County, Connecticut","Fairfield County, Connecticut",1,0.00652478331200657,165676,916829
+"73","New London County, Connecticut","New Haven County, Connecticut",1,0.00625421904362263,274055,862477
+"28","Litchfield County, Connecticut","New York County, New York",1,0.00534415854512523,189927,1585873
+"37","Fairfield County, Connecticut","Westchester County, New York",1,0.0221437149130318,916829,949113
+"182","Hartford County, Connecticut","Litchfield County, Connecticut",1,0.00371246982709443,894014,189927
+"64","New London County, Connecticut","Tolland County, Connecticut",1,0.00313075842440386,274055,152691
+"192","Hartford County, Connecticut","Fairfield County, Connecticut",1,0.00300666432516717,894014,916829
+"242","New Haven County, Connecticut","New York County, New York",1,0.002921817045556,862477,1585873
+"35","Fairfield County, Connecticut","Litchfield County, Connecticut",1,0.00285331288604527,916829,189927
+"331","Litchfield County, Connecticut","Westchester County, New York",1,0.00278528066046428,189927,949113
+"193","Tolland County, Connecticut","Hampden County, Massachusetts",1,0.0118802025004748,152691,463490
+"263","Hartford County, Connecticut","Hampden County, Massachusetts",1,0.00625381705431906,894014,463490
+"421","Fairfield County, Connecticut","Hartford County, Connecticut",1,0.00253918669675588,916829,894014
+"124","Tolland County, Connecticut","Worcester County, Massachusetts",1,0.00230530941574815,152691,798552
+"65","Windham County, Connecticut","Middlesex County, Connecticut",1,0.00227986624784679,118428,165676
+"203","Hartford County, Connecticut","New London County, Connecticut",1,0.00225611679459158,894014,274055
+"332","Middlesex County, Connecticut","Tolland County, Connecticut",1,0.00212462879354885,165676,152691
+"183","Tolland County, Connecticut","Fairfield County, Connecticut",1,0.00185996555134225,152691,916829
+"55","Windham County, Connecticut","New Haven County, Connecticut",1,0.00175634140574864,118428,862477
+"76","Windham County, Connecticut","Providence County, Rhode Island",1,0.00873948728341271,118428,626667
+"451","Litchfield County, Connecticut","Middlesex County, Connecticut",1,0.00172171413227187,189927,165676
+"303","New Haven County, Connecticut","New London County, Connecticut",1,0.00168120425240325,862477,274055
+"144","New London County, Connecticut","Providence County, Rhode Island",1,0.00141577420590757,274055,626667
+"362","New Haven County, Connecticut","Westchester County, New York",1,0.00138206584059633,862477,949113
+"134","New London County, Connecticut","Fairfield County, Connecticut",1,0.00130995603072376,274055,916829
+"422","Middlesex County, Connecticut","New York County, New York",1,0.00115285255559043,165676,1585873
+"165","New London County, Connecticut","Washington County, Rhode Island",1,0.0068234478480597,274055,126979
+"86","Windham County, Connecticut","Washington County, Rhode Island",1,0.00189144459080623,118428,126979
+"392","Middlesex County, Connecticut","Windham County, Connecticut",1,0.000736377025036819,165676,118428
+"1111","Windham County, Connecticut","Middlesex County, Massachusetts",1,0.0043739656162394,118428,1503085
+"295","Tolland County, Connecticut","Middlesex County, Massachusetts",1,0.000720409192421295,152691,1503085
+"186","New London County, Connecticut","New York County, New York",1,0.000656802466658153,274055,1585873
+"78","Windham County, Connecticut","Fairfield County, Connecticut",1,0.000607964332759145,118428,916829
+"374","Hartford County, Connecticut","New York County, New York",1,0.000598424633171293,894014,1585873
+"305","Hartford County, Connecticut","Windham County, Connecticut",1,0.000592831879590252,894014,118428
+"87","Windham County, Connecticut","Hampden County, Massachusetts",1,0.000540412740230351,118428,463490
+"1210","Windham County, Connecticut","Kent County, Rhode Island",1,0.00369000574188537,118428,166158
+"237","New London County, Connecticut","Kent County, Rhode Island",1,0.000664100271843243,274055,166158
+"435","New Haven County, Connecticut","Tolland County, Connecticut",1,0.000410445727828104,862477,152691
+"137","New London County, Connecticut","Worcester County, Massachusetts",1,0.000401379285179982,274055,798552
+"572","Middlesex County, Connecticut","Providence County, Rhode Island",1,0.000307829739974408,165676,626667
+"661","Fairfield County, Connecticut","Middlesex County, Connecticut",1,0.000304309745874094,916829,165676
+"781","Fairfield County, Connecticut","Putnam County, New York",1,0.0018269491911796,916829,99710
+"691","Litchfield County, Connecticut","Putnam County, New York",1,0.000874020018217526,189927,99710
+"582","Middlesex County, Connecticut","Litchfield County, Connecticut",1,0.000271614476448007,165676,189927
+"346","Hartford County, Connecticut","Worcester County, Massachusetts",1,0.000270689273322342,894014,798552
+"711","Fairfield County, Connecticut","Tolland County, Connecticut",1,0.000263953256277888,916829,152691
+"446","Hartford County, Connecticut","Middlesex County, Massachusetts",1,0.000248318258998181,894014,1503085
+"2113","New London County, Connecticut","Hampden County, Massachusetts",1,0.00024812537629308,274055,463490
+"70","Fairfield County, Connecticut","New London County, Connecticut",1,0.000208326743591226,916829,274055
+"623","Litchfield County, Connecticut","New London County, Connecticut",1,0.000179016148309614,189927,274055
+"732","Litchfield County, Connecticut","Dutchess County, New York",1,0.00194811690807521,189927,297488
+"831","Fairfield County, Connecticut","Dutchess County, New York",1,0.000520271501010548,916829,297488
+"810","Windham County, Connecticut","New York County, New York",1,0.000168878981321985,118428,1585873
+"713","Litchfield County, Connecticut","Middlesex County, Massachusetts",1,0.000152690244146435,189927,1503085
+"545","New Haven County, Connecticut","Hampden County, Massachusetts",1,0.00015188810832057,862477,463490
+"881","Fairfield County, Connecticut","Bronx County, New York",1,0.00167533967621007,916829,1385108
+"566","New Haven County, Connecticut","Bronx County, New York",1,0.00020754176633116,862477,1385108
+"654","Middlesex County, Connecticut","Hampden County, Massachusetts",1,0.000144861054105604,165676,463490
+"851","Fairfield County, Connecticut","Middlesex County, Massachusetts",1,0.000131976628138944,916829,1503085
+"2510","New London County, Connecticut","Middlesex County, Massachusetts",1,0.000116764882961449,274055,1503085
+"2810","New London County, Connecticut","Newport County, Rhode Island",1,0.00168944190034847,274055,82888
+"1411","Windham County, Connecticut","Newport County, Rhode Island",1,0.000118215286925389,118428,82888
+"507","New Haven County, Connecticut","Windham County, Connecticut",1,0.000102031706352749,862477,118428
+"605","New Haven County, Connecticut","Middlesex County, Massachusetts",1,9.85533527270872e-05,862477,1503085
+"369","Tolland County, Connecticut","New York County, New York",1,9.82376171483585e-05,152691,1585873
+"1512","Windham County, Connecticut","Suffolk County, Massachusetts",1,0.000607964332759145,118428,722023
+"3011","New London County, Connecticut","Suffolk County, Massachusetts",1,0.000346645746291803,274055,722023
+"4211","Tolland County, Connecticut","Suffolk County, Massachusetts",1,0.000281614502491961,152691,722023
+"548","Hartford County, Connecticut","Suffolk County, Massachusetts",1,0.000206931882498484,894014,722023
+"676","New Haven County, Connecticut","Suffolk County, Massachusetts",1,0.000106669511186965,862477,722023
+"4114","Tolland County, Connecticut","Kent County, Rhode Island",1,8.5139268195244e-05,152691,166158
+"1041","Fairfield County, Connecticut","Queens County, New York",1,0.000970737182179011,916829,2230722
+"696","New Haven County, Connecticut","Queens County, New York",1,0.00026899268038452,862477,2230722
+"902","Litchfield County, Connecticut","Queens County, New York",1,0.000257993860799149,189927,2230722
+"4311","Tolland County, Connecticut","Queens County, New York",1,0.000111335966101473,152691,2230722
+"1031","Fairfield County, Connecticut","Suffolk County, Massachusetts",1,8.39851269975099e-05,916829,722023
+"934","Litchfield County, Connecticut","Berkshire County, Massachusetts",1,0.00143739436730955,189927,131219
+"5410","Hartford County, Connecticut","Westchester County, New York",1,7.94171008507697e-05,894014,949113
+"2216","New London County, Connecticut","Litchfield County, Connecticut",1,7.66269544434511e-05,274055,189927
+"3215","New London County, Connecticut","Suffolk County, New York",1,0.00062761124591779,274055,1493350
+"886","Middlesex County, Connecticut","Suffolk County, New York",1,0.000470798425843212,165676,1493350
+"1181","Fairfield County, Connecticut","Suffolk County, New York",1,0.000114525173178423,916829,1493350
+"768","New Haven County, Connecticut","Suffolk County, New York",1,7.53643285560079e-05,862477,1493350
+"1033","Litchfield County, Connecticut","Suffolk County, New York",1,6.84473508242641e-05,189927,1493350
+"856","Middlesex County, Connecticut","Westchester County, New York",1,6.63946497984017e-05,165676,949113
+"3912","Tolland County, Connecticut","Litchfield County, Connecticut",1,6.54917447655723e-05,152691,189927
+"4313","Tolland County, Connecticut","Providence County, Rhode Island",1,6.54917447655723e-05,152691,626667
+"964","Litchfield County, Connecticut","Hampden County, Massachusetts",1,6.31821699916284e-05,189927,463490
+"1002","Litchfield County, Connecticut","Bronx County, New York",1,6.31821699916284e-05,189927,1385108
+"6114","Hartford County, Connecticut","Queens County, New York",1,6.26388401076493e-05,894014,2230722
+"1221","Fairfield County, Connecticut","Kings County, New York",1,0.000632615242318906,916829,2504700
+"779","New Haven County, Connecticut","Kings County, New York",1,0.000264354875550305,862477,2504700
+"1024","Litchfield County, Connecticut","Suffolk County, Massachusetts",1,5.79169891589926e-05,189927,722023
+"1063","Fairfield County, Connecticut","Windham County, Connecticut",1,3.81750577261409e-05,916829,118428
+"1281","Fairfield County, Connecticut","Nassau County, New York",1,0.000559537274671722,916829,1339532
+"8113","New Haven County, Connecticut","Nassau County, New York",1,7.65237797645618e-05,862477,1339532
+"6213","Hartford County, Connecticut","Suffolk County, New York",1,2.90823186214086e-05,894014,1493350
+"6312","Hartford County, Connecticut","Nassau County, New York",1,2.79637679052006e-05,894014,1339532
+"7410","New Haven County, Connecticut","Providence County, Rhode Island",1,2.78268290052952e-05,862477,626667
+"1192","Fairfield County, Connecticut","Hampden County, Massachusetts",1,2.72678983758149e-05,916829,463490
+"6512","Hartford County, Connecticut","Hampshire County, Massachusetts",1,0.000389255649240392,894014,158080
+"4814","Tolland County, Connecticut","Hampshire County, Massachusetts",1,0.000216122757726389,152691,158080
+"1055","Litchfield County, Connecticut","Washington County, Rhode Island",1,2.63259041631785e-05,189927,126979
+"957","Middlesex County, Connecticut","Bronx County, New York",1,2.41435090176006e-05,165676,1385108
+"1619","Windham County, Connecticut","Bristol County, Massachusetts",1,0.000565744587428649,118428,548285
+"3417","New London County, Connecticut","Bristol County, Massachusetts",1,2.91912207403623e-05,274055,548285
+"1371","Fairfield County, Connecticut","Bergen County, New Jersey",1,0.000545357967516298,916829,905116
+"6216","Hartford County, Connecticut","Providence County, Rhode Island",1,2.12524636079524e-05,894014,626667
+"6315","Hartford County, Connecticut","Washington County, Rhode Island",1,2.12524636079524e-05,894014,126979
+"1721","Windham County, Connecticut","Norfolk County, Massachusetts",1,0.000312426115445672,118428,670850
+"7414","Hartford County, Connecticut","Norfolk County, Massachusetts",1,3.80307243510728e-05,894014,670850
+"1097","Middlesex County, Connecticut","Norfolk County, Massachusetts",1,3.62152635264009e-05,165676,670850
+"5121","Tolland County, Connecticut","Berkshire County, Massachusetts",1,1.96475234296717e-05,152691,131219
+"1068","Middlesex County, Connecticut","Queens County, New York",1,1.81076317632005e-05,165676,2230722
+"1087","Middlesex County, Connecticut","Hampshire County, Massachusetts",1,1.81076317632005e-05,165676,158080
+"9311","New Haven County, Connecticut","Norfolk County, Massachusetts",1,1.73917681283095e-05,862477,670850
+"6715","Hartford County, Connecticut","Dutchess County, New York",1,1.67782607431204e-05,894014,297488
+"7314","Hartford County, Connecticut","Bristol County, Massachusetts",1,1.45411593107043e-05,894014,548285
+"15110","Fairfield County, Connecticut","Hudson County, New Jersey",1,0.000284676859043508,916829,634266
+"9511","New Haven County, Connecticut","Bergen County, New Jersey",1,1.39134145026476e-05,862477,905116
+"7119","Hartford County, Connecticut","Berkshire County, Massachusetts",1,1.34226085944963e-05,894014,131219
+"3620","New London County, Connecticut","Norfolk County, Massachusetts",1,1.09467077776359e-05,274055,670850
+"1305","Litchfield County, Connecticut","Hudson County, New Jersey",1,1.05303616652714e-05,189927,634266
+"1531","Fairfield County, Connecticut","Rockland County, New York",1,0.000238866789772139,916829,311687
+"9712","New Haven County, Connecticut","Rockland County, New York",1,4.75374995507127e-05,862477,311687
+"1591","Fairfield County, Connecticut","Morris County, New Jersey",1,0.000122160184723651,916829,492276
+"10011","New Haven County, Connecticut","Morris County, New Jersey",1,6.26103652619142e-05,862477,492276
+"1624","Windham County, Connecticut","Suffolk County, New York",1,8.44394906609922e-06,118428,1493350
+"9013","New Haven County, Connecticut","Putnam County, New York",1,8.11615845987777e-06,862477,99710
+"1365","Fairfield County, Connecticut","Worcester County, Massachusetts",1,6.54429561019557e-06,916829,798552
+"11214","Middlesex County, Connecticut","Kent County, Rhode Island",1,6.03587725440016e-06,165676,166158
+"1641","Fairfield County, Connecticut","Orange County, New York",1,0.000145065219359335,916829,372813
+"1395","Litchfield County, Connecticut","Orange County, New York",1,1.57955424979071e-05,189927,372813
+"11811","Litchfield County, Connecticut","Windham County, Connecticut",1,5.26518083263569e-06,189927,118428
+"1376","Litchfield County, Connecticut","Kings County, New York",1,5.26518083263569e-06,189927,2504700
+"12010","Litchfield County, Connecticut","Tolland County, Connecticut",1,5.26518083263566e-06,189927,152691
+"1681","Fairfield County, Connecticut","Essex County, New Jersey",1,0.000102527297893064,916829,783969
+"10315","New Haven County, Connecticut","Essex County, New Jersey",1,3.4783536256619e-05,862477,783969
+"9218","New Haven County, Connecticut","Dutchess County, New York",1,4.63780483421588e-06,862477,297488
+"7819","Hartford County, Connecticut","Orange County, New York",1,4.4742028648321e-06,894014,372813

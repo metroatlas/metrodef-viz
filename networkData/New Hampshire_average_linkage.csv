@@ -1,931 +1,156 @@
 "","source","target","cluster","pct","srcpop","tarpop"
-"187","Strafford County, New Hampshire","Rockingham County, New Hampshire",1,0.1236692300821,123143,295223
-"63","Sullivan County, New Hampshire","Grafton County, New Hampshire",1,0.0870787801197933,43742,89118
-"311","Merrimack County, New Hampshire","Hillsborough County, New Hampshire",1,0.0799344463791867,146445,400721
-"371","Belknap County, New Hampshire","Merrimack County, New Hampshire",1,0.0763213952869125,60088,146445
-"218","Rockingham County, New Hampshire","Essex County, Massachusetts",1,0.0685312458717647,295223,743159
-"221","Rockingham County, New Hampshire","Hillsborough County, New Hampshire",1,0.0541997066624213,295223,400721
-"340","Hillsborough County, New Hampshire","Middlesex County, Massachusetts",1,0.0528522338484881,400721,1503085
-"219","Rockingham County, New Hampshire","Middlesex County, Massachusetts",1,0.0444816291413609,295223,1503085
-"496","Cheshire County, New Hampshire","Windham County, Vermont",1,0.0349209642491279,77117,44513
-"338","Hillsborough County, New Hampshire","Rockingham County, New Hampshire",1,0.0346425567913835,400721,295223
-"62","Sullivan County, New Hampshire","Windsor County, Vermont",1,0.0333318092451191,43742,56670
-"124","Coos County, New Hampshire","Grafton County, New Hampshire",1,0.0319165027983664,33055,89118
-"492","Cheshire County, New Hampshire","Hillsborough County, New Hampshire",1,0.025856814969462,77117,400721
-"341","Hillsborough County, New Hampshire","Merrimack County, New Hampshire",1,0.0252769383186806,400721,146445
-"181","Strafford County, New Hampshire","York County, Maine",1,0.0240046125236514,123143,197131
-"70","Sullivan County, New Hampshire","Merrimack County, New Hampshire",1,0.0227470165973207,43742,146445
-"312","Merrimack County, New Hampshire","Belknap County, New Hampshire",1,0.0210522721840964,146445,60088
-"308","Merrimack County, New Hampshire","Rockingham County, New Hampshire",1,0.0197685137765031,146445,295223
-"162","Carroll County, New Hampshire","Belknap County, New Hampshire",1,0.0196996946756452,47818,60088
-"156","Carroll County, New Hampshire","Strafford County, New Hampshire",1,0.0175666067171358,47818,123143
-"102","Grafton County, New Hampshire","Belknap County, New Hampshire",1,0.0174375547027537,89118,60088
-"217","Rockingham County, New Hampshire","Strafford County, New Hampshire",1,0.0163774502664088,295223,123143
-"76","Sullivan County, New Hampshire","Cheshire County, New Hampshire",1,0.0161858168350784,43742,77117
-"364","Belknap County, New Hampshire","Grafton County, New Hampshire",1,0.0142790573825057,60088,89118
-"92","Grafton County, New Hampshire","Windsor County, Vermont",1,0.0142395475661483,89118,56670
-"100","Grafton County, New Hampshire","Merrimack County, New Hampshire",1,0.0139365784689962,89118,146445
-"339","Hillsborough County, New Hampshire","Essex County, Massachusetts",1,0.0130389972075334,400721,743159
-"372","Belknap County, New Hampshire","Hillsborough County, New Hampshire",1,0.0126148315803488,60088,400721
-"220","Rockingham County, New Hampshire","Merrimack County, New Hampshire",1,0.012512575239734,295223,146445
-"223","Rockingham County, New Hampshire","Suffolk County, Massachusetts",1,0.0120959410344045,295223,722023
-"495","Cheshire County, New Hampshire","Worcester County, Massachusetts",1,0.011216722642219,77117,798552
-"191","Strafford County, New Hampshire","Hillsborough County, New Hampshire",1,0.0104187814167269,123143,400721
-"137","Coos County, New Hampshire","Essex County, Vermont",1,0.0102858871577674,33055,6306
-"366","Belknap County, New Hampshire","Carroll County, New Hampshire",1,0.0101517773931567,60088,47818
-"367","Belknap County, New Hampshire","Strafford County, New Hampshire",1,0.0101517773931567,60088,123143
-"190","Strafford County, New Hampshire","Merrimack County, New Hampshire",1,0.00972040635683717,123143,146445
-"304","Merrimack County, New Hampshire","Grafton County, New Hampshire",1,0.0091297073986821,146445,89118
-"125","Coos County, New Hampshire","Carroll County, New Hampshire",1,0.00898502495840266,33055,47818
-"343","Hillsborough County, New Hampshire","Suffolk County, Massachusetts",1,0.00768614572233549,400721,722023
-"188","Strafford County, New Hampshire","Essex County, Massachusetts",1,0.00688630291612191,123143,743159
-"368","Belknap County, New Hampshire","Rockingham County, New Hampshire",1,0.00642391159632539,60088,295223
-"211","Rockingham County, New Hampshire","York County, Maine",1,0.00606998777195544,295223,197131
-"71","Sullivan County, New Hampshire","Hillsborough County, New Hampshire",1,0.00603538932833432,43742,400721
-"157","Carroll County, New Hampshire","Rockingham County, New Hampshire",1,0.00596009870759965,47818,295223
-"310","Merrimack County, New Hampshire","Middlesex County, Massachusetts",1,0.00591348287753081,146445,1503085
-"160","Carroll County, New Hampshire","Merrimack County, New Hampshire",1,0.00568823455602493,47818,146445
-"75","Sullivan County, New Hampshire","Windham County, Vermont",1,0.00454940331946413,43742,44513
-"483","Cheshire County, New Hampshire","Sullivan County, New Hampshire",1,0.00448668905688759,77117,43742
-"490","Cheshire County, New Hampshire","Middlesex County, Massachusetts",1,0.0043959178909968,77117,1503085
-"154","Carroll County, New Hampshire","Grafton County, New Hampshire",1,0.00430800117110712,47818,89118
-"109","Grafton County, New Hampshire","Orange County, Vermont",1,0.00407325119504477,89118,28936
-"94","Grafton County, New Hampshire","Coos County, New Hampshire",1,0.00368051347651428,89118,33055
-"155","Carroll County, New Hampshire","Coos County, New Hampshire",1,0.00361788447864821,47818,33055
-"346","Hillsborough County, New Hampshire","Cheshire County, New Hampshire",1,0.00361598219209874,400721,77117
-"303","Merrimack County, New Hampshire","Sullivan County, New Hampshire",1,0.00357813513605791,146445,43742
-"101","Grafton County, New Hampshire","Hillsborough County, New Hampshire",1,0.00338876545703449,89118,400721
-"93","Grafton County, New Hampshire","Sullivan County, New Hampshire",1,0.0032428914472946,89118,43742
-"189","Strafford County, New Hampshire","Middlesex County, Massachusetts",1,0.00321577353158523,123143,1503085
-"344","Hillsborough County, New Hampshire","Worcester County, Massachusetts",1,0.00315431434838703,400721,798552
-"186","Strafford County, New Hampshire","Carroll County, New Hampshire",1,0.00302087816603461,123143,47818
-"503","Cheshire County, New Hampshire","Franklin County, Massachusetts",1,0.00300841578380902,77117,71372
-"171","Carroll County, New Hampshire","Oxford County, Maine",1,0.00282320465096825,47818,57833
-"130","Coos County, New Hampshire","Merrimack County, New Hampshire",1,0.00263197700801694,33055,146445
-"307","Merrimack County, New Hampshire","Strafford County, New Hampshire",1,0.00262897333469903,146445,123143
-"159","Carroll County, New Hampshire","Middlesex County, Massachusetts",1,0.00250951524530512,47818,1503085
-"110","Grafton County, New Hampshire","Caledonia County, Vermont",1,0.00241253169954442,89118,31227
-"161","Carroll County, New Hampshire","Hillsborough County, New Hampshire",1,0.00240495211008407,47818,400721
-"309","Merrimack County, New Hampshire","Essex County, Massachusetts",1,0.00238314725664925,146445,743159
-"192","Strafford County, New Hampshire","Belknap County, New Hampshire",1,0.00232250310614489,123143,60088
-"193","Strafford County, New Hampshire","Suffolk County, Massachusetts",1,0.00229814118545106,123143,722023
-"491","Cheshire County, New Hampshire","Merrimack County, New Hampshire",1,0.00223037721903082,77117,146445
-"370","Belknap County, New Hampshire","Middlesex County, Massachusetts",1,0.00218013580082546,60088,1503085
-"482","Cheshire County, New Hampshire","Windsor County, Vermont",1,0.00210070412490112,77117,56670
-"228","Rockingham County, New Hampshire","Norfolk County, Massachusetts",1,0.00189687117873607,295223,670850
-"348","Hillsborough County, New Hampshire","Norfolk County, Massachusetts",1,0.00179426583583091,400721,670850
-"313","Merrimack County, New Hampshire","Suffolk County, Massachusetts",1,0.00153641298781112,146445,722023
-"158","Carroll County, New Hampshire","Essex County, Massachusetts",1,0.00146388389309465,47818,743159
-"202","Strafford County, New Hampshire","Cumberland County, Maine",1,0.00142111204047327,123143,281674
-"488","Cheshire County, New Hampshire","Rockingham County, New Hampshire",1,0.00138750210718778,77117,295223
-"151","Carroll County, New Hampshire","York County, Maine",1,0.0013593207578736,47818,197131
-"97","Grafton County, New Hampshire","Rockingham County, New Hampshire",1,0.00134652932067596,89118,295223
-"224","Rockingham County, New Hampshire","Worcester County, Massachusetts",1,0.00122280445629236,295223,798552
-"337","Hillsborough County, New Hampshire","Strafford County, New Hampshire",1,0.00108554330818699,400721,123143
-"140","Coos County, New Hampshire","Caledonia County, Vermont",1,0.00102858871577674,33055,31227
-"369","Belknap County, New Hampshire","Essex County, Massachusetts",1,0.000998535481294102,60088,743159
-"95","Grafton County, New Hampshire","Carroll County, New Hampshire",1,0.000931349446800871,89118,47818
-"163","Carroll County, New Hampshire","Suffolk County, Massachusetts",1,0.000899242962901,47818,722023
-"316","Merrimack County, New Hampshire","Cheshire County, New Hampshire",1,0.000710164225477142,146445,77117
-"99","Grafton County, New Hampshire","Middlesex County, Massachusetts",1,0.000594717116631881,89118,1503085
-"318","Merrimack County, New Hampshire","Norfolk County, Massachusetts",1,0.000573594182116153,146445,670850
-"301","Merrimack County, New Hampshire","York County, Maine",1,0.000573594182116153,146445,197131
-"232","Rockingham County, New Hampshire","Cumberland County, Maine",1,0.000558899543734736,295223,281674
-"334","Hillsborough County, New Hampshire","Grafton County, New Hampshire",1,0.000544019405022447,400721,89118
-"184","Strafford County, New Hampshire","Grafton County, New Hampshire",1,0.000519720974801653,123143,89118
-"342","Hillsborough County, New Hampshire","Belknap County, New Hampshire",1,0.000519064386443436,400721,60088
-"494","Cheshire County, New Hampshire","Suffolk County, Massachusetts",1,0.000518692376518796,77117,722023
-"352","Hillsborough County, New Hampshire","Cumberland County, Maine",1,0.000454181338138006,400721,281674
-"361","Belknap County, New Hampshire","York County, Maine",1,0.000432698708560778,60088,197131
-"306","Merrimack County, New Hampshire","Carroll County, New Hampshire",1,0.000382396121410769,146445,47818
-"222","Rockingham County, New Hampshire","Belknap County, New Hampshire",1,0.000375986965785186,295223,60088
-"302","Merrimack County, New Hampshire","Windsor County, Vermont",1,0.000327768104066373,146445,56670
-"103","Grafton County, New Hampshire","Suffolk County, Massachusetts",1,0.00031419017482439,89118,722023
-"131","Coos County, New Hampshire","Hillsborough County, New Hampshire",1,0.000302526092875511,33055,400721
-"141","Coos County, New Hampshire","Oxford County, Maine",1,0.00030252609287551,33055,57833
-"172","Carroll County, New Hampshire","Cumberland County, Maine",1,0.00029277677861893,47818,281674
-"322","Merrimack County, New Hampshire","Cumberland County, Maine",1,0.000286797091058076,146445,281674
-"505","Cheshire County, New Hampshire","Hampshire County, Massachusetts",1,0.000272313497672368,77117,158080
-"374","Belknap County, New Hampshire","Worcester County, Massachusetts",1,0.000249633870323526,60088,798552
-"96","Grafton County, New Hampshire","Strafford County, New Hampshire",1,0.000235642631118293,89118,123143
-"354","Hillsborough County, New Hampshire","Plymouth County, Massachusetts",1,0.000224595167211102,400721,494919
-"333","Hillsborough County, New Hampshire","Sullivan County, New Hampshire",1,0.000212117657921596,400721,43742
-"87","Sullivan County, New Hampshire","Chittenden County, Vermont",1,0.000205751908920488,43742,156545
-"314","Merrimack County, New Hampshire","Worcester County, Massachusetts",1,0.000204855065041483,146445,798552
-"487","Cheshire County, New Hampshire","Strafford County, New Hampshire",1,0.000194509641194549,77117,123143
-"331","Hillsborough County, New Hampshire","York County, Maine",1,0.000192153643058387,400721,197131
-"194","Strafford County, New Hampshire","Worcester County, Massachusetts",1,0.000186774725319344,123143,798552
-"506","Cheshire County, New Hampshire","Hartford County, Connecticut",1,0.000181542331781579,77117,894014
-"508","Cheshire County, New Hampshire","Hampden County, Massachusetts",1,0.000168575022368609,77117,463490
-"120","Grafton County, New Hampshire","Washington County, Vermont",1,0.000168316165084495,89118,59534
-"359","Hillsborough County, New Hampshire","Bristol County, Massachusetts",1,0.000167198624479376,400721,548285
-"234","Rockingham County, New Hampshire","Plymouth County, Massachusetts",1,0.00015581441825332,295223,494919
-"128","Coos County, New Hampshire","Essex County, Massachusetts",1,0.000151263046437755,33055,743159
-"106","Grafton County, New Hampshire","Cheshire County, New Hampshire",1,0.000145874009739895,89118,77117
-"484","Cheshire County, New Hampshire","Grafton County, New Hampshire",1,0.000129673094129699,77117,89118
-"108","Grafton County, New Hampshire","Norfolk County, Massachusetts",1,0.000123431854395296,89118,670850
-"214","Rockingham County, New Hampshire","Grafton County, New Hampshire",1,0.000121941718633033,295223,89118
-"127","Coos County, New Hampshire","Rockingham County, New Hampshire",1,0.000121010437150204,33055,295223
-"489","Cheshire County, New Hampshire","Essex County, Massachusetts",1,0.000103738475303759,77117,743159
-"336","Hillsborough County, New Hampshire","Carroll County, New Hampshire",1,9.98200743160453e-05,400721,47818
-"216","Rockingham County, New Hampshire","Carroll County, New Hampshire",1,9.1456288974775e-05,295223,47818
-"105","Grafton County, New Hampshire","Windham County, Vermont",1,8.97686213783974e-05,89118,44513
-"168","Carroll County, New Hampshire","Norfolk County, Massachusetts",1,8.36505081768372e-05,47818,670850
-"498","Cheshire County, New Hampshire","Norfolk County, Massachusetts",1,7.78038564778194e-05,77117,670850
-"356","Hillsborough County, New Hampshire","Hartford County, Connecticut",1,7.23695538791329e-05,400721,894014
-"79","Sullivan County, New Hampshire","Orange County, Vermont",1,6.85839696401627e-05,43742,28936
-"235","Rockingham County, New Hampshire","Hampshire County, Massachusetts",1,6.77453992405741e-05,295223,158080
-"373","Belknap County, New Hampshire","Suffolk County, Massachusetts",1,6.65690320862735e-05,60088,722023
-"126","Coos County, New Hampshire","Strafford County, New Hampshire",1,6.05052185751021e-05,33055,123143
-"144","Coos County, New Hampshire","Plymouth County, Massachusetts",1,6.05052185751021e-05,33055,494919
-"357","Hillsborough County, New Hampshire","Chittenden County, Vermont",1,5.73965427317261e-05,400721,156545
-"215","Rockingham County, New Hampshire","Coos County, New Hampshire",1,4.40345095063732e-05,295223,33055
-"328","Merrimack County, New Hampshire","Hampden County, Massachusetts",1,3.41425108402472e-05,146445,463490
-"382","Belknap County, New Hampshire","Cumberland County, Maine",1,3.32845160431367e-05,60088,281674
-"345","Hillsborough County, New Hampshire","Windham County, Vermont",1,3.24415241527147e-05,400721,44513
-"138","Coos County, New Hampshire","Norfolk County, Massachusetts",1,3.02526092875511e-05,33055,670850
-"305","Merrimack County, New Hampshire","Coos County, New Hampshire",1,2.04855065041483e-05,146445,33055
-"198","Strafford County, New Hampshire","Norfolk County, Massachusetts",1,1.62412804625517e-05,123143,670850
-"209","Strafford County, New Hampshire","Bristol County, Massachusetts",1,1.62412804625517e-05,123143,548285
-"239","Rockingham County, New Hampshire","Bristol County, Massachusetts",1,1.35490798481148e-05,295223,548285
-"335","Hillsborough County, New Hampshire","Coos County, New Hampshire",1,1.24775092895057e-05,400721,33055
-"104","Grafton County, New Hampshire","Worcester County, Massachusetts",1,1.12210776722996e-05,89118,798552
-"114","Grafton County, New Hampshire","Plymouth County, Massachusetts",1,1.12210776722996e-05,89118,494919
-"236","Rockingham County, New Hampshire","Hartford County, Connecticut",1,1.01618098860861e-05,295223,894014
-"213","Rockingham County, New Hampshire","Sullivan County, New Hampshire",1,1.01618098860861e-05,295223,43742
-"210","Strafford County, New Hampshire","Washington County, Vermont",1,8.12064023127584e-06,123143,59534
-"1","York County, Maine","Windsor County, Vermont",1,0,197131,56670
-"2","York County, Maine","Sullivan County, New Hampshire",1,0,197131,43742
-"3","York County, Maine","Grafton County, New Hampshire",1,0,197131,89118
-"4","York County, Maine","Coos County, New Hampshire",1,0,197131,33055
-"5","York County, Maine","Carroll County, New Hampshire",1,0,197131,47818
-"6","York County, Maine","Strafford County, New Hampshire",1,0,197131,123143
-"7","York County, Maine","Rockingham County, New Hampshire",1,0,197131,295223
-"8","York County, Maine","Essex County, Massachusetts",1,0,197131,743159
-"9","York County, Maine","Middlesex County, Massachusetts",1,0,197131,1503085
-"10","York County, Maine","Merrimack County, New Hampshire",1,0,197131,146445
-"11","York County, Maine","Hillsborough County, New Hampshire",1,0,197131,400721
-"12","York County, Maine","Belknap County, New Hampshire",1,0,197131,60088
-"13","York County, Maine","Suffolk County, Massachusetts",1,0,197131,722023
-"14","York County, Maine","Worcester County, Massachusetts",1,0,197131,798552
-"15","York County, Maine","Windham County, Vermont",1,0,197131,44513
-"16","York County, Maine","Cheshire County, New Hampshire",1,0,197131,77117
-"17","York County, Maine","Essex County, Vermont",1,0,197131,6306
-"18","York County, Maine","Norfolk County, Massachusetts",1,0,197131,670850
-"19","York County, Maine","Orange County, Vermont",1,0,197131,28936
-"20","York County, Maine","Caledonia County, Vermont",1,0,197131,31227
-"21","York County, Maine","Oxford County, Maine",1,0,197131,57833
-"22","York County, Maine","Cumberland County, Maine",1,0,197131,281674
-"23","York County, Maine","Franklin County, Massachusetts",1,0,197131,71372
-"24","York County, Maine","Plymouth County, Massachusetts",1,0,197131,494919
-"25","York County, Maine","Hampshire County, Massachusetts",1,0,197131,158080
-"26","York County, Maine","Hartford County, Connecticut",1,0,197131,894014
-"27","York County, Maine","Chittenden County, Vermont",1,0,197131,156545
-"28","York County, Maine","Hampden County, Massachusetts",1,0,197131,463490
-"29","York County, Maine","Bristol County, Massachusetts",1,0,197131,548285
-"30","York County, Maine","Washington County, Vermont",1,0,197131,59534
-"31","Windsor County, Vermont","York County, Maine",1,0,56670,197131
-"32","Windsor County, Vermont","Sullivan County, New Hampshire",1,0,56670,43742
-"33","Windsor County, Vermont","Grafton County, New Hampshire",1,0,56670,89118
-"34","Windsor County, Vermont","Coos County, New Hampshire",1,0,56670,33055
-"35","Windsor County, Vermont","Carroll County, New Hampshire",1,0,56670,47818
-"36","Windsor County, Vermont","Strafford County, New Hampshire",1,0,56670,123143
-"37","Windsor County, Vermont","Rockingham County, New Hampshire",1,0,56670,295223
-"38","Windsor County, Vermont","Essex County, Massachusetts",1,0,56670,743159
-"39","Windsor County, Vermont","Middlesex County, Massachusetts",1,0,56670,1503085
-"40","Windsor County, Vermont","Merrimack County, New Hampshire",1,0,56670,146445
-"41","Windsor County, Vermont","Hillsborough County, New Hampshire",1,0,56670,400721
-"42","Windsor County, Vermont","Belknap County, New Hampshire",1,0,56670,60088
-"43","Windsor County, Vermont","Suffolk County, Massachusetts",1,0,56670,722023
-"44","Windsor County, Vermont","Worcester County, Massachusetts",1,0,56670,798552
-"45","Windsor County, Vermont","Windham County, Vermont",1,0,56670,44513
-"46","Windsor County, Vermont","Cheshire County, New Hampshire",1,0,56670,77117
-"47","Windsor County, Vermont","Essex County, Vermont",1,0,56670,6306
-"48","Windsor County, Vermont","Norfolk County, Massachusetts",1,0,56670,670850
-"49","Windsor County, Vermont","Orange County, Vermont",1,0,56670,28936
-"50","Windsor County, Vermont","Caledonia County, Vermont",1,0,56670,31227
-"51","Windsor County, Vermont","Oxford County, Maine",1,0,56670,57833
-"52","Windsor County, Vermont","Cumberland County, Maine",1,0,56670,281674
-"53","Windsor County, Vermont","Franklin County, Massachusetts",1,0,56670,71372
-"54","Windsor County, Vermont","Plymouth County, Massachusetts",1,0,56670,494919
-"55","Windsor County, Vermont","Hampshire County, Massachusetts",1,0,56670,158080
-"56","Windsor County, Vermont","Hartford County, Connecticut",1,0,56670,894014
-"57","Windsor County, Vermont","Chittenden County, Vermont",1,0,56670,156545
-"58","Windsor County, Vermont","Hampden County, Massachusetts",1,0,56670,463490
-"59","Windsor County, Vermont","Bristol County, Massachusetts",1,0,56670,548285
-"60","Windsor County, Vermont","Washington County, Vermont",1,0,56670,59534
-"61","Sullivan County, New Hampshire","York County, Maine",1,0,43742,197131
-"64","Sullivan County, New Hampshire","Coos County, New Hampshire",1,0,43742,33055
-"65","Sullivan County, New Hampshire","Carroll County, New Hampshire",1,0,43742,47818
-"66","Sullivan County, New Hampshire","Strafford County, New Hampshire",1,0,43742,123143
-"67","Sullivan County, New Hampshire","Rockingham County, New Hampshire",1,0,43742,295223
-"68","Sullivan County, New Hampshire","Essex County, Massachusetts",1,0,43742,743159
-"69","Sullivan County, New Hampshire","Middlesex County, Massachusetts",1,0,43742,1503085
-"72","Sullivan County, New Hampshire","Belknap County, New Hampshire",1,0,43742,60088
-"73","Sullivan County, New Hampshire","Suffolk County, Massachusetts",1,0,43742,722023
-"74","Sullivan County, New Hampshire","Worcester County, Massachusetts",1,0,43742,798552
-"77","Sullivan County, New Hampshire","Essex County, Vermont",1,0,43742,6306
-"78","Sullivan County, New Hampshire","Norfolk County, Massachusetts",1,0,43742,670850
-"80","Sullivan County, New Hampshire","Caledonia County, Vermont",1,0,43742,31227
-"81","Sullivan County, New Hampshire","Oxford County, Maine",1,0,43742,57833
-"82","Sullivan County, New Hampshire","Cumberland County, Maine",1,0,43742,281674
-"83","Sullivan County, New Hampshire","Franklin County, Massachusetts",1,0,43742,71372
-"84","Sullivan County, New Hampshire","Plymouth County, Massachusetts",1,0,43742,494919
-"85","Sullivan County, New Hampshire","Hampshire County, Massachusetts",1,0,43742,158080
-"86","Sullivan County, New Hampshire","Hartford County, Connecticut",1,0,43742,894014
-"88","Sullivan County, New Hampshire","Hampden County, Massachusetts",1,0,43742,463490
-"89","Sullivan County, New Hampshire","Bristol County, Massachusetts",1,0,43742,548285
-"90","Sullivan County, New Hampshire","Washington County, Vermont",1,0,43742,59534
-"91","Grafton County, New Hampshire","York County, Maine",1,0,89118,197131
-"98","Grafton County, New Hampshire","Essex County, Massachusetts",1,0,89118,743159
-"107","Grafton County, New Hampshire","Essex County, Vermont",1,0,89118,6306
-"111","Grafton County, New Hampshire","Oxford County, Maine",1,0,89118,57833
-"112","Grafton County, New Hampshire","Cumberland County, Maine",1,0,89118,281674
-"113","Grafton County, New Hampshire","Franklin County, Massachusetts",1,0,89118,71372
-"115","Grafton County, New Hampshire","Hampshire County, Massachusetts",1,0,89118,158080
-"116","Grafton County, New Hampshire","Hartford County, Connecticut",1,0,89118,894014
-"117","Grafton County, New Hampshire","Chittenden County, Vermont",1,0,89118,156545
-"118","Grafton County, New Hampshire","Hampden County, Massachusetts",1,0,89118,463490
-"119","Grafton County, New Hampshire","Bristol County, Massachusetts",1,0,89118,548285
-"121","Coos County, New Hampshire","York County, Maine",1,0,33055,197131
-"122","Coos County, New Hampshire","Windsor County, Vermont",1,0,33055,56670
-"123","Coos County, New Hampshire","Sullivan County, New Hampshire",1,0,33055,43742
-"129","Coos County, New Hampshire","Middlesex County, Massachusetts",1,0,33055,1503085
-"132","Coos County, New Hampshire","Belknap County, New Hampshire",1,0,33055,60088
-"133","Coos County, New Hampshire","Suffolk County, Massachusetts",1,0,33055,722023
-"134","Coos County, New Hampshire","Worcester County, Massachusetts",1,0,33055,798552
-"135","Coos County, New Hampshire","Windham County, Vermont",1,0,33055,44513
-"136","Coos County, New Hampshire","Cheshire County, New Hampshire",1,0,33055,77117
-"139","Coos County, New Hampshire","Orange County, Vermont",1,0,33055,28936
-"142","Coos County, New Hampshire","Cumberland County, Maine",1,0,33055,281674
-"143","Coos County, New Hampshire","Franklin County, Massachusetts",1,0,33055,71372
-"145","Coos County, New Hampshire","Hampshire County, Massachusetts",1,0,33055,158080
-"146","Coos County, New Hampshire","Hartford County, Connecticut",1,0,33055,894014
-"147","Coos County, New Hampshire","Chittenden County, Vermont",1,0,33055,156545
-"148","Coos County, New Hampshire","Hampden County, Massachusetts",1,0,33055,463490
-"149","Coos County, New Hampshire","Bristol County, Massachusetts",1,0,33055,548285
-"150","Coos County, New Hampshire","Washington County, Vermont",1,0,33055,59534
-"152","Carroll County, New Hampshire","Windsor County, Vermont",1,0,47818,56670
-"153","Carroll County, New Hampshire","Sullivan County, New Hampshire",1,0,47818,43742
-"164","Carroll County, New Hampshire","Worcester County, Massachusetts",1,0,47818,798552
-"165","Carroll County, New Hampshire","Windham County, Vermont",1,0,47818,44513
-"166","Carroll County, New Hampshire","Cheshire County, New Hampshire",1,0,47818,77117
-"167","Carroll County, New Hampshire","Essex County, Vermont",1,0,47818,6306
-"169","Carroll County, New Hampshire","Orange County, Vermont",1,0,47818,28936
-"170","Carroll County, New Hampshire","Caledonia County, Vermont",1,0,47818,31227
-"173","Carroll County, New Hampshire","Franklin County, Massachusetts",1,0,47818,71372
-"174","Carroll County, New Hampshire","Plymouth County, Massachusetts",1,0,47818,494919
-"175","Carroll County, New Hampshire","Hampshire County, Massachusetts",1,0,47818,158080
-"176","Carroll County, New Hampshire","Hartford County, Connecticut",1,0,47818,894014
-"177","Carroll County, New Hampshire","Chittenden County, Vermont",1,0,47818,156545
-"178","Carroll County, New Hampshire","Hampden County, Massachusetts",1,0,47818,463490
-"179","Carroll County, New Hampshire","Bristol County, Massachusetts",1,0,47818,548285
-"180","Carroll County, New Hampshire","Washington County, Vermont",1,0,47818,59534
-"182","Strafford County, New Hampshire","Windsor County, Vermont",1,0,123143,56670
-"183","Strafford County, New Hampshire","Sullivan County, New Hampshire",1,0,123143,43742
-"185","Strafford County, New Hampshire","Coos County, New Hampshire",1,0,123143,33055
-"195","Strafford County, New Hampshire","Windham County, Vermont",1,0,123143,44513
-"196","Strafford County, New Hampshire","Cheshire County, New Hampshire",1,0,123143,77117
-"197","Strafford County, New Hampshire","Essex County, Vermont",1,0,123143,6306
-"199","Strafford County, New Hampshire","Orange County, Vermont",1,0,123143,28936
-"200","Strafford County, New Hampshire","Caledonia County, Vermont",1,0,123143,31227
-"201","Strafford County, New Hampshire","Oxford County, Maine",1,0,123143,57833
-"203","Strafford County, New Hampshire","Franklin County, Massachusetts",1,0,123143,71372
-"204","Strafford County, New Hampshire","Plymouth County, Massachusetts",1,0,123143,494919
-"205","Strafford County, New Hampshire","Hampshire County, Massachusetts",1,0,123143,158080
-"206","Strafford County, New Hampshire","Hartford County, Connecticut",1,0,123143,894014
-"207","Strafford County, New Hampshire","Chittenden County, Vermont",1,0,123143,156545
-"208","Strafford County, New Hampshire","Hampden County, Massachusetts",1,0,123143,463490
-"212","Rockingham County, New Hampshire","Windsor County, Vermont",1,0,295223,56670
-"225","Rockingham County, New Hampshire","Windham County, Vermont",1,0,295223,44513
-"226","Rockingham County, New Hampshire","Cheshire County, New Hampshire",1,0,295223,77117
-"227","Rockingham County, New Hampshire","Essex County, Vermont",1,0,295223,6306
-"229","Rockingham County, New Hampshire","Orange County, Vermont",1,0,295223,28936
-"230","Rockingham County, New Hampshire","Caledonia County, Vermont",1,0,295223,31227
-"231","Rockingham County, New Hampshire","Oxford County, Maine",1,0,295223,57833
-"233","Rockingham County, New Hampshire","Franklin County, Massachusetts",1,0,295223,71372
-"237","Rockingham County, New Hampshire","Chittenden County, Vermont",1,0,295223,156545
-"238","Rockingham County, New Hampshire","Hampden County, Massachusetts",1,0,295223,463490
-"240","Rockingham County, New Hampshire","Washington County, Vermont",1,0,295223,59534
-"241","Essex County, Massachusetts","York County, Maine",1,0,743159,197131
-"242","Essex County, Massachusetts","Windsor County, Vermont",1,0,743159,56670
-"243","Essex County, Massachusetts","Sullivan County, New Hampshire",1,0,743159,43742
-"244","Essex County, Massachusetts","Grafton County, New Hampshire",1,0,743159,89118
-"245","Essex County, Massachusetts","Coos County, New Hampshire",1,0,743159,33055
-"246","Essex County, Massachusetts","Carroll County, New Hampshire",1,0,743159,47818
-"247","Essex County, Massachusetts","Strafford County, New Hampshire",1,0,743159,123143
-"248","Essex County, Massachusetts","Rockingham County, New Hampshire",1,0,743159,295223
-"249","Essex County, Massachusetts","Middlesex County, Massachusetts",1,0,743159,1503085
-"250","Essex County, Massachusetts","Merrimack County, New Hampshire",1,0,743159,146445
-"251","Essex County, Massachusetts","Hillsborough County, New Hampshire",1,0,743159,400721
-"252","Essex County, Massachusetts","Belknap County, New Hampshire",1,0,743159,60088
-"253","Essex County, Massachusetts","Suffolk County, Massachusetts",1,0,743159,722023
-"254","Essex County, Massachusetts","Worcester County, Massachusetts",1,0,743159,798552
-"255","Essex County, Massachusetts","Windham County, Vermont",1,0,743159,44513
-"256","Essex County, Massachusetts","Cheshire County, New Hampshire",1,0,743159,77117
-"257","Essex County, Massachusetts","Essex County, Vermont",1,0,743159,6306
-"258","Essex County, Massachusetts","Norfolk County, Massachusetts",1,0,743159,670850
-"259","Essex County, Massachusetts","Orange County, Vermont",1,0,743159,28936
-"260","Essex County, Massachusetts","Caledonia County, Vermont",1,0,743159,31227
-"261","Essex County, Massachusetts","Oxford County, Maine",1,0,743159,57833
-"262","Essex County, Massachusetts","Cumberland County, Maine",1,0,743159,281674
-"263","Essex County, Massachusetts","Franklin County, Massachusetts",1,0,743159,71372
-"264","Essex County, Massachusetts","Plymouth County, Massachusetts",1,0,743159,494919
-"265","Essex County, Massachusetts","Hampshire County, Massachusetts",1,0,743159,158080
-"266","Essex County, Massachusetts","Hartford County, Connecticut",1,0,743159,894014
-"267","Essex County, Massachusetts","Chittenden County, Vermont",1,0,743159,156545
-"268","Essex County, Massachusetts","Hampden County, Massachusetts",1,0,743159,463490
-"269","Essex County, Massachusetts","Bristol County, Massachusetts",1,0,743159,548285
-"270","Essex County, Massachusetts","Washington County, Vermont",1,0,743159,59534
-"271","Middlesex County, Massachusetts","York County, Maine",1,0,1503085,197131
-"272","Middlesex County, Massachusetts","Windsor County, Vermont",1,0,1503085,56670
-"273","Middlesex County, Massachusetts","Sullivan County, New Hampshire",1,0,1503085,43742
-"274","Middlesex County, Massachusetts","Grafton County, New Hampshire",1,0,1503085,89118
-"275","Middlesex County, Massachusetts","Coos County, New Hampshire",1,0,1503085,33055
-"276","Middlesex County, Massachusetts","Carroll County, New Hampshire",1,0,1503085,47818
-"277","Middlesex County, Massachusetts","Strafford County, New Hampshire",1,0,1503085,123143
-"278","Middlesex County, Massachusetts","Rockingham County, New Hampshire",1,0,1503085,295223
-"279","Middlesex County, Massachusetts","Essex County, Massachusetts",1,0,1503085,743159
-"280","Middlesex County, Massachusetts","Merrimack County, New Hampshire",1,0,1503085,146445
-"281","Middlesex County, Massachusetts","Hillsborough County, New Hampshire",1,0,1503085,400721
-"282","Middlesex County, Massachusetts","Belknap County, New Hampshire",1,0,1503085,60088
-"283","Middlesex County, Massachusetts","Suffolk County, Massachusetts",1,0,1503085,722023
-"284","Middlesex County, Massachusetts","Worcester County, Massachusetts",1,0,1503085,798552
-"285","Middlesex County, Massachusetts","Windham County, Vermont",1,0,1503085,44513
-"286","Middlesex County, Massachusetts","Cheshire County, New Hampshire",1,0,1503085,77117
-"287","Middlesex County, Massachusetts","Essex County, Vermont",1,0,1503085,6306
-"288","Middlesex County, Massachusetts","Norfolk County, Massachusetts",1,0,1503085,670850
-"289","Middlesex County, Massachusetts","Orange County, Vermont",1,0,1503085,28936
-"290","Middlesex County, Massachusetts","Caledonia County, Vermont",1,0,1503085,31227
-"291","Middlesex County, Massachusetts","Oxford County, Maine",1,0,1503085,57833
-"292","Middlesex County, Massachusetts","Cumberland County, Maine",1,0,1503085,281674
-"293","Middlesex County, Massachusetts","Franklin County, Massachusetts",1,0,1503085,71372
-"294","Middlesex County, Massachusetts","Plymouth County, Massachusetts",1,0,1503085,494919
-"295","Middlesex County, Massachusetts","Hampshire County, Massachusetts",1,0,1503085,158080
-"296","Middlesex County, Massachusetts","Hartford County, Connecticut",1,0,1503085,894014
-"297","Middlesex County, Massachusetts","Chittenden County, Vermont",1,0,1503085,156545
-"298","Middlesex County, Massachusetts","Hampden County, Massachusetts",1,0,1503085,463490
-"299","Middlesex County, Massachusetts","Bristol County, Massachusetts",1,0,1503085,548285
-"300","Middlesex County, Massachusetts","Washington County, Vermont",1,0,1503085,59534
-"315","Merrimack County, New Hampshire","Windham County, Vermont",1,0,146445,44513
-"317","Merrimack County, New Hampshire","Essex County, Vermont",1,0,146445,6306
-"319","Merrimack County, New Hampshire","Orange County, Vermont",1,0,146445,28936
-"320","Merrimack County, New Hampshire","Caledonia County, Vermont",1,0,146445,31227
-"321","Merrimack County, New Hampshire","Oxford County, Maine",1,0,146445,57833
-"323","Merrimack County, New Hampshire","Franklin County, Massachusetts",1,0,146445,71372
-"324","Merrimack County, New Hampshire","Plymouth County, Massachusetts",1,0,146445,494919
-"325","Merrimack County, New Hampshire","Hampshire County, Massachusetts",1,0,146445,158080
-"326","Merrimack County, New Hampshire","Hartford County, Connecticut",1,0,146445,894014
-"327","Merrimack County, New Hampshire","Chittenden County, Vermont",1,0,146445,156545
-"329","Merrimack County, New Hampshire","Bristol County, Massachusetts",1,0,146445,548285
-"330","Merrimack County, New Hampshire","Washington County, Vermont",1,0,146445,59534
-"332","Hillsborough County, New Hampshire","Windsor County, Vermont",1,0,400721,56670
-"347","Hillsborough County, New Hampshire","Essex County, Vermont",1,0,400721,6306
-"349","Hillsborough County, New Hampshire","Orange County, Vermont",1,0,400721,28936
-"350","Hillsborough County, New Hampshire","Caledonia County, Vermont",1,0,400721,31227
-"351","Hillsborough County, New Hampshire","Oxford County, Maine",1,0,400721,57833
-"353","Hillsborough County, New Hampshire","Franklin County, Massachusetts",1,0,400721,71372
-"355","Hillsborough County, New Hampshire","Hampshire County, Massachusetts",1,0,400721,158080
-"358","Hillsborough County, New Hampshire","Hampden County, Massachusetts",1,0,400721,463490
-"360","Hillsborough County, New Hampshire","Washington County, Vermont",1,0,400721,59534
-"362","Belknap County, New Hampshire","Windsor County, Vermont",1,0,60088,56670
-"363","Belknap County, New Hampshire","Sullivan County, New Hampshire",1,0,60088,43742
-"365","Belknap County, New Hampshire","Coos County, New Hampshire",1,0,60088,33055
-"375","Belknap County, New Hampshire","Windham County, Vermont",1,0,60088,44513
-"376","Belknap County, New Hampshire","Cheshire County, New Hampshire",1,0,60088,77117
-"377","Belknap County, New Hampshire","Essex County, Vermont",1,0,60088,6306
-"378","Belknap County, New Hampshire","Norfolk County, Massachusetts",1,0,60088,670850
-"379","Belknap County, New Hampshire","Orange County, Vermont",1,0,60088,28936
-"380","Belknap County, New Hampshire","Caledonia County, Vermont",1,0,60088,31227
-"381","Belknap County, New Hampshire","Oxford County, Maine",1,0,60088,57833
-"383","Belknap County, New Hampshire","Franklin County, Massachusetts",1,0,60088,71372
-"384","Belknap County, New Hampshire","Plymouth County, Massachusetts",1,0,60088,494919
-"385","Belknap County, New Hampshire","Hampshire County, Massachusetts",1,0,60088,158080
-"386","Belknap County, New Hampshire","Hartford County, Connecticut",1,0,60088,894014
-"387","Belknap County, New Hampshire","Chittenden County, Vermont",1,0,60088,156545
-"388","Belknap County, New Hampshire","Hampden County, Massachusetts",1,0,60088,463490
-"389","Belknap County, New Hampshire","Bristol County, Massachusetts",1,0,60088,548285
-"390","Belknap County, New Hampshire","Washington County, Vermont",1,0,60088,59534
-"391","Suffolk County, Massachusetts","York County, Maine",1,0,722023,197131
-"392","Suffolk County, Massachusetts","Windsor County, Vermont",1,0,722023,56670
-"393","Suffolk County, Massachusetts","Sullivan County, New Hampshire",1,0,722023,43742
-"394","Suffolk County, Massachusetts","Grafton County, New Hampshire",1,0,722023,89118
-"395","Suffolk County, Massachusetts","Coos County, New Hampshire",1,0,722023,33055
-"396","Suffolk County, Massachusetts","Carroll County, New Hampshire",1,0,722023,47818
-"397","Suffolk County, Massachusetts","Strafford County, New Hampshire",1,0,722023,123143
-"398","Suffolk County, Massachusetts","Rockingham County, New Hampshire",1,0,722023,295223
-"399","Suffolk County, Massachusetts","Essex County, Massachusetts",1,0,722023,743159
-"400","Suffolk County, Massachusetts","Middlesex County, Massachusetts",1,0,722023,1503085
-"401","Suffolk County, Massachusetts","Merrimack County, New Hampshire",1,0,722023,146445
-"402","Suffolk County, Massachusetts","Hillsborough County, New Hampshire",1,0,722023,400721
-"403","Suffolk County, Massachusetts","Belknap County, New Hampshire",1,0,722023,60088
-"404","Suffolk County, Massachusetts","Worcester County, Massachusetts",1,0,722023,798552
-"405","Suffolk County, Massachusetts","Windham County, Vermont",1,0,722023,44513
-"406","Suffolk County, Massachusetts","Cheshire County, New Hampshire",1,0,722023,77117
-"407","Suffolk County, Massachusetts","Essex County, Vermont",1,0,722023,6306
-"408","Suffolk County, Massachusetts","Norfolk County, Massachusetts",1,0,722023,670850
-"409","Suffolk County, Massachusetts","Orange County, Vermont",1,0,722023,28936
-"410","Suffolk County, Massachusetts","Caledonia County, Vermont",1,0,722023,31227
-"411","Suffolk County, Massachusetts","Oxford County, Maine",1,0,722023,57833
-"412","Suffolk County, Massachusetts","Cumberland County, Maine",1,0,722023,281674
-"413","Suffolk County, Massachusetts","Franklin County, Massachusetts",1,0,722023,71372
-"414","Suffolk County, Massachusetts","Plymouth County, Massachusetts",1,0,722023,494919
-"415","Suffolk County, Massachusetts","Hampshire County, Massachusetts",1,0,722023,158080
-"416","Suffolk County, Massachusetts","Hartford County, Connecticut",1,0,722023,894014
-"417","Suffolk County, Massachusetts","Chittenden County, Vermont",1,0,722023,156545
-"418","Suffolk County, Massachusetts","Hampden County, Massachusetts",1,0,722023,463490
-"419","Suffolk County, Massachusetts","Bristol County, Massachusetts",1,0,722023,548285
-"420","Suffolk County, Massachusetts","Washington County, Vermont",1,0,722023,59534
-"421","Worcester County, Massachusetts","York County, Maine",1,0,798552,197131
-"422","Worcester County, Massachusetts","Windsor County, Vermont",1,0,798552,56670
-"423","Worcester County, Massachusetts","Sullivan County, New Hampshire",1,0,798552,43742
-"424","Worcester County, Massachusetts","Grafton County, New Hampshire",1,0,798552,89118
-"425","Worcester County, Massachusetts","Coos County, New Hampshire",1,0,798552,33055
-"426","Worcester County, Massachusetts","Carroll County, New Hampshire",1,0,798552,47818
-"427","Worcester County, Massachusetts","Strafford County, New Hampshire",1,0,798552,123143
-"428","Worcester County, Massachusetts","Rockingham County, New Hampshire",1,0,798552,295223
-"429","Worcester County, Massachusetts","Essex County, Massachusetts",1,0,798552,743159
-"430","Worcester County, Massachusetts","Middlesex County, Massachusetts",1,0,798552,1503085
-"431","Worcester County, Massachusetts","Merrimack County, New Hampshire",1,0,798552,146445
-"432","Worcester County, Massachusetts","Hillsborough County, New Hampshire",1,0,798552,400721
-"433","Worcester County, Massachusetts","Belknap County, New Hampshire",1,0,798552,60088
-"434","Worcester County, Massachusetts","Suffolk County, Massachusetts",1,0,798552,722023
-"435","Worcester County, Massachusetts","Windham County, Vermont",1,0,798552,44513
-"436","Worcester County, Massachusetts","Cheshire County, New Hampshire",1,0,798552,77117
-"437","Worcester County, Massachusetts","Essex County, Vermont",1,0,798552,6306
-"438","Worcester County, Massachusetts","Norfolk County, Massachusetts",1,0,798552,670850
-"439","Worcester County, Massachusetts","Orange County, Vermont",1,0,798552,28936
-"440","Worcester County, Massachusetts","Caledonia County, Vermont",1,0,798552,31227
-"441","Worcester County, Massachusetts","Oxford County, Maine",1,0,798552,57833
-"442","Worcester County, Massachusetts","Cumberland County, Maine",1,0,798552,281674
-"443","Worcester County, Massachusetts","Franklin County, Massachusetts",1,0,798552,71372
-"444","Worcester County, Massachusetts","Plymouth County, Massachusetts",1,0,798552,494919
-"445","Worcester County, Massachusetts","Hampshire County, Massachusetts",1,0,798552,158080
-"446","Worcester County, Massachusetts","Hartford County, Connecticut",1,0,798552,894014
-"447","Worcester County, Massachusetts","Chittenden County, Vermont",1,0,798552,156545
-"448","Worcester County, Massachusetts","Hampden County, Massachusetts",1,0,798552,463490
-"449","Worcester County, Massachusetts","Bristol County, Massachusetts",1,0,798552,548285
-"450","Worcester County, Massachusetts","Washington County, Vermont",1,0,798552,59534
-"451","Windham County, Vermont","York County, Maine",1,0,44513,197131
-"452","Windham County, Vermont","Windsor County, Vermont",1,0,44513,56670
-"453","Windham County, Vermont","Sullivan County, New Hampshire",1,0,44513,43742
-"454","Windham County, Vermont","Grafton County, New Hampshire",1,0,44513,89118
-"455","Windham County, Vermont","Coos County, New Hampshire",1,0,44513,33055
-"456","Windham County, Vermont","Carroll County, New Hampshire",1,0,44513,47818
-"457","Windham County, Vermont","Strafford County, New Hampshire",1,0,44513,123143
-"458","Windham County, Vermont","Rockingham County, New Hampshire",1,0,44513,295223
-"459","Windham County, Vermont","Essex County, Massachusetts",1,0,44513,743159
-"460","Windham County, Vermont","Middlesex County, Massachusetts",1,0,44513,1503085
-"461","Windham County, Vermont","Merrimack County, New Hampshire",1,0,44513,146445
-"462","Windham County, Vermont","Hillsborough County, New Hampshire",1,0,44513,400721
-"463","Windham County, Vermont","Belknap County, New Hampshire",1,0,44513,60088
-"464","Windham County, Vermont","Suffolk County, Massachusetts",1,0,44513,722023
-"465","Windham County, Vermont","Worcester County, Massachusetts",1,0,44513,798552
-"466","Windham County, Vermont","Cheshire County, New Hampshire",1,0,44513,77117
-"467","Windham County, Vermont","Essex County, Vermont",1,0,44513,6306
-"468","Windham County, Vermont","Norfolk County, Massachusetts",1,0,44513,670850
-"469","Windham County, Vermont","Orange County, Vermont",1,0,44513,28936
-"470","Windham County, Vermont","Caledonia County, Vermont",1,0,44513,31227
-"471","Windham County, Vermont","Oxford County, Maine",1,0,44513,57833
-"472","Windham County, Vermont","Cumberland County, Maine",1,0,44513,281674
-"473","Windham County, Vermont","Franklin County, Massachusetts",1,0,44513,71372
-"474","Windham County, Vermont","Plymouth County, Massachusetts",1,0,44513,494919
-"475","Windham County, Vermont","Hampshire County, Massachusetts",1,0,44513,158080
-"476","Windham County, Vermont","Hartford County, Connecticut",1,0,44513,894014
-"477","Windham County, Vermont","Chittenden County, Vermont",1,0,44513,156545
-"478","Windham County, Vermont","Hampden County, Massachusetts",1,0,44513,463490
-"479","Windham County, Vermont","Bristol County, Massachusetts",1,0,44513,548285
-"480","Windham County, Vermont","Washington County, Vermont",1,0,44513,59534
-"481","Cheshire County, New Hampshire","York County, Maine",1,0,77117,197131
-"485","Cheshire County, New Hampshire","Coos County, New Hampshire",1,0,77117,33055
-"486","Cheshire County, New Hampshire","Carroll County, New Hampshire",1,0,77117,47818
-"493","Cheshire County, New Hampshire","Belknap County, New Hampshire",1,0,77117,60088
-"497","Cheshire County, New Hampshire","Essex County, Vermont",1,0,77117,6306
-"499","Cheshire County, New Hampshire","Orange County, Vermont",1,0,77117,28936
-"500","Cheshire County, New Hampshire","Caledonia County, Vermont",1,0,77117,31227
-"501","Cheshire County, New Hampshire","Oxford County, Maine",1,0,77117,57833
-"502","Cheshire County, New Hampshire","Cumberland County, Maine",1,0,77117,281674
-"504","Cheshire County, New Hampshire","Plymouth County, Massachusetts",1,0,77117,494919
-"507","Cheshire County, New Hampshire","Chittenden County, Vermont",1,0,77117,156545
-"509","Cheshire County, New Hampshire","Bristol County, Massachusetts",1,0,77117,548285
-"510","Cheshire County, New Hampshire","Washington County, Vermont",1,0,77117,59534
-"511","Essex County, Vermont","York County, Maine",1,0,6306,197131
-"512","Essex County, Vermont","Windsor County, Vermont",1,0,6306,56670
-"513","Essex County, Vermont","Sullivan County, New Hampshire",1,0,6306,43742
-"514","Essex County, Vermont","Grafton County, New Hampshire",1,0,6306,89118
-"515","Essex County, Vermont","Coos County, New Hampshire",1,0,6306,33055
-"516","Essex County, Vermont","Carroll County, New Hampshire",1,0,6306,47818
-"517","Essex County, Vermont","Strafford County, New Hampshire",1,0,6306,123143
-"518","Essex County, Vermont","Rockingham County, New Hampshire",1,0,6306,295223
-"519","Essex County, Vermont","Essex County, Massachusetts",1,0,6306,743159
-"520","Essex County, Vermont","Middlesex County, Massachusetts",1,0,6306,1503085
-"521","Essex County, Vermont","Merrimack County, New Hampshire",1,0,6306,146445
-"522","Essex County, Vermont","Hillsborough County, New Hampshire",1,0,6306,400721
-"523","Essex County, Vermont","Belknap County, New Hampshire",1,0,6306,60088
-"524","Essex County, Vermont","Suffolk County, Massachusetts",1,0,6306,722023
-"525","Essex County, Vermont","Worcester County, Massachusetts",1,0,6306,798552
-"526","Essex County, Vermont","Windham County, Vermont",1,0,6306,44513
-"527","Essex County, Vermont","Cheshire County, New Hampshire",1,0,6306,77117
-"528","Essex County, Vermont","Norfolk County, Massachusetts",1,0,6306,670850
-"529","Essex County, Vermont","Orange County, Vermont",1,0,6306,28936
-"530","Essex County, Vermont","Caledonia County, Vermont",1,0,6306,31227
-"531","Essex County, Vermont","Oxford County, Maine",1,0,6306,57833
-"532","Essex County, Vermont","Cumberland County, Maine",1,0,6306,281674
-"533","Essex County, Vermont","Franklin County, Massachusetts",1,0,6306,71372
-"534","Essex County, Vermont","Plymouth County, Massachusetts",1,0,6306,494919
-"535","Essex County, Vermont","Hampshire County, Massachusetts",1,0,6306,158080
-"536","Essex County, Vermont","Hartford County, Connecticut",1,0,6306,894014
-"537","Essex County, Vermont","Chittenden County, Vermont",1,0,6306,156545
-"538","Essex County, Vermont","Hampden County, Massachusetts",1,0,6306,463490
-"539","Essex County, Vermont","Bristol County, Massachusetts",1,0,6306,548285
-"540","Essex County, Vermont","Washington County, Vermont",1,0,6306,59534
-"541","Norfolk County, Massachusetts","York County, Maine",1,0,670850,197131
-"542","Norfolk County, Massachusetts","Windsor County, Vermont",1,0,670850,56670
-"543","Norfolk County, Massachusetts","Sullivan County, New Hampshire",1,0,670850,43742
-"544","Norfolk County, Massachusetts","Grafton County, New Hampshire",1,0,670850,89118
-"545","Norfolk County, Massachusetts","Coos County, New Hampshire",1,0,670850,33055
-"546","Norfolk County, Massachusetts","Carroll County, New Hampshire",1,0,670850,47818
-"547","Norfolk County, Massachusetts","Strafford County, New Hampshire",1,0,670850,123143
-"548","Norfolk County, Massachusetts","Rockingham County, New Hampshire",1,0,670850,295223
-"549","Norfolk County, Massachusetts","Essex County, Massachusetts",1,0,670850,743159
-"550","Norfolk County, Massachusetts","Middlesex County, Massachusetts",1,0,670850,1503085
-"551","Norfolk County, Massachusetts","Merrimack County, New Hampshire",1,0,670850,146445
-"552","Norfolk County, Massachusetts","Hillsborough County, New Hampshire",1,0,670850,400721
-"553","Norfolk County, Massachusetts","Belknap County, New Hampshire",1,0,670850,60088
-"554","Norfolk County, Massachusetts","Suffolk County, Massachusetts",1,0,670850,722023
-"555","Norfolk County, Massachusetts","Worcester County, Massachusetts",1,0,670850,798552
-"556","Norfolk County, Massachusetts","Windham County, Vermont",1,0,670850,44513
-"557","Norfolk County, Massachusetts","Cheshire County, New Hampshire",1,0,670850,77117
-"558","Norfolk County, Massachusetts","Essex County, Vermont",1,0,670850,6306
-"559","Norfolk County, Massachusetts","Orange County, Vermont",1,0,670850,28936
-"560","Norfolk County, Massachusetts","Caledonia County, Vermont",1,0,670850,31227
-"561","Norfolk County, Massachusetts","Oxford County, Maine",1,0,670850,57833
-"562","Norfolk County, Massachusetts","Cumberland County, Maine",1,0,670850,281674
-"563","Norfolk County, Massachusetts","Franklin County, Massachusetts",1,0,670850,71372
-"564","Norfolk County, Massachusetts","Plymouth County, Massachusetts",1,0,670850,494919
-"565","Norfolk County, Massachusetts","Hampshire County, Massachusetts",1,0,670850,158080
-"566","Norfolk County, Massachusetts","Hartford County, Connecticut",1,0,670850,894014
-"567","Norfolk County, Massachusetts","Chittenden County, Vermont",1,0,670850,156545
-"568","Norfolk County, Massachusetts","Hampden County, Massachusetts",1,0,670850,463490
-"569","Norfolk County, Massachusetts","Bristol County, Massachusetts",1,0,670850,548285
-"570","Norfolk County, Massachusetts","Washington County, Vermont",1,0,670850,59534
-"571","Orange County, Vermont","York County, Maine",1,0,28936,197131
-"572","Orange County, Vermont","Windsor County, Vermont",1,0,28936,56670
-"573","Orange County, Vermont","Sullivan County, New Hampshire",1,0,28936,43742
-"574","Orange County, Vermont","Grafton County, New Hampshire",1,0,28936,89118
-"575","Orange County, Vermont","Coos County, New Hampshire",1,0,28936,33055
-"576","Orange County, Vermont","Carroll County, New Hampshire",1,0,28936,47818
-"577","Orange County, Vermont","Strafford County, New Hampshire",1,0,28936,123143
-"578","Orange County, Vermont","Rockingham County, New Hampshire",1,0,28936,295223
-"579","Orange County, Vermont","Essex County, Massachusetts",1,0,28936,743159
-"580","Orange County, Vermont","Middlesex County, Massachusetts",1,0,28936,1503085
-"581","Orange County, Vermont","Merrimack County, New Hampshire",1,0,28936,146445
-"582","Orange County, Vermont","Hillsborough County, New Hampshire",1,0,28936,400721
-"583","Orange County, Vermont","Belknap County, New Hampshire",1,0,28936,60088
-"584","Orange County, Vermont","Suffolk County, Massachusetts",1,0,28936,722023
-"585","Orange County, Vermont","Worcester County, Massachusetts",1,0,28936,798552
-"586","Orange County, Vermont","Windham County, Vermont",1,0,28936,44513
-"587","Orange County, Vermont","Cheshire County, New Hampshire",1,0,28936,77117
-"588","Orange County, Vermont","Essex County, Vermont",1,0,28936,6306
-"589","Orange County, Vermont","Norfolk County, Massachusetts",1,0,28936,670850
-"590","Orange County, Vermont","Caledonia County, Vermont",1,0,28936,31227
-"591","Orange County, Vermont","Oxford County, Maine",1,0,28936,57833
-"592","Orange County, Vermont","Cumberland County, Maine",1,0,28936,281674
-"593","Orange County, Vermont","Franklin County, Massachusetts",1,0,28936,71372
-"594","Orange County, Vermont","Plymouth County, Massachusetts",1,0,28936,494919
-"595","Orange County, Vermont","Hampshire County, Massachusetts",1,0,28936,158080
-"596","Orange County, Vermont","Hartford County, Connecticut",1,0,28936,894014
-"597","Orange County, Vermont","Chittenden County, Vermont",1,0,28936,156545
-"598","Orange County, Vermont","Hampden County, Massachusetts",1,0,28936,463490
-"599","Orange County, Vermont","Bristol County, Massachusetts",1,0,28936,548285
-"600","Orange County, Vermont","Washington County, Vermont",1,0,28936,59534
-"601","Caledonia County, Vermont","York County, Maine",1,0,31227,197131
-"602","Caledonia County, Vermont","Windsor County, Vermont",1,0,31227,56670
-"603","Caledonia County, Vermont","Sullivan County, New Hampshire",1,0,31227,43742
-"604","Caledonia County, Vermont","Grafton County, New Hampshire",1,0,31227,89118
-"605","Caledonia County, Vermont","Coos County, New Hampshire",1,0,31227,33055
-"606","Caledonia County, Vermont","Carroll County, New Hampshire",1,0,31227,47818
-"607","Caledonia County, Vermont","Strafford County, New Hampshire",1,0,31227,123143
-"608","Caledonia County, Vermont","Rockingham County, New Hampshire",1,0,31227,295223
-"609","Caledonia County, Vermont","Essex County, Massachusetts",1,0,31227,743159
-"610","Caledonia County, Vermont","Middlesex County, Massachusetts",1,0,31227,1503085
-"611","Caledonia County, Vermont","Merrimack County, New Hampshire",1,0,31227,146445
-"612","Caledonia County, Vermont","Hillsborough County, New Hampshire",1,0,31227,400721
-"613","Caledonia County, Vermont","Belknap County, New Hampshire",1,0,31227,60088
-"614","Caledonia County, Vermont","Suffolk County, Massachusetts",1,0,31227,722023
-"615","Caledonia County, Vermont","Worcester County, Massachusetts",1,0,31227,798552
-"616","Caledonia County, Vermont","Windham County, Vermont",1,0,31227,44513
-"617","Caledonia County, Vermont","Cheshire County, New Hampshire",1,0,31227,77117
-"618","Caledonia County, Vermont","Essex County, Vermont",1,0,31227,6306
-"619","Caledonia County, Vermont","Norfolk County, Massachusetts",1,0,31227,670850
-"620","Caledonia County, Vermont","Orange County, Vermont",1,0,31227,28936
-"621","Caledonia County, Vermont","Oxford County, Maine",1,0,31227,57833
-"622","Caledonia County, Vermont","Cumberland County, Maine",1,0,31227,281674
-"623","Caledonia County, Vermont","Franklin County, Massachusetts",1,0,31227,71372
-"624","Caledonia County, Vermont","Plymouth County, Massachusetts",1,0,31227,494919
-"625","Caledonia County, Vermont","Hampshire County, Massachusetts",1,0,31227,158080
-"626","Caledonia County, Vermont","Hartford County, Connecticut",1,0,31227,894014
-"627","Caledonia County, Vermont","Chittenden County, Vermont",1,0,31227,156545
-"628","Caledonia County, Vermont","Hampden County, Massachusetts",1,0,31227,463490
-"629","Caledonia County, Vermont","Bristol County, Massachusetts",1,0,31227,548285
-"630","Caledonia County, Vermont","Washington County, Vermont",1,0,31227,59534
-"631","Oxford County, Maine","York County, Maine",1,0,57833,197131
-"632","Oxford County, Maine","Windsor County, Vermont",1,0,57833,56670
-"633","Oxford County, Maine","Sullivan County, New Hampshire",1,0,57833,43742
-"634","Oxford County, Maine","Grafton County, New Hampshire",1,0,57833,89118
-"635","Oxford County, Maine","Coos County, New Hampshire",1,0,57833,33055
-"636","Oxford County, Maine","Carroll County, New Hampshire",1,0,57833,47818
-"637","Oxford County, Maine","Strafford County, New Hampshire",1,0,57833,123143
-"638","Oxford County, Maine","Rockingham County, New Hampshire",1,0,57833,295223
-"639","Oxford County, Maine","Essex County, Massachusetts",1,0,57833,743159
-"640","Oxford County, Maine","Middlesex County, Massachusetts",1,0,57833,1503085
-"641","Oxford County, Maine","Merrimack County, New Hampshire",1,0,57833,146445
-"642","Oxford County, Maine","Hillsborough County, New Hampshire",1,0,57833,400721
-"643","Oxford County, Maine","Belknap County, New Hampshire",1,0,57833,60088
-"644","Oxford County, Maine","Suffolk County, Massachusetts",1,0,57833,722023
-"645","Oxford County, Maine","Worcester County, Massachusetts",1,0,57833,798552
-"646","Oxford County, Maine","Windham County, Vermont",1,0,57833,44513
-"647","Oxford County, Maine","Cheshire County, New Hampshire",1,0,57833,77117
-"648","Oxford County, Maine","Essex County, Vermont",1,0,57833,6306
-"649","Oxford County, Maine","Norfolk County, Massachusetts",1,0,57833,670850
-"650","Oxford County, Maine","Orange County, Vermont",1,0,57833,28936
-"651","Oxford County, Maine","Caledonia County, Vermont",1,0,57833,31227
-"652","Oxford County, Maine","Cumberland County, Maine",1,0,57833,281674
-"653","Oxford County, Maine","Franklin County, Massachusetts",1,0,57833,71372
-"654","Oxford County, Maine","Plymouth County, Massachusetts",1,0,57833,494919
-"655","Oxford County, Maine","Hampshire County, Massachusetts",1,0,57833,158080
-"656","Oxford County, Maine","Hartford County, Connecticut",1,0,57833,894014
-"657","Oxford County, Maine","Chittenden County, Vermont",1,0,57833,156545
-"658","Oxford County, Maine","Hampden County, Massachusetts",1,0,57833,463490
-"659","Oxford County, Maine","Bristol County, Massachusetts",1,0,57833,548285
-"660","Oxford County, Maine","Washington County, Vermont",1,0,57833,59534
-"661","Cumberland County, Maine","York County, Maine",1,0,281674,197131
-"662","Cumberland County, Maine","Windsor County, Vermont",1,0,281674,56670
-"663","Cumberland County, Maine","Sullivan County, New Hampshire",1,0,281674,43742
-"664","Cumberland County, Maine","Grafton County, New Hampshire",1,0,281674,89118
-"665","Cumberland County, Maine","Coos County, New Hampshire",1,0,281674,33055
-"666","Cumberland County, Maine","Carroll County, New Hampshire",1,0,281674,47818
-"667","Cumberland County, Maine","Strafford County, New Hampshire",1,0,281674,123143
-"668","Cumberland County, Maine","Rockingham County, New Hampshire",1,0,281674,295223
-"669","Cumberland County, Maine","Essex County, Massachusetts",1,0,281674,743159
-"670","Cumberland County, Maine","Middlesex County, Massachusetts",1,0,281674,1503085
-"671","Cumberland County, Maine","Merrimack County, New Hampshire",1,0,281674,146445
-"672","Cumberland County, Maine","Hillsborough County, New Hampshire",1,0,281674,400721
-"673","Cumberland County, Maine","Belknap County, New Hampshire",1,0,281674,60088
-"674","Cumberland County, Maine","Suffolk County, Massachusetts",1,0,281674,722023
-"675","Cumberland County, Maine","Worcester County, Massachusetts",1,0,281674,798552
-"676","Cumberland County, Maine","Windham County, Vermont",1,0,281674,44513
-"677","Cumberland County, Maine","Cheshire County, New Hampshire",1,0,281674,77117
-"678","Cumberland County, Maine","Essex County, Vermont",1,0,281674,6306
-"679","Cumberland County, Maine","Norfolk County, Massachusetts",1,0,281674,670850
-"680","Cumberland County, Maine","Orange County, Vermont",1,0,281674,28936
-"681","Cumberland County, Maine","Caledonia County, Vermont",1,0,281674,31227
-"682","Cumberland County, Maine","Oxford County, Maine",1,0,281674,57833
-"683","Cumberland County, Maine","Franklin County, Massachusetts",1,0,281674,71372
-"684","Cumberland County, Maine","Plymouth County, Massachusetts",1,0,281674,494919
-"685","Cumberland County, Maine","Hampshire County, Massachusetts",1,0,281674,158080
-"686","Cumberland County, Maine","Hartford County, Connecticut",1,0,281674,894014
-"687","Cumberland County, Maine","Chittenden County, Vermont",1,0,281674,156545
-"688","Cumberland County, Maine","Hampden County, Massachusetts",1,0,281674,463490
-"689","Cumberland County, Maine","Bristol County, Massachusetts",1,0,281674,548285
-"690","Cumberland County, Maine","Washington County, Vermont",1,0,281674,59534
-"691","Franklin County, Massachusetts","York County, Maine",1,0,71372,197131
-"692","Franklin County, Massachusetts","Windsor County, Vermont",1,0,71372,56670
-"693","Franklin County, Massachusetts","Sullivan County, New Hampshire",1,0,71372,43742
-"694","Franklin County, Massachusetts","Grafton County, New Hampshire",1,0,71372,89118
-"695","Franklin County, Massachusetts","Coos County, New Hampshire",1,0,71372,33055
-"696","Franklin County, Massachusetts","Carroll County, New Hampshire",1,0,71372,47818
-"697","Franklin County, Massachusetts","Strafford County, New Hampshire",1,0,71372,123143
-"698","Franklin County, Massachusetts","Rockingham County, New Hampshire",1,0,71372,295223
-"699","Franklin County, Massachusetts","Essex County, Massachusetts",1,0,71372,743159
-"700","Franklin County, Massachusetts","Middlesex County, Massachusetts",1,0,71372,1503085
-"701","Franklin County, Massachusetts","Merrimack County, New Hampshire",1,0,71372,146445
-"702","Franklin County, Massachusetts","Hillsborough County, New Hampshire",1,0,71372,400721
-"703","Franklin County, Massachusetts","Belknap County, New Hampshire",1,0,71372,60088
-"704","Franklin County, Massachusetts","Suffolk County, Massachusetts",1,0,71372,722023
-"705","Franklin County, Massachusetts","Worcester County, Massachusetts",1,0,71372,798552
-"706","Franklin County, Massachusetts","Windham County, Vermont",1,0,71372,44513
-"707","Franklin County, Massachusetts","Cheshire County, New Hampshire",1,0,71372,77117
-"708","Franklin County, Massachusetts","Essex County, Vermont",1,0,71372,6306
-"709","Franklin County, Massachusetts","Norfolk County, Massachusetts",1,0,71372,670850
-"710","Franklin County, Massachusetts","Orange County, Vermont",1,0,71372,28936
-"711","Franklin County, Massachusetts","Caledonia County, Vermont",1,0,71372,31227
-"712","Franklin County, Massachusetts","Oxford County, Maine",1,0,71372,57833
-"713","Franklin County, Massachusetts","Cumberland County, Maine",1,0,71372,281674
-"714","Franklin County, Massachusetts","Plymouth County, Massachusetts",1,0,71372,494919
-"715","Franklin County, Massachusetts","Hampshire County, Massachusetts",1,0,71372,158080
-"716","Franklin County, Massachusetts","Hartford County, Connecticut",1,0,71372,894014
-"717","Franklin County, Massachusetts","Chittenden County, Vermont",1,0,71372,156545
-"718","Franklin County, Massachusetts","Hampden County, Massachusetts",1,0,71372,463490
-"719","Franklin County, Massachusetts","Bristol County, Massachusetts",1,0,71372,548285
-"720","Franklin County, Massachusetts","Washington County, Vermont",1,0,71372,59534
-"721","Plymouth County, Massachusetts","York County, Maine",1,0,494919,197131
-"722","Plymouth County, Massachusetts","Windsor County, Vermont",1,0,494919,56670
-"723","Plymouth County, Massachusetts","Sullivan County, New Hampshire",1,0,494919,43742
-"724","Plymouth County, Massachusetts","Grafton County, New Hampshire",1,0,494919,89118
-"725","Plymouth County, Massachusetts","Coos County, New Hampshire",1,0,494919,33055
-"726","Plymouth County, Massachusetts","Carroll County, New Hampshire",1,0,494919,47818
-"727","Plymouth County, Massachusetts","Strafford County, New Hampshire",1,0,494919,123143
-"728","Plymouth County, Massachusetts","Rockingham County, New Hampshire",1,0,494919,295223
-"729","Plymouth County, Massachusetts","Essex County, Massachusetts",1,0,494919,743159
-"730","Plymouth County, Massachusetts","Middlesex County, Massachusetts",1,0,494919,1503085
-"731","Plymouth County, Massachusetts","Merrimack County, New Hampshire",1,0,494919,146445
-"732","Plymouth County, Massachusetts","Hillsborough County, New Hampshire",1,0,494919,400721
-"733","Plymouth County, Massachusetts","Belknap County, New Hampshire",1,0,494919,60088
-"734","Plymouth County, Massachusetts","Suffolk County, Massachusetts",1,0,494919,722023
-"735","Plymouth County, Massachusetts","Worcester County, Massachusetts",1,0,494919,798552
-"736","Plymouth County, Massachusetts","Windham County, Vermont",1,0,494919,44513
-"737","Plymouth County, Massachusetts","Cheshire County, New Hampshire",1,0,494919,77117
-"738","Plymouth County, Massachusetts","Essex County, Vermont",1,0,494919,6306
-"739","Plymouth County, Massachusetts","Norfolk County, Massachusetts",1,0,494919,670850
-"740","Plymouth County, Massachusetts","Orange County, Vermont",1,0,494919,28936
-"741","Plymouth County, Massachusetts","Caledonia County, Vermont",1,0,494919,31227
-"742","Plymouth County, Massachusetts","Oxford County, Maine",1,0,494919,57833
-"743","Plymouth County, Massachusetts","Cumberland County, Maine",1,0,494919,281674
-"744","Plymouth County, Massachusetts","Franklin County, Massachusetts",1,0,494919,71372
-"745","Plymouth County, Massachusetts","Hampshire County, Massachusetts",1,0,494919,158080
-"746","Plymouth County, Massachusetts","Hartford County, Connecticut",1,0,494919,894014
-"747","Plymouth County, Massachusetts","Chittenden County, Vermont",1,0,494919,156545
-"748","Plymouth County, Massachusetts","Hampden County, Massachusetts",1,0,494919,463490
-"749","Plymouth County, Massachusetts","Bristol County, Massachusetts",1,0,494919,548285
-"750","Plymouth County, Massachusetts","Washington County, Vermont",1,0,494919,59534
-"751","Hampshire County, Massachusetts","York County, Maine",1,0,158080,197131
-"752","Hampshire County, Massachusetts","Windsor County, Vermont",1,0,158080,56670
-"753","Hampshire County, Massachusetts","Sullivan County, New Hampshire",1,0,158080,43742
-"754","Hampshire County, Massachusetts","Grafton County, New Hampshire",1,0,158080,89118
-"755","Hampshire County, Massachusetts","Coos County, New Hampshire",1,0,158080,33055
-"756","Hampshire County, Massachusetts","Carroll County, New Hampshire",1,0,158080,47818
-"757","Hampshire County, Massachusetts","Strafford County, New Hampshire",1,0,158080,123143
-"758","Hampshire County, Massachusetts","Rockingham County, New Hampshire",1,0,158080,295223
-"759","Hampshire County, Massachusetts","Essex County, Massachusetts",1,0,158080,743159
-"760","Hampshire County, Massachusetts","Middlesex County, Massachusetts",1,0,158080,1503085
-"761","Hampshire County, Massachusetts","Merrimack County, New Hampshire",1,0,158080,146445
-"762","Hampshire County, Massachusetts","Hillsborough County, New Hampshire",1,0,158080,400721
-"763","Hampshire County, Massachusetts","Belknap County, New Hampshire",1,0,158080,60088
-"764","Hampshire County, Massachusetts","Suffolk County, Massachusetts",1,0,158080,722023
-"765","Hampshire County, Massachusetts","Worcester County, Massachusetts",1,0,158080,798552
-"766","Hampshire County, Massachusetts","Windham County, Vermont",1,0,158080,44513
-"767","Hampshire County, Massachusetts","Cheshire County, New Hampshire",1,0,158080,77117
-"768","Hampshire County, Massachusetts","Essex County, Vermont",1,0,158080,6306
-"769","Hampshire County, Massachusetts","Norfolk County, Massachusetts",1,0,158080,670850
-"770","Hampshire County, Massachusetts","Orange County, Vermont",1,0,158080,28936
-"771","Hampshire County, Massachusetts","Caledonia County, Vermont",1,0,158080,31227
-"772","Hampshire County, Massachusetts","Oxford County, Maine",1,0,158080,57833
-"773","Hampshire County, Massachusetts","Cumberland County, Maine",1,0,158080,281674
-"774","Hampshire County, Massachusetts","Franklin County, Massachusetts",1,0,158080,71372
-"775","Hampshire County, Massachusetts","Plymouth County, Massachusetts",1,0,158080,494919
-"776","Hampshire County, Massachusetts","Hartford County, Connecticut",1,0,158080,894014
-"777","Hampshire County, Massachusetts","Chittenden County, Vermont",1,0,158080,156545
-"778","Hampshire County, Massachusetts","Hampden County, Massachusetts",1,0,158080,463490
-"779","Hampshire County, Massachusetts","Bristol County, Massachusetts",1,0,158080,548285
-"780","Hampshire County, Massachusetts","Washington County, Vermont",1,0,158080,59534
-"781","Hartford County, Connecticut","York County, Maine",1,0,894014,197131
-"782","Hartford County, Connecticut","Windsor County, Vermont",1,0,894014,56670
-"783","Hartford County, Connecticut","Sullivan County, New Hampshire",1,0,894014,43742
-"784","Hartford County, Connecticut","Grafton County, New Hampshire",1,0,894014,89118
-"785","Hartford County, Connecticut","Coos County, New Hampshire",1,0,894014,33055
-"786","Hartford County, Connecticut","Carroll County, New Hampshire",1,0,894014,47818
-"787","Hartford County, Connecticut","Strafford County, New Hampshire",1,0,894014,123143
-"788","Hartford County, Connecticut","Rockingham County, New Hampshire",1,0,894014,295223
-"789","Hartford County, Connecticut","Essex County, Massachusetts",1,0,894014,743159
-"790","Hartford County, Connecticut","Middlesex County, Massachusetts",1,0,894014,1503085
-"791","Hartford County, Connecticut","Merrimack County, New Hampshire",1,0,894014,146445
-"792","Hartford County, Connecticut","Hillsborough County, New Hampshire",1,0,894014,400721
-"793","Hartford County, Connecticut","Belknap County, New Hampshire",1,0,894014,60088
-"794","Hartford County, Connecticut","Suffolk County, Massachusetts",1,0,894014,722023
-"795","Hartford County, Connecticut","Worcester County, Massachusetts",1,0,894014,798552
-"796","Hartford County, Connecticut","Windham County, Vermont",1,0,894014,44513
-"797","Hartford County, Connecticut","Cheshire County, New Hampshire",1,0,894014,77117
-"798","Hartford County, Connecticut","Essex County, Vermont",1,0,894014,6306
-"799","Hartford County, Connecticut","Norfolk County, Massachusetts",1,0,894014,670850
-"800","Hartford County, Connecticut","Orange County, Vermont",1,0,894014,28936
-"801","Hartford County, Connecticut","Caledonia County, Vermont",1,0,894014,31227
-"802","Hartford County, Connecticut","Oxford County, Maine",1,0,894014,57833
-"803","Hartford County, Connecticut","Cumberland County, Maine",1,0,894014,281674
-"804","Hartford County, Connecticut","Franklin County, Massachusetts",1,0,894014,71372
-"805","Hartford County, Connecticut","Plymouth County, Massachusetts",1,0,894014,494919
-"806","Hartford County, Connecticut","Hampshire County, Massachusetts",1,0,894014,158080
-"807","Hartford County, Connecticut","Chittenden County, Vermont",1,0,894014,156545
-"808","Hartford County, Connecticut","Hampden County, Massachusetts",1,0,894014,463490
-"809","Hartford County, Connecticut","Bristol County, Massachusetts",1,0,894014,548285
-"810","Hartford County, Connecticut","Washington County, Vermont",1,0,894014,59534
-"811","Chittenden County, Vermont","York County, Maine",1,0,156545,197131
-"812","Chittenden County, Vermont","Windsor County, Vermont",1,0,156545,56670
-"813","Chittenden County, Vermont","Sullivan County, New Hampshire",1,0,156545,43742
-"814","Chittenden County, Vermont","Grafton County, New Hampshire",1,0,156545,89118
-"815","Chittenden County, Vermont","Coos County, New Hampshire",1,0,156545,33055
-"816","Chittenden County, Vermont","Carroll County, New Hampshire",1,0,156545,47818
-"817","Chittenden County, Vermont","Strafford County, New Hampshire",1,0,156545,123143
-"818","Chittenden County, Vermont","Rockingham County, New Hampshire",1,0,156545,295223
-"819","Chittenden County, Vermont","Essex County, Massachusetts",1,0,156545,743159
-"820","Chittenden County, Vermont","Middlesex County, Massachusetts",1,0,156545,1503085
-"821","Chittenden County, Vermont","Merrimack County, New Hampshire",1,0,156545,146445
-"822","Chittenden County, Vermont","Hillsborough County, New Hampshire",1,0,156545,400721
-"823","Chittenden County, Vermont","Belknap County, New Hampshire",1,0,156545,60088
-"824","Chittenden County, Vermont","Suffolk County, Massachusetts",1,0,156545,722023
-"825","Chittenden County, Vermont","Worcester County, Massachusetts",1,0,156545,798552
-"826","Chittenden County, Vermont","Windham County, Vermont",1,0,156545,44513
-"827","Chittenden County, Vermont","Cheshire County, New Hampshire",1,0,156545,77117
-"828","Chittenden County, Vermont","Essex County, Vermont",1,0,156545,6306
-"829","Chittenden County, Vermont","Norfolk County, Massachusetts",1,0,156545,670850
-"830","Chittenden County, Vermont","Orange County, Vermont",1,0,156545,28936
-"831","Chittenden County, Vermont","Caledonia County, Vermont",1,0,156545,31227
-"832","Chittenden County, Vermont","Oxford County, Maine",1,0,156545,57833
-"833","Chittenden County, Vermont","Cumberland County, Maine",1,0,156545,281674
-"834","Chittenden County, Vermont","Franklin County, Massachusetts",1,0,156545,71372
-"835","Chittenden County, Vermont","Plymouth County, Massachusetts",1,0,156545,494919
-"836","Chittenden County, Vermont","Hampshire County, Massachusetts",1,0,156545,158080
-"837","Chittenden County, Vermont","Hartford County, Connecticut",1,0,156545,894014
-"838","Chittenden County, Vermont","Hampden County, Massachusetts",1,0,156545,463490
-"839","Chittenden County, Vermont","Bristol County, Massachusetts",1,0,156545,548285
-"840","Chittenden County, Vermont","Washington County, Vermont",1,0,156545,59534
-"841","Hampden County, Massachusetts","York County, Maine",1,0,463490,197131
-"842","Hampden County, Massachusetts","Windsor County, Vermont",1,0,463490,56670
-"843","Hampden County, Massachusetts","Sullivan County, New Hampshire",1,0,463490,43742
-"844","Hampden County, Massachusetts","Grafton County, New Hampshire",1,0,463490,89118
-"845","Hampden County, Massachusetts","Coos County, New Hampshire",1,0,463490,33055
-"846","Hampden County, Massachusetts","Carroll County, New Hampshire",1,0,463490,47818
-"847","Hampden County, Massachusetts","Strafford County, New Hampshire",1,0,463490,123143
-"848","Hampden County, Massachusetts","Rockingham County, New Hampshire",1,0,463490,295223
-"849","Hampden County, Massachusetts","Essex County, Massachusetts",1,0,463490,743159
-"850","Hampden County, Massachusetts","Middlesex County, Massachusetts",1,0,463490,1503085
-"851","Hampden County, Massachusetts","Merrimack County, New Hampshire",1,0,463490,146445
-"852","Hampden County, Massachusetts","Hillsborough County, New Hampshire",1,0,463490,400721
-"853","Hampden County, Massachusetts","Belknap County, New Hampshire",1,0,463490,60088
-"854","Hampden County, Massachusetts","Suffolk County, Massachusetts",1,0,463490,722023
-"855","Hampden County, Massachusetts","Worcester County, Massachusetts",1,0,463490,798552
-"856","Hampden County, Massachusetts","Windham County, Vermont",1,0,463490,44513
-"857","Hampden County, Massachusetts","Cheshire County, New Hampshire",1,0,463490,77117
-"858","Hampden County, Massachusetts","Essex County, Vermont",1,0,463490,6306
-"859","Hampden County, Massachusetts","Norfolk County, Massachusetts",1,0,463490,670850
-"860","Hampden County, Massachusetts","Orange County, Vermont",1,0,463490,28936
-"861","Hampden County, Massachusetts","Caledonia County, Vermont",1,0,463490,31227
-"862","Hampden County, Massachusetts","Oxford County, Maine",1,0,463490,57833
-"863","Hampden County, Massachusetts","Cumberland County, Maine",1,0,463490,281674
-"864","Hampden County, Massachusetts","Franklin County, Massachusetts",1,0,463490,71372
-"865","Hampden County, Massachusetts","Plymouth County, Massachusetts",1,0,463490,494919
-"866","Hampden County, Massachusetts","Hampshire County, Massachusetts",1,0,463490,158080
-"867","Hampden County, Massachusetts","Hartford County, Connecticut",1,0,463490,894014
-"868","Hampden County, Massachusetts","Chittenden County, Vermont",1,0,463490,156545
-"869","Hampden County, Massachusetts","Bristol County, Massachusetts",1,0,463490,548285
-"870","Hampden County, Massachusetts","Washington County, Vermont",1,0,463490,59534
-"871","Bristol County, Massachusetts","York County, Maine",1,0,548285,197131
-"872","Bristol County, Massachusetts","Windsor County, Vermont",1,0,548285,56670
-"873","Bristol County, Massachusetts","Sullivan County, New Hampshire",1,0,548285,43742
-"874","Bristol County, Massachusetts","Grafton County, New Hampshire",1,0,548285,89118
-"875","Bristol County, Massachusetts","Coos County, New Hampshire",1,0,548285,33055
-"876","Bristol County, Massachusetts","Carroll County, New Hampshire",1,0,548285,47818
-"877","Bristol County, Massachusetts","Strafford County, New Hampshire",1,0,548285,123143
-"878","Bristol County, Massachusetts","Rockingham County, New Hampshire",1,0,548285,295223
-"879","Bristol County, Massachusetts","Essex County, Massachusetts",1,0,548285,743159
-"880","Bristol County, Massachusetts","Middlesex County, Massachusetts",1,0,548285,1503085
-"881","Bristol County, Massachusetts","Merrimack County, New Hampshire",1,0,548285,146445
-"882","Bristol County, Massachusetts","Hillsborough County, New Hampshire",1,0,548285,400721
-"883","Bristol County, Massachusetts","Belknap County, New Hampshire",1,0,548285,60088
-"884","Bristol County, Massachusetts","Suffolk County, Massachusetts",1,0,548285,722023
-"885","Bristol County, Massachusetts","Worcester County, Massachusetts",1,0,548285,798552
-"886","Bristol County, Massachusetts","Windham County, Vermont",1,0,548285,44513
-"887","Bristol County, Massachusetts","Cheshire County, New Hampshire",1,0,548285,77117
-"888","Bristol County, Massachusetts","Essex County, Vermont",1,0,548285,6306
-"889","Bristol County, Massachusetts","Norfolk County, Massachusetts",1,0,548285,670850
-"890","Bristol County, Massachusetts","Orange County, Vermont",1,0,548285,28936
-"891","Bristol County, Massachusetts","Caledonia County, Vermont",1,0,548285,31227
-"892","Bristol County, Massachusetts","Oxford County, Maine",1,0,548285,57833
-"893","Bristol County, Massachusetts","Cumberland County, Maine",1,0,548285,281674
-"894","Bristol County, Massachusetts","Franklin County, Massachusetts",1,0,548285,71372
-"895","Bristol County, Massachusetts","Plymouth County, Massachusetts",1,0,548285,494919
-"896","Bristol County, Massachusetts","Hampshire County, Massachusetts",1,0,548285,158080
-"897","Bristol County, Massachusetts","Hartford County, Connecticut",1,0,548285,894014
-"898","Bristol County, Massachusetts","Chittenden County, Vermont",1,0,548285,156545
-"899","Bristol County, Massachusetts","Hampden County, Massachusetts",1,0,548285,463490
-"900","Bristol County, Massachusetts","Washington County, Vermont",1,0,548285,59534
-"901","Washington County, Vermont","York County, Maine",1,0,59534,197131
-"902","Washington County, Vermont","Windsor County, Vermont",1,0,59534,56670
-"903","Washington County, Vermont","Sullivan County, New Hampshire",1,0,59534,43742
-"904","Washington County, Vermont","Grafton County, New Hampshire",1,0,59534,89118
-"905","Washington County, Vermont","Coos County, New Hampshire",1,0,59534,33055
-"906","Washington County, Vermont","Carroll County, New Hampshire",1,0,59534,47818
-"907","Washington County, Vermont","Strafford County, New Hampshire",1,0,59534,123143
-"908","Washington County, Vermont","Rockingham County, New Hampshire",1,0,59534,295223
-"909","Washington County, Vermont","Essex County, Massachusetts",1,0,59534,743159
-"910","Washington County, Vermont","Middlesex County, Massachusetts",1,0,59534,1503085
-"911","Washington County, Vermont","Merrimack County, New Hampshire",1,0,59534,146445
-"912","Washington County, Vermont","Hillsborough County, New Hampshire",1,0,59534,400721
-"913","Washington County, Vermont","Belknap County, New Hampshire",1,0,59534,60088
-"914","Washington County, Vermont","Suffolk County, Massachusetts",1,0,59534,722023
-"915","Washington County, Vermont","Worcester County, Massachusetts",1,0,59534,798552
-"916","Washington County, Vermont","Windham County, Vermont",1,0,59534,44513
-"917","Washington County, Vermont","Cheshire County, New Hampshire",1,0,59534,77117
-"918","Washington County, Vermont","Essex County, Vermont",1,0,59534,6306
-"919","Washington County, Vermont","Norfolk County, Massachusetts",1,0,59534,670850
-"920","Washington County, Vermont","Orange County, Vermont",1,0,59534,28936
-"921","Washington County, Vermont","Caledonia County, Vermont",1,0,59534,31227
-"922","Washington County, Vermont","Oxford County, Maine",1,0,59534,57833
-"923","Washington County, Vermont","Cumberland County, Maine",1,0,59534,281674
-"924","Washington County, Vermont","Franklin County, Massachusetts",1,0,59534,71372
-"925","Washington County, Vermont","Plymouth County, Massachusetts",1,0,59534,494919
-"926","Washington County, Vermont","Hampshire County, Massachusetts",1,0,59534,158080
-"927","Washington County, Vermont","Hartford County, Connecticut",1,0,59534,894014
-"928","Washington County, Vermont","Chittenden County, Vermont",1,0,59534,156545
-"929","Washington County, Vermont","Hampden County, Massachusetts",1,0,59534,463490
-"930","Washington County, Vermont","Bristol County, Massachusetts",1,0,59534,548285
+"1","Strafford County, New Hampshire","Rockingham County, New Hampshire",1,0.1236692300821,123143,295223
+"2","Sullivan County, New Hampshire","Grafton County, New Hampshire",1,0.0870787801197933,43742,89118
+"3","Merrimack County, New Hampshire","Hillsborough County, New Hampshire",1,0.0799344463791867,146445,400721
+"5","Belknap County, New Hampshire","Merrimack County, New Hampshire",1,0.0763213952869125,60088,146445
+"7","Rockingham County, New Hampshire","Essex County, Massachusetts",1,0.0685312458717647,295223,743159
+"8","Cheshire County, New Hampshire","Windham County, Vermont",1,0.0349209642491279,77117,44513
+"11","Sullivan County, New Hampshire","Windsor County, Vermont",1,0.0333318092451191,43742,56670
+"31","Hillsborough County, New Hampshire","Middlesex County, Massachusetts",1,0.0528522338484881,400721,1503085
+"41","Hillsborough County, New Hampshire","Merrimack County, New Hampshire",1,0.0252769383186806,400721,146445
+"22","Merrimack County, New Hampshire","Belknap County, New Hampshire",1,0.0210522721840964,146445,60088
+"52","Rockingham County, New Hampshire","Hillsborough County, New Hampshire",1,0.0541997066624213,295223,400721
+"42","Rockingham County, New Hampshire","Middlesex County, Massachusetts",1,0.0444816291413609,295223,1503085
+"9","Hillsborough County, New Hampshire","Rockingham County, New Hampshire",1,0.0346425567913835,400721,295223
+"61","Merrimack County, New Hampshire","Rockingham County, New Hampshire",1,0.0197685137765031,146445,295223
+"23","Rockingham County, New Hampshire","Strafford County, New Hampshire",1,0.0163774502664088,295223,123143
+"43","Coos County, New Hampshire","Grafton County, New Hampshire",1,0.0319165027983664,33055,89118
+"33","Grafton County, New Hampshire","Windsor County, Vermont",1,0.0142395475661483,89118,56670
+"211","Carroll County, New Hampshire","Belknap County, New Hampshire",1,0.0196996946756452,47818,60088
+"20","Carroll County, New Hampshire","Strafford County, New Hampshire",1,0.0175666067171358,47818,123143
+"131","Hillsborough County, New Hampshire","Essex County, Massachusetts",1,0.0130389972075334,400721,743159
+"18","Belknap County, New Hampshire","Hillsborough County, New Hampshire",1,0.0126148315803488,60088,400721
+"72","Rockingham County, New Hampshire","Merrimack County, New Hampshire",1,0.012512575239734,295223,146445
+"34","Strafford County, New Hampshire","Hillsborough County, New Hampshire",1,0.0104187814167269,123143,400721
+"16","Belknap County, New Hampshire","Strafford County, New Hampshire",1,0.0101517773931567,60088,123143
+"19","Belknap County, New Hampshire","Carroll County, New Hampshire",1,0.0101517773931567,60088,47818
+"25","Strafford County, New Hampshire","Merrimack County, New Hampshire",1,0.00972040635683717,123143,146445
+"113","Cheshire County, New Hampshire","Worcester County, Massachusetts",1,0.011216722642219,77117,798552
+"115","Strafford County, New Hampshire","York County, Maine",1,0.0240046125236514,123143,197131
+"35","Strafford County, New Hampshire","Essex County, Massachusetts",1,0.00688630291612191,123143,743159
+"212","Belknap County, New Hampshire","Rockingham County, New Hampshire",1,0.00642391159632539,60088,295223
+"63","Rockingham County, New Hampshire","York County, Maine",1,0.00606998777195544,295223,197131
+"261","Carroll County, New Hampshire","Rockingham County, New Hampshire",1,0.00596009870759965,47818,295223
+"132","Merrimack County, New Hampshire","Middlesex County, Massachusetts",1,0.00591348287753081,146445,1503085
+"27","Carroll County, New Hampshire","Merrimack County, New Hampshire",1,0.00568823455602493,47818,146445
+"143","Rockingham County, New Hampshire","Suffolk County, Massachusetts",1,0.0120959410344045,295223,722023
+"232","Hillsborough County, New Hampshire","Suffolk County, Massachusetts",1,0.00768614572233549,400721,722023
+"46","Strafford County, New Hampshire","Middlesex County, Massachusetts",1,0.00321577353158523,123143,1503085
+"74","Strafford County, New Hampshire","Carroll County, New Hampshire",1,0.00302087816603461,123143,47818
+"75","Coos County, New Hampshire","Essex County, Vermont",1,0.0102858871577674,33055,6306
+"56","Grafton County, New Hampshire","Coos County, New Hampshire",1,0.00368051347651428,89118,33055
+"47","Grafton County, New Hampshire","Sullivan County, New Hampshire",1,0.0032428914472946,89118,43742
+"451","Sullivan County, New Hampshire","Merrimack County, New Hampshire",1,0.0227470165973207,43742,146445
+"511","Grafton County, New Hampshire","Belknap County, New Hampshire",1,0.0174375547027537,89118,60088
+"361","Belknap County, New Hampshire","Grafton County, New Hampshire",1,0.0142790573825057,60088,89118
+"49","Grafton County, New Hampshire","Merrimack County, New Hampshire",1,0.0139365784689962,89118,146445
+"243","Merrimack County, New Hampshire","Grafton County, New Hampshire",1,0.0091297073986821,146445,89118
+"561","Coos County, New Hampshire","Carroll County, New Hampshire",1,0.00898502495840266,33055,47818
+"461","Sullivan County, New Hampshire","Hillsborough County, New Hampshire",1,0.00603538932833432,43742,400721
+"431","Carroll County, New Hampshire","Grafton County, New Hampshire",1,0.00430800117110712,47818,89118
+"441","Carroll County, New Hampshire","Coos County, New Hampshire",1,0.00361788447864821,47818,33055
+"233","Merrimack County, New Hampshire","Sullivan County, New Hampshire",1,0.00357813513605791,146445,43742
+"50","Grafton County, New Hampshire","Hillsborough County, New Hampshire",1,0.00338876545703449,89118,400721
+"551","Coos County, New Hampshire","Merrimack County, New Hampshire",1,0.00263197700801694,33055,146445
+"173","Merrimack County, New Hampshire","Strafford County, New Hampshire",1,0.00262897333469903,146445,123143
+"39","Carroll County, New Hampshire","Middlesex County, Massachusetts",1,0.00250951524530512,47818,1503085
+"411","Carroll County, New Hampshire","Hillsborough County, New Hampshire",1,0.00240495211008407,47818,400721
+"193","Merrimack County, New Hampshire","Essex County, Massachusetts",1,0.00238314725664925,146445,743159
+"76","Strafford County, New Hampshire","Belknap County, New Hampshire",1,0.00232250310614489,123143,60088
+"94","Strafford County, New Hampshire","Suffolk County, Massachusetts",1,0.00229814118545106,123143,722023
+"322","Belknap County, New Hampshire","Middlesex County, Massachusetts",1,0.00218013580082546,60088,1503085
+"67","Cheshire County, New Hampshire","Hillsborough County, New Hampshire",1,0.025856814969462,77117,400721
+"542","Sullivan County, New Hampshire","Cheshire County, New Hampshire",1,0.0161858168350784,43742,77117
+"532","Sullivan County, New Hampshire","Windham County, Vermont",1,0.00454940331946413,43742,44513
+"69","Cheshire County, New Hampshire","Sullivan County, New Hampshire",1,0.00448668905688759,77117,43742
+"651","Cheshire County, New Hampshire","Middlesex County, Massachusetts",1,0.0043959178909968,77117,1503085
+"323","Hillsborough County, New Hampshire","Cheshire County, New Hampshire",1,0.00361598219209874,400721,77117
+"314","Hillsborough County, New Hampshire","Worcester County, Massachusetts",1,0.00315431434838703,400721,798552
+"661","Cheshire County, New Hampshire","Merrimack County, New Hampshire",1,0.00223037721903082,77117,146445
+"68","Cheshire County, New Hampshire","Windsor County, Vermont",1,0.00210070412490112,77117,56670
+"234","Merrimack County, New Hampshire","Suffolk County, Massachusetts",1,0.00153641298781112,146445,722023
+"422","Carroll County, New Hampshire","Essex County, Massachusetts",1,0.00146388389309465,47818,743159
+"205","Rockingham County, New Hampshire","Norfolk County, Massachusetts",1,0.00189687117873607,295223,670850
+"453","Hillsborough County, New Hampshire","Norfolk County, Massachusetts",1,0.00179426583583091,400721,670850
+"87","Cheshire County, New Hampshire","Rockingham County, New Hampshire",1,0.00138750210718778,77117,295223
+"553","Carroll County, New Hampshire","York County, Maine",1,0.0013593207578736,47818,197131
+"721","Grafton County, New Hampshire","Rockingham County, New Hampshire",1,0.00134652932067596,89118,295223
+"195","Rockingham County, New Hampshire","Worcester County, Massachusetts",1,0.00122280445629236,295223,798552
+"353","Hillsborough County, New Hampshire","Strafford County, New Hampshire",1,0.00108554330818699,400721,123143
+"492","Belknap County, New Hampshire","Essex County, Massachusetts",1,0.000998535481294102,60088,743159
+"771","Grafton County, New Hampshire","Carroll County, New Hampshire",1,0.000931349446800871,89118,47818
+"632","Carroll County, New Hampshire","Suffolk County, Massachusetts",1,0.000899242962901,47818,722023
+"333","Merrimack County, New Hampshire","Cheshire County, New Hampshire",1,0.000710164225477142,146445,77117
+"731","Grafton County, New Hampshire","Middlesex County, Massachusetts",1,0.000594717116631881,89118,1503085
+"343","Merrimack County, New Hampshire","Norfolk County, Massachusetts",1,0.000573594182116153,146445,670850
+"2110","Merrimack County, New Hampshire","York County, Maine",1,0.000573594182116153,146445,197131
+"423","Hillsborough County, New Hampshire","Grafton County, New Hampshire",1,0.000544019405022447,400721,89118
+"106","Strafford County, New Hampshire","Grafton County, New Hampshire",1,0.000519720974801653,123143,89118
+"402","Hillsborough County, New Hampshire","Belknap County, New Hampshire",1,0.000519064386443436,400721,60088
+"911","Cheshire County, New Hampshire","Suffolk County, Massachusetts",1,0.000518692376518796,77117,722023
+"463","Belknap County, New Hampshire","York County, Maine",1,0.000432698708560778,60088,197131
+"284","Merrimack County, New Hampshire","Carroll County, New Hampshire",1,0.000382396121410769,146445,47818
+"175","Rockingham County, New Hampshire","Belknap County, New Hampshire",1,0.000375986965785186,295223,60088
+"303","Merrimack County, New Hampshire","Windsor County, Vermont",1,0.000327768104066373,146445,56670
+"78","Grafton County, New Hampshire","Suffolk County, Massachusetts",1,0.00031419017482439,89118,722023
+"831","Coos County, New Hampshire","Hillsborough County, New Hampshire",1,0.000302526092875511,33055,400721
+"842","Grafton County, New Hampshire","Orange County, Vermont",1,0.00407325119504477,89118,28936
+"554","Belknap County, New Hampshire","Worcester County, Massachusetts",1,0.000249633870323526,60088,798552
+"732","Grafton County, New Hampshire","Strafford County, New Hampshire",1,0.000235642631118293,89118,123143
+"892","Grafton County, New Hampshire","Caledonia County, Vermont",1,0.00241253169954442,89118,31227
+"953","Coos County, New Hampshire","Caledonia County, Vermont",1,0.00102858871577674,33055,31227
+"455","Hillsborough County, New Hampshire","Sullivan County, New Hampshire",1,0.000212117657921596,400721,43742
+"345","Merrimack County, New Hampshire","Worcester County, Massachusetts",1,0.000204855065041483,146445,798552
+"962","Cheshire County, New Hampshire","Strafford County, New Hampshire",1,0.000194509641194549,77117,123143
+"375","Hillsborough County, New Hampshire","York County, Maine",1,0.000192153643058387,400721,197131
+"1114","Strafford County, New Hampshire","Worcester County, Massachusetts",1,0.000186774725319344,123143,798552
+"717","Carroll County, New Hampshire","Oxford County, Maine",1,0.00282320465096825,47818,57833
+"982","Coos County, New Hampshire","Oxford County, Maine",1,0.00030252609287551,33055,57833
+"915","Coos County, New Hampshire","Essex County, Massachusetts",1,0.000151263046437755,33055,743159
+"1213","Strafford County, New Hampshire","Cumberland County, Maine",1,0.00142111204047327,123143,281674
+"239","Rockingham County, New Hampshire","Cumberland County, Maine",1,0.000558899543734736,295223,281674
+"537","Hillsborough County, New Hampshire","Cumberland County, Maine",1,0.000454181338138006,400721,281674
+"765","Carroll County, New Hampshire","Cumberland County, Maine",1,0.00029277677861893,47818,281674
+"396","Merrimack County, New Hampshire","Cumberland County, Maine",1,0.000286797091058076,146445,281674
+"945","Grafton County, New Hampshire","Cheshire County, New Hampshire",1,0.000145874009739895,89118,77117
+"1151","Cheshire County, New Hampshire","Franklin County, Massachusetts",1,0.00300841578380902,77117,71372
+"6112","Hillsborough County, New Hampshire","Plymouth County, Massachusetts",1,0.000224595167211102,400721,494919
+"2710","Rockingham County, New Hampshire","Plymouth County, Massachusetts",1,0.00015581441825332,295223,494919
+"1321","Cheshire County, New Hampshire","Grafton County, New Hampshire",1,0.000129673094129699,77117,89118
+"1084","Grafton County, New Hampshire","Norfolk County, Massachusetts",1,0.000123431854395296,89118,670850
+"2213","Rockingham County, New Hampshire","Grafton County, New Hampshire",1,0.000121941718633033,295223,89118
+"1123","Coos County, New Hampshire","Rockingham County, New Hampshire",1,0.000121010437150204,33055,295223
+"1251","Cheshire County, New Hampshire","Essex County, Massachusetts",1,0.000103738475303759,77117,743159
+"5211","Hillsborough County, New Hampshire","Carroll County, New Hampshire",1,9.98200743160453e-05,400721,47818
+"2011","Rockingham County, New Hampshire","Carroll County, New Hampshire",1,9.1456288974775e-05,295223,47818
+"1064","Grafton County, New Hampshire","Windham County, Vermont",1,8.97686213783974e-05,89118,44513
+"857","Carroll County, New Hampshire","Norfolk County, Massachusetts",1,8.36505081768372e-05,47818,670850
+"1351","Cheshire County, New Hampshire","Norfolk County, Massachusetts",1,7.78038564778194e-05,77117,670850
+"947","Sullivan County, New Hampshire","Orange County, Vermont",1,6.85839696401627e-05,43742,28936
+"707","Belknap County, New Hampshire","Suffolk County, Massachusetts",1,6.65690320862735e-05,60088,722023
+"11110","Coos County, New Hampshire","Strafford County, New Hampshire",1,6.05052185751021e-05,33055,123143
+"1221","Coos County, New Hampshire","Plymouth County, Massachusetts",1,6.05052185751021e-05,33055,494919
+"2311","Rockingham County, New Hampshire","Coos County, New Hampshire",1,4.40345095063732e-05,295223,33055
+"737","Belknap County, New Hampshire","Cumberland County, Maine",1,3.32845160431367e-05,60088,281674
+"578","Hillsborough County, New Hampshire","Windham County, Vermont",1,3.24415241527147e-05,400721,44513
+"1191","Coos County, New Hampshire","Norfolk County, Massachusetts",1,3.02526092875511e-05,33055,670850
+"408","Merrimack County, New Hampshire","Coos County, New Hampshire",1,2.04855065041483e-05,146445,33055
+"1391","Cheshire County, New Hampshire","Hampshire County, Massachusetts",1,0.000272313497672368,77117,158080
+"2911","Rockingham County, New Hampshire","Hampshire County, Massachusetts",1,6.77453992405741e-05,295223,158080
+"1218","Strafford County, New Hampshire","Norfolk County, Massachusetts",1,1.62412804625517e-05,123143,670850
+"1461","Cheshire County, New Hampshire","Hartford County, Connecticut",1,0.000181542331781579,77117,894014
+"679","Hillsborough County, New Hampshire","Hartford County, Connecticut",1,7.23695538791329e-05,400721,894014
+"609","Hillsborough County, New Hampshire","Coos County, New Hampshire",1,1.24775092895057e-05,400721,33055
+"1127","Grafton County, New Hampshire","Worcester County, Massachusetts",1,1.12210776722996e-05,89118,798552
+"1183","Grafton County, New Hampshire","Plymouth County, Massachusetts",1,1.12210776722996e-05,89118,494919
+"3116","Rockingham County, New Hampshire","Hartford County, Connecticut",1,1.01618098860861e-05,295223,894014
+"2313","Rockingham County, New Hampshire","Sullivan County, New Hampshire",1,1.01618098860861e-05,295223,43742
+"1029","Sullivan County, New Hampshire","Chittenden County, Vermont",1,0.000205751908920488,43742,156545
+"6810","Hillsborough County, New Hampshire","Chittenden County, Vermont",1,5.73965427317261e-05,400721,156545
+"1501","Cheshire County, New Hampshire","Hampden County, Massachusetts",1,0.000168575022368609,77117,463490
+"4912","Merrimack County, New Hampshire","Hampden County, Massachusetts",1,3.41425108402472e-05,146445,463490
+"7214","Hillsborough County, New Hampshire","Bristol County, Massachusetts",1,0.000167198624479376,400721,548285
+"1420","Strafford County, New Hampshire","Bristol County, Massachusetts",1,1.62412804625517e-05,123143,548285
+"3314","Rockingham County, New Hampshire","Bristol County, Massachusetts",1,1.35490798481148e-05,295223,548285
+"1267","Grafton County, New Hampshire","Washington County, Vermont",1,0.000168316165084495,89118,59534
+"1519","Strafford County, New Hampshire","Washington County, Vermont",1,8.12064023127584e-06,123143,59534

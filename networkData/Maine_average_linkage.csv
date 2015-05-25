@@ -1,931 +1,181 @@
 "","source","target","cluster","pct","srcpop","tarpop"
-"32","Sagadahoc County, Maine","Cumberland County, Maine",1,0.191341059133539,35293,281674
-"2","York County, Maine","Cumberland County, Maine",1,0.0993958332276507,197131,281674
-"249","Somerset County, Maine","Kennebec County, Maine",1,0.0723558244619744,52228,122151
-"123","Androscoggin County, Maine","Cumberland County, Maine",1,0.068940223951273,107702,281674
-"404","Piscataquis County, Maine","Penobscot County, Maine",1,0.0630168234958654,17535,153923
-"164","Waldo County, Maine","Penobscot County, Maine",1,0.0557417624916207,38786,153923
-"94","Oxford County, Maine","Androscoggin County, Maine",1,0.0540176024069303,57833,107702
-"465","Hancock County, Maine","Penobscot County, Maine",1,0.0457936712117314,54418,153923
-"93","Oxford County, Maine","Cumberland County, Maine",1,0.0400809226566147,57833,281674
-"156","Waldo County, Maine","Knox County, Maine",1,0.0400144381993503,38786,39736
-"212","Lincoln County, Maine","Sagadahoc County, Maine",1,0.0373218794439446,34457,35293
-"11","York County, Maine","Rockingham County, New Hampshire",1,0.0357579477606262,197131,295223
-"219","Lincoln County, Maine","Kennebec County, Maine",1,0.0345648199204806,34457,122151
-"217","Lincoln County, Maine","Knox County, Maine",1,0.0309371100211858,34457,39736
-"213","Lincoln County, Maine","Cumberland County, Maine",1,0.0301245030037438,34457,281674
-"159","Waldo County, Maine","Kennebec County, Maine",1,0.0292889186819987,38786,122151
-"39","Sagadahoc County, Maine","Kennebec County, Maine",1,0.0290992548097356,35293,122151
-"254","Somerset County, Maine","Penobscot County, Maine",1,0.0273416558168032,52228,153923
-"106","Oxford County, Maine","Carroll County, New Hampshire",1,0.0244497086438539,57833,47818
-"17","York County, Maine","Strafford County, New Hampshire",1,0.0242681262713627,197131,123143
-"275","Kennebec County, Maine","Androscoggin County, Maine",1,0.0218663784987434,122151,107702
-"305","Franklin County, Maine","Androscoggin County, Maine",1,0.0204758190327613,30768,107702
-"61","Cumberland County, Maine","York County, Maine",1,0.0193415082684238,281674,197131
-"34","Sagadahoc County, Maine","Androscoggin County, Maine",1,0.0190689371830108,35293,107702
-"310","Franklin County, Maine","Kennebec County, Maine",1,0.0179407176287051,30768,122151
-"187","Knox County, Maine","Lincoln County, Maine",1,0.0161566337829676,39736,34457
-"279","Kennebec County, Maine","Somerset County, Maine",1,0.0160702736776613,122151,52228
-"273","Kennebec County, Maine","Cumberland County, Maine",1,0.015202495272245,122151,281674
-"129","Androscoggin County, Maine","Kennebec County, Maine",1,0.0151250673153702,107702,122151
-"165","Waldo County, Maine","Hancock County, Maine",1,0.0137420718816068,38786,54418
-"122","Androscoggin County, Maine","Sagadahoc County, Maine",1,0.0131473881636367,107702,35293
-"375","Washington County, Maine","Hancock County, Maine",1,0.0126917457998539,32856,54418
-"186","Knox County, Maine","Waldo County, Maine",1,0.0115260720756996,39736,38786
-"64","Cumberland County, Maine","Androscoggin County, Maine",1,0.0113500003550203,281674,107702
-"399","Piscataquis County, Maine","Somerset County, Maine",1,0.0107784431137725,17535,52228
-"250","Somerset County, Maine","Franklin County, Maine",1,0.0100903729800107,52228,30768
-"309","Franklin County, Maine","Somerset County, Maine",1,0.00952288091523661,30768,52228
-"272","Kennebec County, Maine","Sagadahoc County, Maine",1,0.00947188316100564,122151,35293
-"37","Sagadahoc County, Maine","Lincoln County, Maine",1,0.0092652934009577,35293,34457
+"1","Sagadahoc County, Maine","Cumberland County, Maine",1,0.191341059133539,35293,281674
+"2","Somerset County, Maine","Kennebec County, Maine",1,0.0723558244619744,52228,122151
+"3","Piscataquis County, Maine","Penobscot County, Maine",1,0.0630168234958654,17535,153923
+"4","Oxford County, Maine","Androscoggin County, Maine",1,0.0540176024069303,57833,107702
+"11","York County, Maine","Cumberland County, Maine",1,0.0993958332276507,197131,281674
+"7","Waldo County, Maine","Knox County, Maine",1,0.0400144381993503,38786,39736
+"9","Hancock County, Maine","Penobscot County, Maine",1,0.0457936712117314,54418,153923
+"5","Androscoggin County, Maine","Cumberland County, Maine",1,0.068940223951273,107702,281674
+"31","Oxford County, Maine","Cumberland County, Maine",1,0.0400809226566147,57833,281674
+"16","Lincoln County, Maine","Kennebec County, Maine",1,0.0345648199204806,34457,122151
+"6","Lincoln County, Maine","Knox County, Maine",1,0.0309371100211858,34457,39736
+"23","Waldo County, Maine","Kennebec County, Maine",1,0.0292889186819987,38786,122151
+"32","Knox County, Maine","Lincoln County, Maine",1,0.0161566337829676,39736,34457
+"51","Kennebec County, Maine","Somerset County, Maine",1,0.0160702736776613,122151,52228
+"33","Waldo County, Maine","Penobscot County, Maine",1,0.0557417624916207,38786,153923
+"91","Somerset County, Maine","Penobscot County, Maine",1,0.0273416558168032,52228,153923
+"43","Waldo County, Maine","Hancock County, Maine",1,0.0137420718816068,38786,54418
+"52","Knox County, Maine","Waldo County, Maine",1,0.0115260720756996,39736,38786
+"131","Piscataquis County, Maine","Somerset County, Maine",1,0.0107784431137725,17535,52228
+"61","Knox County, Maine","Kennebec County, Maine",1,0.00825447956512986,39736,122151
+"151","Penobscot County, Maine","Hancock County, Maine",1,0.00804298253022615,153923,54418
+"25","York County, Maine","Rockingham County, New Hampshire",1,0.0357579477606262,197131,295223
+"53","Cumberland County, Maine","York County, Maine",1,0.0193415082684238,281674,197131
+"44","Sagadahoc County, Maine","Androscoggin County, Maine",1,0.0190689371830108,35293,107702
+"101","Androscoggin County, Maine","Sagadahoc County, Maine",1,0.0131473881636367,107702,35293
+"73","Cumberland County, Maine","Androscoggin County, Maine",1,0.0113500003550203,281674,107702
 "62","Cumberland County, Maine","Sagadahoc County, Maine",1,0.00897491426258725,281674,35293
-"304","Franklin County, Maine","Oxford County, Maine",1,0.00880785231409256,30768,57833
-"124","Androscoggin County, Maine","Oxford County, Maine",1,0.00834710590332584,107702,57833
-"189","Knox County, Maine","Kennebec County, Maine",1,0.00825447956512986,39736,122151
-"435","Penobscot County, Maine","Hancock County, Maine",1,0.00804298253022615,153923,54418
-"429","Penobscot County, Maine","Somerset County, Maine",1,0.00736082326877725,153923,52228
-"91","Oxford County, Maine","York County, Maine",1,0.00646689606280151,57833,197131
-"555","Aroostook County, Maine","Penobscot County, Maine",1,0.00641435925977459,71870,153923
-"158","Waldo County, Maine","Somerset County, Maine",1,0.00613623472386944,38786,52228
-"130","Androscoggin County, Maine","Franklin County, Maine",1,0.00520881692076285,107702,30768
-"69","Cumberland County, Maine","Kennebec County, Maine",1,0.00500933703501211,281674,122151
-"100","Oxford County, Maine","Franklin County, Maine",1,0.00439195614960317,57833,30768
-"19","York County, Maine","Essex County, Massachusetts",1,0.00433721738336436,197131,743159
-"434","Penobscot County, Maine","Piscataquis County, Maine",1,0.00389155616769424,153923,17535
-"280","Kennebec County, Maine","Franklin County, Maine",1,0.00378220399341798,122151,30768
-"278","Kennebec County, Maine","Lincoln County, Maine",1,0.00362665880754149,122151,34457
-"253","Somerset County, Maine","Piscataquis County, Maine",1,0.00361874856398866,52228,17535
-"430","Penobscot County, Maine","Kennebec County, Maine",1,0.00344328008159924,153923,122151
-"243","Somerset County, Maine","Cumberland County, Maine",1,0.00340813356820097,52228,281674
-"276","Kennebec County, Maine","Waldo County, Maine",1,0.00309453054006926,122151,38786
-"284","Kennebec County, Maine","Penobscot County, Maine",1,0.00295535853165345,122151,153923
-"63","Cumberland County, Maine","Oxford County, Maine",1,0.00294666884412477,281674,57833
-"426","Penobscot County, Maine","Waldo County, Maine",1,0.00285857214321446,153923,38786
-"374","Washington County, Maine","Penobscot County, Maine",1,0.00246530314097882,32856,153923
-"20","York County, Maine","Middlesex County, Massachusetts",1,0.0024247835195885,197131,1503085
-"438","Penobscot County, Maine","Aroostook County, Maine",1,0.00239080579250664,153923,71870
-"277","Kennebec County, Maine","Knox County, Maine",1,0.00217763260227096,122151,39736
-"121","Androscoggin County, Maine","York County, Maine",1,0.00204267330225994,107702,197131
-"456","Hancock County, Maine","Waldo County, Maine",1,0.00200301370869933,54418,38786
-"153","Waldo County, Maine","Cumberland County, Maine",1,0.00195946991182385,38786,281674
-"99","Oxford County, Maine","Kennebec County, Maine",1,0.00195390175159511,57833,122151
-"21","York County, Maine","Suffolk County, Massachusetts",1,0.0017602507976929,197131,722023
-"303","Franklin County, Maine","Cumberland County, Maine",1,0.00165756630265211,30768,281674
-"463","Hancock County, Maine","Washington County, Maine",1,0.00159873571244809,54418,32856
-"152","Waldo County, Maine","Sagadahoc County, Maine",1,0.00146960243386789,38786,35293
-"31","Sagadahoc County, Maine","York County, Maine",1,0.00136004306803049,35293,197131
-"423","Penobscot County, Maine","Cumberland County, Maine",1,0.00135132501315593,153923,281674
-"157","Waldo County, Maine","Lincoln County, Maine",1,0.00131490744082916,38786,34457
-"71","Cumberland County, Maine","Rockingham County, New Hampshire",1,0.00131002506443619,281674,295223
-"194","Knox County, Maine","Penobscot County, Maine",1,0.00128347090799275,39736,153923
-"22","York County, Maine","Hillsborough County, New Hampshire",1,0.00122253729753311,197131,400721
-"245","Somerset County, Maine","Androscoggin County, Maine",1,0.00118710270353067,52228,107702
-"553","Aroostook County, Maine","Washington County, Maine",1,0.0011826909698066,71870,32856
-"182","Knox County, Maine","Sagadahoc County, Maine",1,0.00113247433058184,39736,35293
-"246","Somerset County, Maine","Waldo County, Maine",1,0.0010530749789385,52228,38786
-"113","Oxford County, Maine","Coos County, New Hampshire",1,0.00100288762471253,57833,33055
-"215","Lincoln County, Maine","Androscoggin County, Maine",1,0.000928693734219462,34457,107702
-"367","Washington County, Maine","Knox County, Maine",1,0.000852203554906258,32856,39736
-"400","Piscataquis County, Maine","Kennebec County, Maine",1,0.000798403193612775,17535,122151
-"16","York County, Maine","Carroll County, New Hampshire",1,0.000755842561545368,197131,47818
-"81","Cumberland County, Maine","Suffolk County, Massachusetts",1,0.000752643126451146,281674,722023
-"3","York County, Maine","Oxford County, Maine",1,0.000745697023806504,197131,57833
-"92","Oxford County, Maine","Sagadahoc County, Maine",1,0.000743520135562741,57833,35293
-"4","York County, Maine","Androscoggin County, Maine",1,0.000715260410589912,197131,107702
-"24","York County, Maine","Merrimack County, New Hampshire",1,0.000700042103981616,197131,146445
-"67","Cumberland County, Maine","Lincoln County, Maine",1,0.000695839871624644,281674,34457
-"271","Kennebec County, Maine","York County, Maine",1,0.000597620977314963,122151,197131
-"433","Penobscot County, Maine","Washington County, Maine",1,0.000591204693255719,153923,32856
-"183","Knox County, Maine","Cumberland County, Maine",1,0.000553654117173344,39736,281674
-"9","York County, Maine","Kennebec County, Maine",1,0.000542786269029224,197131,122151
-"427","Penobscot County, Maine","Knox County, Maine",1,0.000526237144546299,153923,39736
-"396","Piscataquis County, Maine","Waldo County, Maine",1,0.000513259195893926,17535,38786
-"80","Cumberland County, Maine","Middlesex County, Massachusetts",1,0.000450875835185356,281674,1503085
-"104","Oxford County, Maine","Penobscot County, Maine",1,0.000432279148582989,57833,153923
-"378","Washington County, Maine","Aroostook County, Maine",1,0.000426101777453129,32856,71870
-"314","Franklin County, Maine","Penobscot County, Maine",1,0.000422516900676027,30768,153923
-"14","York County, Maine","Penobscot County, Maine",1,0.000415967047293424,197131,153923
-"76","Cumberland County, Maine","Carroll County, New Hampshire",1,0.000411823597492136,281674,47818
-"36","Sagadahoc County, Maine","Knox County, Maine",1,0.000396679228175559,35293,39736
-"25","York County, Maine","Norfolk County, Massachusetts",1,0.000370312127468536,197131,670850
-"453","Hancock County, Maine","Cumberland County, Maine",1,0.000367525451137491,54418,281674
-"255","Somerset County, Maine","Hancock County, Maine",1,0.000363789538178755,52228,54418
-"241","Somerset County, Maine","York County, Maine",1,0.000363789538178755,52228,197131
-"79","Cumberland County, Maine","Essex County, Massachusetts",1,0.000351470139238978,281674,743159
-"408","Piscataquis County, Maine","Aroostook County, Maine",1,0.000342172797262618,17535,71870
-"1","York County, Maine","Sagadahoc County, Maine",1,0.000319584438774216,197131,35293
-"230","Lincoln County, Maine","Middlesex County, Massachusetts",1,0.00031923847113794,34457,1503085
-"195","Knox County, Maine","Hancock County, Maine",1,0.000301993154821824,39736,54418
-"393","Piscataquis County, Maine","Cumberland County, Maine",1,0.000285143997718848,17535,281674
-"117","Oxford County, Maine","Belknap County, New Hampshire",1,0.000276658655093113,57833,60088
-"74","Cumberland County, Maine","Penobscot County, Maine",1,0.000273365663852539,281674,153923
-"460","Hancock County, Maine","Kennebec County, Maine",1,0.000257267815796244,54418,122151
-"155","Waldo County, Maine","Androscoggin County, Maine",1,0.000232042489558088,38786,107702
-"134","Androscoggin County, Maine","Penobscot County, Maine",1,0.000222837087519266,107702,153923
-"85","Cumberland County, Maine","Norfolk County, Massachusetts",1,0.000216562409026037,281674,670850
-"274","Kennebec County, Maine","Oxford County, Maine",1,0.000204664718258549,122151,57833
-"302","Franklin County, Maine","Sagadahoc County, Maine",1,0.000195007800312012,30768,35293
-"82","Cumberland County, Maine","Hillsborough County, New Hampshire",1,0.000188160781612786,281674,400721
-"543","Aroostook County, Maine","Cumberland County, Maine",1,0.000180882148323362,71870,281674
-"425","Penobscot County, Maine","Androscoggin County, Maine",1,0.000175412381515433,153923,107702
-"111","Oxford County, Maine","Suffolk County, Massachusetts",1,0.000172911659433196,57833,722023
-"242","Somerset County, Maine","Sagadahoc County, Maine",1,0.000172321360189936,52228,35293
-"146","Androscoggin County, Maine","Worcester County, Massachusetts",1,0.00016712781563945,107702,798552
-"118","Oxford County, Maine","Grafton County, New Hampshire",1,0.000155620493489876,57833,89118
-"179","Waldo County, Maine","Richmond County, New York",1,0.000154694993038725,38786,468730
-"128","Androscoggin County, Maine","Somerset County, Maine",1,0.000148558058346177,107702,52228
-"216","Lincoln County, Maine","Waldo County, Maine",1,0.000145108395971791,34457,38786
-"26","York County, Maine","Worcester County, Massachusetts",1,0.000136964759474664,197131,798552
-"77","Cumberland County, Maine","Strafford County, New Hampshire",1,0.000131357526786285,281674,123143
-"306","Franklin County, Maine","Waldo County, Maine",1,0.000130005200208008,30768,38786
-"163","Waldo County, Maine","Piscataquis County, Maine",1,0.000128912494198938,38786,17535
-"90","Cumberland County, Maine","New York County, New York",1,0.000124257119932972,281674,1585873
-"287","Kennebec County, Maine","Strafford County, New Hampshire",1,0.000122798830955129,122151,123143
-"114","Oxford County, Maine","Merrimack County, New Hampshire",1,0.000121038161603237,57833,146445
-"131","Androscoggin County, Maine","Rockingham County, New Hampshire",1,0.000120703422406269,107702,295223
-"401","Piscataquis County, Maine","Franklin County, Maine",1,0.000114057599087539,17535,30768
-"554","Aroostook County, Maine","Piscataquis County, Maine",1,0.000111312091275915,71870,17535
-"98","Oxford County, Maine","Somerset County, Maine",1,0.000103746995659917,57833,52228
-"13","York County, Maine","Piscataquis County, Maine",1,9.6382608519208e-05,197131,17535
-"258","Somerset County, Maine","Aroostook County, Maine",1,9.57340889944091e-05,52228,71870
-"370","Washington County, Maine","Kennebec County, Maine",1,9.13075237399562e-05,32856,122151
-"65","Cumberland County, Maine","Waldo County, Maine",1,8.52048822397524e-05,281674,38786
-"41","Sagadahoc County, Maine","Rockingham County, New Hampshire",1,8.50026917519055e-05,35293,295223
-"550","Aroostook County, Maine","Kennebec County, Maine",1,8.34840684569362e-05,71870,122151
-"281","Kennebec County, Maine","Rockingham County, New Hampshire",1,7.36792985730776e-05,122151,295223
-"431","Penobscot County, Maine","Franklin County, Maine",1,6.49675487094196e-05,153923,30768
-"68","Cumberland County, Maine","Somerset County, Maine",1,6.39036616798142e-05,281674,52228
-"441","Penobscot County, Maine","Suffolk County, Massachusetts",1,5.84707938384777e-05,153923,722023
-"440","Penobscot County, Maine","Middlesex County, Massachusetts",1,5.84707938384777e-05,153923,1503085
-"109","Oxford County, Maine","Essex County, Massachusetts",1,5.18734978299586e-05,57833,743159
-"549","Aroostook County, Maine","Somerset County, Maine",1,4.17420342284681e-05,71870,52228
-"291","Kennebec County, Maine","Suffolk County, Massachusetts",1,4.09329436517098e-05,122151,722023
-"66","Cumberland County, Maine","Knox County, Maine",1,3.90522376932198e-05,281674,39736
-"446","Penobscot County, Maine","Worcester County, Massachusetts",1,3.89805292256518e-05,153923,798552
-"422","Penobscot County, Maine","Sagadahoc County, Maine",1,3.89805292256518e-05,153923,35293
-"457","Hancock County, Maine","Knox County, Maine",1,3.67525451137491e-05,54418,39736
-"8","York County, Maine","Somerset County, Maine",1,3.5509382086024e-05,197131,52228
-"101","Oxford County, Maine","Rockingham County, New Hampshire",1,3.45823318866391e-05,57833,295223
-"115","Oxford County, Maine","Norfolk County, Massachusetts",1,3.45823318866391e-05,57833,670850
-"84","Cumberland County, Maine","Merrimack County, New Hampshire",1,3.19518308399071e-05,281674,146445
-"362","Washington County, Maine","Sagadahoc County, Maine",1,3.04358412466521e-05,32856,35293
-"363","Washington County, Maine","Cumberland County, Maine",1,3.0435841246652e-05,32856,281674
-"52","Sagadahoc County, Maine","Hillsborough County, New Hampshire",1,2.83342305839685e-05,35293,400721
-"546","Aroostook County, Maine","Waldo County, Maine",1,2.78280228189787e-05,71870,38786
-"27","York County, Maine","Belknap County, New Hampshire",1,2.536384434716e-05,197131,60088
-"424","Penobscot County, Maine","Oxford County, Maine",1,1.94902646128259e-05,153923,57833
-"127","Androscoggin County, Maine","Lincoln County, Maine",1,1.85697572932722e-05,107702,34457
-"470","Hancock County, Maine","Middlesex County, Massachusetts",1,1.83762725568746e-05,54418,1503085
-"112","Oxford County, Maine","Hillsborough County, New Hampshire",1,1.72911659433196e-05,57833,400721
-"107","Oxford County, Maine","Strafford County, New Hampshire",1,1.72911659433195e-05,57833,123143
-"290","Kennebec County, Maine","Middlesex County, Massachusetts",1,1.63731774606839e-05,122151,1503085
-"5","York County, Maine","Waldo County, Maine",1,0,197131,38786
-"6","York County, Maine","Knox County, Maine",1,0,197131,39736
-"7","York County, Maine","Lincoln County, Maine",1,0,197131,34457
-"10","York County, Maine","Franklin County, Maine",1,0,197131,30768
-"12","York County, Maine","Washington County, Maine",1,0,197131,32856
-"15","York County, Maine","Hancock County, Maine",1,0,197131,54418
-"18","York County, Maine","Aroostook County, Maine",1,0,197131,71870
-"23","York County, Maine","Coos County, New Hampshire",1,0,197131,33055
-"28","York County, Maine","Grafton County, New Hampshire",1,0,197131,89118
-"29","York County, Maine","Richmond County, New York",1,0,197131,468730
-"30","York County, Maine","New York County, New York",1,0,197131,1585873
-"33","Sagadahoc County, Maine","Oxford County, Maine",1,0,35293,57833
-"35","Sagadahoc County, Maine","Waldo County, Maine",1,0,35293,38786
-"38","Sagadahoc County, Maine","Somerset County, Maine",1,0,35293,52228
-"40","Sagadahoc County, Maine","Franklin County, Maine",1,0,35293,30768
-"42","Sagadahoc County, Maine","Washington County, Maine",1,0,35293,32856
-"43","Sagadahoc County, Maine","Piscataquis County, Maine",1,0,35293,17535
-"44","Sagadahoc County, Maine","Penobscot County, Maine",1,0,35293,153923
-"45","Sagadahoc County, Maine","Hancock County, Maine",1,0,35293,54418
-"46","Sagadahoc County, Maine","Carroll County, New Hampshire",1,0,35293,47818
-"47","Sagadahoc County, Maine","Strafford County, New Hampshire",1,0,35293,123143
-"48","Sagadahoc County, Maine","Aroostook County, Maine",1,0,35293,71870
-"49","Sagadahoc County, Maine","Essex County, Massachusetts",1,0,35293,743159
-"50","Sagadahoc County, Maine","Middlesex County, Massachusetts",1,0,35293,1503085
-"51","Sagadahoc County, Maine","Suffolk County, Massachusetts",1,0,35293,722023
-"53","Sagadahoc County, Maine","Coos County, New Hampshire",1,0,35293,33055
-"54","Sagadahoc County, Maine","Merrimack County, New Hampshire",1,0,35293,146445
-"55","Sagadahoc County, Maine","Norfolk County, Massachusetts",1,0,35293,670850
-"56","Sagadahoc County, Maine","Worcester County, Massachusetts",1,0,35293,798552
-"57","Sagadahoc County, Maine","Belknap County, New Hampshire",1,0,35293,60088
-"58","Sagadahoc County, Maine","Grafton County, New Hampshire",1,0,35293,89118
-"59","Sagadahoc County, Maine","Richmond County, New York",1,0,35293,468730
-"60","Sagadahoc County, Maine","New York County, New York",1,0,35293,1585873
-"70","Cumberland County, Maine","Franklin County, Maine",1,0,281674,30768
-"72","Cumberland County, Maine","Washington County, Maine",1,0,281674,32856
-"73","Cumberland County, Maine","Piscataquis County, Maine",1,0,281674,17535
-"75","Cumberland County, Maine","Hancock County, Maine",1,0,281674,54418
-"78","Cumberland County, Maine","Aroostook County, Maine",1,0,281674,71870
-"83","Cumberland County, Maine","Coos County, New Hampshire",1,0,281674,33055
-"86","Cumberland County, Maine","Worcester County, Massachusetts",1,0,281674,798552
-"87","Cumberland County, Maine","Belknap County, New Hampshire",1,0,281674,60088
-"88","Cumberland County, Maine","Grafton County, New Hampshire",1,0,281674,89118
-"89","Cumberland County, Maine","Richmond County, New York",1,0,281674,468730
-"95","Oxford County, Maine","Waldo County, Maine",1,0,57833,38786
-"96","Oxford County, Maine","Knox County, Maine",1,0,57833,39736
-"97","Oxford County, Maine","Lincoln County, Maine",1,0,57833,34457
-"102","Oxford County, Maine","Washington County, Maine",1,0,57833,32856
-"103","Oxford County, Maine","Piscataquis County, Maine",1,0,57833,17535
-"105","Oxford County, Maine","Hancock County, Maine",1,0,57833,54418
-"108","Oxford County, Maine","Aroostook County, Maine",1,0,57833,71870
-"110","Oxford County, Maine","Middlesex County, Massachusetts",1,0,57833,1503085
-"116","Oxford County, Maine","Worcester County, Massachusetts",1,0,57833,798552
-"119","Oxford County, Maine","Richmond County, New York",1,0,57833,468730
-"120","Oxford County, Maine","New York County, New York",1,0,57833,1585873
-"125","Androscoggin County, Maine","Waldo County, Maine",1,0,107702,38786
-"126","Androscoggin County, Maine","Knox County, Maine",1,0,107702,39736
-"132","Androscoggin County, Maine","Washington County, Maine",1,0,107702,32856
-"133","Androscoggin County, Maine","Piscataquis County, Maine",1,0,107702,17535
-"135","Androscoggin County, Maine","Hancock County, Maine",1,0,107702,54418
-"136","Androscoggin County, Maine","Carroll County, New Hampshire",1,0,107702,47818
-"137","Androscoggin County, Maine","Strafford County, New Hampshire",1,0,107702,123143
-"138","Androscoggin County, Maine","Aroostook County, Maine",1,0,107702,71870
-"139","Androscoggin County, Maine","Essex County, Massachusetts",1,0,107702,743159
-"140","Androscoggin County, Maine","Middlesex County, Massachusetts",1,0,107702,1503085
-"141","Androscoggin County, Maine","Suffolk County, Massachusetts",1,0,107702,722023
-"142","Androscoggin County, Maine","Hillsborough County, New Hampshire",1,0,107702,400721
-"143","Androscoggin County, Maine","Coos County, New Hampshire",1,0,107702,33055
-"144","Androscoggin County, Maine","Merrimack County, New Hampshire",1,0,107702,146445
-"145","Androscoggin County, Maine","Norfolk County, Massachusetts",1,0,107702,670850
-"147","Androscoggin County, Maine","Belknap County, New Hampshire",1,0,107702,60088
-"148","Androscoggin County, Maine","Grafton County, New Hampshire",1,0,107702,89118
-"149","Androscoggin County, Maine","Richmond County, New York",1,0,107702,468730
-"150","Androscoggin County, Maine","New York County, New York",1,0,107702,1585873
-"151","Waldo County, Maine","York County, Maine",1,0,38786,197131
-"154","Waldo County, Maine","Oxford County, Maine",1,0,38786,57833
-"160","Waldo County, Maine","Franklin County, Maine",1,0,38786,30768
-"161","Waldo County, Maine","Rockingham County, New Hampshire",1,0,38786,295223
-"162","Waldo County, Maine","Washington County, Maine",1,0,38786,32856
-"166","Waldo County, Maine","Carroll County, New Hampshire",1,0,38786,47818
-"167","Waldo County, Maine","Strafford County, New Hampshire",1,0,38786,123143
-"168","Waldo County, Maine","Aroostook County, Maine",1,0,38786,71870
-"169","Waldo County, Maine","Essex County, Massachusetts",1,0,38786,743159
-"170","Waldo County, Maine","Middlesex County, Massachusetts",1,0,38786,1503085
-"171","Waldo County, Maine","Suffolk County, Massachusetts",1,0,38786,722023
-"172","Waldo County, Maine","Hillsborough County, New Hampshire",1,0,38786,400721
-"173","Waldo County, Maine","Coos County, New Hampshire",1,0,38786,33055
-"174","Waldo County, Maine","Merrimack County, New Hampshire",1,0,38786,146445
-"175","Waldo County, Maine","Norfolk County, Massachusetts",1,0,38786,670850
-"176","Waldo County, Maine","Worcester County, Massachusetts",1,0,38786,798552
-"177","Waldo County, Maine","Belknap County, New Hampshire",1,0,38786,60088
-"178","Waldo County, Maine","Grafton County, New Hampshire",1,0,38786,89118
-"180","Waldo County, Maine","New York County, New York",1,0,38786,1585873
-"181","Knox County, Maine","York County, Maine",1,0,39736,197131
-"184","Knox County, Maine","Oxford County, Maine",1,0,39736,57833
-"185","Knox County, Maine","Androscoggin County, Maine",1,0,39736,107702
-"188","Knox County, Maine","Somerset County, Maine",1,0,39736,52228
-"190","Knox County, Maine","Franklin County, Maine",1,0,39736,30768
-"191","Knox County, Maine","Rockingham County, New Hampshire",1,0,39736,295223
-"192","Knox County, Maine","Washington County, Maine",1,0,39736,32856
-"193","Knox County, Maine","Piscataquis County, Maine",1,0,39736,17535
-"196","Knox County, Maine","Carroll County, New Hampshire",1,0,39736,47818
-"197","Knox County, Maine","Strafford County, New Hampshire",1,0,39736,123143
-"198","Knox County, Maine","Aroostook County, Maine",1,0,39736,71870
-"199","Knox County, Maine","Essex County, Massachusetts",1,0,39736,743159
-"200","Knox County, Maine","Middlesex County, Massachusetts",1,0,39736,1503085
-"201","Knox County, Maine","Suffolk County, Massachusetts",1,0,39736,722023
-"202","Knox County, Maine","Hillsborough County, New Hampshire",1,0,39736,400721
-"203","Knox County, Maine","Coos County, New Hampshire",1,0,39736,33055
-"204","Knox County, Maine","Merrimack County, New Hampshire",1,0,39736,146445
-"205","Knox County, Maine","Norfolk County, Massachusetts",1,0,39736,670850
-"206","Knox County, Maine","Worcester County, Massachusetts",1,0,39736,798552
-"207","Knox County, Maine","Belknap County, New Hampshire",1,0,39736,60088
-"208","Knox County, Maine","Grafton County, New Hampshire",1,0,39736,89118
-"209","Knox County, Maine","Richmond County, New York",1,0,39736,468730
-"210","Knox County, Maine","New York County, New York",1,0,39736,1585873
-"211","Lincoln County, Maine","York County, Maine",1,0,34457,197131
-"214","Lincoln County, Maine","Oxford County, Maine",1,0,34457,57833
-"218","Lincoln County, Maine","Somerset County, Maine",1,0,34457,52228
-"220","Lincoln County, Maine","Franklin County, Maine",1,0,34457,30768
-"221","Lincoln County, Maine","Rockingham County, New Hampshire",1,0,34457,295223
-"222","Lincoln County, Maine","Washington County, Maine",1,0,34457,32856
-"223","Lincoln County, Maine","Piscataquis County, Maine",1,0,34457,17535
-"224","Lincoln County, Maine","Penobscot County, Maine",1,0,34457,153923
-"225","Lincoln County, Maine","Hancock County, Maine",1,0,34457,54418
-"226","Lincoln County, Maine","Carroll County, New Hampshire",1,0,34457,47818
-"227","Lincoln County, Maine","Strafford County, New Hampshire",1,0,34457,123143
-"228","Lincoln County, Maine","Aroostook County, Maine",1,0,34457,71870
-"229","Lincoln County, Maine","Essex County, Massachusetts",1,0,34457,743159
-"231","Lincoln County, Maine","Suffolk County, Massachusetts",1,0,34457,722023
-"232","Lincoln County, Maine","Hillsborough County, New Hampshire",1,0,34457,400721
-"233","Lincoln County, Maine","Coos County, New Hampshire",1,0,34457,33055
-"234","Lincoln County, Maine","Merrimack County, New Hampshire",1,0,34457,146445
-"235","Lincoln County, Maine","Norfolk County, Massachusetts",1,0,34457,670850
-"236","Lincoln County, Maine","Worcester County, Massachusetts",1,0,34457,798552
-"237","Lincoln County, Maine","Belknap County, New Hampshire",1,0,34457,60088
-"238","Lincoln County, Maine","Grafton County, New Hampshire",1,0,34457,89118
-"239","Lincoln County, Maine","Richmond County, New York",1,0,34457,468730
-"240","Lincoln County, Maine","New York County, New York",1,0,34457,1585873
-"244","Somerset County, Maine","Oxford County, Maine",1,0,52228,57833
-"247","Somerset County, Maine","Knox County, Maine",1,0,52228,39736
-"248","Somerset County, Maine","Lincoln County, Maine",1,0,52228,34457
-"251","Somerset County, Maine","Rockingham County, New Hampshire",1,0,52228,295223
-"252","Somerset County, Maine","Washington County, Maine",1,0,52228,32856
-"256","Somerset County, Maine","Carroll County, New Hampshire",1,0,52228,47818
-"257","Somerset County, Maine","Strafford County, New Hampshire",1,0,52228,123143
-"259","Somerset County, Maine","Essex County, Massachusetts",1,0,52228,743159
-"260","Somerset County, Maine","Middlesex County, Massachusetts",1,0,52228,1503085
-"261","Somerset County, Maine","Suffolk County, Massachusetts",1,0,52228,722023
-"262","Somerset County, Maine","Hillsborough County, New Hampshire",1,0,52228,400721
-"263","Somerset County, Maine","Coos County, New Hampshire",1,0,52228,33055
-"264","Somerset County, Maine","Merrimack County, New Hampshire",1,0,52228,146445
-"265","Somerset County, Maine","Norfolk County, Massachusetts",1,0,52228,670850
-"266","Somerset County, Maine","Worcester County, Massachusetts",1,0,52228,798552
-"267","Somerset County, Maine","Belknap County, New Hampshire",1,0,52228,60088
-"268","Somerset County, Maine","Grafton County, New Hampshire",1,0,52228,89118
-"269","Somerset County, Maine","Richmond County, New York",1,0,52228,468730
-"270","Somerset County, Maine","New York County, New York",1,0,52228,1585873
-"282","Kennebec County, Maine","Washington County, Maine",1,0,122151,32856
-"283","Kennebec County, Maine","Piscataquis County, Maine",1,0,122151,17535
-"285","Kennebec County, Maine","Hancock County, Maine",1,0,122151,54418
-"286","Kennebec County, Maine","Carroll County, New Hampshire",1,0,122151,47818
-"288","Kennebec County, Maine","Aroostook County, Maine",1,0,122151,71870
-"289","Kennebec County, Maine","Essex County, Massachusetts",1,0,122151,743159
-"292","Kennebec County, Maine","Hillsborough County, New Hampshire",1,0,122151,400721
-"293","Kennebec County, Maine","Coos County, New Hampshire",1,0,122151,33055
-"294","Kennebec County, Maine","Merrimack County, New Hampshire",1,0,122151,146445
-"295","Kennebec County, Maine","Norfolk County, Massachusetts",1,0,122151,670850
-"296","Kennebec County, Maine","Worcester County, Massachusetts",1,0,122151,798552
-"297","Kennebec County, Maine","Belknap County, New Hampshire",1,0,122151,60088
-"298","Kennebec County, Maine","Grafton County, New Hampshire",1,0,122151,89118
-"299","Kennebec County, Maine","Richmond County, New York",1,0,122151,468730
-"300","Kennebec County, Maine","New York County, New York",1,0,122151,1585873
-"301","Franklin County, Maine","York County, Maine",1,0,30768,197131
-"307","Franklin County, Maine","Knox County, Maine",1,0,30768,39736
-"308","Franklin County, Maine","Lincoln County, Maine",1,0,30768,34457
-"311","Franklin County, Maine","Rockingham County, New Hampshire",1,0,30768,295223
-"312","Franklin County, Maine","Washington County, Maine",1,0,30768,32856
-"313","Franklin County, Maine","Piscataquis County, Maine",1,0,30768,17535
-"315","Franklin County, Maine","Hancock County, Maine",1,0,30768,54418
-"316","Franklin County, Maine","Carroll County, New Hampshire",1,0,30768,47818
-"317","Franklin County, Maine","Strafford County, New Hampshire",1,0,30768,123143
-"318","Franklin County, Maine","Aroostook County, Maine",1,0,30768,71870
-"319","Franklin County, Maine","Essex County, Massachusetts",1,0,30768,743159
-"320","Franklin County, Maine","Middlesex County, Massachusetts",1,0,30768,1503085
-"321","Franklin County, Maine","Suffolk County, Massachusetts",1,0,30768,722023
-"322","Franklin County, Maine","Hillsborough County, New Hampshire",1,0,30768,400721
-"323","Franklin County, Maine","Coos County, New Hampshire",1,0,30768,33055
-"324","Franklin County, Maine","Merrimack County, New Hampshire",1,0,30768,146445
-"325","Franklin County, Maine","Norfolk County, Massachusetts",1,0,30768,670850
-"326","Franklin County, Maine","Worcester County, Massachusetts",1,0,30768,798552
-"327","Franklin County, Maine","Belknap County, New Hampshire",1,0,30768,60088
-"328","Franklin County, Maine","Grafton County, New Hampshire",1,0,30768,89118
-"329","Franklin County, Maine","Richmond County, New York",1,0,30768,468730
-"330","Franklin County, Maine","New York County, New York",1,0,30768,1585873
-"331","Rockingham County, New Hampshire","York County, Maine",1,0,295223,197131
-"332","Rockingham County, New Hampshire","Sagadahoc County, Maine",1,0,295223,35293
-"333","Rockingham County, New Hampshire","Cumberland County, Maine",1,0,295223,281674
-"334","Rockingham County, New Hampshire","Oxford County, Maine",1,0,295223,57833
-"335","Rockingham County, New Hampshire","Androscoggin County, Maine",1,0,295223,107702
-"336","Rockingham County, New Hampshire","Waldo County, Maine",1,0,295223,38786
-"337","Rockingham County, New Hampshire","Knox County, Maine",1,0,295223,39736
-"338","Rockingham County, New Hampshire","Lincoln County, Maine",1,0,295223,34457
-"339","Rockingham County, New Hampshire","Somerset County, Maine",1,0,295223,52228
-"340","Rockingham County, New Hampshire","Kennebec County, Maine",1,0,295223,122151
-"341","Rockingham County, New Hampshire","Franklin County, Maine",1,0,295223,30768
-"342","Rockingham County, New Hampshire","Washington County, Maine",1,0,295223,32856
-"343","Rockingham County, New Hampshire","Piscataquis County, Maine",1,0,295223,17535
-"344","Rockingham County, New Hampshire","Penobscot County, Maine",1,0,295223,153923
-"345","Rockingham County, New Hampshire","Hancock County, Maine",1,0,295223,54418
-"346","Rockingham County, New Hampshire","Carroll County, New Hampshire",1,0,295223,47818
-"347","Rockingham County, New Hampshire","Strafford County, New Hampshire",1,0,295223,123143
-"348","Rockingham County, New Hampshire","Aroostook County, Maine",1,0,295223,71870
-"349","Rockingham County, New Hampshire","Essex County, Massachusetts",1,0,295223,743159
-"350","Rockingham County, New Hampshire","Middlesex County, Massachusetts",1,0,295223,1503085
-"351","Rockingham County, New Hampshire","Suffolk County, Massachusetts",1,0,295223,722023
-"352","Rockingham County, New Hampshire","Hillsborough County, New Hampshire",1,0,295223,400721
-"353","Rockingham County, New Hampshire","Coos County, New Hampshire",1,0,295223,33055
-"354","Rockingham County, New Hampshire","Merrimack County, New Hampshire",1,0,295223,146445
-"355","Rockingham County, New Hampshire","Norfolk County, Massachusetts",1,0,295223,670850
-"356","Rockingham County, New Hampshire","Worcester County, Massachusetts",1,0,295223,798552
-"357","Rockingham County, New Hampshire","Belknap County, New Hampshire",1,0,295223,60088
-"358","Rockingham County, New Hampshire","Grafton County, New Hampshire",1,0,295223,89118
-"359","Rockingham County, New Hampshire","Richmond County, New York",1,0,295223,468730
-"360","Rockingham County, New Hampshire","New York County, New York",1,0,295223,1585873
-"361","Washington County, Maine","York County, Maine",1,0,32856,197131
-"364","Washington County, Maine","Oxford County, Maine",1,0,32856,57833
-"365","Washington County, Maine","Androscoggin County, Maine",1,0,32856,107702
-"366","Washington County, Maine","Waldo County, Maine",1,0,32856,38786
-"368","Washington County, Maine","Lincoln County, Maine",1,0,32856,34457
-"369","Washington County, Maine","Somerset County, Maine",1,0,32856,52228
-"371","Washington County, Maine","Franklin County, Maine",1,0,32856,30768
-"372","Washington County, Maine","Rockingham County, New Hampshire",1,0,32856,295223
-"373","Washington County, Maine","Piscataquis County, Maine",1,0,32856,17535
-"376","Washington County, Maine","Carroll County, New Hampshire",1,0,32856,47818
-"377","Washington County, Maine","Strafford County, New Hampshire",1,0,32856,123143
-"379","Washington County, Maine","Essex County, Massachusetts",1,0,32856,743159
-"380","Washington County, Maine","Middlesex County, Massachusetts",1,0,32856,1503085
-"381","Washington County, Maine","Suffolk County, Massachusetts",1,0,32856,722023
-"382","Washington County, Maine","Hillsborough County, New Hampshire",1,0,32856,400721
-"383","Washington County, Maine","Coos County, New Hampshire",1,0,32856,33055
-"384","Washington County, Maine","Merrimack County, New Hampshire",1,0,32856,146445
-"385","Washington County, Maine","Norfolk County, Massachusetts",1,0,32856,670850
-"386","Washington County, Maine","Worcester County, Massachusetts",1,0,32856,798552
-"387","Washington County, Maine","Belknap County, New Hampshire",1,0,32856,60088
-"388","Washington County, Maine","Grafton County, New Hampshire",1,0,32856,89118
-"389","Washington County, Maine","Richmond County, New York",1,0,32856,468730
-"390","Washington County, Maine","New York County, New York",1,0,32856,1585873
-"391","Piscataquis County, Maine","York County, Maine",1,0,17535,197131
-"392","Piscataquis County, Maine","Sagadahoc County, Maine",1,0,17535,35293
-"394","Piscataquis County, Maine","Oxford County, Maine",1,0,17535,57833
-"395","Piscataquis County, Maine","Androscoggin County, Maine",1,0,17535,107702
-"397","Piscataquis County, Maine","Knox County, Maine",1,0,17535,39736
-"398","Piscataquis County, Maine","Lincoln County, Maine",1,0,17535,34457
-"402","Piscataquis County, Maine","Rockingham County, New Hampshire",1,0,17535,295223
-"403","Piscataquis County, Maine","Washington County, Maine",1,0,17535,32856
-"405","Piscataquis County, Maine","Hancock County, Maine",1,0,17535,54418
-"406","Piscataquis County, Maine","Carroll County, New Hampshire",1,0,17535,47818
-"407","Piscataquis County, Maine","Strafford County, New Hampshire",1,0,17535,123143
-"409","Piscataquis County, Maine","Essex County, Massachusetts",1,0,17535,743159
-"410","Piscataquis County, Maine","Middlesex County, Massachusetts",1,0,17535,1503085
-"411","Piscataquis County, Maine","Suffolk County, Massachusetts",1,0,17535,722023
-"412","Piscataquis County, Maine","Hillsborough County, New Hampshire",1,0,17535,400721
-"413","Piscataquis County, Maine","Coos County, New Hampshire",1,0,17535,33055
-"414","Piscataquis County, Maine","Merrimack County, New Hampshire",1,0,17535,146445
-"415","Piscataquis County, Maine","Norfolk County, Massachusetts",1,0,17535,670850
-"416","Piscataquis County, Maine","Worcester County, Massachusetts",1,0,17535,798552
-"417","Piscataquis County, Maine","Belknap County, New Hampshire",1,0,17535,60088
-"418","Piscataquis County, Maine","Grafton County, New Hampshire",1,0,17535,89118
-"419","Piscataquis County, Maine","Richmond County, New York",1,0,17535,468730
-"420","Piscataquis County, Maine","New York County, New York",1,0,17535,1585873
-"421","Penobscot County, Maine","York County, Maine",1,0,153923,197131
-"428","Penobscot County, Maine","Lincoln County, Maine",1,0,153923,34457
-"432","Penobscot County, Maine","Rockingham County, New Hampshire",1,0,153923,295223
-"436","Penobscot County, Maine","Carroll County, New Hampshire",1,0,153923,47818
-"437","Penobscot County, Maine","Strafford County, New Hampshire",1,0,153923,123143
-"439","Penobscot County, Maine","Essex County, Massachusetts",1,0,153923,743159
-"442","Penobscot County, Maine","Hillsborough County, New Hampshire",1,0,153923,400721
-"443","Penobscot County, Maine","Coos County, New Hampshire",1,0,153923,33055
-"444","Penobscot County, Maine","Merrimack County, New Hampshire",1,0,153923,146445
-"445","Penobscot County, Maine","Norfolk County, Massachusetts",1,0,153923,670850
-"447","Penobscot County, Maine","Belknap County, New Hampshire",1,0,153923,60088
-"448","Penobscot County, Maine","Grafton County, New Hampshire",1,0,153923,89118
-"449","Penobscot County, Maine","Richmond County, New York",1,0,153923,468730
-"450","Penobscot County, Maine","New York County, New York",1,0,153923,1585873
-"451","Hancock County, Maine","York County, Maine",1,0,54418,197131
-"452","Hancock County, Maine","Sagadahoc County, Maine",1,0,54418,35293
-"454","Hancock County, Maine","Oxford County, Maine",1,0,54418,57833
-"455","Hancock County, Maine","Androscoggin County, Maine",1,0,54418,107702
-"458","Hancock County, Maine","Lincoln County, Maine",1,0,54418,34457
-"459","Hancock County, Maine","Somerset County, Maine",1,0,54418,52228
-"461","Hancock County, Maine","Franklin County, Maine",1,0,54418,30768
-"462","Hancock County, Maine","Rockingham County, New Hampshire",1,0,54418,295223
-"464","Hancock County, Maine","Piscataquis County, Maine",1,0,54418,17535
-"466","Hancock County, Maine","Carroll County, New Hampshire",1,0,54418,47818
-"467","Hancock County, Maine","Strafford County, New Hampshire",1,0,54418,123143
-"468","Hancock County, Maine","Aroostook County, Maine",1,0,54418,71870
-"469","Hancock County, Maine","Essex County, Massachusetts",1,0,54418,743159
-"471","Hancock County, Maine","Suffolk County, Massachusetts",1,0,54418,722023
-"472","Hancock County, Maine","Hillsborough County, New Hampshire",1,0,54418,400721
-"473","Hancock County, Maine","Coos County, New Hampshire",1,0,54418,33055
-"474","Hancock County, Maine","Merrimack County, New Hampshire",1,0,54418,146445
-"475","Hancock County, Maine","Norfolk County, Massachusetts",1,0,54418,670850
-"476","Hancock County, Maine","Worcester County, Massachusetts",1,0,54418,798552
-"477","Hancock County, Maine","Belknap County, New Hampshire",1,0,54418,60088
-"478","Hancock County, Maine","Grafton County, New Hampshire",1,0,54418,89118
-"479","Hancock County, Maine","Richmond County, New York",1,0,54418,468730
-"480","Hancock County, Maine","New York County, New York",1,0,54418,1585873
-"481","Carroll County, New Hampshire","York County, Maine",1,0,47818,197131
-"482","Carroll County, New Hampshire","Sagadahoc County, Maine",1,0,47818,35293
-"483","Carroll County, New Hampshire","Cumberland County, Maine",1,0,47818,281674
-"484","Carroll County, New Hampshire","Oxford County, Maine",1,0,47818,57833
-"485","Carroll County, New Hampshire","Androscoggin County, Maine",1,0,47818,107702
-"486","Carroll County, New Hampshire","Waldo County, Maine",1,0,47818,38786
-"487","Carroll County, New Hampshire","Knox County, Maine",1,0,47818,39736
-"488","Carroll County, New Hampshire","Lincoln County, Maine",1,0,47818,34457
-"489","Carroll County, New Hampshire","Somerset County, Maine",1,0,47818,52228
-"490","Carroll County, New Hampshire","Kennebec County, Maine",1,0,47818,122151
-"491","Carroll County, New Hampshire","Franklin County, Maine",1,0,47818,30768
-"492","Carroll County, New Hampshire","Rockingham County, New Hampshire",1,0,47818,295223
-"493","Carroll County, New Hampshire","Washington County, Maine",1,0,47818,32856
-"494","Carroll County, New Hampshire","Piscataquis County, Maine",1,0,47818,17535
-"495","Carroll County, New Hampshire","Penobscot County, Maine",1,0,47818,153923
-"496","Carroll County, New Hampshire","Hancock County, Maine",1,0,47818,54418
-"497","Carroll County, New Hampshire","Strafford County, New Hampshire",1,0,47818,123143
-"498","Carroll County, New Hampshire","Aroostook County, Maine",1,0,47818,71870
-"499","Carroll County, New Hampshire","Essex County, Massachusetts",1,0,47818,743159
-"500","Carroll County, New Hampshire","Middlesex County, Massachusetts",1,0,47818,1503085
-"501","Carroll County, New Hampshire","Suffolk County, Massachusetts",1,0,47818,722023
-"502","Carroll County, New Hampshire","Hillsborough County, New Hampshire",1,0,47818,400721
-"503","Carroll County, New Hampshire","Coos County, New Hampshire",1,0,47818,33055
-"504","Carroll County, New Hampshire","Merrimack County, New Hampshire",1,0,47818,146445
-"505","Carroll County, New Hampshire","Norfolk County, Massachusetts",1,0,47818,670850
-"506","Carroll County, New Hampshire","Worcester County, Massachusetts",1,0,47818,798552
-"507","Carroll County, New Hampshire","Belknap County, New Hampshire",1,0,47818,60088
-"508","Carroll County, New Hampshire","Grafton County, New Hampshire",1,0,47818,89118
-"509","Carroll County, New Hampshire","Richmond County, New York",1,0,47818,468730
-"510","Carroll County, New Hampshire","New York County, New York",1,0,47818,1585873
-"511","Strafford County, New Hampshire","York County, Maine",1,0,123143,197131
-"512","Strafford County, New Hampshire","Sagadahoc County, Maine",1,0,123143,35293
-"513","Strafford County, New Hampshire","Cumberland County, Maine",1,0,123143,281674
-"514","Strafford County, New Hampshire","Oxford County, Maine",1,0,123143,57833
-"515","Strafford County, New Hampshire","Androscoggin County, Maine",1,0,123143,107702
-"516","Strafford County, New Hampshire","Waldo County, Maine",1,0,123143,38786
-"517","Strafford County, New Hampshire","Knox County, Maine",1,0,123143,39736
-"518","Strafford County, New Hampshire","Lincoln County, Maine",1,0,123143,34457
-"519","Strafford County, New Hampshire","Somerset County, Maine",1,0,123143,52228
-"520","Strafford County, New Hampshire","Kennebec County, Maine",1,0,123143,122151
-"521","Strafford County, New Hampshire","Franklin County, Maine",1,0,123143,30768
-"522","Strafford County, New Hampshire","Rockingham County, New Hampshire",1,0,123143,295223
-"523","Strafford County, New Hampshire","Washington County, Maine",1,0,123143,32856
-"524","Strafford County, New Hampshire","Piscataquis County, Maine",1,0,123143,17535
-"525","Strafford County, New Hampshire","Penobscot County, Maine",1,0,123143,153923
-"526","Strafford County, New Hampshire","Hancock County, Maine",1,0,123143,54418
-"527","Strafford County, New Hampshire","Carroll County, New Hampshire",1,0,123143,47818
-"528","Strafford County, New Hampshire","Aroostook County, Maine",1,0,123143,71870
-"529","Strafford County, New Hampshire","Essex County, Massachusetts",1,0,123143,743159
-"530","Strafford County, New Hampshire","Middlesex County, Massachusetts",1,0,123143,1503085
-"531","Strafford County, New Hampshire","Suffolk County, Massachusetts",1,0,123143,722023
-"532","Strafford County, New Hampshire","Hillsborough County, New Hampshire",1,0,123143,400721
-"533","Strafford County, New Hampshire","Coos County, New Hampshire",1,0,123143,33055
-"534","Strafford County, New Hampshire","Merrimack County, New Hampshire",1,0,123143,146445
-"535","Strafford County, New Hampshire","Norfolk County, Massachusetts",1,0,123143,670850
-"536","Strafford County, New Hampshire","Worcester County, Massachusetts",1,0,123143,798552
-"537","Strafford County, New Hampshire","Belknap County, New Hampshire",1,0,123143,60088
-"538","Strafford County, New Hampshire","Grafton County, New Hampshire",1,0,123143,89118
-"539","Strafford County, New Hampshire","Richmond County, New York",1,0,123143,468730
-"540","Strafford County, New Hampshire","New York County, New York",1,0,123143,1585873
-"541","Aroostook County, Maine","York County, Maine",1,0,71870,197131
-"542","Aroostook County, Maine","Sagadahoc County, Maine",1,0,71870,35293
-"544","Aroostook County, Maine","Oxford County, Maine",1,0,71870,57833
-"545","Aroostook County, Maine","Androscoggin County, Maine",1,0,71870,107702
-"547","Aroostook County, Maine","Knox County, Maine",1,0,71870,39736
-"548","Aroostook County, Maine","Lincoln County, Maine",1,0,71870,34457
-"551","Aroostook County, Maine","Franklin County, Maine",1,0,71870,30768
-"552","Aroostook County, Maine","Rockingham County, New Hampshire",1,0,71870,295223
-"556","Aroostook County, Maine","Hancock County, Maine",1,0,71870,54418
-"557","Aroostook County, Maine","Carroll County, New Hampshire",1,0,71870,47818
-"558","Aroostook County, Maine","Strafford County, New Hampshire",1,0,71870,123143
-"559","Aroostook County, Maine","Essex County, Massachusetts",1,0,71870,743159
-"560","Aroostook County, Maine","Middlesex County, Massachusetts",1,0,71870,1503085
-"561","Aroostook County, Maine","Suffolk County, Massachusetts",1,0,71870,722023
-"562","Aroostook County, Maine","Hillsborough County, New Hampshire",1,0,71870,400721
-"563","Aroostook County, Maine","Coos County, New Hampshire",1,0,71870,33055
-"564","Aroostook County, Maine","Merrimack County, New Hampshire",1,0,71870,146445
-"565","Aroostook County, Maine","Norfolk County, Massachusetts",1,0,71870,670850
-"566","Aroostook County, Maine","Worcester County, Massachusetts",1,0,71870,798552
-"567","Aroostook County, Maine","Belknap County, New Hampshire",1,0,71870,60088
-"568","Aroostook County, Maine","Grafton County, New Hampshire",1,0,71870,89118
-"569","Aroostook County, Maine","Richmond County, New York",1,0,71870,468730
-"570","Aroostook County, Maine","New York County, New York",1,0,71870,1585873
-"571","Essex County, Massachusetts","York County, Maine",1,0,743159,197131
-"572","Essex County, Massachusetts","Sagadahoc County, Maine",1,0,743159,35293
-"573","Essex County, Massachusetts","Cumberland County, Maine",1,0,743159,281674
-"574","Essex County, Massachusetts","Oxford County, Maine",1,0,743159,57833
-"575","Essex County, Massachusetts","Androscoggin County, Maine",1,0,743159,107702
-"576","Essex County, Massachusetts","Waldo County, Maine",1,0,743159,38786
-"577","Essex County, Massachusetts","Knox County, Maine",1,0,743159,39736
-"578","Essex County, Massachusetts","Lincoln County, Maine",1,0,743159,34457
-"579","Essex County, Massachusetts","Somerset County, Maine",1,0,743159,52228
-"580","Essex County, Massachusetts","Kennebec County, Maine",1,0,743159,122151
-"581","Essex County, Massachusetts","Franklin County, Maine",1,0,743159,30768
-"582","Essex County, Massachusetts","Rockingham County, New Hampshire",1,0,743159,295223
-"583","Essex County, Massachusetts","Washington County, Maine",1,0,743159,32856
-"584","Essex County, Massachusetts","Piscataquis County, Maine",1,0,743159,17535
-"585","Essex County, Massachusetts","Penobscot County, Maine",1,0,743159,153923
-"586","Essex County, Massachusetts","Hancock County, Maine",1,0,743159,54418
-"587","Essex County, Massachusetts","Carroll County, New Hampshire",1,0,743159,47818
-"588","Essex County, Massachusetts","Strafford County, New Hampshire",1,0,743159,123143
-"589","Essex County, Massachusetts","Aroostook County, Maine",1,0,743159,71870
-"590","Essex County, Massachusetts","Middlesex County, Massachusetts",1,0,743159,1503085
-"591","Essex County, Massachusetts","Suffolk County, Massachusetts",1,0,743159,722023
-"592","Essex County, Massachusetts","Hillsborough County, New Hampshire",1,0,743159,400721
-"593","Essex County, Massachusetts","Coos County, New Hampshire",1,0,743159,33055
-"594","Essex County, Massachusetts","Merrimack County, New Hampshire",1,0,743159,146445
-"595","Essex County, Massachusetts","Norfolk County, Massachusetts",1,0,743159,670850
-"596","Essex County, Massachusetts","Worcester County, Massachusetts",1,0,743159,798552
-"597","Essex County, Massachusetts","Belknap County, New Hampshire",1,0,743159,60088
-"598","Essex County, Massachusetts","Grafton County, New Hampshire",1,0,743159,89118
-"599","Essex County, Massachusetts","Richmond County, New York",1,0,743159,468730
-"600","Essex County, Massachusetts","New York County, New York",1,0,743159,1585873
-"601","Middlesex County, Massachusetts","York County, Maine",1,0,1503085,197131
-"602","Middlesex County, Massachusetts","Sagadahoc County, Maine",1,0,1503085,35293
-"603","Middlesex County, Massachusetts","Cumberland County, Maine",1,0,1503085,281674
-"604","Middlesex County, Massachusetts","Oxford County, Maine",1,0,1503085,57833
-"605","Middlesex County, Massachusetts","Androscoggin County, Maine",1,0,1503085,107702
-"606","Middlesex County, Massachusetts","Waldo County, Maine",1,0,1503085,38786
-"607","Middlesex County, Massachusetts","Knox County, Maine",1,0,1503085,39736
-"608","Middlesex County, Massachusetts","Lincoln County, Maine",1,0,1503085,34457
-"609","Middlesex County, Massachusetts","Somerset County, Maine",1,0,1503085,52228
-"610","Middlesex County, Massachusetts","Kennebec County, Maine",1,0,1503085,122151
-"611","Middlesex County, Massachusetts","Franklin County, Maine",1,0,1503085,30768
-"612","Middlesex County, Massachusetts","Rockingham County, New Hampshire",1,0,1503085,295223
-"613","Middlesex County, Massachusetts","Washington County, Maine",1,0,1503085,32856
-"614","Middlesex County, Massachusetts","Piscataquis County, Maine",1,0,1503085,17535
-"615","Middlesex County, Massachusetts","Penobscot County, Maine",1,0,1503085,153923
-"616","Middlesex County, Massachusetts","Hancock County, Maine",1,0,1503085,54418
-"617","Middlesex County, Massachusetts","Carroll County, New Hampshire",1,0,1503085,47818
-"618","Middlesex County, Massachusetts","Strafford County, New Hampshire",1,0,1503085,123143
-"619","Middlesex County, Massachusetts","Aroostook County, Maine",1,0,1503085,71870
-"620","Middlesex County, Massachusetts","Essex County, Massachusetts",1,0,1503085,743159
-"621","Middlesex County, Massachusetts","Suffolk County, Massachusetts",1,0,1503085,722023
-"622","Middlesex County, Massachusetts","Hillsborough County, New Hampshire",1,0,1503085,400721
-"623","Middlesex County, Massachusetts","Coos County, New Hampshire",1,0,1503085,33055
-"624","Middlesex County, Massachusetts","Merrimack County, New Hampshire",1,0,1503085,146445
-"625","Middlesex County, Massachusetts","Norfolk County, Massachusetts",1,0,1503085,670850
-"626","Middlesex County, Massachusetts","Worcester County, Massachusetts",1,0,1503085,798552
-"627","Middlesex County, Massachusetts","Belknap County, New Hampshire",1,0,1503085,60088
-"628","Middlesex County, Massachusetts","Grafton County, New Hampshire",1,0,1503085,89118
-"629","Middlesex County, Massachusetts","Richmond County, New York",1,0,1503085,468730
-"630","Middlesex County, Massachusetts","New York County, New York",1,0,1503085,1585873
-"631","Suffolk County, Massachusetts","York County, Maine",1,0,722023,197131
-"632","Suffolk County, Massachusetts","Sagadahoc County, Maine",1,0,722023,35293
-"633","Suffolk County, Massachusetts","Cumberland County, Maine",1,0,722023,281674
-"634","Suffolk County, Massachusetts","Oxford County, Maine",1,0,722023,57833
-"635","Suffolk County, Massachusetts","Androscoggin County, Maine",1,0,722023,107702
-"636","Suffolk County, Massachusetts","Waldo County, Maine",1,0,722023,38786
-"637","Suffolk County, Massachusetts","Knox County, Maine",1,0,722023,39736
-"638","Suffolk County, Massachusetts","Lincoln County, Maine",1,0,722023,34457
-"639","Suffolk County, Massachusetts","Somerset County, Maine",1,0,722023,52228
-"640","Suffolk County, Massachusetts","Kennebec County, Maine",1,0,722023,122151
-"641","Suffolk County, Massachusetts","Franklin County, Maine",1,0,722023,30768
-"642","Suffolk County, Massachusetts","Rockingham County, New Hampshire",1,0,722023,295223
-"643","Suffolk County, Massachusetts","Washington County, Maine",1,0,722023,32856
-"644","Suffolk County, Massachusetts","Piscataquis County, Maine",1,0,722023,17535
-"645","Suffolk County, Massachusetts","Penobscot County, Maine",1,0,722023,153923
-"646","Suffolk County, Massachusetts","Hancock County, Maine",1,0,722023,54418
-"647","Suffolk County, Massachusetts","Carroll County, New Hampshire",1,0,722023,47818
-"648","Suffolk County, Massachusetts","Strafford County, New Hampshire",1,0,722023,123143
-"649","Suffolk County, Massachusetts","Aroostook County, Maine",1,0,722023,71870
-"650","Suffolk County, Massachusetts","Essex County, Massachusetts",1,0,722023,743159
-"651","Suffolk County, Massachusetts","Middlesex County, Massachusetts",1,0,722023,1503085
-"652","Suffolk County, Massachusetts","Hillsborough County, New Hampshire",1,0,722023,400721
-"653","Suffolk County, Massachusetts","Coos County, New Hampshire",1,0,722023,33055
-"654","Suffolk County, Massachusetts","Merrimack County, New Hampshire",1,0,722023,146445
-"655","Suffolk County, Massachusetts","Norfolk County, Massachusetts",1,0,722023,670850
-"656","Suffolk County, Massachusetts","Worcester County, Massachusetts",1,0,722023,798552
-"657","Suffolk County, Massachusetts","Belknap County, New Hampshire",1,0,722023,60088
-"658","Suffolk County, Massachusetts","Grafton County, New Hampshire",1,0,722023,89118
-"659","Suffolk County, Massachusetts","Richmond County, New York",1,0,722023,468730
-"660","Suffolk County, Massachusetts","New York County, New York",1,0,722023,1585873
-"661","Hillsborough County, New Hampshire","York County, Maine",1,0,400721,197131
-"662","Hillsborough County, New Hampshire","Sagadahoc County, Maine",1,0,400721,35293
-"663","Hillsborough County, New Hampshire","Cumberland County, Maine",1,0,400721,281674
-"664","Hillsborough County, New Hampshire","Oxford County, Maine",1,0,400721,57833
-"665","Hillsborough County, New Hampshire","Androscoggin County, Maine",1,0,400721,107702
-"666","Hillsborough County, New Hampshire","Waldo County, Maine",1,0,400721,38786
-"667","Hillsborough County, New Hampshire","Knox County, Maine",1,0,400721,39736
-"668","Hillsborough County, New Hampshire","Lincoln County, Maine",1,0,400721,34457
-"669","Hillsborough County, New Hampshire","Somerset County, Maine",1,0,400721,52228
-"670","Hillsborough County, New Hampshire","Kennebec County, Maine",1,0,400721,122151
-"671","Hillsborough County, New Hampshire","Franklin County, Maine",1,0,400721,30768
-"672","Hillsborough County, New Hampshire","Rockingham County, New Hampshire",1,0,400721,295223
-"673","Hillsborough County, New Hampshire","Washington County, Maine",1,0,400721,32856
-"674","Hillsborough County, New Hampshire","Piscataquis County, Maine",1,0,400721,17535
-"675","Hillsborough County, New Hampshire","Penobscot County, Maine",1,0,400721,153923
-"676","Hillsborough County, New Hampshire","Hancock County, Maine",1,0,400721,54418
-"677","Hillsborough County, New Hampshire","Carroll County, New Hampshire",1,0,400721,47818
-"678","Hillsborough County, New Hampshire","Strafford County, New Hampshire",1,0,400721,123143
-"679","Hillsborough County, New Hampshire","Aroostook County, Maine",1,0,400721,71870
-"680","Hillsborough County, New Hampshire","Essex County, Massachusetts",1,0,400721,743159
-"681","Hillsborough County, New Hampshire","Middlesex County, Massachusetts",1,0,400721,1503085
-"682","Hillsborough County, New Hampshire","Suffolk County, Massachusetts",1,0,400721,722023
-"683","Hillsborough County, New Hampshire","Coos County, New Hampshire",1,0,400721,33055
-"684","Hillsborough County, New Hampshire","Merrimack County, New Hampshire",1,0,400721,146445
-"685","Hillsborough County, New Hampshire","Norfolk County, Massachusetts",1,0,400721,670850
-"686","Hillsborough County, New Hampshire","Worcester County, Massachusetts",1,0,400721,798552
-"687","Hillsborough County, New Hampshire","Belknap County, New Hampshire",1,0,400721,60088
-"688","Hillsborough County, New Hampshire","Grafton County, New Hampshire",1,0,400721,89118
-"689","Hillsborough County, New Hampshire","Richmond County, New York",1,0,400721,468730
-"690","Hillsborough County, New Hampshire","New York County, New York",1,0,400721,1585873
-"691","Coos County, New Hampshire","York County, Maine",1,0,33055,197131
-"692","Coos County, New Hampshire","Sagadahoc County, Maine",1,0,33055,35293
-"693","Coos County, New Hampshire","Cumberland County, Maine",1,0,33055,281674
-"694","Coos County, New Hampshire","Oxford County, Maine",1,0,33055,57833
-"695","Coos County, New Hampshire","Androscoggin County, Maine",1,0,33055,107702
-"696","Coos County, New Hampshire","Waldo County, Maine",1,0,33055,38786
-"697","Coos County, New Hampshire","Knox County, Maine",1,0,33055,39736
-"698","Coos County, New Hampshire","Lincoln County, Maine",1,0,33055,34457
-"699","Coos County, New Hampshire","Somerset County, Maine",1,0,33055,52228
-"700","Coos County, New Hampshire","Kennebec County, Maine",1,0,33055,122151
-"701","Coos County, New Hampshire","Franklin County, Maine",1,0,33055,30768
-"702","Coos County, New Hampshire","Rockingham County, New Hampshire",1,0,33055,295223
-"703","Coos County, New Hampshire","Washington County, Maine",1,0,33055,32856
-"704","Coos County, New Hampshire","Piscataquis County, Maine",1,0,33055,17535
-"705","Coos County, New Hampshire","Penobscot County, Maine",1,0,33055,153923
-"706","Coos County, New Hampshire","Hancock County, Maine",1,0,33055,54418
-"707","Coos County, New Hampshire","Carroll County, New Hampshire",1,0,33055,47818
-"708","Coos County, New Hampshire","Strafford County, New Hampshire",1,0,33055,123143
-"709","Coos County, New Hampshire","Aroostook County, Maine",1,0,33055,71870
-"710","Coos County, New Hampshire","Essex County, Massachusetts",1,0,33055,743159
-"711","Coos County, New Hampshire","Middlesex County, Massachusetts",1,0,33055,1503085
-"712","Coos County, New Hampshire","Suffolk County, Massachusetts",1,0,33055,722023
-"713","Coos County, New Hampshire","Hillsborough County, New Hampshire",1,0,33055,400721
-"714","Coos County, New Hampshire","Merrimack County, New Hampshire",1,0,33055,146445
-"715","Coos County, New Hampshire","Norfolk County, Massachusetts",1,0,33055,670850
-"716","Coos County, New Hampshire","Worcester County, Massachusetts",1,0,33055,798552
-"717","Coos County, New Hampshire","Belknap County, New Hampshire",1,0,33055,60088
-"718","Coos County, New Hampshire","Grafton County, New Hampshire",1,0,33055,89118
-"719","Coos County, New Hampshire","Richmond County, New York",1,0,33055,468730
-"720","Coos County, New Hampshire","New York County, New York",1,0,33055,1585873
-"721","Merrimack County, New Hampshire","York County, Maine",1,0,146445,197131
-"722","Merrimack County, New Hampshire","Sagadahoc County, Maine",1,0,146445,35293
-"723","Merrimack County, New Hampshire","Cumberland County, Maine",1,0,146445,281674
-"724","Merrimack County, New Hampshire","Oxford County, Maine",1,0,146445,57833
-"725","Merrimack County, New Hampshire","Androscoggin County, Maine",1,0,146445,107702
-"726","Merrimack County, New Hampshire","Waldo County, Maine",1,0,146445,38786
-"727","Merrimack County, New Hampshire","Knox County, Maine",1,0,146445,39736
-"728","Merrimack County, New Hampshire","Lincoln County, Maine",1,0,146445,34457
-"729","Merrimack County, New Hampshire","Somerset County, Maine",1,0,146445,52228
-"730","Merrimack County, New Hampshire","Kennebec County, Maine",1,0,146445,122151
-"731","Merrimack County, New Hampshire","Franklin County, Maine",1,0,146445,30768
-"732","Merrimack County, New Hampshire","Rockingham County, New Hampshire",1,0,146445,295223
-"733","Merrimack County, New Hampshire","Washington County, Maine",1,0,146445,32856
-"734","Merrimack County, New Hampshire","Piscataquis County, Maine",1,0,146445,17535
-"735","Merrimack County, New Hampshire","Penobscot County, Maine",1,0,146445,153923
-"736","Merrimack County, New Hampshire","Hancock County, Maine",1,0,146445,54418
-"737","Merrimack County, New Hampshire","Carroll County, New Hampshire",1,0,146445,47818
-"738","Merrimack County, New Hampshire","Strafford County, New Hampshire",1,0,146445,123143
-"739","Merrimack County, New Hampshire","Aroostook County, Maine",1,0,146445,71870
-"740","Merrimack County, New Hampshire","Essex County, Massachusetts",1,0,146445,743159
-"741","Merrimack County, New Hampshire","Middlesex County, Massachusetts",1,0,146445,1503085
-"742","Merrimack County, New Hampshire","Suffolk County, Massachusetts",1,0,146445,722023
-"743","Merrimack County, New Hampshire","Hillsborough County, New Hampshire",1,0,146445,400721
-"744","Merrimack County, New Hampshire","Coos County, New Hampshire",1,0,146445,33055
-"745","Merrimack County, New Hampshire","Norfolk County, Massachusetts",1,0,146445,670850
-"746","Merrimack County, New Hampshire","Worcester County, Massachusetts",1,0,146445,798552
-"747","Merrimack County, New Hampshire","Belknap County, New Hampshire",1,0,146445,60088
-"748","Merrimack County, New Hampshire","Grafton County, New Hampshire",1,0,146445,89118
-"749","Merrimack County, New Hampshire","Richmond County, New York",1,0,146445,468730
-"750","Merrimack County, New Hampshire","New York County, New York",1,0,146445,1585873
-"751","Norfolk County, Massachusetts","York County, Maine",1,0,670850,197131
-"752","Norfolk County, Massachusetts","Sagadahoc County, Maine",1,0,670850,35293
-"753","Norfolk County, Massachusetts","Cumberland County, Maine",1,0,670850,281674
-"754","Norfolk County, Massachusetts","Oxford County, Maine",1,0,670850,57833
-"755","Norfolk County, Massachusetts","Androscoggin County, Maine",1,0,670850,107702
-"756","Norfolk County, Massachusetts","Waldo County, Maine",1,0,670850,38786
-"757","Norfolk County, Massachusetts","Knox County, Maine",1,0,670850,39736
-"758","Norfolk County, Massachusetts","Lincoln County, Maine",1,0,670850,34457
-"759","Norfolk County, Massachusetts","Somerset County, Maine",1,0,670850,52228
-"760","Norfolk County, Massachusetts","Kennebec County, Maine",1,0,670850,122151
-"761","Norfolk County, Massachusetts","Franklin County, Maine",1,0,670850,30768
-"762","Norfolk County, Massachusetts","Rockingham County, New Hampshire",1,0,670850,295223
-"763","Norfolk County, Massachusetts","Washington County, Maine",1,0,670850,32856
-"764","Norfolk County, Massachusetts","Piscataquis County, Maine",1,0,670850,17535
-"765","Norfolk County, Massachusetts","Penobscot County, Maine",1,0,670850,153923
-"766","Norfolk County, Massachusetts","Hancock County, Maine",1,0,670850,54418
-"767","Norfolk County, Massachusetts","Carroll County, New Hampshire",1,0,670850,47818
-"768","Norfolk County, Massachusetts","Strafford County, New Hampshire",1,0,670850,123143
-"769","Norfolk County, Massachusetts","Aroostook County, Maine",1,0,670850,71870
-"770","Norfolk County, Massachusetts","Essex County, Massachusetts",1,0,670850,743159
-"771","Norfolk County, Massachusetts","Middlesex County, Massachusetts",1,0,670850,1503085
-"772","Norfolk County, Massachusetts","Suffolk County, Massachusetts",1,0,670850,722023
-"773","Norfolk County, Massachusetts","Hillsborough County, New Hampshire",1,0,670850,400721
-"774","Norfolk County, Massachusetts","Coos County, New Hampshire",1,0,670850,33055
-"775","Norfolk County, Massachusetts","Merrimack County, New Hampshire",1,0,670850,146445
-"776","Norfolk County, Massachusetts","Worcester County, Massachusetts",1,0,670850,798552
-"777","Norfolk County, Massachusetts","Belknap County, New Hampshire",1,0,670850,60088
-"778","Norfolk County, Massachusetts","Grafton County, New Hampshire",1,0,670850,89118
-"779","Norfolk County, Massachusetts","Richmond County, New York",1,0,670850,468730
-"780","Norfolk County, Massachusetts","New York County, New York",1,0,670850,1585873
-"781","Worcester County, Massachusetts","York County, Maine",1,0,798552,197131
-"782","Worcester County, Massachusetts","Sagadahoc County, Maine",1,0,798552,35293
-"783","Worcester County, Massachusetts","Cumberland County, Maine",1,0,798552,281674
-"784","Worcester County, Massachusetts","Oxford County, Maine",1,0,798552,57833
-"785","Worcester County, Massachusetts","Androscoggin County, Maine",1,0,798552,107702
-"786","Worcester County, Massachusetts","Waldo County, Maine",1,0,798552,38786
-"787","Worcester County, Massachusetts","Knox County, Maine",1,0,798552,39736
-"788","Worcester County, Massachusetts","Lincoln County, Maine",1,0,798552,34457
-"789","Worcester County, Massachusetts","Somerset County, Maine",1,0,798552,52228
-"790","Worcester County, Massachusetts","Kennebec County, Maine",1,0,798552,122151
-"791","Worcester County, Massachusetts","Franklin County, Maine",1,0,798552,30768
-"792","Worcester County, Massachusetts","Rockingham County, New Hampshire",1,0,798552,295223
-"793","Worcester County, Massachusetts","Washington County, Maine",1,0,798552,32856
-"794","Worcester County, Massachusetts","Piscataquis County, Maine",1,0,798552,17535
-"795","Worcester County, Massachusetts","Penobscot County, Maine",1,0,798552,153923
-"796","Worcester County, Massachusetts","Hancock County, Maine",1,0,798552,54418
-"797","Worcester County, Massachusetts","Carroll County, New Hampshire",1,0,798552,47818
-"798","Worcester County, Massachusetts","Strafford County, New Hampshire",1,0,798552,123143
-"799","Worcester County, Massachusetts","Aroostook County, Maine",1,0,798552,71870
-"800","Worcester County, Massachusetts","Essex County, Massachusetts",1,0,798552,743159
-"801","Worcester County, Massachusetts","Middlesex County, Massachusetts",1,0,798552,1503085
-"802","Worcester County, Massachusetts","Suffolk County, Massachusetts",1,0,798552,722023
-"803","Worcester County, Massachusetts","Hillsborough County, New Hampshire",1,0,798552,400721
-"804","Worcester County, Massachusetts","Coos County, New Hampshire",1,0,798552,33055
-"805","Worcester County, Massachusetts","Merrimack County, New Hampshire",1,0,798552,146445
-"806","Worcester County, Massachusetts","Norfolk County, Massachusetts",1,0,798552,670850
-"807","Worcester County, Massachusetts","Belknap County, New Hampshire",1,0,798552,60088
-"808","Worcester County, Massachusetts","Grafton County, New Hampshire",1,0,798552,89118
-"809","Worcester County, Massachusetts","Richmond County, New York",1,0,798552,468730
-"810","Worcester County, Massachusetts","New York County, New York",1,0,798552,1585873
-"811","Belknap County, New Hampshire","York County, Maine",1,0,60088,197131
-"812","Belknap County, New Hampshire","Sagadahoc County, Maine",1,0,60088,35293
-"813","Belknap County, New Hampshire","Cumberland County, Maine",1,0,60088,281674
-"814","Belknap County, New Hampshire","Oxford County, Maine",1,0,60088,57833
-"815","Belknap County, New Hampshire","Androscoggin County, Maine",1,0,60088,107702
-"816","Belknap County, New Hampshire","Waldo County, Maine",1,0,60088,38786
-"817","Belknap County, New Hampshire","Knox County, Maine",1,0,60088,39736
-"818","Belknap County, New Hampshire","Lincoln County, Maine",1,0,60088,34457
-"819","Belknap County, New Hampshire","Somerset County, Maine",1,0,60088,52228
-"820","Belknap County, New Hampshire","Kennebec County, Maine",1,0,60088,122151
-"821","Belknap County, New Hampshire","Franklin County, Maine",1,0,60088,30768
-"822","Belknap County, New Hampshire","Rockingham County, New Hampshire",1,0,60088,295223
-"823","Belknap County, New Hampshire","Washington County, Maine",1,0,60088,32856
-"824","Belknap County, New Hampshire","Piscataquis County, Maine",1,0,60088,17535
-"825","Belknap County, New Hampshire","Penobscot County, Maine",1,0,60088,153923
-"826","Belknap County, New Hampshire","Hancock County, Maine",1,0,60088,54418
-"827","Belknap County, New Hampshire","Carroll County, New Hampshire",1,0,60088,47818
-"828","Belknap County, New Hampshire","Strafford County, New Hampshire",1,0,60088,123143
-"829","Belknap County, New Hampshire","Aroostook County, Maine",1,0,60088,71870
-"830","Belknap County, New Hampshire","Essex County, Massachusetts",1,0,60088,743159
-"831","Belknap County, New Hampshire","Middlesex County, Massachusetts",1,0,60088,1503085
-"832","Belknap County, New Hampshire","Suffolk County, Massachusetts",1,0,60088,722023
-"833","Belknap County, New Hampshire","Hillsborough County, New Hampshire",1,0,60088,400721
-"834","Belknap County, New Hampshire","Coos County, New Hampshire",1,0,60088,33055
-"835","Belknap County, New Hampshire","Merrimack County, New Hampshire",1,0,60088,146445
-"836","Belknap County, New Hampshire","Norfolk County, Massachusetts",1,0,60088,670850
-"837","Belknap County, New Hampshire","Worcester County, Massachusetts",1,0,60088,798552
-"838","Belknap County, New Hampshire","Grafton County, New Hampshire",1,0,60088,89118
-"839","Belknap County, New Hampshire","Richmond County, New York",1,0,60088,468730
-"840","Belknap County, New Hampshire","New York County, New York",1,0,60088,1585873
-"841","Grafton County, New Hampshire","York County, Maine",1,0,89118,197131
-"842","Grafton County, New Hampshire","Sagadahoc County, Maine",1,0,89118,35293
-"843","Grafton County, New Hampshire","Cumberland County, Maine",1,0,89118,281674
-"844","Grafton County, New Hampshire","Oxford County, Maine",1,0,89118,57833
-"845","Grafton County, New Hampshire","Androscoggin County, Maine",1,0,89118,107702
-"846","Grafton County, New Hampshire","Waldo County, Maine",1,0,89118,38786
-"847","Grafton County, New Hampshire","Knox County, Maine",1,0,89118,39736
-"848","Grafton County, New Hampshire","Lincoln County, Maine",1,0,89118,34457
-"849","Grafton County, New Hampshire","Somerset County, Maine",1,0,89118,52228
-"850","Grafton County, New Hampshire","Kennebec County, Maine",1,0,89118,122151
-"851","Grafton County, New Hampshire","Franklin County, Maine",1,0,89118,30768
-"852","Grafton County, New Hampshire","Rockingham County, New Hampshire",1,0,89118,295223
-"853","Grafton County, New Hampshire","Washington County, Maine",1,0,89118,32856
-"854","Grafton County, New Hampshire","Piscataquis County, Maine",1,0,89118,17535
-"855","Grafton County, New Hampshire","Penobscot County, Maine",1,0,89118,153923
-"856","Grafton County, New Hampshire","Hancock County, Maine",1,0,89118,54418
-"857","Grafton County, New Hampshire","Carroll County, New Hampshire",1,0,89118,47818
-"858","Grafton County, New Hampshire","Strafford County, New Hampshire",1,0,89118,123143
-"859","Grafton County, New Hampshire","Aroostook County, Maine",1,0,89118,71870
-"860","Grafton County, New Hampshire","Essex County, Massachusetts",1,0,89118,743159
-"861","Grafton County, New Hampshire","Middlesex County, Massachusetts",1,0,89118,1503085
-"862","Grafton County, New Hampshire","Suffolk County, Massachusetts",1,0,89118,722023
-"863","Grafton County, New Hampshire","Hillsborough County, New Hampshire",1,0,89118,400721
-"864","Grafton County, New Hampshire","Coos County, New Hampshire",1,0,89118,33055
-"865","Grafton County, New Hampshire","Merrimack County, New Hampshire",1,0,89118,146445
-"866","Grafton County, New Hampshire","Norfolk County, Massachusetts",1,0,89118,670850
-"867","Grafton County, New Hampshire","Worcester County, Massachusetts",1,0,89118,798552
-"868","Grafton County, New Hampshire","Belknap County, New Hampshire",1,0,89118,60088
-"869","Grafton County, New Hampshire","Richmond County, New York",1,0,89118,468730
-"870","Grafton County, New Hampshire","New York County, New York",1,0,89118,1585873
-"871","Richmond County, New York","York County, Maine",1,0,468730,197131
-"872","Richmond County, New York","Sagadahoc County, Maine",1,0,468730,35293
-"873","Richmond County, New York","Cumberland County, Maine",1,0,468730,281674
-"874","Richmond County, New York","Oxford County, Maine",1,0,468730,57833
-"875","Richmond County, New York","Androscoggin County, Maine",1,0,468730,107702
-"876","Richmond County, New York","Waldo County, Maine",1,0,468730,38786
-"877","Richmond County, New York","Knox County, Maine",1,0,468730,39736
-"878","Richmond County, New York","Lincoln County, Maine",1,0,468730,34457
-"879","Richmond County, New York","Somerset County, Maine",1,0,468730,52228
-"880","Richmond County, New York","Kennebec County, Maine",1,0,468730,122151
-"881","Richmond County, New York","Franklin County, Maine",1,0,468730,30768
-"882","Richmond County, New York","Rockingham County, New Hampshire",1,0,468730,295223
-"883","Richmond County, New York","Washington County, Maine",1,0,468730,32856
-"884","Richmond County, New York","Piscataquis County, Maine",1,0,468730,17535
-"885","Richmond County, New York","Penobscot County, Maine",1,0,468730,153923
-"886","Richmond County, New York","Hancock County, Maine",1,0,468730,54418
-"887","Richmond County, New York","Carroll County, New Hampshire",1,0,468730,47818
-"888","Richmond County, New York","Strafford County, New Hampshire",1,0,468730,123143
-"889","Richmond County, New York","Aroostook County, Maine",1,0,468730,71870
-"890","Richmond County, New York","Essex County, Massachusetts",1,0,468730,743159
-"891","Richmond County, New York","Middlesex County, Massachusetts",1,0,468730,1503085
-"892","Richmond County, New York","Suffolk County, Massachusetts",1,0,468730,722023
-"893","Richmond County, New York","Hillsborough County, New Hampshire",1,0,468730,400721
-"894","Richmond County, New York","Coos County, New Hampshire",1,0,468730,33055
-"895","Richmond County, New York","Merrimack County, New Hampshire",1,0,468730,146445
-"896","Richmond County, New York","Norfolk County, Massachusetts",1,0,468730,670850
-"897","Richmond County, New York","Worcester County, Massachusetts",1,0,468730,798552
-"898","Richmond County, New York","Belknap County, New Hampshire",1,0,468730,60088
-"899","Richmond County, New York","Grafton County, New Hampshire",1,0,468730,89118
-"900","Richmond County, New York","New York County, New York",1,0,468730,1585873
-"901","New York County, New York","York County, Maine",1,0,1585873,197131
-"902","New York County, New York","Sagadahoc County, Maine",1,0,1585873,35293
-"903","New York County, New York","Cumberland County, Maine",1,0,1585873,281674
-"904","New York County, New York","Oxford County, Maine",1,0,1585873,57833
-"905","New York County, New York","Androscoggin County, Maine",1,0,1585873,107702
-"906","New York County, New York","Waldo County, Maine",1,0,1585873,38786
-"907","New York County, New York","Knox County, Maine",1,0,1585873,39736
-"908","New York County, New York","Lincoln County, Maine",1,0,1585873,34457
-"909","New York County, New York","Somerset County, Maine",1,0,1585873,52228
-"910","New York County, New York","Kennebec County, Maine",1,0,1585873,122151
-"911","New York County, New York","Franklin County, Maine",1,0,1585873,30768
-"912","New York County, New York","Rockingham County, New Hampshire",1,0,1585873,295223
-"913","New York County, New York","Washington County, Maine",1,0,1585873,32856
-"914","New York County, New York","Piscataquis County, Maine",1,0,1585873,17535
-"915","New York County, New York","Penobscot County, Maine",1,0,1585873,153923
-"916","New York County, New York","Hancock County, Maine",1,0,1585873,54418
-"917","New York County, New York","Carroll County, New Hampshire",1,0,1585873,47818
-"918","New York County, New York","Strafford County, New Hampshire",1,0,1585873,123143
-"919","New York County, New York","Aroostook County, Maine",1,0,1585873,71870
-"920","New York County, New York","Essex County, Massachusetts",1,0,1585873,743159
-"921","New York County, New York","Middlesex County, Massachusetts",1,0,1585873,1503085
-"922","New York County, New York","Suffolk County, Massachusetts",1,0,1585873,722023
-"923","New York County, New York","Hillsborough County, New Hampshire",1,0,1585873,400721
-"924","New York County, New York","Coos County, New Hampshire",1,0,1585873,33055
-"925","New York County, New York","Merrimack County, New Hampshire",1,0,1585873,146445
-"926","New York County, New York","Norfolk County, Massachusetts",1,0,1585873,670850
-"927","New York County, New York","Worcester County, Massachusetts",1,0,1585873,798552
-"928","New York County, New York","Belknap County, New Hampshire",1,0,1585873,60088
-"929","New York County, New York","Grafton County, New Hampshire",1,0,1585873,89118
-"930","New York County, New York","Richmond County, New York",1,0,1585873,468730
+"122","Androscoggin County, Maine","Oxford County, Maine",1,0.00834710590332584,107702,57833
+"162","Franklin County, Maine","Androscoggin County, Maine",1,0.0204758190327613,30768,107702
+"152","Franklin County, Maine","Oxford County, Maine",1,0.00880785231409256,30768,57833
+"83","Oxford County, Maine","York County, Maine",1,0.00646689606280151,57833,197131
+"141","Androscoggin County, Maine","Franklin County, Maine",1,0.00520881692076285,107702,30768
+"124","Oxford County, Maine","Carroll County, New Hampshire",1,0.0244497086438539,57833,47818
+"114","Oxford County, Maine","Franklin County, Maine",1,0.00439195614960317,57833,30768
+"37","York County, Maine","Strafford County, New Hampshire",1,0.0242681262713627,197131,123143
+"48","Lincoln County, Maine","Sagadahoc County, Maine",1,0.0373218794439446,34457,35293
+"49","Lincoln County, Maine","Cumberland County, Maine",1,0.0301245030037438,34457,281674
+"66","Sagadahoc County, Maine","Kennebec County, Maine",1,0.0290992548097356,35293,122151
+"421","Kennebec County, Maine","Androscoggin County, Maine",1,0.0218663784987434,122151,107702
+"261","Franklin County, Maine","Kennebec County, Maine",1,0.0179407176287051,30768,122151
+"411","Kennebec County, Maine","Cumberland County, Maine",1,0.015202495272245,122151,281674
+"221","Androscoggin County, Maine","Kennebec County, Maine",1,0.0151250673153702,107702,122151
+"361","Somerset County, Maine","Franklin County, Maine",1,0.0100903729800107,52228,30768
+"251","Franklin County, Maine","Somerset County, Maine",1,0.00952288091523661,30768,52228
+"40","Kennebec County, Maine","Sagadahoc County, Maine",1,0.00947188316100564,122151,35293
+"77","Sagadahoc County, Maine","Lincoln County, Maine",1,0.0092652934009577,35293,34457
+"551","Penobscot County, Maine","Somerset County, Maine",1,0.00736082326877725,153923,52228
+"281","Waldo County, Maine","Somerset County, Maine",1,0.00613623472386944,38786,52228
+"126","Cumberland County, Maine","Kennebec County, Maine",1,0.00500933703501211,281674,122151
+"57","Penobscot County, Maine","Piscataquis County, Maine",1,0.00389155616769424,153923,17535
+"431","Kennebec County, Maine","Franklin County, Maine",1,0.00378220399341798,122151,30768
+"461","Kennebec County, Maine","Lincoln County, Maine",1,0.00362665880754149,122151,34457
+"38","Somerset County, Maine","Piscataquis County, Maine",1,0.00361874856398866,52228,17535
+"561","Penobscot County, Maine","Kennebec County, Maine",1,0.00344328008159924,153923,122151
+"351","Somerset County, Maine","Cumberland County, Maine",1,0.00340813356820097,52228,281674
+"441","Kennebec County, Maine","Waldo County, Maine",1,0.00309453054006926,122151,38786
+"471","Kennebec County, Maine","Penobscot County, Maine",1,0.00295535853165345,122151,153923
+"105","Cumberland County, Maine","Oxford County, Maine",1,0.00294666884412477,281674,57833
+"541","Penobscot County, Maine","Waldo County, Maine",1,0.00285857214321446,153923,38786
+"1641","Aroostook County, Maine","Washington County, Maine",1,0.0011826909698066,71870,32856
+"861","Washington County, Maine","Hancock County, Maine",1,0.0126917457998539,32856,54418
+"87","Aroostook County, Maine","Penobscot County, Maine",1,0.00641435925977459,71870,153923
+"851","Washington County, Maine","Penobscot County, Maine",1,0.00246530314097882,32856,153923
+"80","Penobscot County, Maine","Aroostook County, Maine",1,0.00239080579250664,153923,71870
+"621","Kennebec County, Maine","Knox County, Maine",1,0.00217763260227096,122151,39736
+"262","Androscoggin County, Maine","York County, Maine",1,0.00204267330225994,107702,197131
+"811","Hancock County, Maine","Waldo County, Maine",1,0.00200301370869933,54418,38786
+"381","Waldo County, Maine","Cumberland County, Maine",1,0.00195946991182385,38786,281674
+"252","Oxford County, Maine","Kennebec County, Maine",1,0.00195390175159511,57833,122151
+"322","Franklin County, Maine","Cumberland County, Maine",1,0.00165756630265211,30768,281674
+"831","Hancock County, Maine","Washington County, Maine",1,0.00159873571244809,54418,32856
+"372","Waldo County, Maine","Sagadahoc County, Maine",1,0.00146960243386789,38786,35293
+"710","Sagadahoc County, Maine","York County, Maine",1,0.00136004306803049,35293,197131
+"741","Penobscot County, Maine","Cumberland County, Maine",1,0.00135132501315593,153923,281674
+"422","Waldo County, Maine","Lincoln County, Maine",1,0.00131490744082916,38786,34457
+"166","Cumberland County, Maine","Rockingham County, New Hampshire",1,0.00131002506443619,281674,295223
+"491","Knox County, Maine","Penobscot County, Maine",1,0.00128347090799275,39736,153923
+"512","Somerset County, Maine","Androscoggin County, Maine",1,0.00118710270353067,52228,107702
+"452","Knox County, Maine","Sagadahoc County, Maine",1,0.00113247433058184,39736,35293
+"532","Somerset County, Maine","Waldo County, Maine",1,0.0010530749789385,52228,38786
+"68","Lincoln County, Maine","Androscoggin County, Maine",1,0.000928693734219462,34457,107702
+"841","Washington County, Maine","Knox County, Maine",1,0.000852203554906258,32856,39736
+"721","Piscataquis County, Maine","Kennebec County, Maine",1,0.000798403193612775,17535,122151
+"513","York County, Maine","Carroll County, New Hampshire",1,0.000755842561545368,197131,47818
+"213","York County, Maine","Oxford County, Maine",1,0.000745697023806504,197131,57833
+"201","Oxford County, Maine","Sagadahoc County, Maine",1,0.000743520135562741,57833,35293
+"313","York County, Maine","Androscoggin County, Maine",1,0.000715260410589912,197131,107702
+"184","Cumberland County, Maine","Lincoln County, Maine",1,0.000695839871624644,281674,34457
+"1010","York County, Maine","Essex County, Massachusetts",1,0.00433721738336436,197131,743159
+"713","Kennebec County, Maine","York County, Maine",1,0.000597620977314963,122151,197131
+"99","Penobscot County, Maine","Washington County, Maine",1,0.000591204693255719,153923,32856
+"563","Knox County, Maine","Cumberland County, Maine",1,0.000553654117173344,39736,281674
+"810","York County, Maine","Kennebec County, Maine",1,0.000542786269029224,197131,122151
+"941","Penobscot County, Maine","Knox County, Maine",1,0.000526237144546299,153923,39736
+"871","Piscataquis County, Maine","Waldo County, Maine",1,0.000513259195893926,17535,38786
+"343","Oxford County, Maine","Penobscot County, Maine",1,0.000432279148582989,57833,153923
+"109","Washington County, Maine","Aroostook County, Maine",1,0.000426101777453129,32856,71870
+"463","Franklin County, Maine","Penobscot County, Maine",1,0.000422516900676027,30768,153923
+"910","York County, Maine","Penobscot County, Maine",1,0.000415967047293424,197131,153923
+"223","Cumberland County, Maine","Carroll County, New Hampshire",1,0.000411823597492136,281674,47818
+"146","Sagadahoc County, Maine","Knox County, Maine",1,0.000396679228175559,35293,39736
+"1011","Hancock County, Maine","Cumberland County, Maine",1,0.000367525451137491,54418,281674
+"701","Somerset County, Maine","Hancock County, Maine",1,0.000363789538178755,52228,54418
+"622","Somerset County, Maine","York County, Maine",1,0.000363789538178755,52228,197131
+"263","Cumberland County, Maine","Essex County, Massachusetts",1,0.000351470139238978,281674,743159
+"911","Piscataquis County, Maine","Aroostook County, Maine",1,0.000342172797262618,17535,71870
+"120","York County, Maine","Sagadahoc County, Maine",1,0.000319584438774216,197131,35293
+"613","Knox County, Maine","Hancock County, Maine",1,0.000301993154821824,39736,54418
+"862","Piscataquis County, Maine","Cumberland County, Maine",1,0.000285143997718848,17535,281674
+"253","Cumberland County, Maine","Penobscot County, Maine",1,0.000273365663852539,281674,153923
+"1031","Hancock County, Maine","Kennebec County, Maine",1,0.000257267815796244,54418,122151
+"1113","York County, Maine","Middlesex County, Massachusetts",1,0.0024247835195885,197131,1503085
+"284","Cumberland County, Maine","Middlesex County, Massachusetts",1,0.000450875835185356,281674,1503085
+"932","Lincoln County, Maine","Middlesex County, Massachusetts",1,0.00031923847113794,34457,1503085
+"534","Waldo County, Maine","Androscoggin County, Maine",1,0.000232042489558088,38786,107702
+"434","Androscoggin County, Maine","Penobscot County, Maine",1,0.000222837087519266,107702,153923
+"802","Kennebec County, Maine","Oxford County, Maine",1,0.000204664718258549,122151,57833
+"444","Franklin County, Maine","Sagadahoc County, Maine",1,0.000195007800312012,30768,35293
+"1191","Aroostook County, Maine","Cumberland County, Maine",1,0.000180882148323362,71870,281674
+"1013","Penobscot County, Maine","Androscoggin County, Maine",1,0.000175412381515433,153923,107702
+"682","Somerset County, Maine","Sagadahoc County, Maine",1,0.000172321360189936,52228,35293
+"1210","York County, Maine","Suffolk County, Massachusetts",1,0.0017602507976929,197131,722023
+"304","Cumberland County, Maine","Suffolk County, Massachusetts",1,0.000752643126451146,281674,722023
+"394","Oxford County, Maine","Suffolk County, Massachusetts",1,0.000172911659433196,57833,722023
+"455","Androscoggin County, Maine","Somerset County, Maine",1,0.000148558058346177,107702,52228
+"953","Lincoln County, Maine","Waldo County, Maine",1,0.000145108395971791,34457,38786
+"149","York County, Maine","Hillsborough County, New Hampshire",1,0.00122253729753311,197131,400721
+"366","Cumberland County, Maine","Hillsborough County, New Hampshire",1,0.000188160781612786,281674,400721
+"286","Cumberland County, Maine","Strafford County, New Hampshire",1,0.000131357526786285,281674,123143
+"604","Franklin County, Maine","Waldo County, Maine",1,0.000130005200208008,30768,38786
+"719","Waldo County, Maine","Piscataquis County, Maine",1,0.000128912494198938,38786,17535
+"993","Kennebec County, Maine","Strafford County, New Hampshire",1,0.000122798830955129,122151,123143
+"5110","Androscoggin County, Maine","Rockingham County, New Hampshire",1,0.000120703422406269,107702,295223
+"1133","Piscataquis County, Maine","Franklin County, Maine",1,0.000114057599087539,17535,30768
+"1411","Aroostook County, Maine","Piscataquis County, Maine",1,0.000111312091275915,71870,17535
+"436","Oxford County, Maine","Somerset County, Maine",1,0.000103746995659917,57833,52228
+"916","York County, Maine","Piscataquis County, Maine",1,9.6382608519208e-05,197131,17535
+"917","Somerset County, Maine","Aroostook County, Maine",1,9.57340889944091e-05,52228,71870
+"1351","Washington County, Maine","Kennebec County, Maine",1,9.13075237399562e-05,32856,122151
+"295","Cumberland County, Maine","Waldo County, Maine",1,8.52048822397524e-05,281674,38786
+"188","Sagadahoc County, Maine","Rockingham County, New Hampshire",1,8.50026917519055e-05,35293,295223
+"1401","Aroostook County, Maine","Kennebec County, Maine",1,8.34840684569362e-05,71870,122151
+"974","Kennebec County, Maine","Rockingham County, New Hampshire",1,7.36792985730776e-05,122151,295223
+"496","Oxford County, Maine","Coos County, New Hampshire",1,0.00100288762471253,57833,33055
+"1243","Penobscot County, Maine","Franklin County, Maine",1,6.49675487094196e-05,153923,30768
+"306","Cumberland County, Maine","Somerset County, Maine",1,6.39036616798142e-05,281674,52228
+"1342","Penobscot County, Maine","Suffolk County, Massachusetts",1,5.84707938384777e-05,153923,722023
+"1332","Penobscot County, Maine","Middlesex County, Massachusetts",1,5.84707938384777e-05,153923,1503085
+"477","Oxford County, Maine","Essex County, Massachusetts",1,5.18734978299586e-05,57833,743159
+"1512","York County, Maine","Merrimack County, New Hampshire",1,0.000700042103981616,197131,146445
+"5210","Oxford County, Maine","Merrimack County, New Hampshire",1,0.000121038161603237,57833,146445
+"1521","Aroostook County, Maine","Somerset County, Maine",1,4.17420342284681e-05,71870,52228
+"11111","Kennebec County, Maine","Suffolk County, Massachusetts",1,4.09329436517098e-05,122151,722023
+"3112","Cumberland County, Maine","Knox County, Maine",1,3.90522376932198e-05,281674,39736
+"1264","Penobscot County, Maine","Sagadahoc County, Maine",1,3.89805292256518e-05,153923,35293
+"1423","Hancock County, Maine","Knox County, Maine",1,3.67525451137491e-05,54418,39736
+"1711","York County, Maine","Norfolk County, Massachusetts",1,0.000370312127468536,197131,670850
+"449","Cumberland County, Maine","Norfolk County, Massachusetts",1,0.000216562409026037,281674,670850
+"830","York County, Maine","Somerset County, Maine",1,3.5509382086024e-05,197131,52228
+"498","Oxford County, Maine","Rockingham County, New Hampshire",1,3.45823318866391e-05,57833,295223
+"598","Oxford County, Maine","Norfolk County, Massachusetts",1,3.45823318866391e-05,57833,670850
+"4310","Cumberland County, Maine","Merrimack County, New Hampshire",1,3.19518308399071e-05,281674,146445
+"1532","Washington County, Maine","Sagadahoc County, Maine",1,3.04358412466521e-05,32856,35293
+"1542","Washington County, Maine","Cumberland County, Maine",1,3.0435841246652e-05,32856,281674
+"259","Sagadahoc County, Maine","Hillsborough County, New Hampshire",1,2.83342305839685e-05,35293,400721
+"1614","Aroostook County, Maine","Waldo County, Maine",1,2.78280228189787e-05,71870,38786
+"739","Androscoggin County, Maine","Worcester County, Massachusetts",1,0.00016712781563945,107702,798552
+"1812","York County, Maine","Worcester County, Massachusetts",1,0.000136964759474664,197131,798552
+"1543","Penobscot County, Maine","Worcester County, Massachusetts",1,3.89805292256518e-05,153923,798552
+"1418","Penobscot County, Maine","Oxford County, Maine",1,1.94902646128259e-05,153923,57833
+"7113","Androscoggin County, Maine","Lincoln County, Maine",1,1.85697572932722e-05,107702,34457
+"1616","Hancock County, Maine","Middlesex County, Massachusetts",1,1.83762725568746e-05,54418,1503085
+"599","Oxford County, Maine","Hillsborough County, New Hampshire",1,1.72911659433196e-05,57833,400721
+"5310","Oxford County, Maine","Strafford County, New Hampshire",1,1.72911659433195e-05,57833,123143
+"1236","Kennebec County, Maine","Middlesex County, Massachusetts",1,1.63731774606839e-05,122151,1503085
+"6410","Oxford County, Maine","Belknap County, New Hampshire",1,0.000276658655093113,57833,60088
+"1912","York County, Maine","Belknap County, New Hampshire",1,2.536384434716e-05,197131,60088
+"6511","Oxford County, Maine","Grafton County, New Hampshire",1,0.000155620493489876,57833,89118
+"9511","Waldo County, Maine","Richmond County, New York",1,0.000154694993038725,38786,468730
+"4714","Cumberland County, Maine","New York County, New York",1,0.000124257119932972,281674,1585873
