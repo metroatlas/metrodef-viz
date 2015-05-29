@@ -1,5 +1,8 @@
 <!DOCTYPE html>
-<meta charset="utf-8">
+<html>
+<head>
+  <meta charset='utf-8'>
+  <title>Visualization of County Commuting Networks</title>
 <style>
 
 .link{
@@ -58,10 +61,8 @@ text {
 }
 
 </style>
+</head>
 <script src="d3/d3.js"></script>
-<body>
-
-<body>
 <div id="viz">
   <form>
     Gravity <input id="gravitySlider" type="range" onchange="updateForce(); changeGravity()" min ="0" max="1" step =".01"  value="0.1" />
@@ -77,7 +78,7 @@ text {
 </form>
   <form>
     Remove/Add Links <input id="linkSlider" type="range" onchange="updateLinks(); updateForce()"
-    min = "0" max="300" step="1" value="0" />
+    min = "0" max="350" step="1" value="0" />
   <input type="text" id="linksInput" value="0" />
   <span id="linkIncrementD" class="clickable"> < </span> <span id="linkIncrementU" class="clickable"> > </span>
 <select id="stateSelect">
@@ -113,7 +114,7 @@ text {
   <option value="North Carolina">North Carolina</option>
   <option value="North Dakota">North Dakota</option>
   <option value="Ohio">Ohio</option>
-  <option value="Oklahoma">oklahoma</option>
+  <option value="Oklahoma">Oklahoma</option>
   <option value="Oregon">Oregon</option>
   <option value="Pennsylvania">Pennsylvania</option>
   <option value="Rhode Island">Rhode Island</option>
@@ -129,6 +130,10 @@ text {
   <option value="Wisconsin">Wisconsin</option>
   <option value="Wyoming">Wyoming</option>
 </select>
+<select id="avgOrSingle">
+  <option value="average">Average Linkage</option>
+  <option value="single">Single Linkage</option>
+  </select>
 <script>
 
 var width = 1000,
@@ -165,9 +170,9 @@ function dispData(stateName) {
     .attr("width", width)
     .attr("height", height);
 
-  d3.csv("networkData/"+stateName+"_average_linkage.csv", function(data){
-    var nodesByName = {};
+  d3.csv("networkData/"+stateName+"_linkage.csv", function(data){
     links = data;
+    var nodesByName = {};
     // Create nodes for each unique source and target.
     links.forEach(function(link) {
       link.source = nodeByName(link.source, link.cluster, link.srcpop);
@@ -176,6 +181,10 @@ function dispData(stateName) {
 
     // Extract the array of nodes from the map by name.
     nodes = d3.values(nodesByName);
+    // Make node cluster assignments unique to begin
+    for(var j = 0; j < nodes.length; j++){
+      nodes[j].cluster = j;
+    }
 
     svg.append("svg:defs").selectAll("marker")
         .data(["end"])      // Different link/path types can be defined here
@@ -214,9 +223,9 @@ function dispData(stateName) {
       
     node.enter().append("circle")
       .attr("class","node")
-      .attr("r", function(d){return 0.01*Math.sqrt(d.pop)})
+      .attr("r", function(d){return 0.012*Math.sqrt(d.pop)})
       .attr("id", function(d){return d.name})
-      .style("fill", function(d){return color(d.cluster)})
+      .style("fill", function(d){return color(d.cluster/2)})
       .style("stroke-width", 0)
       .call(force.drag);
 
@@ -300,18 +309,36 @@ function dispData(stateName) {
 
 
 function updateLinks() {
+    
     var last_index = document.getElementById("linkSlider").value;
-    document.getElementById("linksInput").value = last_index;
-    console.log(links.length);
-    console.log(last_index);
+    
+    if(last_index > links.length){
+      last_index = links.length;
+    }
+    if(last_index == 0){
+      document.getElementById("linksInput").value = 1;
+    } else{
+      document.getElementById("linksInput").value = links[last_index-1].pct;
+      console.log(links.length);
+      console.log(last_index);
+    }
+
     update(last_index);
 }
 
 var update = function(last) {
       // Create the link lines.
     svg = d3.select("svg");
+    curr_links = links.slice(0,last);
+    leftover_links = links.slice(last+1,links.length);
+
+    // Make node cluster assignments unique to begin
+    for(var j = 0; j < nodes.length; j++){
+      nodes[j].cluster = j;
+    }
+
     link = svg.selectAll("path")
-      .data(links.slice(0,last));
+      .data(curr_links);
     
     link.enter().append("path")
       .attr("class","link")
@@ -325,6 +352,44 @@ var update = function(last) {
         }});
 
     link.exit().remove();
+
+    clusters_list = []
+    curr_links.forEach(function(curr_link) {
+      var tarNode;
+      var sourceNode;
+
+      for(var i = 0; i < nodes.length; i++){
+        if(nodes[i].name == curr_link.target.name){
+          tarNode = nodes[i];
+        }
+        if(nodes[i].name == curr_link.source.name){
+          sourceNode = nodes[i];
+        }
+      }
+
+      clust_list = [];
+      for(var i = 0; i < nodes.length; i++){
+        if(nodes[i].cluster == sourceNode.cluster){
+          clust_list.push(i);
+        }
+      }
+      for(var i = 0; i < clust_list.length; i++){
+        nodes[clust_list[i]].cluster = tarNode.cluster
+      }
+    });
+
+    d3.selectAll("circle.node").transition().delay(300).duration(300).style("fill", function(d){return color(d.cluster/2)});
+
+    var text = svg.selectAll("text")
+      .data(nodes)
+      
+    text.enter().append("text")
+      .attr("x", 8)
+      .attr("y",".31em")
+      .attr("id",function(d){return "text"+d.name})
+      .text(function(d) {return d.name;});
+
+    text.exit().remove();
 
     force.links(links.slice(0,last))
       .on("tick",tick)
@@ -412,11 +477,11 @@ function changeGravity() {
     d3.select("#definitionbox").html("Canvas gravity draws all nodes toward the center of the canvas, preventing them from flying out of view.");
 }
 
-dispData(d3.select("#stateSelect").node().value);
+dispData(d3.select("#stateSelect").node().value + "_" + d3.select("#avgOrSingle").node().value);
 
 d3.select("#stateSelect")
   .on("change", function(){
-    dispData(d3.select("#stateSelect").node().value);
+    dispData(d3.select("#stateSelect").node().value + "_" + d3.select("#avgOrSingle").node().value);
   })
 
 d3.select("#linkIncrementD")
@@ -435,5 +500,11 @@ d3.select("#linkIncrementU")
     updateLinks();
   })
 
+d3.select("#avgOrSingle")
+  .on("change", function(){
+    dispData(d3.select("#stateSelect").node().value + "_" + d3.select("#avgOrSingle").node().value);
+  })
+
 
 </script>
+</html>
