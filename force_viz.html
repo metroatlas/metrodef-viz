@@ -136,16 +136,13 @@ text {
   </select>
 <script>
 
+// Define frame height and width
 var width = 1000,
 	height = 800,
 	margin = 100;
 
+// Define color scheme
 var color = d3.scale.category20();
-
-var x = d3.scale.linear()
-    .domain([0, 180])
-    .range([margin, width-margin])
-    .clamp(true);
 
 var svg = d3.select("body").append("svg")
 	.attr("width", width)
@@ -156,13 +153,16 @@ var force = d3.layout.force()
 
 force.linkStrength(0.01);
 
+// Define link, node variables "globally"
 var links;
 var path;
 var nodes;
 var link;
 
+// The function that reads in the links data and renders the display
 function dispData(stateName) {
 
+  // Reset the visualization
   d3.select("svg")
     .remove();
 
@@ -171,8 +171,12 @@ function dispData(stateName) {
     .attr("height", height);
 
   d3.csv("networkData/"+stateName+"_linkage.csv", function(data){
+    
+    // Put csv data into variable 'links'
     links = data;
+
     var nodesByName = {};
+
     // Create nodes for each unique source and target.
     links.forEach(function(link) {
       link.source = nodeByName(link.source, link.cluster, link.srcpop);
@@ -197,25 +201,12 @@ function dispData(stateName) {
         .attr("markerWidth", function(d){return 6})
         .attr("markerHeight", function(d){return 6})
         .attr("opacity", 0.3)
-        .append("svg:path")
+        .append("svg:link")
         .attr("d", "M0,-5L10,0L0,5");
 
     // Create the link lines.
-    path = svg.selectAll("path")
+    link = svg.selectAll("link")
       .data(links)
-      
-    // path.enter().append("svg:path")
-      // .attr("class","link")
-    //   .attr("id",function(d){return d.source.name+d.target.name})
-      // .attr("marker-end","url(#end)")
-      // .attr("stroke-width",function(d) {
-      //  if(d.pct > 0){
-      //    return 1.5
-      //  } else {
-      //    return 0
-      //  }});
-
-    // path.exit().remove();
 
     // Create the node circles.
     var node = svg.selectAll("node")
@@ -231,6 +222,7 @@ function dispData(stateName) {
 
     node.exit().remove();
 
+    // Create the text labels
     var text = svg.selectAll("text")
       .data(nodes)
       
@@ -259,55 +251,14 @@ function dispData(stateName) {
     updateLinks();
     updateForce();
 
-    var update = function() {
-        // Create the link lines.
-      var svg = d3.select("svg");
-      var link = svg.selectAll("path")
-        .data(links);
-      
-      link.enter().append("path")
-        .attr("class","link")
-        .attr("id",function(d){return d.source.name+d.target.name})
-        .attr("marker-end","url(#end)")
-        .attr("stroke-width",function(d) {
-          if(d.pct > 0){
-            return 1.5
-          } else {
-            return 0
-          }});
-
-      link.exit().remove();
-
-      force.links(links)
-        .on("tick",tick)
-        .start();
-    }
-
-    function tick() {
-      path.attr("d", linkArc)
-      svg.selectAll(".node").attr("transform", transform)
-      svg.selectAll("text").attr("transform", transform)
-    }
-
     function nodeByName(name, cluster, pop){
       return nodesByName[name] || (nodesByName[name] = {name: name, cluster: cluster, pop:pop});
     }
-    function transform(d) {
-        return "translate(" + d.x + "," + d.y + ")";
-    }
-    function linkArc(d) {
-      if(d.target == d.source){
-        
-      }
-        var dx = d.target.x - d.source.x,
-          dy = d.target.y - d.source.y,
-          dr = Math.sqrt(dx * dx + dy * dy);
-        return "M" + d.source.x + "," + d.source.y + "A" + dr + "," + dr + " 0 0,1 " + (d.target.x+0.01*Math.sqrt(d.target.pop)) + "," + d.target.y;
-    }
+
   });
 }
 
-
+// Define function that updates the links
 function updateLinks() {
     
     var last_index = document.getElementById("linkSlider").value;
@@ -326,6 +277,7 @@ function updateLinks() {
     update(last_index);
 }
 
+// Update the entire force layout given input from linkSlider
 var update = function(last) {
       // Create the link lines.
     svg = d3.select("svg");
@@ -353,6 +305,7 @@ var update = function(last) {
 
     link.exit().remove();
 
+    // Update the coloring of the nodes to reflect cluster membership
     clusters_list = []
     curr_links.forEach(function(curr_link) {
       var tarNode;
